@@ -1,0 +1,6609 @@
+{
+  "meta": {
+    "total_unique_artists": 671,
+    "total_albums": 1342,
+    "compilation_albums": 81,
+    "unknown_artist_albums": 27,
+    "tagged_artists": 104,
+    "untagged_artists": 577,
+    "cruft_removed": [
+      {
+        "folder": "Ringtone Heaven",
+        "contents": [
+          "Ringtone Gold Mine - 100 Rare and Origin"
+        ]
+      },
+      {
+        "folder": "Ringtones",
+        "contents": [
+          "16 Car Crash - Ringtone Sound.m4r"
+        ]
+      },
+      {
+        "folder": "Podcasts",
+        "contents": [
+          "This American Life"
+        ]
+      },
+      {
+        "folder": "playlists",
+        "contents": [
+          "new.m3u"
+        ]
+      },
+      {
+        "folder": "Henry Rollins 6-3-10 Sacramento Crest Theater",
+        "contents": [
+          "Torrent downloaded from Demonoid.com.txt"
+        ]
+      },
+      {
+        "folder": "TheBeatles-AbbeyRoad-2009StereoRemaster",
+        "contents": [
+          "entropy"
+        ]
+      },
+      {
+        "folder": "Unknown albumPrimaryArtist",
+        "contents": [
+          "You Are All Diseased [Explicit]"
+        ]
+      },
+      {
+        "folder": "Soundtrack_cast Album",
+        "contents": [
+          "Coraline"
+        ]
+      },
+      {
+        "folder": "Jaydiohead - Jay-Z x Radiohead",
+        "contents": [
+          "jaydiohead_insert.txt"
+        ]
+      },
+      {
+        "folder": "Mos Dub - produced by Max Tannone",
+        "contents": [
+          "mos_dub_tracklist_credits.txt"
+        ]
+      },
+      {
+        "folder": "Patton Oswalt - Zombie Spaceship Wasteland [audiobook]",
+        "contents": [
+          "Torrent downloaded from Demonoid.me.txt"
+        ]
+      }
+    ],
+    "triage_summary": {
+      "active_artists": 556,
+      "discarded_artists": 112,
+      "discarded_compilations": 18,
+      "cruft_folders_removed": 11,
+      "total_discard_rate_pct": 16.8,
+      "rounds_run": 13
+    },
+    "notes_for_future": [
+      "ANCHOR GAP: Chris named David Byrne as foundational anchor, but the collection only contains Byrne via Eno collaborations. No solo Byrne, no Talking Heads albums. Probably means most of his Byrne consumption is non-MP3 (vinyl, streaming, memory) — or the MP3 collection is genuinely thin on that anchor. Worth surfacing later.",
+      "ANCHOR CONFIRMED: Foundational anchors per Chris's explicit declaration: Johnny Cash, John Zorn, Tom Waits, David Byrne."
+    ]
+  },
+  "artists": {
+    "10,000 Maniacs": {
+      "albums": [
+        "Blind Man's Zoo",
+        "In My Tribe"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "college-rock"
+      ],
+      "era": "1981-now",
+      "genre": "folk rock",
+      "tagged": true
+    },
+    "16 Horsepower": {
+      "albums": [
+        "blush_music",
+        "consider_the_birds",
+        "folklore",
+        "hoarse",
+        "sackcloth_'n'_ashes",
+        "secret_south"
+      ],
+      "album_count": 6,
+      "scenes": [
+        "gothic-americana"
+      ],
+      "era": "1992-2005",
+      "genre": "gothic americana",
+      "tagged": true
+    },
+    "A Perfect Circle": {
+      "albums": [
+        "emotive",
+        "Mer de Noms",
+        "Thirteenth Step"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "A Six Degrees Collection": {
+      "albums": [
+        "Asian Massive"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "A Tribe Called Quest": {
+      "albums": [
+        "Scenario (CD Single)"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "native-tongues"
+      ],
+      "era": "1990s",
+      "genre": "jazz rap / hip-hop",
+      "tagged": true
+    },
+    "AC-DC": {
+      "albums": [
+        "The Complete Collection"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "hard-rock"
+      ],
+      "era": "1973-now",
+      "genre": "hard rock",
+      "tagged": true
+    },
+    "Aaron Goldberg": {
+      "albums": [
+        "Worlds"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "contemporary-jazz"
+      ],
+      "era": "1990s-now",
+      "genre": "jazz piano",
+      "tagged": true
+    },
+    "Aceyalone": {
+      "albums": [
+        "Accepted Eclectic",
+        "Hip Hop and the World We Live In",
+        "Love & Hate",
+        "Magnificent City"
+      ],
+      "album_count": 4,
+      "scenes": [
+        "project-blowed",
+        "underground-hiphop"
+      ],
+      "era": "1990s-now",
+      "genre": "underground hip-hop",
+      "tagged": true
+    },
+    "Adele - [2011] 21 (Limited Edition)": {
+      "albums": [
+        "Info.txt",
+        "Torrent downloaded from Demonoid.me.txt"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "pop"
+      ],
+      "era": "2011",
+      "genre": "pop / soul",
+      "tagged": true,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 1)"
+    },
+    "Aesop Rock": {
+      "albums": [
+        "Bazooka Tooth Disc 1",
+        "Bazooka Tooth Disc 2",
+        "Float",
+        "Labor Days",
+        "None Shall Pass"
+      ],
+      "album_count": 5,
+      "scenes": [
+        "defjux",
+        "underground-hiphop"
+      ],
+      "era": "1999-now",
+      "genre": "underground hip-hop",
+      "tagged": true
+    },
+    "Afroman": {
+      "albums": [
+        "The Good Times"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "novelty-hiphop"
+      ],
+      "era": "2001",
+      "genre": "hip-hop / novelty",
+      "tagged": true,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 1)"
+    },
+    "Air": {
+      "albums": [
+        "Love 2"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "french-electronic",
+        "downtempo"
+      ],
+      "era": "1995-now",
+      "genre": "electronic / downtempo",
+      "tagged": true
+    },
+    "Aisha Duo": {
+      "albums": [
+        "Quiet Songs"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "contemporary-jazz"
+      ],
+      "era": "2000s",
+      "genre": "jazz piano duo",
+      "tagged": true
+    },
+    "Al Green": {
+      "albums": [
+        "Al Green's Greatest Hits"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "soul-canon",
+        "memphis-soul"
+      ],
+      "era": "1967-now",
+      "genre": "soul",
+      "tagged": true
+    },
+    "Al Jarreau & Lou Rawls": {
+      "albums": [
+        "Soul Men"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "vocal-jazz",
+        "soul"
+      ],
+      "era": "1990s",
+      "genre": "vocal jazz / soul",
+      "tagged": true
+    },
+    "Al Martino": {
+      "albums": [
+        "I Love You Because_My Cherie",
+        "The Very Best Of Al Martino"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "traditional-pop"
+      ],
+      "era": "1950s-1990s",
+      "genre": "traditional pop",
+      "tagged": true
+    },
+    "Alabama Shakes": {
+      "albums": [
+        "Boys & Girls",
+        "Sound & Color"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "retro-soul"
+      ],
+      "era": "2009-now",
+      "genre": "soul / blues rock",
+      "tagged": true
+    },
+    "Alejandro Fernandez": {
+      "albums": [
+        "Muy Dentro de Mi Corazon"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "mexican-pop"
+      ],
+      "era": "1990s-now",
+      "genre": "ranchera / latin pop",
+      "tagged": true,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 13 — Latin sweep)"
+    },
+    "Alejandro Sanz": {
+      "albums": [
+        "Más"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "spanish-pop"
+      ],
+      "era": "1991-now",
+      "genre": "spanish pop",
+      "tagged": true,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 13 — Latin sweep)"
+    },
+    "Alison Brown": {
+      "albums": [
+        "Fair Weather"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "progressive-bluegrass",
+        "bluegrass"
+      ],
+      "era": "1990s-now",
+      "genre": "progressive bluegrass",
+      "tagged": true
+    },
+    "Alison Krauss & Union Station": {
+      "albums": [
+        "New Favorite"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "bluegrass"
+      ],
+      "era": "1989-now",
+      "genre": "bluegrass",
+      "tagged": true
+    },
+    "Amy Winehouse": {
+      "albums": [
+        "Back To Black [Explicit]"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "retro-soul",
+        "british-soul"
+      ],
+      "era": "2003-2011",
+      "genre": "retro soul"
+    },
+    "Andrea Bocelli": {
+      "albums": [
+        "Romanza"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 2)"
+    },
+    "Andrew Bird": {
+      "albums": [
+        "Andrew Bird & the Mysterious Production",
+        "Andrew Bird & the Mysterious Production of Eggs",
+        "Armchair Apocrypha",
+        "Break It Yourself",
+        "Daytrotter Session - 10_29_2007",
+        "Fitz and the dizzyspells (EP)",
+        "Hands of Glory",
+        "Music of Hair",
+        "Noble Beast"
+      ],
+      "album_count": 9,
+      "scenes": [
+        "indie-folk",
+        "art-pop"
+      ],
+      "era": "1996-now",
+      "genre": "indie folk / chamber pop",
+      "tagged": true
+    },
+    "Andrew Bird's Bowl Of Fire": {
+      "albums": [
+        "Weather Systems",
+        "Oh! The Grandeur",
+        "The Swimming Hour"
+      ],
+      "album_count": 3,
+      "scenes": [
+        "indie-folk",
+        "swing-revival"
+      ],
+      "era": "1998-2003",
+      "genre": "swing / indie folk",
+      "tagged": true
+    },
+    "Anger_Marshall Band": {
+      "albums": [
+        "Brand New Can"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "newgrass"
+      ],
+      "note": "Darol Anger + Mike Marshall newgrass collab"
+    },
+    "Animal Collective": {
+      "albums": [
+        "Merriweather Post Pavilion"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 8)"
+    },
+    "Annie Lennox": {
+      "albums": [
+        "Bare",
+        "Medusa"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Anonymous 4": {
+      "albums": [
+        "Gloryland"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Anthony David": {
+      "albums": [
+        "Sweet Pain"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 6)"
+    },
+    "Anticon": {
+      "albums": [
+        "we_ain't_fessin'_(double_quotes)"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "anticon",
+        "underground-hiphop"
+      ],
+      "era": "1998-2010s",
+      "genre": "collective/label",
+      "tagged": true
+    },
+    "Antipop Consortium": {
+      "albums": [
+        "Antipop vs. Matthew Shipp",
+        "arrhythmia"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Aníbal Troilo": {
+      "albums": [
+        "Inspiracion-Espiracion Remix Disc 1"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 13 — Latin sweep)"
+    },
+    "Arcade Fire": {
+      "albums": [
+        "Funeral",
+        "Neon Bible"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Arcadi Volodos": {
+      "albums": [
+        "Piano Transcriptions"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Aretha Franklin": {
+      "albums": [
+        "Jazz To Soul"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "soul-canon"
+      ],
+      "era": "1960s-2000s",
+      "genre": "soul",
+      "note": "sole comp acceptable for canonical soul figure"
+    },
+    "Arkestra One": {
+      "albums": [
+        "Arkestra One"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Astor Piazzolla": {
+      "albums": [
+        "Inspiracion-Espiracion Remix Disc 1"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 13 — Latin sweep)"
+    },
+    "At The Drive-In": {
+      "albums": [
+        "Relationship Of Command"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Atmosphere": {
+      "albums": [
+        "God Loves Ugly",
+        "When Life Gives You Lemons, You Paint Th",
+        "When Life Gives You Lemons, You Paint That Shit Gold"
+      ],
+      "album_count": 3,
+      "scenes": [
+        "rhymesayers",
+        "underground-hiphop"
+      ],
+      "era": "1997-now",
+      "genre": "underground hip-hop",
+      "tagged": true
+    },
+    "Audioslave": {
+      "albums": [
+        "Audioslave"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 6)"
+    },
+    "Bahamadia": {
+      "albums": [
+        "BB Queen"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Band of Horses": {
+      "albums": [
+        "Cease to Begin",
+        "Everything All the Time"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Bar Kokhba Sextet": {
+      "albums": [
+        "50th Birthday Celebration, Vol. 11 Disc",
+        "50th Birthday Celebration, Vol. 11 Disc 1",
+        "50th Birthday Celebration, Vol. 11 Disc 2",
+        "50th Birthday Celebration, Vol. 11 Disc 3"
+      ],
+      "album_count": 4,
+      "tagged": false
+    },
+    "Basehead": {
+      "albums": [
+        "Play With Toys"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Basement Jaxx": {
+      "albums": [
+        "Good Luck"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 11)"
+    },
+    "Baths": {
+      "albums": [
+        "Cerulean"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Beat Circus": {
+      "albums": [
+        "Boy from Black Mountain"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Beat Junkies": {
+      "albums": [
+        "The World Famous Beat Junkies, Vol. 3"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Beck": {
+      "albums": [
+        "Dreams [Explicit]"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 8)"
+    },
+    "Beirut": {
+      "albums": [
+        "Gulag Orkestar"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "balkan-folk",
+        "indie-folk"
+      ],
+      "note": "lane confirmed by Chris (\"Balkan and klezmer\")"
+    },
+    "Believe Sessions": {
+      "albums": [
+        "Believe Digital Sessions - World Music vol1 (Balkan Mood)"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 5)"
+    },
+    "Belly": {
+      "albums": [
+        "King"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 7)"
+    },
+    "Beth Orton": {
+      "albums": [
+        "Central Reservation",
+        "Comfort of Strangers",
+        "Conceived - EP",
+        "Daybreaker",
+        "Heart of Soul - Single",
+        "Pass in Time - The Definitive Collection",
+        "The Other Side of Daybreak",
+        "Trailer Park"
+      ],
+      "album_count": 8,
+      "scenes": [
+        "indie-folk",
+        "folktronica"
+      ],
+      "era": "1996-now",
+      "genre": "folktronica",
+      "tagged": true
+    },
+    "Big Al Carson and the Blues Masters": {
+      "albums": [
+        "FUNKY PIRATE",
+        "Live at the Funky Pirate Vol 2"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Bill Frisell": {
+      "albums": [
+        "Amazon MP3",
+        "Nashville"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Bill Hicks": {
+      "albums": [
+        "Rant in E-Minor",
+        "Relentless"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Bill Withers": {
+      "albums": [
+        "Lean on Me_ The Best of Bill",
+        "Lean on Me_ The Best of Bill Withers"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Billy Bragg": {
+      "albums": [
+        "Back to Basics",
+        "Mr. Love & Justice",
+        "Must I Paint You a Picture_ - The Essent",
+        "Must I Paint You a Picture_ The Essentia",
+        "Must I Paint You a Picture_ - The Essential Billy Bragg",
+        "Unknown Album",
+        "Workers Playtime"
+      ],
+      "album_count": 7,
+      "tagged": false
+    },
+    "Billy Bragg & Wilco - Mermaid avenue (Vol 1 & 2)": {
+      "albums": [
+        "Bragg, Billy & Wilco - Mermaid avenue",
+        "Bragg, Billy & Wilco - Mermaid avenue Vol. 2"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Billy Preston": {
+      "albums": [
+        "Ultimate Collection Billy Preston"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Binary Star": {
+      "albums": [
+        "Binary Star EP 2013",
+        "Masters of the Universe"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Biréli Lagrène": {
+      "albums": [
+        "Gipsy Project & Friends"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Blackalicious": {
+      "albums": [
+        "Nia"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Blitzen Trapper": {
+      "albums": [
+        "Furr"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 7b)"
+    },
+    "Blockhead": {
+      "albums": [
+        "Music By Cavelight",
+        "The Music Scene"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "ninja-tune",
+        "instrumental-hiphop",
+        "aesop-orbit"
+      ],
+      "era": "2004-now",
+      "genre": "instrumental hip-hop",
+      "tagged": true
+    },
+    "Blue Merle": {
+      "albums": [
+        "Burning in the Sun"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Blue Öyster Cult": {
+      "albums": [
+        "Imaginos"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 11)"
+    },
+    "Blueground Undergrass": {
+      "albums": [
+        "Live at the Variety Playhouse 7.10.99"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Boards Of Canada": {
+      "albums": [
+        "Music Has The Right To Children",
+        "Tomorrows Harvest"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Bob Dylan": {
+      "albums": [
+        "John Wesley Harding [Remastered]",
+        "Nashville Skyline",
+        "Things Have Changed - Live & Unreleased"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Bob Marley & the Wailers": {
+      "albums": [
+        "Legend [Bonus Tracks]"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 5)"
+    },
+    "Bob Mould": {
+      "albums": [
+        "Life And Times",
+        "Silver Age"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Boney James": {
+      "albums": [
+        "Seduction"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 2)"
+    },
+    "Bonnie Raitt": {
+      "albums": [
+        "Souls Alike"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 7b)"
+    },
+    "Bonobo": {
+      "albums": [
+        "Black Sands"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Boom Bip": {
+      "albums": [
+        "Seed To Sun"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Brazilian Girls": {
+      "albums": [
+        "Brazilian Girls"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Brian EnoDavid Byrne": {
+      "albums": [
+        "My Life in the Bush of Ghosts"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "anchor": true,
+      "anchor_note": "Foundational anchor — David Byrne / Talking Heads / Eno collaborations"
+    },
+    "Broken Bells": {
+      "albums": [
+        "Broken Bells [+Video]"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Brooklyn Funk Essentials": {
+      "albums": [
+        "Make 'em Like It [Explicit]"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Bruce Springsteen": {
+      "albums": [
+        "We Shall Overcome The Seeger Sessions"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Bruce Springsteen with the Sessions Band": {
+      "albums": [
+        "Live In Dublin"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Bryan Ferry": {
+      "albums": [
+        "Street Life_ 20 Greatest Hits"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 2)"
+    },
+    "Bucky Covington & Shooter Jenn": {
+      "albums": [
+        "Drinking Side of Country - Sin"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Built to Spill": {
+      "albums": [
+        "Ancient Melodies Of The Future",
+        "Keep It Like a Secret",
+        "Perfect From Now On",
+        "There Is No Enemy",
+        "You In Reverse"
+      ],
+      "album_count": 5,
+      "tagged": false
+    },
+    "Béla Fleck": {
+      "albums": [
+        "Drive",
+        "Natural Bridge",
+        "Perpetual Motion",
+        "Places",
+        "Tales From the Acoustic Planet",
+        "The Bluegrass Sessions_ Tales from the A",
+        "The Bluegrass Sessions- Tales from the Acoustic Planet, Vol. 2"
+      ],
+      "album_count": 7,
+      "tagged": false
+    },
+    "Béla Fleck & the Flecktones": {
+      "albums": [
+        "Flight of the Cosmic Hippo",
+        "Left of Cool",
+        "Live Art Disc 1",
+        "Live Art Disc 2",
+        "Outbound"
+      ],
+      "album_count": 5,
+      "tagged": false
+    },
+    "Cake": {
+      "albums": [
+        "Fashion Nugget",
+        "Pressure Chief",
+        "Prolonging the Magic"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Canibus": {
+      "albums": [
+        "Rip the Jacker"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Cannibal Ox": {
+      "albums": [
+        "The Cold Vein"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "defjux",
+        "underground-hiphop"
+      ],
+      "era": "2001",
+      "genre": "underground hip-hop",
+      "tagged": true
+    },
+    "Carlos Vives": {
+      "albums": [
+        "El Amor de Mi Tierra"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Carly Simon": {
+      "albums": [
+        "The Best of Carly Simon"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 2)"
+    },
+    "Cat Power": {
+      "albums": [
+        "Moon Pix",
+        "Sun",
+        "The Covers Record",
+        "What Would The Community Think",
+        "You Are Free"
+      ],
+      "album_count": 5,
+      "tagged": false
+    },
+    "Cerioti": {
+      "albums": [
+        "Inspiracion-Espiracion Remix Disc 1"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 13 — Latin sweep)"
+    },
+    "Charlie Hunter Quartet": {
+      "albums": [
+        "Songs from the Analog Playground"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Charlie Hunter Quintet": {
+      "albums": [
+        "Right Now Move"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Chet Baker_Gotan Project": {
+      "albums": [
+        "Inspiracion-Espiracion Remix Disc 1"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 13 — Latin sweep)"
+    },
+    "Chichi Peralta Y Son Familia": {
+      "albums": [
+        "Pa' Otro La'O"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 10)"
+    },
+    "Chris Botti": {
+      "albums": [
+        "December"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 2)"
+    },
+    "Chris Stapleton": {
+      "albums": [
+        "Traveller"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Chucklehead": {
+      "albums": [
+        "Big Wet Kiss"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Clap Your Hands Say Yeah": {
+      "albums": [
+        "Clap Your Hands Say Yeah"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 7)"
+    },
+    "Claude Bolling": {
+      "albums": [
+        "Suite for Cello and Jazz Piano Trio"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Clutch": {
+      "albums": [
+        "Blast Tyrant",
+        "Blast Tyrant (Deluxe Edition)",
+        "clutch",
+        "Clutch - Live in Flint Michigan 320kbps",
+        "Earth Rocker",
+        "From Beale Street To Oblivion",
+        "Live at the Googolplex",
+        "Pitchfork & Lost Needles",
+        "Psychic Warfare",
+        "Pure Rock Fury (US Version)",
+        "Robot Hive_Exodus",
+        "Slow Hole To China, Rare & Rereleased",
+        "Strange Cousins From The West",
+        "The Elephant Riders"
+      ],
+      "album_count": 14,
+      "scenes": [
+        "stoner-rock"
+      ],
+      "era": "1991-now",
+      "genre": "stoner rock",
+      "tagged": true
+    },
+    "Coldcut": {
+      "albums": [
+        "Journeys By DJ- 70 Minutes of Madness"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 12)"
+    },
+    "Coldcut_DJ Food Fight_DJ Krush": {
+      "albums": [
+        "Cold Krush Cuts_Back in the Base Disc 1",
+        "Cold Krush Cuts_Back in the Base Disc 2"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "ninja-tune",
+        "instrumental-hiphop"
+      ],
+      "era": "1990s",
+      "genre": "instrumental hip-hop / electronic",
+      "tagged": true
+    },
+    "Coldplay": {
+      "albums": [
+        "A Rush Of Blood To The Head",
+        "Parachutes",
+        "Violet Hill - Single",
+        "Viva La Vida Or Death And All His Friend",
+        "Viva La Vida Or Death And All His Friends",
+        "X&Y"
+      ],
+      "album_count": 6,
+      "tagged": false
+    },
+    "Common": {
+      "albums": [
+        "Resurrection"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Company Flow": {
+      "albums": [
+        "Funcrusher Plus"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Compilations": {
+      "albums": [
+        "Den of Thieves - The Sound of Eighteenth",
+        "ESL Remixed",
+        "Leonard Cohen_ I'm Your Man (Motion Pict",
+        "Re-Bop_ The Savoy Remixes",
+        "Verve Remixed 2"
+      ],
+      "album_count": 5,
+      "tagged": false
+    },
+    "Corinne Bailey Rae": {
+      "albums": [
+        "Corinne Bailey Rae"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Cracow Klezmer Band": {
+      "albums": [
+        "Masada Book II - The Book Of Angels - Vo"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Creedence Clearwater Revival": {
+      "albums": [
+        "Chronicle_ 20 Greatest Hits"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Crooked Still": {
+      "albums": [
+        "Hop High",
+        "Still Crooked"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Curtis Mayfield": {
+      "albums": [
+        "Curtis!",
+        "Curtis Live!",
+        "Superfly",
+        "Unknown Album"
+      ],
+      "album_count": 4,
+      "tagged": false
+    },
+    "Curtis Mayfield & The Impressions": {
+      "albums": [
+        "The Anthology 1961-1977"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Curtis Stigers": {
+      "albums": [
+        "I Wonder Why"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Cut Chemist": {
+      "albums": [
+        "Live at the Variety Arts Center, 1997"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Cut Chemist & DJ Shadow": {
+      "albums": [
+        "Brainfreeze",
+        "Product Placement"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "turntablism"
+      ],
+      "era": "2000s",
+      "genre": "turntablism",
+      "tagged": true
+    },
+    "Cut Chemist & Nu-Mark": {
+      "albums": [
+        "Live at the Variety Arts Center, 1997"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Cut Chemist_Shortkut": {
+      "albums": [
+        "Live at Future Primitive Sound Session"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Cygorhex": {
+      "albums": [
+        "the End of Days"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "DJ Harry": {
+      "albums": [
+        "Aquarium Man",
+        "Collision"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "jam-electronic"
+      ],
+      "era": "2000s",
+      "genre": "jam electronic",
+      "tagged": true
+    },
+    "DJ Krush": {
+      "albums": [
+        "Code 4109",
+        "Jaku",
+        "Kakusei",
+        "Krush",
+        "Meiso",
+        "Milight",
+        "The Message at the Depth",
+        "Zen"
+      ],
+      "album_count": 8,
+      "scenes": [
+        "mo-wax",
+        "instrumental-hiphop"
+      ],
+      "era": "1990s-now",
+      "genre": "instrumental hip-hop / turntablism",
+      "tagged": true
+    },
+    "DJ Logic": {
+      "albums": [
+        "The Anomaly"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "turntablism",
+        "jazz-electronic"
+      ],
+      "era": "1990s-now",
+      "genre": "turntablism / jazz",
+      "tagged": true
+    },
+    "DJ Ravin": {
+      "albums": [
+        "Huvafen Fushi Maldives_ Mixed by Ravin [",
+        "Huvafen Fushi Maldives- Mixed by Ravin [Bonus DVD] Disc 1"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "buddha-bar",
+        "world-electronic"
+      ],
+      "era": "2000s",
+      "genre": "world electronic",
+      "tagged": true
+    },
+    "DJ Shadow": {
+      "albums": [
+        "Endtroducing",
+        "The Outsider",
+        "The Private Press [Special Package] Disc",
+        "The Private Press [Special Package] Disc 1"
+      ],
+      "album_count": 4,
+      "scenes": [
+        "mo-wax",
+        "instrumental-hiphop"
+      ],
+      "era": "1996-now",
+      "genre": "instrumental hip-hop / turntablism",
+      "tagged": true
+    },
+    "DJ Spooky": {
+      "albums": [
+        "Necropolis- The Dialogic Project",
+        "Optometry"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "illbient",
+        "experimental-electronic"
+      ],
+      "era": "1996-now",
+      "genre": "illbient / turntablism",
+      "tagged": true
+    },
+    "DJ Z-Trip & Radar": {
+      "albums": [
+        "Live at the Future Primitive Soundsessio",
+        "Live at the Future Primitive Soundsession, Vol. 2"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "turntablism"
+      ],
+      "era": "2000s",
+      "genre": "turntablism",
+      "tagged": true
+    },
+    "DMX": {
+      "albums": [
+        "DJ Envy - MVP (All-American)"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Daft Punk": {
+      "albums": [
+        "Discovery",
+        "Homework",
+        "Random Access Memories"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Damien Rice": {
+      "albums": [
+        "O"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "indie-folk"
+      ],
+      "era": "2002-now",
+      "genre": "indie folk"
+    },
+    "Dan the Automator": {
+      "albums": [
+        "Wanna Buy a Monkey-- A Mixtape Session"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Dane Cook": {
+      "albums": [
+        "Retaliation Disc 1",
+        "Retaliation Disc 2"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Dangelo": {
+      "albums": [
+        "Rock and Roll Hall of Fame"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Danger Mouse & Daniele Luppi": {
+      "albums": [
+        "Rome"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Daniel Kahn & the Painted Bird": {
+      "albums": [
+        "Bad Old Songs",
+        "Lost Causes"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Dark Was The Night - Various": {
+      "albums": [
+        "CD1",
+        "CD2",
+        "www.torrent-technics.nfo"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Das EFX": {
+      "albums": [
+        "Dead Serious"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Dave Matthews Band": {
+      "albums": [
+        "Under The Table And Dreaming"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "David Byrne": {
+      "albums": [
+        "Feelings",
+        "Look Into The Eyeball"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "David Byrne & Brian Eno": {
+      "albums": [
+        "Everything That Happens Will Happen Today"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "anchor": true,
+      "anchor_note": "Foundational anchor — David Byrne / Talking Heads / Eno collaborations"
+    },
+    "David Byrne and Brian Eno": {
+      "albums": [
+        "Everything That Happens Will Happen Toda"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "anchor": true,
+      "anchor_note": "Foundational anchor — David Byrne / Talking Heads / Eno collaborations"
+    },
+    "David Cross": {
+      "albums": [
+        "It's Not Funny",
+        "Shut Up, You Fucking Baby! Disc 1",
+        "Shut Up, You Fucking Baby! Disc 2"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "David Gray": {
+      "albums": [
+        "A Century Ends",
+        "Draw the Line",
+        "Life In Slow Motion",
+        "White Ladder"
+      ],
+      "album_count": 4,
+      "tagged": false
+    },
+    "David Grisman": {
+      "albums": [
+        "Tone Poems"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "bluegrass",
+        "newgrass"
+      ]
+    },
+    "David Grisman Quintet": {
+      "albums": [
+        "1"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "bluegrass",
+        "newgrass"
+      ]
+    },
+    "David Sedaris - Squirrel Seeks Chipmunk": {
+      "albums": [
+        "David Sedaris - Squirrel Seeks Chipmunk.epub",
+        "Torrent_downloaded_from_Demonoid.com.txt"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "De La Soul": {
+      "albums": [
+        "3 Feet High and Rising",
+        "De La Soul Is Dead"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "native-tongues"
+      ],
+      "era": "1989-now",
+      "genre": "hip-hop",
+      "tagged": true
+    },
+    "DeVotchKa": {
+      "albums": [
+        "[2008] A Mad & Faithful Telling",
+        "Curse Your Little Heart EP",
+        "How It Ends",
+        "Unknown Album"
+      ],
+      "album_count": 4,
+      "tagged": false
+    },
+    "Death Cab for Cutie": {
+      "albums": [
+        "Plans",
+        "The Photo Album",
+        "We Laugh Indoors",
+        "You Can Play These Songs With Chords"
+      ],
+      "album_count": 4,
+      "tagged": false
+    },
+    "Death From Above 1979": {
+      "albums": [
+        "Heads Up!",
+        "Romance Bloody Romance - Remixes & B-Sides",
+        "Romantic Rights",
+        "The Physical World [+digital booklet]",
+        "Torrent downloaded from Demonoid.com.txt",
+        "You're A Woman, I'm A Machine"
+      ],
+      "album_count": 6,
+      "tagged": false
+    },
+    "Deep Puddle Dynamics_Anticon": {
+      "albums": [
+        "We Ain't Fessin'"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "anticon",
+        "underground-hiphop"
+      ],
+      "era": "1999",
+      "genre": "experimental hip-hop",
+      "tagged": true
+    },
+    "Deftones": {
+      "albums": [
+        "2010 - Diamond Eyes",
+        "Around The Fur [Explicit]",
+        "Deftones",
+        "Koi No Yokan [Explicit]",
+        "Saturday Night Wrist",
+        "White Pony [Added Track]"
+      ],
+      "album_count": 6,
+      "tagged": false
+    },
+    "Del McCoury": {
+      "albums": [
+        "Family"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "bluegrass"
+      ]
+    },
+    "Deltron 3030": {
+      "albums": [
+        "Deltron 3030"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Deuter": {
+      "albums": [
+        "Reiki- Hands of Light"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Diana Krall": {
+      "albums": [
+        "All for You",
+        "When I Look in Your Eyes"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Dido": {
+      "albums": [
+        "No Angel"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 3)"
+    },
+    "Dilated Peoples": {
+      "albums": [
+        "Expansion Team",
+        "The Platform"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Dire Straits & Mark Knopfler": {
+      "albums": [
+        "The Best Of - Private Investigations"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Diverse": {
+      "albums": [
+        "One A.M. [Bonus Track]"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Divine Fits": {
+      "albums": [
+        "A Thing Called Divine Fits"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 11)"
+    },
+    "Django Django": {
+      "albums": [
+        "Django Django"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 11)"
+    },
+    "Django Reinhardt": {
+      "albums": [
+        "The Ultimate Collection"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Domingo Cura": {
+      "albums": [
+        "Inspiracion-Espiracion Remix Disc 1"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 13 — Latin sweep)"
+    },
+    "Doves": {
+      "albums": [
+        "Lost Souls",
+        "Some Cities"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Dr. Octagon": {
+      "albums": [
+        "Dr. Octagonecologyst"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Dresden Dolls": {
+      "albums": [
+        "Dresden Dolls"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Dropkick Murphys": {
+      "albums": [
+        "Sing Loud, Sing Proud",
+        "The Meanest of Times Limited Edition"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Dub Kweli - produced by Max Tannone": {
+      "albums": [
+        "Dub Kweli - tracklist and information.txt"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "mashup"
+      ],
+      "era": "2010s",
+      "genre": "mashup",
+      "tagged": true
+    },
+    "Dzihan & Kamien Orchestra": {
+      "albums": [
+        "Live in Vienna"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Dälek": {
+      "albums": [
+        "Negro Necro Nekros"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "EPMD": {
+      "albums": [
+        "Business Never Personal"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Eagles": {
+      "albums": [
+        "Eagles Greatest Hits, Vol. 2"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 3)"
+    },
+    "Edgar Meyer_Béla Fleck_Mike Marshall": {
+      "albums": [
+        "Uncommon Ritual"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Edie Brickell & New Bohemians": {
+      "albums": [
+        "Shooting Rubberbands at the Stars"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Edith Piaf": {
+      "albums": [
+        "La vie en rose"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Eisley": {
+      "albums": [
+        "Room Noises"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 7)"
+    },
+    "El-P": {
+      "albums": [
+        "Fantastic Damage",
+        "I'll Sleep When You're Dead"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "defjux",
+        "underground-hiphop"
+      ],
+      "era": "1995-now",
+      "genre": "underground hip-hop",
+      "tagged": true
+    },
+    "El-P & Cannibal Ox": {
+      "albums": [
+        "El-P Presents Cannibal Oxtrumentals"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "defjux",
+        "underground-hiphop"
+      ],
+      "era": "2001",
+      "genre": "underground hip-hop",
+      "tagged": true
+    },
+    "Electric Masada": {
+      "albums": [
+        "50th Birthday Celebration, Vol. 4"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Ella Fitzgerald": {
+      "albums": [
+        "Ella in Rome- The Birthday Concert",
+        "Oh, Lady, Be Good! Best of the Gershwin",
+        "Oh, Lady, Be Good! Best of the Gershwin Songbook",
+        "Quiet Now- Ella's Moods",
+        "Sings the Jerome Kern Song Book [Origina",
+        "Sings the Jerome Kern Song Book [Original CD]",
+        "Something to Live For Disc 1",
+        "Something to Live For Disc 2",
+        "The Best of the Songbooks- The Ballads"
+      ],
+      "album_count": 9,
+      "scenes": [
+        "jazz-canon",
+        "vocal-jazz"
+      ],
+      "era": "1934-1996",
+      "genre": "vocal jazz",
+      "tagged": true
+    },
+    "Ella Fitzgerald_Louis Armstrong": {
+      "albums": [
+        "The Early Years"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Emancipator": {
+      "albums": [
+        "Dusk to Dawn",
+        "safe in the steep cliffs"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Emile Pandolfi": {
+      "albums": [
+        "An Affair to Remember"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 4)"
+    },
+    "Emily Haines": {
+      "albums": [
+        "Cut In Half And Also Double"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Emily Haines & The Soft Skeleton": {
+      "albums": [
+        "Knives Don't Have Your Back"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Eminem": {
+      "albums": [
+        "The Eminem Show",
+        "The Marshall Mathers LP"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Emmylou Harris": {
+      "albums": [
+        "Emmylou Harris and the Nash Ra",
+        "Spyboy",
+        "Wrecking Ball"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Enigma": {
+      "albums": [
+        "MCMXC A.D"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Erasure": {
+      "albums": [
+        "Breath of Life"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 11)"
+    },
+    "Eric B & Rakim": {
+      "albums": [
+        "Follow the Leader"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Eric Clapton And Steve Winwood": {
+      "albums": [
+        "Live From Madison Square Garde"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "blues-rock",
+        "guitar-god"
+      ],
+      "era": "2008",
+      "genre": "blues rock",
+      "note": "confirmed authentic by Chris — blues-rock guitar appreciation"
+    },
+    "Eric Daub": {
+      "albums": [
+        "Pianoforte 4- Love Songs"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 4)"
+    },
+    "Esbjörn Svensson Trio": {
+      "albums": [
+        "E.S.T. Live"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Eskmo": {
+      "albums": [
+        "Exclusive Ninja Tune Mix"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Eszter Balint": {
+      "albums": [
+        "Flicker"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Etta James": {
+      "albums": [
+        "Happy Birthday to You - Disc 2",
+        "Something's Got A Hold On Me"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Explosions In The Sky": {
+      "albums": [
+        "Those Who Tell the Truth Shall Die, Thos"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "FOUR PLAY": {
+      "albums": [
+        "BALI RUN"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 4)"
+    },
+    "Fabolous": {
+      "albums": [
+        "Unknown Album"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Faith No More": {
+      "albums": [
+        "Angel Dust"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Fantômas": {
+      "albums": [
+        "The Director's Cut"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Faust vs. Dälek": {
+      "albums": [
+        "Derbe Respect, Alder"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Feist": {
+      "albums": [
+        "Let It Die",
+        "Metals",
+        "Open Season",
+        "The Reminder"
+      ],
+      "album_count": 4,
+      "tagged": false
+    },
+    "Fischerspooner": {
+      "albums": [
+        "#1 [Explicit]",
+        "Odyssey"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Fishbone": {
+      "albums": [
+        "In Your Face",
+        "The Reality of My Surroundings",
+        "Truth and Soul"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Flobots": {
+      "albums": [
+        "Fight With Tools [Explicit]"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 11)"
+    },
+    "Fluke": {
+      "albums": [
+        "Risotto"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 12)"
+    },
+    "Folk Uke": {
+      "albums": [
+        "Folk Uke"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 9)"
+    },
+    "Fort Knox Five": {
+      "albums": [
+        "The New Gold Standard"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Foster The People": {
+      "albums": [
+        "Torches"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 5)"
+    },
+    "Francisco Cespedes": {
+      "albums": [
+        "Donde Esta la Vida",
+        "Vida Loca"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Frank Black-Black Francis": {
+      "albums": [
+        "Frank Black Francis Disc 1",
+        "Frank Black Francis Disc 2"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "alt-rock-90s",
+        "pixies-orbit"
+      ],
+      "era": "1986-now",
+      "genre": "alt rock",
+      "tagged": true
+    },
+    "Frank Sinatra": {
+      "albums": [
+        "Sinatra Best Of The Best"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 3)"
+    },
+    "Franz Ferdinand": {
+      "albums": [
+        "franz_ferdinand"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "post-punk-revival"
+      ],
+      "era": "2002-now",
+      "genre": "post-punk revival",
+      "tagged": true
+    },
+    "Frogwings": {
+      "albums": [
+        "Croakin' at Toad's"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Fu-Schnickens": {
+      "albums": [
+        "F.U. Don't Take It Personal"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "90s-hiphop"
+      ]
+    },
+    "Fugazi": {
+      "albums": [
+        "13 Songs"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Fujiya & Miyagi": {
+      "albums": [
+        "Lightbulbs"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Fungo Mungo": {
+      "albums": [
+        "Humungous"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "alt-funk-rock-90s"
+      ],
+      "era": "1990s",
+      "genre": "alt funk-rock",
+      "note": " (lane confirmed by Chris)"
+    },
+    "G-Spliff": {
+      "albums": [
+        "My Melancholic Girls"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "unknown sole-entry, confirmed by Chris (meta-question)"
+    },
+    "Gare Du Nord": {
+      "albums": [
+        "In Search of Excellounge"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Gaudi + Nusrat Fateh Ali Khan": {
+      "albums": [
+        "Dub Qawwali"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Genesis": {
+      "albums": [
+        "Genesis Live_ The Way We Walk, Vol. 1 (T",
+        "Genesis Live- The Way We Walk, Vol. 1 (The Shorts)"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "George Benson": {
+      "albums": [
+        "The Best of George Benson [Warner Brothe",
+        "The Best of George Benson [Warner Brothers]"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "George Carlin": {
+      "albums": [
+        "Back in Town [Explicit]",
+        "Complaints and Grievances",
+        "It's Bad For Ya [Explicit]",
+        "Jammin' In New York [Explicit]",
+        "Life is Worth Losing [Explicit]",
+        "Parental Advisory_ Explicit Lyrics",
+        "You Are All Diseased [Explicit]"
+      ],
+      "album_count": 7,
+      "tagged": false
+    },
+    "Gerd": {
+      "albums": [
+        "High, Wide and Wonderful"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "unknown sole-entry, confirmed by Chris (meta-question)"
+    },
+    "Gillian Welch": {
+      "albums": [
+        "Hell Among The Yearlings"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Gipsy Kings": {
+      "albums": [
+        "Gipsy Kings",
+        "Live!"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Gloria Estefan": {
+      "albums": [
+        "Greatest Hits"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 7)"
+    },
+    "Gnarls Barkley": {
+      "albums": [
+        "St. Elsewhere",
+        "The Odd Couple"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Goats": {
+      "albums": [
+        "Tricks of the Shade"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "underground-hiphop",
+        "political-hiphop"
+      ]
+    },
+    "Godspeed You! Black Emperor": {
+      "albums": [
+        "Yanqui U.X.O_"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Goldfrapp": {
+      "albums": [
+        "Black Cherry"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "electro-pop",
+        "dark-pop"
+      ],
+      "era": "2000-now",
+      "genre": "electro-pop",
+      "note": " (lane confirmed by Chris)"
+    },
+    "Gotan Project": {
+      "albums": [
+        "Inspiracion-Espiracion Remix Disc 1",
+        "Inspiracion-Espiracion Remix Disc 2"
+      ],
+      "album_count": 2,
+      "tagged": true,
+      "scenes": [
+        "electronic-tango",
+        "remix-project"
+      ],
+      "era": "1999-now",
+      "genre": "electronic tango",
+      "note": "canonical owner of Inspiración-Espiración comp; the 7 fragment artists are guest tracks"
+    },
+    "Gram Parsons": {
+      "albums": [
+        "G.P.-Grievous Angel"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Grateful Dead": {
+      "albums": [
+        "Dick's Picks, Vol. 12 Disc 1",
+        "Dick's Picks, Vol. 12 Disc 2",
+        "Dick's Picks, Vol. 12 Disc 3",
+        "Live at Fillmore East 2-11-69 Disc 1",
+        "Skeletons from the Closet_ The Best of G",
+        "Skeletons from the Closet- The Best of Grateful Dead [Warner Bros.]",
+        "Without a Net Disc 1",
+        "Without a Net Disc 2"
+      ],
+      "album_count": 8,
+      "scenes": [
+        "jam"
+      ],
+      "era": "1965-1995",
+      "genre": "jam / psychedelic rock",
+      "tagged": true
+    },
+    "Grizzly Bear": {
+      "albums": [
+        "Veckatimest"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Groove Armada": {
+      "albums": [
+        "Back to Mine"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Groovegrass": {
+      "albums": [
+        "Groovegrass 101 Featuring Groovegrass Bo",
+        "Groovegrass 101 Featuring Groovegrass Boyz"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Guns N' Roses": {
+      "albums": [
+        "Appetite for Destruction"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "hard-rock",
+        "classic-rock"
+      ],
+      "era": "1985-now",
+      "genre": "hard rock"
+    },
+    "Habib Koité and Bamada": {
+      "albums": [
+        "Muso Ko"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Handsome Boy Modeling School": {
+      "albums": [
+        "So...How's Your Girl_"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Hanne Hukkelberg": {
+      "albums": [
+        "Blood From A Stone",
+        "Little Things",
+        "Rykestrasse 68"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Heartless Bastards": {
+      "albums": [
+        "Arrow"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 7b)"
+    },
+    "Herbie Hancock": {
+      "albums": [
+        "Head Hunters",
+        "Possibilities"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Hieroglyphics": {
+      "albums": [
+        "3rd Eye Vision"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Hot Club of San Francisco": {
+      "albums": [
+        "Hot Club Of San Francisco Bohemian Maestro - Django Reinhardt and the Imp"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "IAMX": {
+      "albums": [
+        "Kingdom Of Welcome Addiction",
+        "The Alternative",
+        "Volatile Times"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "INXS": {
+      "albums": [
+        "Kick"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 9)"
+    },
+    "Il Divo": {
+      "albums": [
+        "Il Divo"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 3)"
+    },
+    "Ilan Chester": {
+      "albums": [
+        "Lo mejor de Ilan Chester",
+        "Terciopelo"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Illogic": {
+      "albums": [
+        "Illogic and Blockhead - Capture The Sun (2013)",
+        "Illogic & Blockhead - Preparing For Capture 1 EP (2012)",
+        "Illogic & Blockhead - Preparing For Capture 2 EP (2012)",
+        "Illogic - Celestial Clockwork (2004)",
+        "Illogic - Diabolical Fun (2009)",
+        "Illogic - Got Lyrics (2001)",
+        "Illogic - One Bar Left EP (2008)",
+        "Illogic - Unforeseen Shadows (2000)",
+        "Illogic - Write To Death Vol 1 - My Hand Hurts EP (2003)"
+      ],
+      "album_count": 9,
+      "scenes": [
+        "underground-hiphop",
+        "weightless-recordings"
+      ],
+      "era": "2000s",
+      "genre": "underground hip-hop",
+      "tagged": true
+    },
+    "Imogen Heap": {
+      "albums": [
+        "Getting Scared (Single)",
+        "Goodnight And Go (Single)",
+        "Goodnight and Go [UK]",
+        "i-Megaphone",
+        "Other Songs",
+        "Shine (Single)",
+        "Soundtrack - Just Like Heaven",
+        "Soundtrack - The Chronicles of Narnia",
+        "Speak For Yourself",
+        "Unknown Album",
+        "Various Artists - New Dawn (Class of 94}"
+      ],
+      "album_count": 11,
+      "scenes": [
+        "art-pop",
+        "electronic"
+      ],
+      "era": "1998-now",
+      "genre": "art pop / electronic",
+      "tagged": true
+    },
+    "Incomplete": {
+      "albums": [
+        "downloads.bak",
+        "downloads.dat"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Incubus": {
+      "albums": [
+        "Fungus Amongus",
+        "Make Yourself",
+        "S.C.I.E.N.C.E"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Ingrid Michaelson": {
+      "albums": [
+        "Everybody"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 7)"
+    },
+    "Insane Clown Posse": {
+      "albums": [
+        "The Amazing Jeckel Brothers",
+        "The Great Milenko"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Interpol": {
+      "albums": [
+        "Turn on the Bright Lights"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Invisible Skratch Piklz": {
+      "albums": [
+        "The Shiggar Fraggar Show!, Vol. 2"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Ippazzi": {
+      "albums": [
+        "Balance Between"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "unknown sole-entry, confirmed by Chris (meta-question)"
+    },
+    "Iris DeMent": {
+      "albums": [
+        "My Life"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Iron & Wine": {
+      "albums": [
+        "Around The Well",
+        "Around the Well (Bonus Track Version)",
+        "Ghost On Ghost",
+        "Kiss Each Other Clean (Deluxe) [Explicit]",
+        "Our Endless Numbered Days",
+        "The Creek Drank the Cradle",
+        "The Sea & the Rhythm - EP",
+        "The Shepherd's Dog"
+      ],
+      "album_count": 8,
+      "scenes": [
+        "indie-folk"
+      ],
+      "era": "2002-now",
+      "genre": "indie folk",
+      "tagged": true
+    },
+    "Ivory Joe Hunter": {
+      "albums": [
+        "SINCE I MET YOU BABY"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "J-Zone": {
+      "albums": [
+        "Inspiracion-Espiracion Remix Disc 1"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 13 — Latin sweep)"
+    },
+    "JJ Grey & Mofro": {
+      "albums": [
+        "Country Ghetto",
+        "Orange Blossoms"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "JPs": {
+      "albums": [
+        "testament_cd1",
+        "testament_cd2",
+        "testament_cd3"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Jack Johnson": {
+      "albums": [
+        "Brushfire Fairytales"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 7)"
+    },
+    "Jack Tottle": {
+      "albums": [
+        "The Bluegrass Sound"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "bluegrass"
+      ]
+    },
+    "Jack White": {
+      "albums": [
+        "Blunderbuss"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Jackie McLean": {
+      "albums": [
+        "A Long Drink of the Blues",
+        "Nature Boy",
+        "Prestige Profiles, Vol. 6 Disc 2",
+        "The Best of Jackie McLean"
+      ],
+      "album_count": 4,
+      "tagged": false
+    },
+    "Jaco Pastorius": {
+      "albums": [
+        "Honestly Live",
+        "Jaco Pastorius"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "James Brown": {
+      "albums": [
+        "The CD Of JB (Sex Machine & Other Soul C"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "soul-canon",
+        "funk-canon"
+      ],
+      "era": "1956-2006",
+      "genre": "soul / funk",
+      "note": "sole comp acceptable for canonical figure"
+    },
+    "James Taylor": {
+      "albums": [
+        "James Taylor- Best Live"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 7)"
+    },
+    "Jamiroquai": {
+      "albums": [
+        "High Times_ Singles 1992-2006"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "acid-jazz",
+        "funk-electronic"
+      ],
+      "era": "1992-now",
+      "genre": "acid jazz / funk"
+    },
+    "Jane's Addiction": {
+      "albums": [
+        "nothing's_shocking",
+        "ritual_de_lo_habitual",
+        "Unknown Bootleg"
+      ],
+      "album_count": 3,
+      "scenes": [
+        "alt-rock-90s"
+      ],
+      "era": "1985-now",
+      "genre": "alternative rock",
+      "tagged": true
+    },
+    "Jaya the Cat": {
+      "albums": [
+        "Basement Style"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Jedi Mind Tricks": {
+      "albums": [
+        "Violent by Design",
+        "Visions of Ghandi"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Jeff Beck": {
+      "albums": [
+        "Blow by Blow",
+        "Unknown Album"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Jeff Buckley": {
+      "albums": [
+        "Grace",
+        "Live at Sin-é",
+        "Live at Sin-é [Bonus Track_DVD] Disc 1",
+        "Live at Sin-é [Bonus Track_DVD] Disc 2",
+        "My Sweetheart The Drunk",
+        "SKETCHES for My Sweetheart The Drunk"
+      ],
+      "album_count": 6,
+      "tagged": false
+    },
+    "Jerry Douglas": {
+      "albums": [
+        "Lookout for Hope",
+        "Restless on the Farm",
+        "Traveler"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Jerry Douglas_Russ Barenberg_Edgar Meyer": {
+      "albums": [
+        "Skip, Hop & Wobble"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "bluegrass",
+        "newgrass"
+      ]
+    },
+    "Jerry Garcia & David Grisman": {
+      "albums": [
+        "Shady Grove"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "bluegrass",
+        "newgrass"
+      ]
+    },
+    "Jerry Garcia-David Grisman-Tony Rice": {
+      "albums": [
+        "The Pizza Tapes"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "bluegrass",
+        "newgrass"
+      ]
+    },
+    "Jesse Rubenfeld": {
+      "albums": [
+        "Let It Go - EP",
+        "Silken Walls"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Jim Florentine": {
+      "albums": [
+        "Jim Florentine Is Terrorizing Telemarket",
+        "Jim Florentine Is Terrorizing Telemarketers"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Jimi Hendrix": {
+      "albums": [
+        "Band Of Gypsys (Live)",
+        "Experience Hendrix_ The Best of Jimi Hen",
+        "Experience Hendrix- The Best of Jimi Hendrix",
+        "Unknown Album (8_20_2007 4_05_03 PM)"
+      ],
+      "album_count": 4,
+      "tagged": false
+    },
+    "Jimmy Cliff": {
+      "albums": [
+        "Breakout"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Joe Cocker": {
+      "albums": [
+        "Classics, Vol. 4"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Joe Public": {
+      "albums": [
+        "Joe Public"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 5)"
+    },
+    "John Coltrane": {
+      "albums": [
+        "John Coltrane Plays for Lovers [2003]"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "jazz-canon"
+      ],
+      "era": "1955-1967",
+      "genre": "jazz",
+      "tagged": true
+    },
+    "John Digweed": {
+      "albums": [
+        "Global Underground- Los Angeles Disc 1",
+        "Global Underground- Los Angeles Disc 2"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "John Lee Hooker": {
+      "albums": [
+        "The Best of John Lee Hooker [GNP]"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "John Mayer": {
+      "albums": [
+        "Continuum",
+        "Heavier Things",
+        "Room For Squares"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "John Zorn": {
+      "albums": [
+        "Astaroth_ Book Of Angels Volume One - Ja",
+        "Cobra_ John Zorn's Game Pieces, Vol. 2 [",
+        "Cobra- John Zorn's Game Pieces, Vol. 2 [Tzadik]",
+        "Elegy",
+        "Godard-Spillane",
+        "I.A.O",
+        "Locus Solus",
+        "Lucifer_ The Book Of Angels Volume 10",
+        "Masada Guitars",
+        "Music Romance, Vol. 2- Taboo & Exile",
+        "Spy Vs. Spy_ The Music of Ornette Colema",
+        "Spy Vs. Spy- The Music of Ornette Coleman",
+        "The Big Gundown_ John Zorn Plays the Mus",
+        "The Big Gundown- John Zorn Plays the Music of Ennio Morricone",
+        "The Circle Maker Disc 1",
+        "The Circle Maker Disc 2",
+        "The Concealed",
+        "The Gift",
+        "Voices in the Wilderness Disc 1",
+        "Voices in the Wilderness Disc 2"
+      ],
+      "album_count": 20,
+      "scenes": [
+        "downtown-ny",
+        "tzadik",
+        "radical-jewish-culture"
+      ],
+      "era": "1980s-now",
+      "genre": "avant-garde / jazz",
+      "tagged": true,
+      "anchor": true,
+      "anchor_note": "Foundational anchor — entire Downtown NY/Tzadik/Radical Jewish Culture universe"
+    },
+    "John Zorn-Electric Masada": {
+      "albums": [
+        "At the Mountains of Madness Disc 1",
+        "At the Mountains of Madness Disc 2"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "downtown-ny",
+        "tzadik",
+        "radical-jewish-culture"
+      ],
+      "era": "2000s",
+      "genre": "avant-garde jazz",
+      "tagged": true
+    },
+    "John Zorn-Masada Chamber Ensembles": {
+      "albums": [
+        "Bar Kokhba Disc 1",
+        "Bar Kokhba Disc 2"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "downtown-ny",
+        "tzadik",
+        "radical-jewish-culture"
+      ],
+      "era": "2000s",
+      "genre": "avant-garde / chamber",
+      "tagged": true
+    },
+    "Johnny Cash": {
+      "albums": [
+        "American III_ Solitary Man",
+        "American IV_ The Man Comes Around",
+        "American Recordings",
+        "American V_ A Hundred Highways",
+        "American VI_ Ain't No Grave",
+        "At Folsom Prison & San Quentin",
+        "Murder",
+        "Unchained"
+      ],
+      "album_count": 8,
+      "scenes": [
+        "country-canon"
+      ],
+      "era": "1955-2003",
+      "genre": "country",
+      "tagged": true,
+      "anchor": true,
+      "anchor_note": "Foundational anchor — country canon centerpiece"
+    },
+    "Johnny Cash & Willie Nelson": {
+      "albums": [
+        "VH1 Storytellers"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "outlaw-country"
+      ],
+      "era": "live event 1998",
+      "genre": "country"
+    },
+    "Johnny Marr": {
+      "albums": [
+        "Playland"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 9)"
+    },
+    "Josh Groban": {
+      "albums": [
+        "Closer",
+        "Josh Groban in Concert Disc 1"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall": {
+      "albums": [
+        "Short Trip Home"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "bluegrass",
+        "newgrass"
+      ]
+    },
+    "Joshua Bell_Edgar Meyer_Sam Bush_Mike Ma": {
+      "albums": [
+        "Short Trip Home"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Joss Stone": {
+      "albums": [
+        "The Soul Sessions"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 5)"
+    },
+    "Juan Luis Guerra 440": {
+      "albums": [
+        "Bachata Rosa"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Juan Luis Guerra y 440": {
+      "albums": [
+        "Ni Es Lo Mismo Ni Es Igual",
+        "Ojalá Que Llueva Café"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Juanes": {
+      "albums": [
+        "Un Día Normal"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 9)"
+    },
+    "Jurassic 5": {
+      "albums": [
+        "Quality Control"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Jónsi": {
+      "albums": [
+        "Go"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Karsh Kale": {
+      "albums": [
+        "Realize"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Kate Bush": {
+      "albums": [
+        "Hounds of Love"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Keiko Matsui": {
+      "albums": [
+        "Wildflower"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 4)"
+    },
+    "Keller Williams": {
+      "albums": [
+        "Laugh"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Kings Of Convenience": {
+      "albums": [
+        "Declaration of Dependence"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Kings Of Leon": {
+      "albums": [
+        "Because Of The Times",
+        "Only By The Night"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Kraftwerk": {
+      "albums": [
+        "The Mix"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Kremerata Baltica_Gidon Kremer": {
+      "albums": [
+        "Happy Birthday"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Kruder & Dorfmeister": {
+      "albums": [
+        "DJ-Kicks"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "LMNO": {
+      "albums": [
+        "Leave My Name Out"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Lady Sovereign": {
+      "albums": [
+        "Public Warning"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 6)"
+    },
+    "Lamb": {
+      "albums": [
+        "between_darkness_and_wonder",
+        "Lamb",
+        "What Sound Disc 1"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Larry Coryell": {
+      "albums": [
+        "Spaces Revisited"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Laura Pausini": {
+      "albums": [
+        "Las Cosas Que Vives"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 5)"
+    },
+    "Led Zeppelin": {
+      "albums": [
+        "II",
+        "Led Zeppelin",
+        "Led Zeppelin (Deluxe Edition)",
+        "Led Zeppelin III (Deluxe Edition)",
+        "Led Zeppelin II (Remastered)",
+        "Led Zeppelin IV",
+        "Mothership"
+      ],
+      "album_count": 7,
+      "tagged": false
+    },
+    "Leftover Salmon": {
+      "albums": [
+        "Ask the Fish",
+        "Euphoria",
+        "The Nashville Sessions"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Leo Kottke & Mike Gordon": {
+      "albums": [
+        "Sixty Six Steps"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "bluegrass"
+      ]
+    },
+    "Lhasa De Sela": {
+      "albums": [
+        "Lhasa"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 13 — Latin sweep)"
+    },
+    "Lisa Hannigan": {
+      "albums": [
+        "Sea Sew"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Little Feat": {
+      "albums": [
+        "Dixie Chicken",
+        "Waiting For Columbus [Live]"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Living Colour": {
+      "albums": [
+        "Time's Up",
+        "Vivid"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Liz Phair": {
+      "albums": [
+        "Exile in Guyville",
+        "Unknown Album",
+        "Whitechocolatespaceegg"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Lootpack": {
+      "albums": [
+        "Soundpieces- Da Antidote!"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Lorde": {
+      "albums": [
+        "Pure Heroine (Extended)",
+        "The Love Club EP"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Loreena McKennitt": {
+      "albums": [
+        "Live in Paris and Toronto Disc 1",
+        "Live in Paris and Toronto Disc 2"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Lori Diamond": {
+      "albums": [
+        "Mystery"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "unknown sole-entry, confirmed by Chris (meta-question)"
+    },
+    "Los Amigos Invisibles": {
+      "albums": [
+        "Arepa 3000_ A Venezuelan Journey Into Sp",
+        "Arepa 3000- A Venezuelan Journey Into Space"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Los Lobos": {
+      "albums": [
+        "Live at the Fillmore Disc 1",
+        "Live at the Fillmore Disc 2"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Loudon Wainwright III": {
+      "albums": [
+        "Daughter"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 10)"
+    },
+    "Louis Armstrong": {
+      "albums": [
+        "01 Louis Armstrong - La Vie En Rose",
+        "A Kiss To Build A Dream On",
+        "The Definitive Collection"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Louis Prima": {
+      "albums": [
+        "Jump, Jive an' Wail_ The Essential Louis Prima"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Lovage": {
+      "albums": [
+        "Music to Make Love to Your Old Lady By"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Luciana Souza_Romero Lubambo": {
+      "albums": [
+        "Duos II"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Lucinda Williams": {
+      "albums": [
+        "Car Wheels on a Gravel Road"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Lush": {
+      "albums": [
+        "Spooky"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 7)"
+    },
+    "MGMT": {
+      "albums": [
+        "Oracular Spectacular",
+        "Oracular Spectacular [Explicit]"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "M_ Ward": {
+      "albums": [
+        "A Wasteland Companion"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Macy Gray": {
+      "albums": [
+        "On How Life Is"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 4)"
+    },
+    "Madeleine Peyroux": {
+      "albums": [
+        "Careless Love"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 10)"
+    },
+    "Madlib": {
+      "albums": [
+        "Shades of Blue",
+        "The Other Side- Los Angeles Disc 1"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "stones-throw",
+        "underground-hiphop",
+        "instrumental-hiphop"
+      ],
+      "era": "1990s-now",
+      "genre": "hip-hop / production",
+      "tagged": true
+    },
+    "Madonna": {
+      "albums": [
+        "GHV2"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 3)"
+    },
+    "Madvillain": {
+      "albums": [
+        "Madvillainy"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "stones-throw",
+        "underground-hiphop"
+      ],
+      "era": "2004",
+      "genre": "underground hip-hop",
+      "tagged": true
+    },
+    "Magnetic Fields": {
+      "albums": [
+        "69 Love Songs",
+        "69 Love Songs Vol. 1",
+        "69 Love Songs Vol. 2",
+        "69 Love Songs Vol. 3",
+        "Get Lost",
+        "Holiday",
+        "The Charm Of The Highway Strip"
+      ],
+      "album_count": 7,
+      "tagged": false
+    },
+    "Marc Maron": {
+      "albums": [
+        "Final Engagement",
+        "Not Sold Out",
+        "Tickets Still Available",
+        "Torrent downloaded from Demonoid.com.txt"
+      ],
+      "album_count": 4,
+      "tagged": false
+    },
+    "Marc Ribot Y los Cubanos Postizos": {
+      "albums": [
+        "Muy Divertido!"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Margot & The Nuclear So And So's": {
+      "albums": [
+        "Not Animal"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 7b)"
+    },
+    "Mark Knopfler": {
+      "albums": [
+        "Kill to Get Crimson",
+        "Privateering"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Mark Knopfler And Emmylou Harris": {
+      "albums": [
+        "All The RoadRunning (US Version)"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "blues-rock",
+        "americana",
+        "duet"
+      ],
+      "era": "2006",
+      "genre": "blues-rock / americana"
+    },
+    "Marvin Pontiac": {
+      "albums": [
+        "The Legendary Marvin Pontiac - Greatest Hits"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Mary Chapin Carpenter": {
+      "albums": [
+        "Stones in the Road"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 7)"
+    },
+    "Mary J. Blige": {
+      "albums": [
+        "Growing Pains",
+        "Mary"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Masada": {
+      "albums": [
+        "50th Birthday Celebration, Vol. 7",
+        "Masada- Live at Tonic, 2001 Disc 1",
+        "Masada- Live at Tonic, 2001 Disc 2",
+        "Masada- Live in Jerusalem Disc 1",
+        "Masada- Live in Jerusalem Disc 2",
+        "Unknown Album (8_20_2007 2_05_50 PM)"
+      ],
+      "album_count": 6,
+      "scenes": [
+        "downtown-ny",
+        "tzadik",
+        "radical-jewish-culture"
+      ],
+      "era": "1990s-now",
+      "genre": "avant-garde jazz",
+      "tagged": true
+    },
+    "Masada Quintet Featuring Joe Lovano": {
+      "albums": [
+        "Stolas_ The Book Of Angels Volume 12"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Massive Attack": {
+      "albums": [
+        "Collected",
+        "Heligoland",
+        "Mezzanine"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Mastodon": {
+      "albums": [
+        "The Hunter (Deluxe Version) [Explicit]"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Matteo Salvatore": {
+      "albums": [
+        "Chants de mendiants en Italie"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 13 — Latin sweep)"
+    },
+    "Max Q": {
+      "albums": [
+        "Max Q"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 5)"
+    },
+    "Medeski, Martin & Wood": {
+      "albums": [
+        "Last Chance to Dance Trance (perhaps)_ B",
+        "Last Chance to Dance Trance (perhaps)- Best Of (1991-1996)",
+        "Zaebos_ The Book Of Angels Volume 11"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Merry Clayton": {
+      "albums": [
+        "Merry Clayton"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Metric": {
+      "albums": [
+        "Fantasies",
+        "Old World Underground, Where Are You Now"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Mew": {
+      "albums": [
+        "A Triumph For Man",
+        "Frengers",
+        "No More Stories Are Told Today I'm Sorry"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Michael Brooks-13 Things That Don't Make Sense": {
+      "albums": [
+        "Disc 1",
+        "Disc 2",
+        "Disc 3",
+        "Disc 4",
+        "Disc 5",
+        "Disc 6",
+        "Disc 7"
+      ],
+      "album_count": 7,
+      "tagged": false
+    },
+    "Michael Jackson": {
+      "albums": [
+        "Dangerous",
+        "Off the Wall",
+        "Thriller"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Microphones": {
+      "albums": [
+        "The Glow, pt. 2",
+        "Unknown Album"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Miles Davis": {
+      "albums": [
+        "Kind of Blue"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Mindfunk": {
+      "albums": [
+        "Mind Funk"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "alt-funk-rock-90s"
+      ],
+      "era": "1991-1995",
+      "genre": "alt funk-rock",
+      "note": " (lane confirmed by Chris)"
+    },
+    "Ministry": {
+      "albums": [
+        "The Mind Is a Terrible Thing to Taste"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "industrial",
+        "wax-trax"
+      ],
+      "era": "1981-now",
+      "genre": "industrial",
+      "note": " (lane confirmed by Chris)"
+    },
+    "Minor Threat": {
+      "albums": [
+        "Complete Discography"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Minus the Bear": {
+      "albums": [
+        "Acoustics",
+        "Infinity Overhead"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Modest Mouse": {
+      "albums": [
+        "Good News For People Who Love Bad News",
+        "Lonsesome Crowded West",
+        "The Lonesome Crowded West",
+        "This Is A Long Drive For Someone With No",
+        "This Is A Long Drive For Someone With Nothing To Think About",
+        "We Were Dead Before The Ship Even Sank"
+      ],
+      "album_count": 6,
+      "tagged": false
+    },
+    "Mofro": {
+      "albums": [
+        "Blackwater",
+        "Country Ghetto",
+        "Lochloosa"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Monsters Of Folk": {
+      "albums": [
+        "Monsters of Folk"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Morphine": {
+      "albums": [
+        "Cure for Pain",
+        "Like Swimming",
+        "The Best of Morphine_ 1992-1995",
+        "The Night"
+      ],
+      "album_count": 4,
+      "tagged": false
+    },
+    "Mos Def": {
+      "albums": [
+        "Black on Both Sides",
+        "The Ecstatic"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "conscious-hiphop",
+        "rawkus"
+      ],
+      "era": "1998-now",
+      "genre": "hip-hop",
+      "tagged": true
+    },
+    "Mos Def & Talib Kweli": {
+      "albums": [
+        "Black Star"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "conscious-hiphop",
+        "rawkus",
+        "black-star"
+      ],
+      "era": "1998",
+      "genre": "hip-hop",
+      "tagged": true
+    },
+    "Mr. Bungle": {
+      "albums": [
+        "california",
+        "Disco Volante",
+        "Mr. Bungle"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Mr. Lif": {
+      "albums": [
+        "Emergency Rations"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "defjux",
+        "underground-hiphop"
+      ],
+      "era": "1999-now",
+      "genre": "underground hip-hop",
+      "tagged": true
+    },
+    "Muddy Waters": {
+      "albums": [
+        "King of the Electric Blues"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Muddy Waters_Dizzy Gillespie": {
+      "albums": [
+        "Muddy Waters Blues Band Featuring Dizzy"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Mumford & Sons": {
+      "albums": [
+        "Babel",
+        "Sigh No More"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Muse": {
+      "albums": [
+        "Absolution",
+        "Origin Of Symmetry"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "MuteMath": {
+      "albums": [
+        "Armistice",
+        "Mute Math [Bonus Tracks]",
+        "Odd Soul (Deluxe Version)"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "My Morning Jacket": {
+      "albums": [
+        "At Dawn",
+        "At Dawn (Disc 1)",
+        "The Tennessee Fire",
+        "To the moon LP",
+        "Unknown Album"
+      ],
+      "album_count": 5,
+      "tagged": false
+    },
+    "Mystic": {
+      "albums": [
+        "Unknown Album (8_25_2007 1_46_42 AM)"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Múm": {
+      "albums": [
+        "Finally We Are No One",
+        "Summer Make Good",
+        "Yesterday Was Dramatic Today Is OK"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "N.E.R.D": {
+      "albums": [
+        "Fly or Die"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "neptunes",
+        "funk-rap"
+      ]
+    },
+    "NOFX": {
+      "albums": [
+        "Punk In Drublic",
+        "So Long And Thanks For All The Shoes"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Naked City": {
+      "albums": [
+        "Naked City Live, Vol. 1_ Knitting Factor",
+        "Naked City Live, Vol. 1- Knitting Factory 1989"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Nat King Cole": {
+      "albums": [
+        "The Unforgettable Nat King Cole [1992]"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "crooner-canon",
+        "vocal-jazz"
+      ],
+      "era": "1940s-1960s",
+      "genre": "vocal jazz / standards",
+      "note": "confirmed authentic by Chris — there IS a crooner soft spot"
+    },
+    "Neil Young": {
+      "albums": [
+        "Greatest Hits"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "folk-rock-canon",
+        "singer-songwriter-canon"
+      ],
+      "era": "1968-now",
+      "genre": "folk-rock",
+      "note": "sole comp acceptable for canonical figure (Aretha/JB/Cole/Guaraldi rule)"
+    },
+    "Neko Case": {
+      "albums": [
+        "Middle Cyclone"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Neko Case & Her Boyfriends": {
+      "albums": [
+        "Furnace Room Lullaby"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Neko Case And Her Boyfriends": {
+      "albums": [
+        "Furnace Room Lullaby"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Nellie McKay": {
+      "albums": [
+        "Get Away from Me Disc 1",
+        "Get Away from Me Disc 2"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Neutral Milk Hotel": {
+      "albums": [
+        "Happy Birthday to You - Disc 4",
+        "In The Aeroplane Over The Sea",
+        "Live in San Francisco 4_12_98",
+        "Unknown Album"
+      ],
+      "album_count": 4,
+      "tagged": false
+    },
+    "New Grass Revival": {
+      "albums": [
+        "The Best of New Grass Revival"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "bluegrass"
+      ]
+    },
+    "New Orleans Jazz Vipers": {
+      "albums": [
+        "Live On Frenchmen Street"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "New Orleans Nightcrawlers": {
+      "albums": [
+        "Funknicity"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "NewGrange": {
+      "albums": [
+        "NewGrange"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "bluegrass",
+        "newgrass"
+      ]
+    },
+    "Nick Cave & the Bad Seeds": {
+      "albums": [
+        "Murder Ballads",
+        "The Best of Nick Cave & the Bad Seeds"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Nicolaus Esterhazy Sinfonia": {
+      "albums": [
+        "The Best of Beethoven"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 11)"
+    },
+    "Nightmares on Wax": {
+      "albums": [
+        "DJ-Kicks"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Nine Inch Nails": {
+      "albums": [
+        "Ghosts I-IV",
+        "Pretty Hate Machine"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Nitin Sawhney": {
+      "albums": [
+        "Human"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Norah Jones": {
+      "albums": [
+        "Come Away with Me",
+        "Turn Me On-Crazy"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Odd Nosdam": {
+      "albums": [
+        "Level Live Wires",
+        "Pretty Sweet Explode",
+        "T.I.M.E. Soundtrack"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Odds": {
+      "albums": [
+        "Love Is The Subject"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Old & In the Way": {
+      "albums": [
+        "Breakdown_ Live Recordings 1973",
+        "Old & In the Way"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Old & in the Way-Jerry Garcia-David Grisman": {
+      "albums": [
+        "Breakdown- Live Recordings 1973"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "bluegrass",
+        "newgrass"
+      ]
+    },
+    "Old 97's": {
+      "albums": [
+        "Too Far to Care"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Otis Redding": {
+      "albums": [
+        "The Very Best Of Otis Redding"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Otis Taylor": {
+      "albums": [
+        "Respect The Dead"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 10)"
+    },
+    "OutKast": {
+      "albums": [
+        "Aquemini",
+        "Speakerboxx",
+        "Speakerboxx_The Love Below"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Outback": {
+      "albums": [
+        "Baka"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Ozomatli": {
+      "albums": [
+        "Don't Mess with the Dragon",
+        "Live At The Fillmore",
+        "Ozomatli"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Paddy Saul": {
+      "albums": [
+        "The Way the Blood Flows"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "unknown sole-entry, confirmed by Chris (meta-question)"
+    },
+    "Pat Metheny": {
+      "albums": [
+        "Tap The Book of Angels Volume 20"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Paul Simon": {
+      "albums": [
+        "Graceland",
+        "The Rhythm Of The Saints (2011 Remaster)"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Peace Orchestra": {
+      "albums": [
+        "Inspiracion-Espiracion Remix Disc 1"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 13 — Latin sweep)"
+    },
+    "Peeping Tom": {
+      "albums": [
+        "Peeping Tom"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Peter Gabriel": {
+      "albums": [
+        "Passion",
+        "Shaking the Tree- Sixteen Golden Greats",
+        "Up"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Peter Malick Group-Norah Jones": {
+      "albums": [
+        "New York City- The Remix Album"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 10)"
+    },
+    "Peter Rowan & Jerry Douglas": {
+      "albums": [
+        "Yonder"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "bluegrass"
+      ]
+    },
+    "Phil & Phriends": {
+      "albums": [
+        "1999_04_15 II The Warfield",
+        "1999_04_15 I The Warfield",
+        "1999_04_16 II The Warfield",
+        "1999_04_16 I The Warfield",
+        "1999_04_17 II The Warfield",
+        "1999_04_17 I The Warfield"
+      ],
+      "album_count": 6,
+      "tagged": false
+    },
+    "Phillips, Grier & Flinner": {
+      "albums": [
+        "Phillips, Grier & Flinner"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "bluegrass"
+      ]
+    },
+    "Phish": {
+      "albums": [
+        "A Live One Disc 1",
+        "A Live One Disc 2",
+        "Farmhouse",
+        "Hampton Comes Alive Disc 1",
+        "Hampton Comes Alive Disc 2",
+        "Hampton Comes Alive Disc 3",
+        "Hampton Comes Alive Disc 4",
+        "Hampton Comes Alive Disc 5",
+        "Hampton Comes Alive Disc 6",
+        "Hoist",
+        "Junta Disc 1",
+        "Rift",
+        "Slip, Stitch & Pass",
+        "The Story of the Ghost",
+        "Worcester_2010-12-28"
+      ],
+      "album_count": 15,
+      "scenes": [
+        "jam"
+      ],
+      "era": "1983-now",
+      "genre": "jam",
+      "tagged": true
+    },
+    "Phoenix": {
+      "albums": [
+        "Wolfgang Amadeus Phoenix"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 8)"
+    },
+    "Pink Floyd": {
+      "albums": [
+        "The Dark Side of the Moon [Gold Disc]",
+        "the_dark_side_of_the_moon_(sacd)",
+        "The Final Cut"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Plaid": {
+      "albums": [
+        "Not For Threes",
+        "Parts In The Post cd1",
+        "Parts In The Post cd2"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Pop Will Eat Itself": {
+      "albums": [
+        "dos_dedos_mis_amigos"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "industrial",
+        "grebo"
+      ],
+      "note": "fits industrial lane"
+    },
+    "Portishead": {
+      "albums": [
+        "Third"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Prefuse 73": {
+      "albums": [
+        "Everything She Touched Turned Ampexian",
+        "One Word Extinguisher"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Primus": {
+      "albums": [
+        "Frizzle Fry [Bonus Track]",
+        "frizzle_fry_(remaster)",
+        "miscellaneous_debris",
+        "Sailing the Seas of Cheese [Plus Two]",
+        "Suck on This"
+      ],
+      "album_count": 5,
+      "tagged": false
+    },
+    "Prince Paul": {
+      "albums": [
+        "A Prince Among Thieves"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Priyo": {
+      "albums": [
+        "Gypsy Moon"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "unknown sole-entry, confirmed by Chris (meta-question)"
+    },
+    "Proyecto 1": {
+      "albums": [
+        "NNT"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "unknown sole-entry, confirmed by Chris (meta-question)"
+    },
+    "Psychefunkapus": {
+      "albums": [
+        "Skin"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "alt-funk-rock-90s"
+      ],
+      "era": "1990s",
+      "genre": "alt funk-rock",
+      "note": " (lane confirmed by Chris)"
+    },
+    "Public Image Ltd": {
+      "albums": [
+        "9"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "post-punk"
+      ],
+      "era": "1978-now",
+      "genre": "post-punk",
+      "tagged": true
+    },
+    "Pulp": {
+      "albums": [
+        "Different Class",
+        "Pulp_ The Peel Sessions (Disc 2)",
+        "The Peel Sessions [CD 1]"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Quartet Coco Briaval": {
+      "albums": [
+        "Grands Standards of Jazz Cest si bon  Its so good",
+        "Grands Standards of Jazz_ C'est si bon _ It's so good"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Quasimoto": {
+      "albums": [
+        "The Unseen [Deluxe Edition] Disc 1"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "R.E.M": {
+      "albums": [
+        "Document",
+        "Lifes Rich Pageant"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "college-rock",
+        "jangle-pop"
+      ],
+      "era": "1980-2011",
+      "genre": "alt rock",
+      "tagged": true
+    },
+    "Radiohead": {
+      "albums": [
+        "hail_to_the_thief",
+        "i_might_be_wrong_-_live_recordings",
+        "In Rainbows",
+        "kid_a",
+        "OK Computer",
+        "Pablo Honey",
+        "Radiohead - Pablo Honey",
+        "The Bends"
+      ],
+      "album_count": 8,
+      "scenes": [
+        "british-art-rock"
+      ],
+      "era": "1993-now",
+      "genre": "art rock",
+      "tagged": true
+    },
+    "Rage Against the Machine": {
+      "albums": [
+        "The Art of WAR"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Randall Kennedy": {
+      "albums": [
+        "Full House"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "unknown sole-entry, confirmed by Chris (meta-question)"
+    },
+    "Ratatat": {
+      "albums": [
+        "Classics",
+        "LP3",
+        "Ratatat"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Ray Charles": {
+      "albums": [
+        "Genius Loves Company",
+        "Genius - The Ultimate Ray Charles Collection",
+        "His Greatest Hits, Vol. 1 [DCC]",
+        "His Greatest Hits, Vol. 2 [DCC]",
+        "Modern Sounds in Country and Western Mus",
+        "Modern SoundsIn Country And Western Music, Vols 1 & 2",
+        "More Music from Ray Disc 1",
+        "Ray Charles & Friends [Stardust]",
+        "Ray - Original Motion Picture Soundtrack",
+        "Ray [Original Soundtrack]",
+        "Shared Music",
+        "The Early Years [Fat Boy_Tomato]",
+        "The Genius Hits the Road"
+      ],
+      "album_count": 13,
+      "scenes": [
+        "soul-canon"
+      ],
+      "era": "1949-2004",
+      "genre": "soul / r&b",
+      "tagged": true
+    },
+    "Ray LaMontagne": {
+      "albums": [
+        "Gossip In The Grain",
+        "Till the Sun Turns Black",
+        "Trouble"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Ray LaMontagne & The Pariah Dogs": {
+      "albums": [
+        "God Willin' & The Creek Don't Rise [+Digital Booklet]"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Red Hot Chili Peppers": {
+      "albums": [
+        "Mother's Milk"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Regina Spektor": {
+      "albums": [
+        "Begin To Hope",
+        "Soviet Kitsch"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Reverend Horton Heat": {
+      "albums": [
+        "It's Martini Time",
+        "Liquor In The Front",
+        "The Full Custom Gospel Sounds"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Ricardo Montaner": {
+      "albums": [
+        "Los Hijos del Sol"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 5)"
+    },
+    "Rjd2": {
+      "albums": [
+        "Dead Ringer",
+        "Since We Last Spoke",
+        "The Colossus",
+        "The Horror Disc 1",
+        "The Third Hand"
+      ],
+      "album_count": 5,
+      "scenes": [
+        "definitive-jux-adjacent",
+        "instrumental-hiphop"
+      ],
+      "era": "2002-now",
+      "genre": "instrumental hip-hop",
+      "tagged": true
+    },
+    "Rob Dougan": {
+      "albums": [
+        "Furious Angels"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 10)"
+    },
+    "Robert Plant": {
+      "albums": [
+        "Now & Zen",
+        "The Principle of Moments"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Robert Randolph & The Family Band": {
+      "albums": [
+        "Live at the Wetlands"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "sacred-steel",
+        "jam",
+        "blues-rock"
+      ],
+      "era": "2000s",
+      "genre": "sacred steel / blues-jam",
+      "note": "sacred-steel pedal-steel guitar — confirmed lane"
+    },
+    "Roger": {
+      "albums": [
+        "Bridging the Gap"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "unknown sole-entry, confirmed by Chris (meta-question)"
+    },
+    "Roxy Music": {
+      "albums": [
+        "Street Life  20 Greatest Hits"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Royal Blood": {
+      "albums": [
+        "Royal Blood [Explicit]"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 5)"
+    },
+    "Royal Philharmonic Orchestra": {
+      "albums": [
+        "Plays the Hits of Phil Collins"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 3)"
+    },
+    "Run-D.M.C": {
+      "albums": [
+        "Run-D.M.C"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "old-school-hiphop"
+      ],
+      "era": "1980s",
+      "genre": "hip-hop",
+      "tagged": true
+    },
+    "Rush": {
+      "albums": [
+        "2112",
+        "Caress of Steel"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Russ Barenberg": {
+      "albums": [
+        "Moving Pictures"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "bluegrass"
+      ]
+    },
+    "Sam Bush": {
+      "albums": [
+        "Howlin' at the Moon",
+        "Ice Caps- Peaks of Telluride"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Sam Cooke": {
+      "albums": [
+        "Greatest Hits",
+        "One Night Stand - Sam Cooke Live At The",
+        "Portrait of a Legend",
+        "Portrait of a Legend 1951-1964",
+        "Sam Cooke",
+        "Sam Cooke At the Copa",
+        "Shared",
+        "The Best of Sam Cooke",
+        "The Man And His Music",
+        "Unknown Album",
+        "WINMX SOUNDS"
+      ],
+      "album_count": 11,
+      "scenes": [
+        "soul-canon"
+      ],
+      "era": "1951-1964",
+      "genre": "soul",
+      "tagged": true
+    },
+    "Sam Cooke & the Soul Stirrers": {
+      "albums": [
+        "Gospel Classic"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Sam Kinison": {
+      "albums": [
+        "Live From Hell"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 5)"
+    },
+    "Santana": {
+      "albums": [
+        "Caravanserai",
+        "Shaman"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Santigold": {
+      "albums": [
+        "Santogold"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 6)"
+    },
+    "Sarah Brightman": {
+      "albums": [
+        "A Whiter Shade of Pale_A Question of Hon",
+        "A Whiter Shade of Pale-A Question of Honour"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Sarah McLachlan": {
+      "albums": [
+        "Bloom- Remix Album",
+        "Mirrorball",
+        "Remixed [2003 Arista]"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Saru": {
+      "albums": [
+        "Downtempo Dojo",
+        "Machine"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Seal": {
+      "albums": [
+        "Seal [1994]"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Serenata Guayanesa": {
+      "albums": [
+        "Serenata Guayanesa-20 años de éxitos"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 13 — Latin sweep)"
+    },
+    "Shanon": {
+      "albums": [
+        "Celtic Classics, Vol. 2"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Sharon Isbin": {
+      "albums": [
+        "Sharon Isbin"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Sharon Jones & The Dap-Kings": {
+      "albums": [
+        "100 Days, 100 Nights",
+        "I Learned the Hard Way (Bonus Version)"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Sheryl Crow": {
+      "albums": [
+        "Tuesday Night Music Club"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 7)"
+    },
+    "Sia": {
+      "albums": [
+        "Colour The Small One",
+        "Some People Have Real Problems",
+        "We Are Born [+video] [+digital booklet] (Amazon MP3 Exclusive Version)"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Sidney Bechet": {
+      "albums": [
+        "Si tu vois ma mère (From the Movie Midnight in Paris)"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Sigur Ros": {
+      "albums": [
+        "Hvarf - Heim",
+        "Med sud I eyrum vid spilum endalaust",
+        "Takk.._"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Sigur Rós": {
+      "albums": [
+        "Ágætis Byrjun",
+        "Hlemmur",
+        "Hvarf - Heim",
+        "Hvarf-Heim [Disc 1] (Hvarf)",
+        "Hvarf-Heim [Disc 2] (Heim)",
+        "Med sud I eyrum vid spilum endalaust",
+        "Með Suð Í Eyrum Við Spilum Endalaust",
+        "Takk.._",
+        "The Peel Sessions",
+        "Von"
+      ],
+      "album_count": 10,
+      "scenes": [
+        "post-rock",
+        "icelandic"
+      ],
+      "era": "1994-now",
+      "genre": "post-rock",
+      "tagged": true
+    },
+    "Simon & Garfunkel": {
+      "albums": [
+        "The Concert In Central Park",
+        "The Concert in Central Park_20 Greatest",
+        "The Concert in Central Park-20 Greatest Hits Disc 2"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Sin Bandera": {
+      "albums": [
+        "Sin Bandera"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 5)"
+    },
+    "Sixteen Horsepower": {
+      "albums": [
+        "Folklore",
+        "Hoarse",
+        "Low estate",
+        "Low Estate (Nouvelle)",
+        "Low Estate Tour Promo",
+        "Olden",
+        "Sackcloth 'n' Ashes",
+        "Secret South"
+      ],
+      "album_count": 8,
+      "scenes": [
+        "gothic-americana"
+      ],
+      "era": "1992-2005",
+      "genre": "gothic americana",
+      "tagged": true
+    },
+    "Skinny Puppy": {
+      "albums": [
+        "Too Dark Park"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "industrial",
+        "ebm",
+        "wax-trax"
+      ],
+      "era": "1982-now",
+      "genre": "industrial / EBM",
+      "note": " (lane confirmed by Chris)"
+    },
+    "Soledad Bravo": {
+      "albums": [
+        "21 Temas Románticos"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "latin-american",
+        "nueva-cancion"
+      ],
+      "era": "1970s-now",
+      "genre": "nueva canción",
+      "tagged": true
+    },
+    "Son Volt": {
+      "albums": [
+        "Straightaways",
+        "Trace"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Sondre Lerche": {
+      "albums": [
+        "Phantom Punch"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Sondre Lerche and the Faces Down": {
+      "albums": [
+        "Phantom Punch"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Sonny Terry with Johnny Winter& Willie D": {
+      "albums": [
+        "Whoopin'"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Sonny Terry with Johnny Winter& Willie Dixon": {
+      "albums": [
+        "Whoopin'"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Soul Position": {
+      "albums": [
+        "8 Million Stories"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Soundgarden": {
+      "albums": [
+        "Rusty Cage",
+        "Superunknown"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Starfucker": {
+      "albums": [
+        "Reptilians"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Steely Dan": {
+      "albums": [
+        "A Decade of Steely Dan"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Stereolab": {
+      "albums": [
+        "Chemical Chords",
+        "Dots and Loops"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Steve Earle": {
+      "albums": [
+        "El Corazón",
+        "I Feel Alright",
+        "Ill Never Get Out of This World Alive",
+        "Jerusalem",
+        "Sidetracks",
+        "Transcendental Blues"
+      ],
+      "album_count": 6,
+      "scenes": [
+        "alt-country",
+        "outlaw-country"
+      ],
+      "era": "1986-now",
+      "genre": "alt country",
+      "tagged": true
+    },
+    "Steve Earle & The Dukes": {
+      "albums": [
+        "Terraplane"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Steve Earle & The Dukes (& Duchesses)": {
+      "albums": [
+        "The Low Highway"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Steve Earle-The Del McCoury Band": {
+      "albums": [
+        "The Mountain"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "alt-country",
+        "bluegrass"
+      ],
+      "era": "1999",
+      "genre": "bluegrass / country",
+      "tagged": true
+    },
+    "Steve Fowler": {
+      "albums": [
+        "The Last Blue Sky"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "unknown sole-entry, confirmed by Chris (meta-question)"
+    },
+    "Steve Turre": {
+      "albums": [
+        "Right There"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 10)"
+    },
+    "Stevie Ray Vaughan and Double Trouble": {
+      "albums": [
+        "Live Alive",
+        "Live at Carnegie Hall"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Stevie Wonder": {
+      "albums": [
+        "Song Review_ A Greatest Hits Collection",
+        "Song Review- A Greatest Hits Collection Disc 2"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Sting": {
+      "albums": [
+        "At the Movies",
+        "Brand New Day",
+        "Mercury Falling",
+        "Nothing Like the Sun",
+        "The Dream Of The Blue Turtles",
+        "Unknown Album",
+        "You Still Touch Me [#2]"
+      ],
+      "album_count": 7,
+      "tagged": false
+    },
+    "Strength in Numbers": {
+      "albums": [
+        "The Telluride Sessions"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "bluegrass",
+        "newgrass"
+      ]
+    },
+    "Sufjan Stevens": {
+      "albums": [
+        "Come On Feel The Illinoise!",
+        "Greetings From Michigan_ The Great Lakes",
+        "Greetings From Michigan_ The Great Lakes State",
+        "Happy Birthday to You - Disc 4"
+      ],
+      "album_count": 4,
+      "tagged": false
+    },
+    "Swollen Members": {
+      "albums": [
+        "Bad Dreams"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "TV On The Radio": {
+      "albums": [
+        "Dear Science",
+        "Return To Cookie Mountain"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Taj Mahal & Toumani Diabate": {
+      "albums": [
+        "Kulanjan"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Talib Kweli": {
+      "albums": [
+        "Quality"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "conscious-hiphop",
+        "rawkus"
+      ],
+      "era": "1998-now",
+      "genre": "hip-hop",
+      "tagged": true
+    },
+    "Talib Kweli & Hi Tek": {
+      "albums": [
+        "Reflection Eternal"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "conscious-hiphop",
+        "rawkus",
+        "reflection-eternal"
+      ],
+      "era": "2000",
+      "genre": "hip-hop",
+      "tagged": true
+    },
+    "Talking Heads": {
+      "albums": [
+        "Once In A Lifetime The Talking Heads Box (US Release)",
+        "Popular Favorites 1976-1992 Sand In The Vaseline",
+        "Remain In Light",
+        "The Best Of Talking Heads (US Release)",
+        "The Name Of This Band Is Talking Heads (Expanded Version)"
+      ],
+      "album_count": 5,
+      "tagged": false
+    },
+    "Tarbox Ramblers": {
+      "albums": [
+        "A Fix Back East"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "bluegrass"
+      ]
+    },
+    "Tea Leaf Green": {
+      "albums": [
+        "2005-03-11 - Mystic Theatre"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Tegan & Sara": {
+      "albums": [
+        "So Jealous",
+        "The Con"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Tenacious D": {
+      "albums": [
+        "Tenacious D"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Tha Liks": {
+      "albums": [
+        "X.O. Experience"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The Allman Brothers Band": {
+      "albums": [
+        "The Road Goes On Forever"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The Band": {
+      "albums": [
+        "The Last Waltz"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The Beat Junkies": {
+      "albums": [
+        "The World Famous Beat Junkies, Vol. 2 Di",
+        "The World Famous Beat Junkies, Vol. 2 Disc 1",
+        "The World Famous Beat Junkies, Vol. 2 Disc 2"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "The Beatles": {
+      "albums": [
+        "Abbey Road (2009 Stereo Remast",
+        "Help! [UK]",
+        "The Beatles Disc 1 (2009 Stere",
+        "The Beatles Disc 2 (2009 Stere"
+      ],
+      "album_count": 4,
+      "tagged": false
+    },
+    "The Beta Band": {
+      "albums": [
+        "Heroes To Zeros"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "scottish-indie",
+        "folktronica"
+      ],
+      "era": "1996-2004",
+      "genre": "indie"
+    },
+    "The Bird And The Bee": {
+      "albums": [
+        "The Bird And The Bee"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 6)"
+    },
+    "The Black Keys": {
+      "albums": [
+        "Attack & Release",
+        "El Camino",
+        "Thickfreakness"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "The Bravery": {
+      "albums": [
+        "The Bravery"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 5)"
+    },
+    "The Braxton Brothers": {
+      "albums": [
+        "Steppin' Out"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 4)"
+    },
+    "The Byrds": {
+      "albums": [
+        "Sweetheart of the Rodeo",
+        "Unknown Album (8_20_2007 3_55_37 PM)"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "The Chemical Brothers": {
+      "albums": [
+        "Exit Planet Dust"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The Clash": {
+      "albums": [
+        "Combat Rock",
+        "Crucial Music - The Clash Collection",
+        "Cut The Crap",
+        "Give 'em Enough Rope",
+        "Live at Shea Stadium",
+        "Live  From Here to Eternity",
+        "London Calling",
+        "Sandinista! (Disc 1)",
+        "Sandinista! Disc 1",
+        "Sandinista! (Disc 2)",
+        "Sandinista! Disc 2",
+        "Story of the Clash, Vol. 1 Disc 1",
+        "Super Black Market Clash",
+        "The Clash",
+        "The Clash [US]",
+        "The Singles",
+        "The Story of the Clash, Vol I",
+        "This is England"
+      ],
+      "album_count": 18,
+      "scenes": [
+        "british-punk"
+      ],
+      "era": "1976-1986",
+      "genre": "punk",
+      "tagged": true
+    },
+    "The Commodores": {
+      "albums": [
+        "the_best_of_the_commodores"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The Company Band": {
+      "albums": [
+        "Its a Confusing World Not Fragile",
+        "Pros & Cons",
+        "Sign Here, Here, and Here",
+        "The Company Band [Explicit]"
+      ],
+      "album_count": 4,
+      "tagged": false
+    },
+    "The Cult": {
+      "albums": [
+        "Ceremony"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 6)"
+    },
+    "The Cure": {
+      "albums": [
+        "High [US #2]"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 6)"
+    },
+    "The Dave Matthews Band": {
+      "albums": [
+        "Remember Two Things"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The Departed Soundtrack": {
+      "albums": [
+        "Music From The Motion Picture The Depart",
+        "Music From The Motion Picture The Departed"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "The Derek Trucks Band": {
+      "albums": [
+        "Joyful Noise"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The Dining Rooms": {
+      "albums": [
+        "Numero Deux"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The Disposable Heroes of Hiphoprisy": {
+      "albums": [
+        "Hypocrisy Is the Greatest Luxury"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The Dresden Dolls": {
+      "albums": [
+        "Dresden Dolls"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The Egg": {
+      "albums": [
+        "Forwards"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The Flaming Lips": {
+      "albums": [
+        "At War With The Mystics",
+        "Embryonic",
+        "The Soft Bulletin",
+        "Yoshimi Battles The Pink Robots"
+      ],
+      "album_count": 4,
+      "tagged": false
+    },
+    "The Fools": {
+      "albums": [
+        "Wake Up ... It's Alive!!!"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "80s-novelty-rock"
+      ],
+      "note": "authentic novelty/comedy-rock lane"
+    },
+    "The Glitch Mob": {
+      "albums": [
+        "Drink The Sea"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The Grateful Dead": {
+      "albums": [
+        "Live-Dead"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The Handsome Family": {
+      "albums": [
+        "Honey Moon",
+        "Singing Bones",
+        "Through the Trees [Explicit]"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "The Herbaliser": {
+      "albums": [
+        "Something Wicked This Way Comes",
+        "Take London",
+        "Take London - Bonus Disc"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "The Hold Steady": {
+      "albums": [
+        "Stay Positive",
+        "Unknown Album"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "The Hoodoo Kings": {
+      "albums": [
+        "The Hoodoo Kings"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The JP's": {
+      "albums": [
+        "Testament CD1",
+        "Testament CD2",
+        "Testament CD3"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "The Klezmatics": {
+      "albums": [
+        "Jews with Horns"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "klezmer",
+        "jewish-roots"
+      ],
+      "note": "lane confirmed by Chris (\"Balkan and klezmer\")"
+    },
+    "The Last Emperor": {
+      "albums": [
+        "Music, Magic, Myth [Bonus CD] Disc 1",
+        "Music, Magic, Myth [Bonus CD] Disc 2"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "The London Film Score Orchestra": {
+      "albums": [
+        "The Directors Choice The Coen Brothers"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 11)"
+    },
+    "The Lounge Lizards": {
+      "albums": [
+        "Queen of All Ears"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The Lumineers": {
+      "albums": [
+        "The Lumineers"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 6)"
+    },
+    "The Lushlife Project": {
+      "albums": [
+        "Budapest Eskimos"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "indie-hiphop"
+      ]
+    },
+    "The Magnetic Fields": {
+      "albums": [
+        "Get Lost",
+        "The Charm Of The Highway Strip"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "The Mars Volta": {
+      "albums": [
+        "Noctourniquet",
+        "The Bedlam In Goliath"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "The Microphones": {
+      "albums": [
+        "The Glow, pt. 2"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The Neville Brothers": {
+      "albums": [
+        "Uptown Rulin'_ The Best of the Neville B"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The Nextmen": {
+      "albums": [
+        "This Was Supposed to Be the Future"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The Notwist": {
+      "albums": [
+        "Neon Golden",
+        "The Devil, You + Me"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "The Other Ones": {
+      "albums": [
+        "The Strange Remain Disc 1",
+        "The Strange Remain Disc 2"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "The Pharcyde": {
+      "albums": [
+        "Bizarre Ride II the Pharcyde",
+        "Labcabincalifornia"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "The Pogues": {
+      "albums": [
+        "If I Should Fall From Grace With God [Ex",
+        "Rum Sodomy & the Lash"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "The Posies": {
+      "albums": [
+        "Every Kind of Light"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 7b)"
+    },
+    "The Postal Service": {
+      "albums": [
+        "Give Up"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The Pursuit of Happiness": {
+      "albums": [
+        "Love Junk [Bonus Track]"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 10)"
+    },
+    "The Raconteurs": {
+      "albums": [
+        "Consolers of the Lonely"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The Red Hot Chili Peppers": {
+      "albums": [
+        "Freaky Styley"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The Rembrandts": {
+      "albums": [
+        "Greatest Hits"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 3)"
+    },
+    "The Rippingtons": {
+      "albums": [
+        "The Best of the Rippingtons"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 4)"
+    },
+    "The Rolling Stones": {
+      "albums": [
+        "L_A_ Forum (Live_ 1975)",
+        "Let It Bleed"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "classic-rock"
+      ],
+      "era": "1962-now",
+      "genre": "rock",
+      "tagged": true
+    },
+    "The Seldom Scene": {
+      "albums": [
+        "The Best of The Seldom Scene"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "bluegrass"
+      ]
+    },
+    "The Smithereens": {
+      "albums": [
+        "Anthology_ From Jersey It Came",
+        "From Jersey It Came! The Smithereens Ant",
+        "Green Thoughts",
+        "The Best Of The Smithereens"
+      ],
+      "album_count": 4,
+      "tagged": false
+    },
+    "The Soul Stirrers": {
+      "albums": [
+        "Heaven Is My Home"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The Steeldrivers": {
+      "albums": [
+        "Live 11-08-2006",
+        "Reckless [+Digital Booklet]"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "The Streets": {
+      "albums": [
+        "a grand don't come for free",
+        "Original Pirate Material",
+        "The Hardest Way To Make An Easy Living"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "The String Cheese Incident": {
+      "albums": [
+        "A String Cheese Incident Live",
+        "'Round the Wheel"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "The Sword": {
+      "albums": [
+        "High Country"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "stoner-metal"
+      ],
+      "era": "2003-2018",
+      "genre": "stoner metal"
+    },
+    "The The": {
+      "albums": [
+        "Infected",
+        "Mind Bomb"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "The Tribe": {
+      "albums": [
+        "Abort"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "world"
+      ],
+      "era": "unknown",
+      "genre": "world (verify)",
+      "tagged": true
+    },
+    "The X-Ecutioners": {
+      "albums": [
+        "Built From Scratch [Bonus Tracks]",
+        "Revolutions"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "The xx": {
+      "albums": [
+        "Coexist"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "TheBeatles-WhiteAbum-2009StereoRemaster": {
+      "albums": [
+        "Disc 1",
+        "Disc 2"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Them Crooked Vultures": {
+      "albums": [
+        "Them Crooked Vultures"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "They Might Be Giants": {
+      "albums": [
+        "Flood"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "alt-rock-canon"
+      ],
+      "note": "sole canon — passes canon-tolerance test"
+    },
+    "Thievery Corporation": {
+      "albums": [
+        "Abductions and Reconstructions",
+        "Babylon Rewound",
+        "Culture of Fear",
+        "Radio Retaliation",
+        "Radio Retaliation Extras",
+        "Sounds from the Thievery Hi-Fi [Bonus Tr",
+        "Sounds from the Thievery Hi-Fi [Bonus Tracks]",
+        "The Cosmic Game",
+        "The Mirror Conspiracy",
+        "The Outernational Sound",
+        "The Richest Man in Babylon",
+        "Versions"
+      ],
+      "album_count": 12,
+      "scenes": [
+        "trip-hop",
+        "dub-electronic"
+      ],
+      "era": "1995-now",
+      "genre": "trip-hop / downtempo",
+      "tagged": true
+    },
+    "Threebrain": {
+      "albums": [
+        "Fetus Trackstar!",
+        "Weeeeee!"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Timbaland": {
+      "albums": [
+        "Shock Value [Explicit]"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 11)"
+    },
+    "Tito Puente": {
+      "albums": [
+        "King of Kings The Very Best of Tito Puente"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Tom Waits": {
+      "albums": [
+        "alice",
+        "Bad As Me",
+        "Big Time",
+        "Blood money",
+        "Blue Valentine",
+        "Bone Machine",
+        "Closing Time",
+        "Foreign Affairs",
+        "Franks Wild Years",
+        "Glitter And Doom Live [Deluxe Edition]",
+        "Heartattack And Vine",
+        "Mule Variations",
+        "Nighthawks At The Diner",
+        "Orphans",
+        "Rain Dogs",
+        "Real Gone",
+        "Small Change",
+        "Swordfishtrombones",
+        "The Black Rider",
+        "The Heart Of Saturday Night"
+      ],
+      "album_count": 20,
+      "scenes": [
+        "art-pop",
+        "americana",
+        "outsider"
+      ],
+      "era": "1973-now",
+      "genre": "art-rock / americana",
+      "tagged": true,
+      "anchor": true,
+      "anchor_note": "Foundational anchor — art-rock/Americana/outsider centerpiece"
+    },
+    "Tomahawk": {
+      "albums": [
+        "Anonymous",
+        "Tomahawk"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Tony Bennett": {
+      "albums": [
+        "For Once In My Life",
+        "The Essential Tony Bennett [Columbia_Leg",
+        "The Essential Tony Bennett [Columbia-Legacy] Disc 1",
+        "Unknown Album (8_21_2007 9_25_05 PM)"
+      ],
+      "album_count": 4,
+      "tagged": false
+    },
+    "Tony Rice Unit": {
+      "albums": [
+        "Backwaters",
+        "Unit Of Measure"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Tool": {
+      "albums": [
+        "10,000_days",
+        "Ænima",
+        "Lateralus",
+        "Opiate [UK]",
+        "Salival [CD-DVD]",
+        "Undertow"
+      ],
+      "album_count": 6,
+      "scenes": [
+        "progressive-metal",
+        "alt-rock-90s"
+      ],
+      "era": "1990-now",
+      "genre": "progressive metal",
+      "tagged": true
+    },
+    "Tor": {
+      "albums": [
+        "cn_tower_mp3",
+        "Illinoize",
+        "Illinoize (instrumentals)"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Tori Amos": {
+      "albums": [
+        "Little Earthquakes"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "art-rock-canon"
+      ],
+      "note": "sole canon — passes"
+    },
+    "Toshinori Kondo & DJ Krush": {
+      "albums": [
+        "Ki-Oku"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "mo-wax",
+        "jazz-electronic"
+      ],
+      "era": "1990s",
+      "genre": "jazz/electronic crossover",
+      "tagged": true
+    },
+    "Tracy Chapman": {
+      "albums": [
+        "Let It Rain"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "folk-pop"
+      ],
+      "era": "1988-now",
+      "genre": "folk",
+      "note": " (lane confirmed by Chris)"
+    },
+    "Trey Anastasio": {
+      "albums": [
+        "Plasma",
+        "Seis de Mayo"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Trey Anastasio Band": {
+      "albums": [
+        "5.31.03 The Warfield. San Fran, CA",
+        "5.31.03 The Warfield. San Fran, CA Disc",
+        "5.31.03 The Warfield. San Fran, CA Disc 2"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Trombone Shorty": {
+      "albums": [
+        "Backatown"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Two Ton Shoe": {
+      "albums": [
+        "Figures"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "unknown sole-entry, confirmed by Chris (meta-question)"
+    },
+    "U2": {
+      "albums": [
+        "The Best of 1980-1990"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 3)"
+    },
+    "UB40": {
+      "albums": [
+        "Labour of Love"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 11)"
+    },
+    "Ulrich Schnauss": {
+      "albums": [
+        "A Strangely Isolated Place",
+        "Far Away Trains Passing By"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Umphrey's McGee": {
+      "albums": [
+        "2004-06-11 Bonnaroo",
+        "2005-03-12 Langerado Festival - Sunrise,",
+        "2005-03-12 Langerado Festival - Sunrise, FL"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Un Solo Pueblo": {
+      "albums": [
+        "UN SOLO PUEBLO 20 AÑOS"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 13 — Latin sweep)"
+    },
+    "Underworld": {
+      "albums": [
+        "Oblivion With Bells"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 12)"
+    },
+    "Urban Dance Squad": {
+      "albums": [
+        "Life 'n Perspective of a Genuine Crossov",
+        "Life 'n Perspective of a Genuine Crossover Disc 1",
+        "Mental Floss for the Globe [Bonus Disc]",
+        "Mental Floss for the Globe [Bonus Disc] Disc 1"
+      ],
+      "album_count": 4,
+      "tagged": false
+    },
+    "Van Morrison": {
+      "albums": [
+        "Astral Weeks",
+        "His Band and the Street Choir",
+        "It's Too Late to Stop Now Disc 1",
+        "It's Too Late to Stop Now Disc 2",
+        "Moondance",
+        "T.B. Sheets",
+        "Tupelo Honey"
+      ],
+      "album_count": 7,
+      "tagged": false
+    },
+    "Various": {
+      "albums": [
+        "Beyond Istanbul - Underground Grooves Of",
+        "Scotland",
+        "Unknown Album (8_18_2007 12_25_06 AM)"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Vast Aire": {
+      "albums": [
+        "Look Mom... No Hands"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Vince Guaraldi": {
+      "albums": [
+        "A Charlie Brown Christmas"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "jazz-piano-canon"
+      ],
+      "era": "1955-1976",
+      "genre": "jazz piano",
+      "note": "foundational jazz piano — fits Mehldau/Goldberg/Aaron Goldberg lane"
+    },
+    "Vishwa Mohan Bhatt With Bela Fleck and J": {
+      "albums": [
+        "Tabula Rasa"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Vishwa Mohan Bhatt With Bela Fleck and Jie Bing Chen": {
+      "albums": [
+        "Tabula Rasa"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Vishwa Mohan Bhatt-Jerry Douglas": {
+      "albums": [
+        "Bourbon & Rosewater"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "world",
+        "indo-american"
+      ],
+      "era": "2000s",
+      "genre": "world / fusion",
+      "tagged": true
+    },
+    "Visionaries": {
+      "albums": [
+        "Galleries"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Volbeat": {
+      "albums": [
+        "Outlaw Gentlemen & Shady Ladies"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "WEATHERMEN": {
+      "albums": [
+        "Torrent downloaded from Demonoid.com.txt",
+        "Weathermen-The_Conspiracy-(Retail)-2003-CMS"
+      ],
+      "album_count": 2,
+      "tagged": false
+    },
+    "Warren Zevon - I'll Sleep When I'm Dead (An Anthology)": {
+      "albums": [
+        "Disc 1",
+        "Disc 2",
+        "Warren Zevon - I'll Sleep When I'm Dead Scans"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Waylon Jennings": {
+      "albums": [
+        "Honky Tonk Heroes"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Weather Report": {
+      "albums": [
+        "8-30"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Ween": {
+      "albums": [
+        "12 Golden Country Greats"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "Weird Little Boy": {
+      "albums": [
+        "Weird Little Boy"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "unknown sole-entry, confirmed by Chris (meta-question)"
+    },
+    "White Zombie": {
+      "albums": [
+        "La Sexorcisto- Devil Music, Vol. 1"
+      ],
+      "album_count": 1,
+      "tagged": true,
+      "scenes": [
+        "industrial-metal"
+      ],
+      "era": "1985-1996",
+      "genre": "industrial metal",
+      "note": " (lane confirmed by Chris)"
+    },
+    "Widespread Panic": {
+      "albums": [
+        "Dirty Side Down",
+        "Jackassolantern",
+        "Night Of Joy"
+      ],
+      "album_count": 3,
+      "tagged": false
+    },
+    "Wilco": {
+      "albums": [
+        "Summerteeth",
+        "Wilco-A_Ghost_Is_Born-2004-EMG_INT",
+        "Wilco (The Album)",
+        "Wilco-Yankee_Hotel_Foxtrot-2002-EMG_INT"
+      ],
+      "album_count": 4,
+      "tagged": false
+    },
+    "William Orbit": {
+      "albums": [
+        "The Best of Strange Cargos"
+      ],
+      "album_count": 1,
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 9)"
+    },
+    "William S. Burroughs": {
+      "albums": [
+        "spare_ass_annie",
+        "Spare Ass Annie and Other Tales"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "beat-spoken-word"
+      ],
+      "era": "1960s-1990s",
+      "genre": "spoken word / beat",
+      "tagged": true
+    },
+    "Willie Nelson": {
+      "albums": [
+        "Stardust"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "outlaw-country"
+      ],
+      "era": "1962-now",
+      "genre": "country",
+      "tagged": true
+    },
+    "Willie Nelson-Waylon Jennings": {
+      "albums": [
+        "Original Outlaws"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "outlaw-country"
+      ],
+      "era": "1976-now",
+      "genre": "country",
+      "tagged": true
+    },
+    "Willy Porter": {
+      "albums": [
+        "Falling Forward",
+        "How To Rob A Bank",
+        "Willy Porter Live"
+      ],
+      "album_count": 3,
+      "scenes": [
+        "singer-songwriter"
+      ],
+      "era": "1990s-now",
+      "genre": "acoustic singer-songwriter",
+      "tagged": true
+    },
+    "Wovenhand": {
+      "albums": [
+        "Consider the Birds",
+        "Mosaic",
+        "Ten Stones",
+        "Blush Music",
+        "Woven Hand"
+      ],
+      "album_count": 5,
+      "scenes": [
+        "gothic-americana",
+        "16hp-orbit"
+      ],
+      "era": "2002-now",
+      "genre": "gothic americana",
+      "tagged": true
+    },
+    "Wrecking Crew": {
+      "albums": [
+        "Balance of Terror"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "session-musicians"
+      ],
+      "era": "1960s",
+      "genre": "session musicians",
+      "tagged": true
+    },
+    "XTC": {
+      "albums": [
+        "Nonsuch"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "british-new-wave"
+      ],
+      "era": "1977-2005",
+      "genre": "art rock / new wave",
+      "tagged": true
+    },
+    "Xx": {
+      "albums": [
+        "The XX"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "minimal-indie"
+      ],
+      "era": "2009-now",
+      "genre": "indie / dream pop",
+      "tagged": true
+    },
+    "Xzibit": {
+      "albums": [
+        "Restless"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "west-coast-hiphop"
+      ],
+      "era": "1990s-2000s",
+      "genre": "hip-hop",
+      "tagged": true
+    },
+    "Yael Naïm": {
+      "albums": [
+        "Yael Naïm"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "french-israeli",
+        "folk-pop"
+      ],
+      "era": "2007-now",
+      "genre": "folk pop",
+      "tagged": true
+    },
+    "Yerba Buena": {
+      "albums": [
+        "President Alien"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "nu-latin",
+        "world"
+      ],
+      "era": "2003-now",
+      "genre": "latin / world",
+      "tagged": true
+    },
+    "Yes": {
+      "albums": [
+        "Big Generator"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "prog-rock"
+      ],
+      "era": "1968-now",
+      "genre": "prog rock",
+      "tagged": true,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (round 1)"
+    },
+    "Yo-Yo Ma": {
+      "albums": [
+        "Obrigado Brazil"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "classical-crossover"
+      ],
+      "era": "1979-now",
+      "genre": "classical / crossover",
+      "tagged": true
+    },
+    "Yo-Yo Ma-Edgar Meyer-Mark O'Connor": {
+      "albums": [
+        "Appalachian Journey"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "classical-crossover",
+        "appalachian"
+      ],
+      "era": "2000s",
+      "genre": "classical / appalachian",
+      "tagged": true
+    },
+    "Young The Giant": {
+      "albums": [
+        "Young The Giant (Special Edition)"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "indie-rock-2010s"
+      ],
+      "era": "2009-now",
+      "genre": "indie rock",
+      "tagged": true
+    },
+    "Z-Trip": {
+      "albums": [
+        "All Pro"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "turntablism"
+      ],
+      "era": "2000s",
+      "genre": "turntablism",
+      "tagged": true
+    },
+    "Zap Mama": {
+      "albums": [
+        "Ancestry in Progress",
+        "Ancestry in Progress bonus CD"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "afro-european",
+        "world"
+      ],
+      "era": "1991-now",
+      "genre": "afro-pop / a cappella",
+      "tagged": true
+    },
+    "Zero 7": {
+      "albums": [
+        "Simple Things",
+        "The Garden",
+        "When It Falls",
+        "Yeah Ghost"
+      ],
+      "album_count": 4,
+      "scenes": [
+        "trip-hop",
+        "downtempo"
+      ],
+      "era": "2001-now",
+      "genre": "downtempo / trip-hop",
+      "tagged": true
+    },
+    "cEvin Key_Ken Marshall": {
+      "albums": [
+        "The Dragon Experience"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "cLOUDDEAD": {
+      "albums": [
+        "clouddead",
+        "ten"
+      ],
+      "album_count": 2,
+      "scenes": [
+        "anticon",
+        "underground-hiphop"
+      ],
+      "era": "2001-2004",
+      "genre": "experimental hip-hop",
+      "tagged": true
+    },
+    "dangerdoom": {
+      "albums": [
+        "the_mouse_and_the_mask"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "dirty projectors": {
+      "albums": [
+        "Bitte Orca"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "moe_": {
+      "albums": [
+        "Wormwood"
+      ],
+      "album_count": 1,
+      "tagged": false
+    },
+    "The A-Team": {
+      "albums": [
+        "Who Framed the A-Team-"
+      ],
+      "album_count": 1,
+      "scenes": [
+        "project-blowed",
+        "underground-hiphop"
+      ],
+      "era": "2010s",
+      "genre": "underground hip-hop",
+      "tagged": true,
+      "note": "Aceyalone & Abstract Rude duo — corrected by Chris"
+    }
+  },
+  "compilations": {
+    "various_artists_albums": [
+      "20 Gospel Greats",
+      "20 Sweet Soul Classics",
+      "Afro-Latin Party",
+      "Afterhours 3- Mixed Disc 1",
+      "Afterhours 3- Mixed Disc 2",
+      "Afterhours 3- Mixed Disc 3",
+      "All Star Funk",
+      "Appalachian Stomp- Bluegrass Classics",
+      "Austin City Limits Music Festival_ 2006",
+      "Austin City Limits Music Festival- 2006 Disc 1",
+      "Austin City Limits Music Festival- 2006 Disc 2",
+      "Best of Chillout Past and Present",
+      "beyond_istanbul_-_underground_grooves_of_turkey",
+      "Brasil 2Mil- The Soul of Bass-O-Nova",
+      "Cool Runnings",
+      "Dan In Real Life (Original Motion Pictur",
+      "Deep Concentration, Vol. 2_ Deeper Conce",
+      "Deep Concentration, Vol. 2- Deeper Concentration",
+      "Definitive Jux Presents, Vol. 3 [Bonus D",
+      "Definitive Jux Presents, Vol. 3 [Bonus DVD]",
+      "Different Mozart",
+      "Down from the Mountain_ O Brother, Where",
+      "Down from the Mountain- O Brother, Where Art Thou-",
+      "Drew's Famous Bachlorette Party",
+      "Dub Anthology Disc 1",
+      "Dub Anthology Disc 2",
+      "Dub Anthology Disc 3",
+      "Dub Anthology Disc 4",
+      "Dubbed Out in DC",
+      "Essential Lounge, Vol. 2 Disc 1",
+      "Essential Lounge, Vol. 2 Disc 2",
+      "Essential Selection, Vol. 1 Disc 1",
+      "Essential Selection, Vol. 1 Disc 2",
+      "Forever Phishin_ The Bluegrass Tribute t",
+      "Forever Phishin- The Bluegrass Tribute to Phish Disc 1",
+      "Frequent Flyer- Barcelona Disc 1",
+      "Frequent Flyer- Barcelona Disc 2",
+      "Frequent Flyer- Buenos Aires Disc 1",
+      "Frequent Flyer- Buenos Aires Disc 2",
+      "Frequent Flyer- First Class Disc 1",
+      "Frequent Flyer- First Class Disc 2",
+      "Frequent Flyer- Havana Disc 1",
+      "Frequent Flyer- Havana Disc 2",
+      "Funky Precedent",
+      "Indian Boogie",
+      "january sampler 2005",
+      "Jen's Music for Cooking",
+      "Midnight in Paris (Music from the Motion Picture)",
+      "Motown Chartbusters, Vol. 7",
+      "Oldies",
+      "One Big Trip",
+      "Pure Funk",
+      "Putumayo Presents- Asian Lounge",
+      "Putumayo Presents- Gypsy Caravan",
+      "Samba Brasil",
+      "Sam Cooke's SAR Records Story (Disc 1)",
+      "Soundbombing, Vol. 2",
+      "Speakerboxx_The Love Below",
+      "Surrender to the Air",
+      "The Chillout Session [2002] Disc 1",
+      "The Chillout Session [2002] Disc 2",
+      "The Chillout Session, Vol. 2 Disc 1",
+      "The Chillout Session, Vol. 2 Disc 2",
+      "There's a Riot Goin' On! The Rock 'N' Ro",
+      "Top of the Hill Bluegrass",
+      "Ultra-Lounge, Vol. 2- Mambo Fever",
+      "Ultra-Lounge, Vol. 4_ Bachelor Pad Royal",
+      "Ultra-Lounge, Vol. 4- Bachelor Pad Royale",
+      "Verve Remixed",
+      "We Thankful for What You._"
+    ],
+    "soundtracks": [
+      "Aladdin [Original Soundtrack] [Disney] [",
+      "Aladdin [Original Soundtrack] [Disney] [1992]",
+      "All the Pretty Horses [Original Soundtra",
+      "All the Pretty Horses [Original Soundtrack]",
+      "Great Expectations [Original Soundtrack]",
+      "Judgment Night",
+      "Kill Bill, Vol. 2",
+      "Layer Cake",
+      "Man of La Mancha [2002 Broadway Revival",
+      "Man of La Mancha [2002 Broadway Revival Cast]",
+      "Zero Effect"
+    ],
+    "discarded": [
+      "Drew's Famous Bachlorette Party",
+      "20 Gospel Greats",
+      "20 Sweet Soul Classics",
+      "Oldies",
+      "Motown Chartbusters, Vol. 7",
+      "january sampler 2005",
+      "There's a Riot Goin' On! The Rock 'N' Ro",
+      "The Chillout Session [2002]",
+      "The Chillout Session, Vol. 2",
+      "Best of Chillout Past and Present",
+      "Dan In Real Life (Original Motion Pictur)",
+      "Afro-Latin Party",
+      "Afterhours 3 (full set, 6 dupe folders)",
+      "Essential Lounge, Vol. 2 (Disc 1+2)",
+      "Essential Selection, Vol. 1 (Disc 1+2)",
+      "One Big Trip",
+      "We Thankful for What You._",
+      "Cool Runnings"
+    ],
+    "confirmed_signal": [
+      "Pure Funk",
+      "All Star Funk"
+    ]
+  }
+}
