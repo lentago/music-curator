@@ -31,6 +31,7 @@ the `examples/` are a worked instance.
 | `examples/chris-music-profile.md` | A worked instance — Chris's distilled taste profile (anchors, signal lanes, exploration threads). The analog of reference-checker's `reports/`. |
 | `examples/music-inventory.json` | The cleaned, tagged data source the profile is built from. Schema is documented in the methodology's "Outputs produced" section. |
 | `examples/music-tree` | The raw library tree fed in, kept as an input fixture. |
+| `roadmap/roadmap.md` | Planned capabilities, grounded in threads from the original run (periodic Spotify harvest, streaming + collection merge, skill packaging). |
 
 ## Conventions to respect
 

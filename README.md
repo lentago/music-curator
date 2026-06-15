@@ -36,6 +36,7 @@ The heuristics that drive Phase 4 — high-confidence discard tells, a **canon-t
   - [`chris-music-profile.md`](examples/chris-music-profile.md) — the distilled taste profile: foundational anchors, confirmed signal lanes, threads queued for exploration.
   - [`music-inventory.json`](examples/music-inventory.json) — the cleaned, tagged data source the profile is built from.
   - [`music-tree`](examples/music-tree) — the raw library tree that was fed in, kept as an input fixture so the before/after is visible.
+- **[`roadmap/roadmap.md`](roadmap/roadmap.md)** — planned capabilities (periodic Spotify harvest, streaming + collection merge, packaging as a Claude skill), grounded in threads that surfaced during the original run.
 
 ## Origin
 
