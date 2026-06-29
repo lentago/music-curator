@@ -44,4 +44,4 @@ Distilled from a single long Claude conversation that started as "can Claude con
 
 ---
 
-*Part of the [PitziLabs](https://github.com/PitziLabs) portfolio of prompt-engineered systems — a sibling to [reference-checker](https://github.com/PitziLabs/reference-checker).*
+*Part of the [Lentago Labs](https://github.com/lentago) portfolio of prompt-engineered systems — a sibling to [reference-checker](https://github.com/lentago/reference-checker).*
