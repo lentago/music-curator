@@ -1,11 +1,11 @@
 {
   "meta": {
-    "total_unique_artists": 671,
+    "total_unique_artists": 666,
     "total_albums": 1342,
     "compilation_albums": 81,
     "unknown_artist_albums": 27,
-    "tagged_artists": 104,
-    "untagged_artists": 577,
+    "tagged_artists": 156,
+    "untagged_artists": 510,
     "cruft_removed": [
       {
         "folder": "Ringtone Heaven",
@@ -892,15 +892,6 @@
       "album_count": 1,
       "tagged": false
     },
-    "Brian EnoDavid Byrne": {
-      "albums": [
-        "My Life in the Bush of Ghosts"
-      ],
-      "album_count": 1,
-      "tagged": false,
-      "anchor": true,
-      "anchor_note": "Foundational anchor — David Byrne / Talking Heads / Eno collaborations"
-    },
     "Broken Bells": {
       "albums": [
         "Broken Bells [+Video]"
@@ -1496,18 +1487,10 @@
     },
     "David Byrne & Brian Eno": {
       "albums": [
-        "Everything That Happens Will Happen Today"
+        "Everything That Happens Will Happen Today",
+        "My Life in the Bush of Ghosts"
       ],
-      "album_count": 1,
-      "tagged": false,
-      "anchor": true,
-      "anchor_note": "Foundational anchor — David Byrne / Talking Heads / Eno collaborations"
-    },
-    "David Byrne and Brian Eno": {
-      "albums": [
-        "Everything That Happens Will Happen Toda"
-      ],
-      "album_count": 1,
+      "album_count": 2,
       "tagged": false,
       "anchor": true,
       "anchor_note": "Foundational anchor — David Byrne / Talking Heads / Eno collaborations"
