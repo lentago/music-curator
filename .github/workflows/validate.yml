@@ -1,0 +1,32 @@
+name: Validate inventory schema
+
+on:
+  push:
+    paths:
+      - "examples/music-inventory.json"
+      - "schema/music-inventory.schema.json"
+      - "validate.py"
+      - "requirements-validate.txt"
+  pull_request:
+    paths:
+      - "examples/music-inventory.json"
+      - "schema/music-inventory.schema.json"
+      - "validate.py"
+      - "requirements-validate.txt"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements-validate.txt
+
+      - name: Validate music-inventory.json
+        run: python validate.py examples/music-inventory.json

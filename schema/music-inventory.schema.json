@@ -1,0 +1,115 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "music-inventory.schema.json",
+  "title": "Music Inventory",
+  "description": "Schema for examples/music-inventory.json. Cross-field integrity checks (meta count reconciliation, album_count vs albums length, near-duplicate artist keys) are enforced by validate.py, not this schema.",
+  "type": "object",
+  "required": ["meta", "artists", "compilations"],
+  "additionalProperties": false,
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": [
+        "total_unique_artists",
+        "total_albums",
+        "compilation_albums",
+        "unknown_artist_albums",
+        "tagged_artists",
+        "untagged_artists",
+        "cruft_removed",
+        "triage_summary",
+        "notes_for_future"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "total_unique_artists": { "type": "integer", "minimum": 0 },
+        "total_albums":         { "type": "integer", "minimum": 0 },
+        "compilation_albums":   { "type": "integer", "minimum": 0 },
+        "unknown_artist_albums":{ "type": "integer", "minimum": 0 },
+        "tagged_artists":       { "type": "integer", "minimum": 0 },
+        "untagged_artists":     { "type": "integer", "minimum": 0 },
+        "cruft_removed": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["folder", "contents"],
+            "additionalProperties": false,
+            "properties": {
+              "folder":   { "type": "string" },
+              "contents": { "type": "array", "items": { "type": "string" } }
+            }
+          }
+        },
+        "triage_summary": {
+          "type": "object",
+          "required": [
+            "active_artists",
+            "discarded_artists",
+            "discarded_compilations",
+            "cruft_folders_removed",
+            "total_discard_rate_pct",
+            "rounds_run"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "active_artists":         { "type": "integer", "minimum": 0 },
+            "discarded_artists":      { "type": "integer", "minimum": 0 },
+            "discarded_compilations": { "type": "integer", "minimum": 0 },
+            "cruft_folders_removed":  { "type": "integer", "minimum": 0 },
+            "total_discard_rate_pct": { "type": "number",  "minimum": 0, "maximum": 100 },
+            "rounds_run":             { "type": "integer", "minimum": 0 }
+          }
+        },
+        "notes_for_future": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "artists": {
+      "type": "object",
+      "additionalProperties": { "$ref": "#/definitions/artist" }
+    },
+    "compilations": {
+      "type": "object",
+      "required": ["various_artists_albums", "soundtracks", "discarded"],
+      "additionalProperties": false,
+      "properties": {
+        "various_artists_albums": { "type": "array", "items": { "type": "string" } },
+        "soundtracks":            { "type": "array", "items": { "type": "string" } },
+        "discarded":              { "type": "array", "items": { "type": "string" } },
+        "confirmed_signal":       { "type": "array", "items": { "type": "string" } }
+      }
+    }
+  },
+  "definitions": {
+    "artist": {
+      "type": "object",
+      "required": ["albums", "album_count", "tagged"],
+      "additionalProperties": false,
+      "properties": {
+        "albums":        { "type": "array", "items": { "type": "string" } },
+        "album_count":   { "type": "integer", "minimum": 0 },
+        "tagged":        { "type": "boolean" },
+        "scenes":        { "type": "array",   "items": { "type": "string" }, "minItems": 1 },
+        "era":           { "type": "string" },
+        "genre":         { "type": "string" },
+        "discard":       { "type": "boolean" },
+        "discard_reason":{ "type": "string" },
+        "note":          { "type": "string" },
+        "anchor":        { "type": "boolean" },
+        "anchor_note":   { "type": "string" }
+      },
+      "allOf": [
+        {
+          "if":   { "properties": { "discard": { "const": true } }, "required": ["discard"] },
+          "then": { "required": ["discard_reason"] }
+        },
+        {
+          "if":   { "properties": { "anchor": { "const": true } }, "required": ["anchor"] },
+          "then": { "required": ["anchor_note"] }
+        }
+      ]
+    }
+  }
+}

@@ -5,9 +5,13 @@ what it adds, an implementation sketch, a priority, and dependencies. Items
 are grounded in threads that surfaced during the original triage run — not
 speculative feature-padding.
 
-**Status:** Planning. Nothing below is implemented yet. The methodology
-(`music-curation-methodology.md`) and the worked `examples/` are the current
-deliverable.
+**Status:** The methodology (`music-curation-methodology.md`) and worked
+`examples/` are the core deliverable. The items below are planned extensions.
+
+**Implemented:** Engineering spine (issue #4) — `schema/music-inventory.schema.json`
+(JSON Schema Draft 7 for structural validation) and `validate.py` (cross-field
+integrity checker + near-duplicate artist-key detection). CI runs the validator on
+every change to the inventory, schema, or validator itself (`.github/workflows/validate.yml`).
 
 ---
 
@@ -145,6 +149,8 @@ from a proven base, not a speculative one.
 
 ## Prioritized order
 
+0. **Engineering spine** ✅ — JSON Schema + validator; keeps the data source
+   self-consistent as it grows.
 1. **Periodic Spotify harvest** — where the original conversation pointed;
    converts a snapshot into a living data source.
 2. **Streaming + collection merge** — closes the historical-vs-current gap the
