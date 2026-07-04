@@ -1,5 +1,7 @@
 # Music Curator
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/lentago/music-curator)
+
 A prompt-engineered methodology for turning a low-effort dump of someone's music collection — a directory tree, a Spotify export, a plain list of artists — into a clean, queryable **taste profile** that a language model can mine for personalized discovery across conversations.
 
 **Authorship:** The methodology, documentation, and worked example in this repo are co-written with [Claude](https://claude.ai) (Anthropic). I direct the work and review the output; Claude writes the prompts and prose. I'm an infrastructure operator, not a software engineer — please don't read this repo as a portfolio of coding ability.
