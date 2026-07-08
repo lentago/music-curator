@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["warp", "instrumental-hiphop"]
+genre: "glitch hop"
+era: "2000s"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Prefuse 73
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[warp|Warp]] · [[instrumental-hiphop|Instrumental Hiphop]] · [[glitch hop]]
 
 ## Albums (2)
 - Everything She Touched Turned Ampexian

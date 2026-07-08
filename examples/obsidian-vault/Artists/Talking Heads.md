@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["new-wave", "art-rock", "post-punk"]
+genre: "new wave / art rock"
+era: "1970s-80s"
 album_count: 5
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Talking Heads
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[new-wave|New Wave]] · [[art-rock|Art Rock]] · [[post-punk|Post Punk]] · [[new wave]] · [[art rock]]
 
 ## Albums (5)
 - Once In A Lifetime The Talking Heads Box (US Release)

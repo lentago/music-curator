@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["world"]
+genre: "world fusion"
+era: "1990s"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Outback
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[world|World]] · [[world fusion]]
 
 ## Albums (1)
 - Baka

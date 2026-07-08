@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["uk-garage", "grime"]
+genre: "UK garage / rap"
+era: "2000s"
 album_count: 3
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # The Streets
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[uk-garage|Uk Garage]] · [[grime|Grime]] · [[UK garage]] · [[rap]]
 
 ## Albums (3)
 - a grand don't come for free

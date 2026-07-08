@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["turntablism"]
+genre: "turntablism"
+era: "1990s-now"
 album_count: 3
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # The Beat Junkies
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[turntablism|Turntablism]] · [[turntablism (2)|turntablism]]
 
 ## Albums (3)
 - The World Famous Beat Junkies, Vol. 2 Di

@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["power-pop", "jangle-pop"]
+genre: "power pop"
+era: "1980s-90s"
 album_count: 4
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # The Smithereens
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[power-pop|Power Pop]] · [[jangle-pop|Jangle Pop]] · [[power pop]]
 
 ## Albums (4)
 - Anthology From Jersey It Came

@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["blues-rock", "texas-blues"]
+genre: "blues rock"
+era: "1980s"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Stevie Ray Vaughan and Double Trouble
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[blues-rock|Blues Rock]] · [[texas-blues|Texas Blues]] · [[blues rock]]
 
 ## Albums (2)
 - Live Alive

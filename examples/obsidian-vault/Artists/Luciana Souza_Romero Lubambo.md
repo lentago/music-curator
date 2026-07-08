@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["world"]
+genre: "Brazilian jazz"
+era: "2000s"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Luciana Souza_Romero Lubambo
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[world|World]] · [[Brazilian jazz]]
 
 ## Albums (1)
 - Duos II

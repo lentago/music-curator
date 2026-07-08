@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["jam", "southern-rock"]
+genre: "jam"
+era: "1990s-now"
 album_count: 3
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Widespread Panic
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[jam|Jam]] · [[southern-rock|Southern Rock]] · [[jam (2)|jam]]
 
 ## Albums (3)
 - Dirty Side Down

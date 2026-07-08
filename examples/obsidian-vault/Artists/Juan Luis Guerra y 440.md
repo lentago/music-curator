@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["bachata", "latin-american"]
+genre: "bachata / merengue"
+era: "1990s-now"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Juan Luis Guerra y 440
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[bachata|Bachata]] · [[latin-american|Latin American]] · [[bachata (2)|bachata]] · [[merengue]]
 
 ## Albums (2)
 - Ni Es Lo Mismo Ni Es Igual

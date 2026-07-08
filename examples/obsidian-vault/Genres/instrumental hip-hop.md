@@ -1,12 +1,12 @@
 ---
 type: "genre"
-member_count: 5
+member_count: 6
 tags: ["genre"]
 ---
 
 # instrumental hip-hop
 
-*Genre — 5 artist(s) in the collection.*
+*Genre — 6 artist(s) in the collection.*
 
 ## Artists
 - [[Blockhead]]
@@ -14,3 +14,4 @@ tags: ["genre"]
 - [[DJ Krush]]
 - [[DJ Shadow]]
 - [[Rjd2]]
+- [[Tor]]

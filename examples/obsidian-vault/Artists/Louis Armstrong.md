@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["jazz-canon", "early-jazz"]
+genre: "jazz / vocal"
+era: "1920s-60s"
 album_count: 3
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Louis Armstrong
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[jazz-canon|Jazz Canon]] · [[early-jazz|Early Jazz]] · [[jazz]] · [[vocal]]
 
 ## Albums (3)
 - 01 Louis Armstrong - La Vie En Rose

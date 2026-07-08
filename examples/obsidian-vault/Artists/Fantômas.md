@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["avant-metal", "patton-orbit"]
+genre: "experimental metal"
+era: "2000s"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Fantômas
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[avant-metal|Avant Metal]] · [[patton-orbit|Patton Orbit]] · [[experimental metal]]
 
 ## Albums (1)
 - The Director's Cut

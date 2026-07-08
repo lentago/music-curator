@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["folk-rock-canon", "country-rock"]
+genre: "folk rock / country rock"
+era: "1960s-70s"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # The Byrds
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[folk-rock-canon|Folk Rock Canon]] · [[country-rock|Country Rock]] · [[folk rock]] · [[country rock]]
 
 ## Albums (2)
 - Sweetheart of the Rodeo

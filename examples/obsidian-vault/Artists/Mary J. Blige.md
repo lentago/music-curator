@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["neo-soul"]
+genre: "R&B / hip-hop soul"
+era: "1990s-now"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Mary J. Blige
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[neo-soul|Neo Soul]] · [[R&B]] · [[hip-hop soul]]
 
 ## Albums (2)
 - Growing Pains

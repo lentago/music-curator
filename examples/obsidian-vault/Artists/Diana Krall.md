@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["vocal-jazz"]
+genre: "vocal jazz / jazz piano"
+era: "1990s-now"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Diana Krall
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[vocal-jazz|Vocal Jazz]] · [[vocal jazz]] · [[jazz piano]]
 
 ## Albums (2)
 - All for You

@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["bluegrass", "newgrass"]
+genre: "bluegrass"
+era: "1970s"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Old & In the Way
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[bluegrass|Bluegrass]] · [[newgrass|Newgrass]] · [[bluegrass (2)|bluegrass]]
 
 ## Albums (2)
 - Breakdown Live Recordings 1973

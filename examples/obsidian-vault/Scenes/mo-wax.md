@@ -1,14 +1,15 @@
 ---
 type: "scene"
-member_count: 3
+member_count: 4
 tags: ["scene"]
 ---
 
 # Mo Wax
 
-*Scene — 3 artist(s) in the collection.*
+*Scene — 4 artist(s) in the collection.*
 
 ## Artists
+- [[Cut Chemist]]
 - [[DJ Krush]]
 - [[DJ Shadow]]
 - [[Toshinori Kondo & DJ Krush]]

@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["celtic-punk"]
+genre: "celtic punk"
+era: "1990s-now"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Dropkick Murphys
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[celtic-punk|Celtic Punk]] · [[celtic punk]]
 
 ## Albums (2)
 - Sing Loud, Sing Proud

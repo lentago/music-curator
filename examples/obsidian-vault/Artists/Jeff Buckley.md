@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["singer-songwriter", "alt-rock-90s"]
+genre: "alternative rock"
+era: "1990s"
 album_count: 6
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Jeff Buckley
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[singer-songwriter|Singer Songwriter]] · [[alt-rock-90s|Alt Rock 90S]] · [[alternative rock]]
 
 ## Albums (6)
 - Grace

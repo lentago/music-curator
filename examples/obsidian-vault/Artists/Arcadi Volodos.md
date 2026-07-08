@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["classical"]
+genre: "classical piano"
+era: "2000s"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Arcadi Volodos
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[classical|Classical]] · [[classical piano]]
 
 ## Albums (1)
 - Piano Transcriptions

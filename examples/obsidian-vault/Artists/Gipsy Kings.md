@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["flamenco", "world"]
+genre: "flamenco / rumba"
+era: "1980s-now"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Gipsy Kings
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[flamenco|Flamenco]] · [[world|World]] · [[flamenco (2)|flamenco]] · [[rumba]]
 
 ## Albums (2)
 - Gipsy Kings

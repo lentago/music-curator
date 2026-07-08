@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["indie-pop", "downtempo"]
+genre: "pop"
+era: "2000s-now"
 album_count: 3
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Sia
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[indie-pop|Indie Pop]] · [[downtempo|Downtempo]] · [[pop (2)|pop]]
 
 ## Albums (3)
 - Colour The Small One

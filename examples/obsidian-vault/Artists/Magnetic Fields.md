@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["indie-pop", "chamber-pop"]
+genre: "indie pop"
+era: "1990s-now"
 album_count: 7
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Magnetic Fields
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[indie-pop|Indie Pop]] · [[chamber-pop|Chamber Pop]] · [[indie pop]]
 
 ## Albums (7)
 - 69 Love Songs

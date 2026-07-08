@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["ninja-tune", "downtempo"]
+genre: "downtempo / funk"
+era: "1990s-now"
 album_count: 3
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # The Herbaliser
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[ninja-tune|Ninja Tune]] · [[downtempo|Downtempo]] · [[downtempo (2)|downtempo]] · [[funk (2)|funk]]
 
 ## Albums (3)
 - Something Wicked This Way Comes

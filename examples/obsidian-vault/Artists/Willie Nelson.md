@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Willie Nelson
 
-**Scenes / genre:** [[outlaw-country|Outlaw Country]] · [[country]]
+**Scenes / genre:** [[outlaw-country|Outlaw Country]] · [[country (2)|country]]
 
 ## Albums (1)
 - Stardust

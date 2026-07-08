@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["electronic"]
+genre: "electronic"
+era: "2000s"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # The Egg
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[electronic|Electronic]] · [[electronic (2)|electronic]]
 
 ## Albums (1)
 - Forwards

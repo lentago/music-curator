@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["soul-canon"]
+genre: "soul"
+era: "1970s"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Merry Clayton
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[soul-canon|Soul Canon]] · [[soul (2)|soul]]
 
 ## Albums (1)
 - Merry Clayton

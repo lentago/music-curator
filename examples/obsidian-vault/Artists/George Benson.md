@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["jazz-funk"]
+genre: "jazz guitar"
+era: "1970s-now"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # George Benson
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[jazz-funk|Jazz Funk]] · [[jazz guitar]]
 
 ## Albums (2)
 - The Best of George Benson [Warner Brothe

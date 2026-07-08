@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["alt-rock-2000s", "pop-rock"]
+genre: "alternative rock"
+era: "2000s-now"
 album_count: 6
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Coldplay
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[alt-rock-2000s|Alt Rock 2000S]] · [[pop-rock|Pop Rock]] · [[alternative rock]]
 
 ## Albums (6)
 - A Rush Of Blood To The Head

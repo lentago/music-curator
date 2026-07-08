@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["celtic", "world"]
+genre: "celtic"
+era: "1990s-now"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Loreena McKennitt
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[celtic|Celtic]] · [[world|World]] · [[celtic (2)|celtic]]
 
 ## Albums (2)
 - Live in Paris and Toronto Disc 1

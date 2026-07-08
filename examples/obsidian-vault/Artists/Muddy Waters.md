@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["blues", "blues-canon"]
+genre: "blues"
+era: "1950s-70s"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Muddy Waters
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[blues|Blues]] · [[blues-canon|Blues Canon]] · [[blues (2)|blues]]
 
 ## Albums (1)
 - King of the Electric Blues

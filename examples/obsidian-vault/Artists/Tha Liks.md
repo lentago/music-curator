@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["west-coast-hiphop"]
+genre: "hip-hop"
+era: "1990s-now"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Tha Liks
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[west-coast-hiphop|West Coast Hiphop]] · [[hip-hop]]
 
 ## Albums (1)
 - X.O. Experience

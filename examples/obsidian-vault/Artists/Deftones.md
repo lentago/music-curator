@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["alt-metal"]
+genre: "alternative metal"
+era: "1990s-now"
 album_count: 6
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Deftones
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[alt-metal|Alt Metal]] · [[alternative metal]]
 
 ## Albums (6)
 - 2010 - Diamond Eyes

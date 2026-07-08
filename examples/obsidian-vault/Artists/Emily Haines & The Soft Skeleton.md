@@ -1,13 +1,16 @@
 ---
 type: "artist"
+scenes: ["indie-rock"]
+genre: "indie / chamber pop"
+era: "2000s"
 album_count: 1
 collaborators: ["Emily Haines"]
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Emily Haines & The Soft Skeleton
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[indie-rock|Indie Rock]] · [[indie]] · [[chamber pop]]
 
 **With:** [[Emily Haines]]
 

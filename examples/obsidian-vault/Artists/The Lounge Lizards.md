@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["downtown-ny"]
+genre: "avant-garde jazz"
+era: "1980s-now"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # The Lounge Lizards
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[downtown-ny|Downtown Ny]] · [[avant-garde jazz]]
 
 ## Albums (1)
 - Queen of All Ears

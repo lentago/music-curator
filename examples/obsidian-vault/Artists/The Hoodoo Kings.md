@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["nola"]
+genre: "New Orleans"
+era: "2000s"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # The Hoodoo Kings
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[nola|Nola]] · [[New Orleans]]
 
 ## Albums (1)
 - The Hoodoo Kings

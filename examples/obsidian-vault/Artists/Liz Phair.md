@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["indie-rock", "lo-fi"]
+genre: "indie rock"
+era: "1990s-now"
 album_count: 3
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Liz Phair
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[indie-rock|Indie Rock]] · [[lo-fi|Lo Fi]] · [[indie rock]]
 
 ## Albums (3)
 - Exile in Guyville

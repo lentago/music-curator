@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["idm", "warp"]
+genre: "IDM"
+era: "1990s-now"
 album_count: 3
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Plaid
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[idm|Idm]] · [[warp|Warp]] · [[IDM (2)|IDM]]
 
 ## Albums (3)
 - Not For Threes

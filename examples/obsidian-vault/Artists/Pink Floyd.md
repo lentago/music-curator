@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["progressive-rock", "psychedelic-rock", "classic-rock"]
+genre: "progressive rock"
+era: "1960s-80s"
 album_count: 3
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Pink Floyd
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[progressive-rock|Progressive Rock]] · [[psychedelic-rock|Psychedelic Rock]] · [[classic-rock|Classic Rock]] · [[progressive rock]]
 
 ## Albums (3)
 - The Dark Side of the Moon [Gold Disc]

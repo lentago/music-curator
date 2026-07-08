@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["downtown-ny"]
+genre: "art rock"
+era: "2000s"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Eszter Balint
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[downtown-ny|Downtown Ny]] · [[art rock]]
 
 ## Albums (1)
 - Flicker

@@ -10,7 +10,7 @@ tags: ["artist"]
 
 # Johnny Cash & Willie Nelson
 
-**Scenes / genre:** [[outlaw-country|Outlaw Country]] · [[country]]
+**Scenes / genre:** [[outlaw-country|Outlaw Country]] · [[country (2)|country]]
 
 **With:** [[Johnny Cash]] · [[Willie Nelson]]
 

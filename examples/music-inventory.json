@@ -4,8 +4,8 @@
     "total_albums": 1342,
     "compilation_albums": 81,
     "unknown_artist_albums": 27,
-    "tagged_artists": 156,
-    "untagged_artists": 510,
+    "tagged_artists": 532,
+    "untagged_artists": 134,
     "cruft_removed": [
       {
         "folder": "Ringtone Heaven",
@@ -125,7 +125,13 @@
         "Thirteenth Step"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-metal",
+        "progressive-metal"
+      ],
+      "genre": "alternative metal",
+      "era": "2000s-now"
     },
     "A Six Degrees Collection": {
       "albums": [
@@ -446,7 +452,13 @@
         "Medusa"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "art-pop",
+        "british-soul"
+      ],
+      "genre": "pop / soul",
+      "era": "1980s-now"
     },
     "Anonymous 4": {
       "albums": [
@@ -483,7 +495,13 @@
         "arrhythmia"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "underground-hiphop",
+        "experimental-hiphop"
+      ],
+      "genre": "experimental hip-hop",
+      "era": "2000s"
     },
     "Aníbal Troilo": {
       "albums": [
@@ -500,14 +518,25 @@
         "Neon Bible"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-rock",
+        "baroque-pop"
+      ],
+      "genre": "indie rock",
+      "era": "2000s-now"
     },
     "Arcadi Volodos": {
       "albums": [
         "Piano Transcriptions"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "classical"
+      ],
+      "genre": "classical piano",
+      "era": "2000s"
     },
     "Aretha Franklin": {
       "albums": [
@@ -543,7 +572,13 @@
         "Relationship Of Command"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "post-hardcore",
+        "alt-rock-90s"
+      ],
+      "genre": "post-hardcore",
+      "era": "1990s-2000s"
     },
     "Atmosphere": {
       "albums": [
@@ -574,7 +609,13 @@
         "BB Queen"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "underground-hiphop",
+        "conscious-hiphop"
+      ],
+      "genre": "underground hip-hop",
+      "era": "1990s-now"
     },
     "Band of Horses": {
       "albums": [
@@ -582,7 +623,12 @@
         "Everything All the Time"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-rock"
+      ],
+      "genre": "indie rock",
+      "era": "2000s-now"
     },
     "Bar Kokhba Sextet": {
       "albums": [
@@ -592,14 +638,27 @@
         "50th Birthday Celebration, Vol. 11 Disc 3"
       ],
       "album_count": 4,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "tzadik",
+        "masada",
+        "downtown-ny",
+        "radical-jewish-culture"
+      ],
+      "genre": "avant-garde / klezmer",
+      "era": "1990s-now"
     },
     "Basehead": {
       "albums": [
         "Play With Toys"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-hiphop"
+      ],
+      "genre": "alternative hip-hop",
+      "era": "1990s"
     },
     "Basement Jaxx": {
       "albums": [
@@ -615,21 +674,38 @@
         "Cerulean"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "anticon",
+        "electronic"
+      ],
+      "genre": "glitch pop",
+      "era": "2010s"
     },
     "Beat Circus": {
       "albums": [
         "Boy from Black Mountain"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "gothic-americana",
+        "dark-cabaret"
+      ],
+      "genre": "dark cabaret",
+      "era": "2000s"
     },
     "Beat Junkies": {
       "albums": [
         "The World Famous Beat Junkies, Vol. 3"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "turntablism"
+      ],
+      "genre": "turntablism",
+      "era": "1990s-now"
     },
     "Beck": {
       "albums": [
@@ -696,7 +772,13 @@
         "Live at the Funky Pirate Vol 2"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "nola",
+        "blues"
+      ],
+      "genre": "New Orleans blues",
+      "era": "2000s"
     },
     "Bill Frisell": {
       "albums": [
@@ -704,7 +786,12 @@
         "Nashville"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "contemporary-jazz"
+      ],
+      "genre": "jazz guitar",
+      "era": "1980s-now"
     },
     "Bill Hicks": {
       "albums": [
@@ -720,7 +807,12 @@
         "Lean on Me_ The Best of Bill Withers"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "soul-canon"
+      ],
+      "genre": "soul",
+      "era": "1970s"
     },
     "Billy Bragg": {
       "albums": [
@@ -733,7 +825,13 @@
         "Workers Playtime"
       ],
       "album_count": 7,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "folk-punk",
+        "singer-songwriter"
+      ],
+      "genre": "folk / political",
+      "era": "1980s-now"
     },
     "Billy Bragg & Wilco - Mermaid avenue (Vol 1 & 2)": {
       "albums": [
@@ -741,14 +839,26 @@
         "Bragg, Billy & Wilco - Mermaid avenue Vol. 2"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "folk-punk",
+        "alt-country"
+      ],
+      "genre": "folk / Americana",
+      "era": "1990s-2000s"
     },
     "Billy Preston": {
       "albums": [
         "Ultimate Collection Billy Preston"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "soul-canon",
+        "funk-canon"
+      ],
+      "genre": "soul / funk",
+      "era": "1970s"
     },
     "Binary Star": {
       "albums": [
@@ -756,21 +866,38 @@
         "Masters of the Universe"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "underground-hiphop"
+      ],
+      "genre": "underground hip-hop",
+      "era": "2000s"
     },
     "Biréli Lagrène": {
       "albums": [
         "Gipsy Project & Friends"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "gypsy-jazz"
+      ],
+      "genre": "gypsy jazz",
+      "era": "1980s-now"
     },
     "Blackalicious": {
       "albums": [
         "Nia"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "underground-hiphop",
+        "conscious-hiphop",
+        "quannum"
+      ],
+      "genre": "underground hip-hop",
+      "era": "1990s-now"
     },
     "Blitzen Trapper": {
       "albums": [
@@ -801,7 +928,12 @@
         "Burning in the Sun"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-folk"
+      ],
+      "genre": "folk rock",
+      "era": "2000s"
     },
     "Blue Öyster Cult": {
       "albums": [
@@ -817,7 +949,13 @@
         "Live at the Variety Playhouse 7.10.99"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jamgrass",
+        "jam"
+      ],
+      "genre": "jamgrass",
+      "era": "1990s-2000s"
     },
     "Boards Of Canada": {
       "albums": [
@@ -825,7 +963,13 @@
         "Tomorrows Harvest"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "idm",
+        "warp"
+      ],
+      "genre": "IDM / electronic",
+      "era": "1990s-now"
     },
     "Bob Dylan": {
       "albums": [
@@ -834,7 +978,13 @@
         "Things Have Changed - Live & Unreleased"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "folk-rock-canon",
+        "singer-songwriter-canon"
+      ],
+      "genre": "folk rock",
+      "era": "1960s-now"
     },
     "Bob Marley & the Wailers": {
       "albums": [
@@ -851,7 +1001,13 @@
         "Silver Age"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-rock-90s",
+        "post-hardcore"
+      ],
+      "genre": "alternative rock",
+      "era": "1980s-now"
     },
     "Boney James": {
       "albums": [
@@ -876,49 +1032,90 @@
         "Black Sands"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "ninja-tune",
+        "downtempo"
+      ],
+      "genre": "downtempo",
+      "era": "2000s-now"
     },
     "Boom Bip": {
       "albums": [
         "Seed To Sun"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "anticon",
+        "instrumental-hiphop"
+      ],
+      "genre": "experimental hip-hop",
+      "era": "2000s"
     },
     "Brazilian Girls": {
       "albums": [
         "Brazilian Girls"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "electronic",
+        "art-pop"
+      ],
+      "genre": "electronic pop",
+      "era": "2000s-now"
     },
     "Broken Bells": {
       "albums": [
         "Broken Bells [+Video]"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-rock",
+        "indie-pop"
+      ],
+      "genre": "indie pop",
+      "era": "2010s"
     },
     "Brooklyn Funk Essentials": {
       "albums": [
         "Make 'em Like It [Explicit]"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "funk",
+        "acid-jazz"
+      ],
+      "genre": "funk",
+      "era": "1990s-now"
     },
     "Bruce Springsteen": {
       "albums": [
         "We Shall Overcome The Seeger Sessions"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "classic-rock"
+      ],
+      "genre": "heartland rock",
+      "era": "1970s-now"
     },
     "Bruce Springsteen with the Sessions Band": {
       "albums": [
         "Live In Dublin"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "americana",
+        "folk"
+      ],
+      "genre": "folk / Americana",
+      "era": "2000s"
     },
     "Bryan Ferry": {
       "albums": [
@@ -934,7 +1131,12 @@
         "Drinking Side of Country - Sin"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "country"
+      ],
+      "genre": "country",
+      "era": "2000s-now"
     },
     "Built to Spill": {
       "albums": [
@@ -945,7 +1147,12 @@
         "You In Reverse"
       ],
       "album_count": 5,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-rock"
+      ],
+      "genre": "indie rock",
+      "era": "1990s-now"
     },
     "Béla Fleck": {
       "albums": [
@@ -958,7 +1165,13 @@
         "The Bluegrass Sessions- Tales from the Acoustic Planet, Vol. 2"
       ],
       "album_count": 7,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "newgrass",
+        "bluegrass"
+      ],
+      "genre": "newgrass / banjo",
+      "era": "1980s-now"
     },
     "Béla Fleck & the Flecktones": {
       "albums": [
@@ -969,7 +1182,13 @@
         "Outbound"
       ],
       "album_count": 5,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "newgrass",
+        "jazz-fusion"
+      ],
+      "genre": "newgrass / fusion",
+      "era": "1990s-now"
     },
     "Cake": {
       "albums": [
@@ -978,14 +1197,24 @@
         "Prolonging the Magic"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-rock-90s"
+      ],
+      "genre": "alternative rock",
+      "era": "1990s-now"
     },
     "Canibus": {
       "albums": [
         "Rip the Jacker"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "underground-hiphop"
+      ],
+      "genre": "underground hip-hop",
+      "era": "1990s-now"
     },
     "Cannibal Ox": {
       "albums": [
@@ -1005,7 +1234,13 @@
         "El Amor de Mi Tierra"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "vallenato",
+        "latin-american"
+      ],
+      "genre": "vallenato",
+      "era": "1990s-now"
     },
     "Carly Simon": {
       "albums": [
@@ -1025,7 +1260,13 @@
         "You Are Free"
       ],
       "album_count": 5,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-rock",
+        "indie-folk"
+      ],
+      "genre": "indie rock",
+      "era": "1990s-now"
     },
     "Cerioti": {
       "albums": [
@@ -1041,14 +1282,26 @@
         "Songs from the Analog Playground"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "contemporary-jazz",
+        "jazz-funk"
+      ],
+      "genre": "jazz guitar",
+      "era": "1990s-now"
     },
     "Charlie Hunter Quintet": {
       "albums": [
         "Right Now Move"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "contemporary-jazz",
+        "jazz-funk"
+      ],
+      "genre": "jazz guitar",
+      "era": "1990s-now"
     },
     "Chet Baker_Gotan Project": {
       "albums": [
@@ -1082,7 +1335,13 @@
         "Traveller"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "country",
+        "americana"
+      ],
+      "genre": "country",
+      "era": "2010s-now"
     },
     "Chucklehead": {
       "albums": [
@@ -1105,7 +1364,12 @@
         "Suite for Cello and Jazz Piano Trio"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "classical-crossover"
+      ],
+      "genre": "jazz-classical crossover",
+      "era": "1970s-80s"
     },
     "Clutch": {
       "albums": [
@@ -1165,21 +1429,39 @@
         "X&Y"
       ],
       "album_count": 6,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-rock-2000s",
+        "pop-rock"
+      ],
+      "genre": "alternative rock",
+      "era": "2000s-now"
     },
     "Common": {
       "albums": [
         "Resurrection"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "conscious-hiphop"
+      ],
+      "genre": "conscious hip-hop",
+      "era": "1990s-now"
     },
     "Company Flow": {
       "albums": [
         "Funcrusher Plus"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "underground-hiphop",
+        "defjux",
+        "rawkus"
+      ],
+      "genre": "underground hip-hop",
+      "era": "1990s"
     },
     "Compilations": {
       "albums": [
@@ -1197,21 +1479,39 @@
         "Corinne Bailey Rae"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "neo-soul"
+      ],
+      "genre": "neo-soul",
+      "era": "2000s-now"
     },
     "Cracow Klezmer Band": {
       "albums": [
         "Masada Book II - The Book Of Angels - Vo"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "tzadik",
+        "radical-jewish-culture",
+        "klezmer"
+      ],
+      "genre": "klezmer / avant-garde",
+      "era": "2000s"
     },
     "Creedence Clearwater Revival": {
       "albums": [
         "Chronicle_ 20 Greatest Hits"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "classic-rock",
+        "roots-rock"
+      ],
+      "genre": "roots rock",
+      "era": "1960s-70s"
     },
     "Crooked Still": {
       "albums": [
@@ -1219,7 +1519,13 @@
         "Still Crooked"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "newgrass",
+        "bluegrass"
+      ],
+      "genre": "progressive bluegrass",
+      "era": "2000s-now"
     },
     "Curtis Mayfield": {
       "albums": [
@@ -1229,28 +1535,49 @@
         "Unknown Album"
       ],
       "album_count": 4,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "soul-canon"
+      ],
+      "genre": "soul / funk",
+      "era": "1960s-70s"
     },
     "Curtis Mayfield & The Impressions": {
       "albums": [
         "The Anthology 1961-1977"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "soul-canon"
+      ],
+      "genre": "soul",
+      "era": "1960s-70s"
     },
     "Curtis Stigers": {
       "albums": [
         "I Wonder Why"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "vocal-jazz"
+      ],
+      "genre": "vocal jazz",
+      "era": "1990s-now"
     },
     "Cut Chemist": {
       "albums": [
         "Live at the Variety Arts Center, 1997"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "turntablism",
+        "mo-wax"
+      ],
+      "genre": "turntablism",
+      "era": "1990s-now"
     },
     "Cut Chemist & DJ Shadow": {
       "albums": [
@@ -1270,14 +1597,24 @@
         "Live at the Variety Arts Center, 1997"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "turntablism"
+      ],
+      "genre": "turntablism",
+      "era": "2000s"
     },
     "Cut Chemist_Shortkut": {
       "albums": [
         "Live at Future Primitive Sound Session"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "turntablism"
+      ],
+      "genre": "turntablism",
+      "era": "1990s"
     },
     "Cygorhex": {
       "albums": [
@@ -1394,7 +1731,13 @@
         "DJ Envy - MVP (All-American)"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "east-coast-hiphop",
+        "hardcore-hiphop"
+      ],
+      "genre": "hardcore hip-hop",
+      "era": "1990s-now"
     },
     "Daft Punk": {
       "albums": [
@@ -1403,7 +1746,13 @@
         "Random Access Memories"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "french-electronic",
+        "french-house"
+      ],
+      "genre": "electronic / house",
+      "era": "1990s-now"
     },
     "Damien Rice": {
       "albums": [
@@ -1422,7 +1771,13 @@
         "Wanna Buy a Monkey-- A Mixtape Session"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "instrumental-hiphop",
+        "trip-hop"
+      ],
+      "genre": "hip-hop production",
+      "era": "1990s-now"
     },
     "Dane Cook": {
       "albums": [
@@ -1437,14 +1792,24 @@
         "Rock and Roll Hall of Fame"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "neo-soul"
+      ],
+      "genre": "neo-soul",
+      "era": "1990s-now"
     },
     "Danger Mouse & Daniele Luppi": {
       "albums": [
         "Rome"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "cinematic-pop"
+      ],
+      "genre": "cinematic pop",
+      "era": "2010s"
     },
     "Daniel Kahn & the Painted Bird": {
       "albums": [
@@ -1452,7 +1817,13 @@
         "Lost Causes"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "klezmer",
+        "radical-jewish-culture"
+      ],
+      "genre": "klezmer / Yiddish",
+      "era": "2000s-now"
     },
     "Dark Was The Night - Various": {
       "albums": [
@@ -1468,14 +1839,24 @@
         "Dead Serious"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "east-coast-hiphop"
+      ],
+      "genre": "hip-hop",
+      "era": "1990s"
     },
     "Dave Matthews Band": {
       "albums": [
         "Under The Table And Dreaming"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jam"
+      ],
+      "genre": "jam",
+      "era": "1990s-now"
     },
     "David Byrne": {
       "albums": [
@@ -1483,7 +1864,13 @@
         "Look Into The Eyeball"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "art-pop",
+        "new-wave"
+      ],
+      "genre": "art pop",
+      "era": "1980s-now"
     },
     "David Byrne & Brian Eno": {
       "albums": [
@@ -1491,9 +1878,15 @@
         "My Life in the Bush of Ghosts"
       ],
       "album_count": 2,
-      "tagged": false,
+      "tagged": true,
       "anchor": true,
-      "anchor_note": "Foundational anchor — David Byrne / Talking Heads / Eno collaborations"
+      "anchor_note": "Foundational anchor — David Byrne / Talking Heads / Eno collaborations",
+      "scenes": [
+        "art-pop",
+        "ambient"
+      ],
+      "genre": "art pop / electronic",
+      "era": "1980s-now"
     },
     "David Cross": {
       "albums": [
@@ -1512,7 +1905,12 @@
         "White Ladder"
       ],
       "album_count": 4,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "singer-songwriter"
+      ],
+      "genre": "singer-songwriter",
+      "era": "2000s"
     },
     "David Grisman": {
       "albums": [
@@ -1565,7 +1963,13 @@
         "Unknown Album"
       ],
       "album_count": 4,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-folk",
+        "gypsy-punk"
+      ],
+      "genre": "indie / gypsy",
+      "era": "2000s-now"
     },
     "Death Cab for Cutie": {
       "albums": [
@@ -1575,7 +1979,12 @@
         "You Can Play These Songs With Chords"
       ],
       "album_count": 4,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-rock"
+      ],
+      "genre": "indie rock",
+      "era": "2000s-now"
     },
     "Death From Above 1979": {
       "albums": [
@@ -1587,7 +1996,12 @@
         "You're A Woman, I'm A Machine"
       ],
       "album_count": 6,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "dance-punk"
+      ],
+      "genre": "dance punk",
+      "era": "2000s-now"
     },
     "Deep Puddle Dynamics_Anticon": {
       "albums": [
@@ -1612,7 +2026,12 @@
         "White Pony [Added Track]"
       ],
       "album_count": 6,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-metal"
+      ],
+      "genre": "alternative metal",
+      "era": "1990s-now"
     },
     "Del McCoury": {
       "albums": [
@@ -1629,14 +2048,24 @@
         "Deltron 3030"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "underground-hiphop"
+      ],
+      "genre": "underground hip-hop",
+      "era": "2000s"
     },
     "Deuter": {
       "albums": [
         "Reiki- Hands of Light"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "new-age"
+      ],
+      "genre": "new age",
+      "era": "1970s-now"
     },
     "Diana Krall": {
       "albums": [
@@ -1644,7 +2073,12 @@
         "When I Look in Your Eyes"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "vocal-jazz"
+      ],
+      "genre": "vocal jazz / jazz piano",
+      "era": "1990s-now"
     },
     "Dido": {
       "albums": [
@@ -1661,21 +2095,38 @@
         "The Platform"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "underground-hiphop",
+        "west-coast-hiphop"
+      ],
+      "genre": "underground hip-hop",
+      "era": "2000s"
     },
     "Dire Straits & Mark Knopfler": {
       "albums": [
         "The Best Of - Private Investigations"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "classic-rock",
+        "roots-rock"
+      ],
+      "genre": "roots rock",
+      "era": "1980s-now"
     },
     "Diverse": {
       "albums": [
         "One A.M. [Bonus Track]"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "underground-hiphop"
+      ],
+      "genre": "underground hip-hop",
+      "era": "2000s"
     },
     "Divine Fits": {
       "albums": [
@@ -1700,7 +2151,13 @@
         "The Ultimate Collection"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "gypsy-jazz",
+        "jazz-canon"
+      ],
+      "genre": "gypsy jazz",
+      "era": "1930s-50s"
     },
     "Domingo Cura": {
       "albums": [
@@ -1717,21 +2174,37 @@
         "Some Cities"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "britpop",
+        "indie-rock"
+      ],
+      "genre": "indie rock",
+      "era": "2000s"
     },
     "Dr. Octagon": {
       "albums": [
         "Dr. Octagonecologyst"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "underground-hiphop"
+      ],
+      "genre": "experimental hip-hop",
+      "era": "1990s"
     },
     "Dresden Dolls": {
       "albums": [
         "Dresden Dolls"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "dark-cabaret"
+      ],
+      "genre": "dark cabaret",
+      "era": "2000s-now"
     },
     "Dropkick Murphys": {
       "albums": [
@@ -1739,7 +2212,12 @@
         "The Meanest of Times Limited Edition"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "celtic-punk"
+      ],
+      "genre": "celtic punk",
+      "era": "1990s-now"
     },
     "Dub Kweli - produced by Max Tannone": {
       "albums": [
@@ -1758,21 +2236,38 @@
         "Live in Vienna"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "downtempo",
+        "nu-jazz"
+      ],
+      "genre": "nu-jazz / downtempo",
+      "era": "2000s"
     },
     "Dälek": {
       "albums": [
         "Negro Necro Nekros"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "experimental-hiphop",
+        "industrial-hiphop"
+      ],
+      "genre": "industrial hip-hop",
+      "era": "2000s-now"
     },
     "EPMD": {
       "albums": [
         "Business Never Personal"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "east-coast-hiphop"
+      ],
+      "genre": "hip-hop",
+      "era": "1980s-now"
     },
     "Eagles": {
       "albums": [
@@ -1788,21 +2283,37 @@
         "Uncommon Ritual"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "newgrass",
+        "classical-crossover"
+      ],
+      "genre": "newgrass / chamber",
+      "era": "1990s-now"
     },
     "Edie Brickell & New Bohemians": {
       "albums": [
         "Shooting Rubberbands at the Stars"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "folk-pop"
+      ],
+      "genre": "folk pop",
+      "era": "1980s-90s"
     },
     "Edith Piaf": {
       "albums": [
         "La vie en rose"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "chanson"
+      ],
+      "genre": "French chanson",
+      "era": "1940s-50s"
     },
     "Eisley": {
       "albums": [
@@ -1845,7 +2356,15 @@
         "50th Birthday Celebration, Vol. 4"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "tzadik",
+        "masada",
+        "downtown-ny",
+        "radical-jewish-culture"
+      ],
+      "genre": "avant-garde jazz",
+      "era": "2000s"
     },
     "Ella Fitzgerald": {
       "albums": [
@@ -1873,7 +2392,13 @@
         "The Early Years"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "vocal-jazz",
+        "jazz-canon"
+      ],
+      "genre": "vocal jazz",
+      "era": "1950s"
     },
     "Emancipator": {
       "albums": [
@@ -1881,7 +2406,13 @@
         "safe in the steep cliffs"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "downtempo",
+        "instrumental-hiphop"
+      ],
+      "genre": "downtempo",
+      "era": "2000s-now"
     },
     "Emile Pandolfi": {
       "albums": [
@@ -1897,14 +2428,24 @@
         "Cut In Half And Also Double"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-rock"
+      ],
+      "genre": "indie / chamber pop",
+      "era": "2000s"
     },
     "Emily Haines & The Soft Skeleton": {
       "albums": [
         "Knives Don't Have Your Back"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-rock"
+      ],
+      "genre": "indie / chamber pop",
+      "era": "2000s"
     },
     "Eminem": {
       "albums": [
@@ -1912,7 +2453,12 @@
         "The Marshall Mathers LP"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "detroit-hiphop"
+      ],
+      "genre": "hip-hop",
+      "era": "1990s-now"
     },
     "Emmylou Harris": {
       "albums": [
@@ -1921,14 +2467,26 @@
         "Wrecking Ball"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "country",
+        "americana"
+      ],
+      "genre": "country / Americana",
+      "era": "1970s-now"
     },
     "Enigma": {
       "albums": [
         "MCMXC A.D"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "downtempo",
+        "new-age"
+      ],
+      "genre": "new age / downtempo",
+      "era": "1990s"
     },
     "Erasure": {
       "albums": [
@@ -1944,7 +2502,13 @@
         "Follow the Leader"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "east-coast-hiphop",
+        "golden-age-hiphop"
+      ],
+      "genre": "hip-hop",
+      "era": "1980s"
     },
     "Eric Clapton And Steve Winwood": {
       "albums": [
@@ -1974,21 +2538,38 @@
         "E.S.T. Live"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "contemporary-jazz",
+        "jazz-piano-canon"
+      ],
+      "genre": "jazz piano trio",
+      "era": "1990s-2000s"
     },
     "Eskmo": {
       "albums": [
         "Exclusive Ninja Tune Mix"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "ninja-tune",
+        "electronic"
+      ],
+      "genre": "electronic",
+      "era": "2000s-now"
     },
     "Eszter Balint": {
       "albums": [
         "Flicker"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "downtown-ny"
+      ],
+      "genre": "art rock",
+      "era": "2000s"
     },
     "Etta James": {
       "albums": [
@@ -1996,14 +2577,25 @@
         "Something's Got A Hold On Me"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "soul-canon",
+        "blues"
+      ],
+      "genre": "soul / R&B",
+      "era": "1960s"
     },
     "Explosions In The Sky": {
       "albums": [
         "Those Who Tell the Truth Shall Die, Thos"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "post-rock"
+      ],
+      "genre": "post-rock",
+      "era": "2000s-now"
     },
     "FOUR PLAY": {
       "albums": [
@@ -2026,21 +2618,39 @@
         "Angel Dust"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-metal",
+        "funk-metal"
+      ],
+      "genre": "alternative metal",
+      "era": "1980s-now"
     },
     "Fantômas": {
       "albums": [
         "The Director's Cut"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "avant-metal",
+        "patton-orbit"
+      ],
+      "genre": "experimental metal",
+      "era": "2000s"
     },
     "Faust vs. Dälek": {
       "albums": [
         "Derbe Respect, Alder"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "experimental-hiphop",
+        "krautrock"
+      ],
+      "genre": "experimental hip-hop",
+      "era": "2000s"
     },
     "Feist": {
       "albums": [
@@ -2050,7 +2660,13 @@
         "The Reminder"
       ],
       "album_count": 4,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-pop",
+        "singer-songwriter"
+      ],
+      "genre": "indie pop",
+      "era": "2000s-now"
     },
     "Fischerspooner": {
       "albums": [
@@ -2058,7 +2674,12 @@
         "Odyssey"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "electroclash"
+      ],
+      "genre": "electroclash",
+      "era": "2000s"
     },
     "Fishbone": {
       "albums": [
@@ -2067,7 +2688,13 @@
         "Truth and Soul"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "funk-punk",
+        "ska-punk"
+      ],
+      "genre": "funk punk",
+      "era": "1980s-now"
     },
     "Flobots": {
       "albums": [
@@ -2101,7 +2728,13 @@
         "The New Gold Standard"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "funk-electronic",
+        "breakbeat"
+      ],
+      "genre": "funk breaks",
+      "era": "2000s"
     },
     "Foster The People": {
       "albums": [
@@ -2118,7 +2751,12 @@
         "Vida Loca"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "latin-american"
+      ],
+      "genre": "bolero / latin",
+      "era": "2000s"
     },
     "Frank Black-Black Francis": {
       "albums": [
@@ -2160,7 +2798,12 @@
         "Croakin' at Toad's"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jam"
+      ],
+      "genre": "jam / improv",
+      "era": "1990s"
     },
     "Fu-Schnickens": {
       "albums": [
@@ -2177,14 +2820,26 @@
         "13 Songs"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "post-hardcore",
+        "dc-hardcore"
+      ],
+      "genre": "post-hardcore",
+      "era": "1980s-now"
     },
     "Fujiya & Miyagi": {
       "albums": [
         "Lightbulbs"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "electronic",
+        "krautrock"
+      ],
+      "genre": "electronic",
+      "era": "2000s"
     },
     "Fungo Mungo": {
       "albums": [
@@ -2213,14 +2868,26 @@
         "In Search of Excellounge"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "downtempo",
+        "lounge"
+      ],
+      "genre": "downtempo / lounge",
+      "era": "2000s"
     },
     "Gaudi + Nusrat Fateh Ali Khan": {
       "albums": [
         "Dub Qawwali"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "world-electronic",
+        "dub"
+      ],
+      "genre": "dub / qawwali",
+      "era": "2000s"
     },
     "Genesis": {
       "albums": [
@@ -2228,7 +2895,12 @@
         "Genesis Live- The Way We Walk, Vol. 1 (The Shorts)"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "progressive-rock"
+      ],
+      "genre": "progressive rock",
+      "era": "1970s-80s"
     },
     "George Benson": {
       "albums": [
@@ -2236,7 +2908,12 @@
         "The Best of George Benson [Warner Brothers]"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jazz-funk"
+      ],
+      "genre": "jazz guitar",
+      "era": "1970s-now"
     },
     "George Carlin": {
       "albums": [
@@ -2265,7 +2942,13 @@
         "Hell Among The Yearlings"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "americana",
+        "appalachian"
+      ],
+      "genre": "Americana / old-time",
+      "era": "1990s-now"
     },
     "Gipsy Kings": {
       "albums": [
@@ -2273,7 +2956,13 @@
         "Live!"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "flamenco",
+        "world"
+      ],
+      "genre": "flamenco / rumba",
+      "era": "1980s-now"
     },
     "Gloria Estefan": {
       "albums": [
@@ -2290,7 +2979,13 @@
         "The Odd Couple"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "neo-soul",
+        "electronic"
+      ],
+      "genre": "soul / pop",
+      "era": "2000s"
     },
     "Goats": {
       "albums": [
@@ -2308,7 +3003,12 @@
         "Yanqui U.X.O_"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "post-rock"
+      ],
+      "genre": "post-rock / drone",
+      "era": "1990s-now"
     },
     "Goldfrapp": {
       "albums": [
@@ -2344,7 +3044,13 @@
         "G.P.-Grievous Angel"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-country",
+        "country"
+      ],
+      "genre": "cosmic country",
+      "era": "1970s"
     },
     "Grateful Dead": {
       "albums": [
@@ -2370,14 +3076,26 @@
         "Veckatimest"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-rock",
+        "baroque-pop"
+      ],
+      "genre": "indie rock",
+      "era": "2000s-now"
     },
     "Groove Armada": {
       "albums": [
         "Back to Mine"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "downtempo",
+        "big-beat"
+      ],
+      "genre": "electronic",
+      "era": "1990s-now"
     },
     "Groovegrass": {
       "albums": [
@@ -2385,7 +3103,12 @@
         "Groovegrass 101 Featuring Groovegrass Boyz"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "newgrass"
+      ],
+      "genre": "newgrass",
+      "era": "1990s"
     },
     "Guns N' Roses": {
       "albums": [
@@ -2405,14 +3128,25 @@
         "Muso Ko"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "west-african",
+        "world"
+      ],
+      "genre": "Malian / world",
+      "era": "1990s-now"
     },
     "Handsome Boy Modeling School": {
       "albums": [
         "So...How's Your Girl_"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "underground-hiphop"
+      ],
+      "genre": "hip-hop",
+      "era": "2000s"
     },
     "Hanne Hukkelberg": {
       "albums": [
@@ -2421,7 +3155,12 @@
         "Rykestrasse 68"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "art-pop"
+      ],
+      "genre": "art pop",
+      "era": "2000s"
     },
     "Heartless Bastards": {
       "albums": [
@@ -2438,21 +3177,38 @@
         "Possibilities"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jazz-canon",
+        "jazz-fusion"
+      ],
+      "genre": "jazz / funk",
+      "era": "1960s-now"
     },
     "Hieroglyphics": {
       "albums": [
         "3rd Eye Vision"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "underground-hiphop",
+        "west-coast-hiphop"
+      ],
+      "genre": "underground hip-hop",
+      "era": "1990s-now"
     },
     "Hot Club of San Francisco": {
       "albums": [
         "Hot Club Of San Francisco Bohemian Maestro - Django Reinhardt and the Imp"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "gypsy-jazz"
+      ],
+      "genre": "gypsy jazz",
+      "era": "1990s-now"
     },
     "IAMX": {
       "albums": [
@@ -2461,7 +3217,13 @@
         "Volatile Times"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "electro-pop",
+        "industrial"
+      ],
+      "genre": "electropunk",
+      "era": "2000s-now"
     },
     "INXS": {
       "albums": [
@@ -2487,7 +3249,12 @@
         "Terciopelo"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "latin-american"
+      ],
+      "genre": "Venezuelan",
+      "era": "1990s-now"
     },
     "Illogic": {
       "albums": [
@@ -2548,7 +3315,13 @@
         "S.C.I.E.N.C.E"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-metal",
+        "funk-rock"
+      ],
+      "genre": "alternative rock",
+      "era": "1990s-now"
     },
     "Ingrid Michaelson": {
       "albums": [
@@ -2565,21 +3338,38 @@
         "The Great Milenko"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "horrorcore",
+        "rap-rock"
+      ],
+      "genre": "horrorcore",
+      "era": "1990s-now"
     },
     "Interpol": {
       "albums": [
         "Turn on the Bright Lights"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "post-punk-revival",
+        "indie-rock"
+      ],
+      "genre": "post-punk revival",
+      "era": "2000s-now"
     },
     "Invisible Skratch Piklz": {
       "albums": [
         "The Shiggar Fraggar Show!, Vol. 2"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "turntablism"
+      ],
+      "genre": "turntablism",
+      "era": "1990s-now"
     },
     "Ippazzi": {
       "albums": [
@@ -2595,7 +3385,13 @@
         "My Life"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "americana",
+        "folk"
+      ],
+      "genre": "folk / Americana",
+      "era": "1990s-now"
     },
     "Iron & Wine": {
       "albums": [
@@ -2621,7 +3417,13 @@
         "SINCE I MET YOU BABY"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "blues",
+        "soul-canon"
+      ],
+      "genre": "R&B / blues",
+      "era": "1950s"
     },
     "J-Zone": {
       "albums": [
@@ -2638,7 +3440,13 @@
         "Orange Blossoms"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "southern-soul",
+        "swamp-funk"
+      ],
+      "genre": "southern soul / funk",
+      "era": "2000s-now"
     },
     "JPs": {
       "albums": [
@@ -2673,7 +3481,13 @@
         "Blunderbuss"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "garage-rock",
+        "blues-rock"
+      ],
+      "genre": "garage rock",
+      "era": "2000s-now"
     },
     "Jackie McLean": {
       "albums": [
@@ -2683,7 +3497,13 @@
         "The Best of Jackie McLean"
       ],
       "album_count": 4,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jazz-canon",
+        "hard-bop"
+      ],
+      "genre": "hard bop",
+      "era": "1950s-now"
     },
     "Jaco Pastorius": {
       "albums": [
@@ -2691,7 +3511,12 @@
         "Jaco Pastorius"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jazz-fusion"
+      ],
+      "genre": "jazz fusion",
+      "era": "1970s-80s"
     },
     "James Brown": {
       "albums": [
@@ -2748,7 +3573,13 @@
         "Basement Style"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "ska-punk",
+        "reggae"
+      ],
+      "genre": "reggae punk",
+      "era": "2000s"
     },
     "Jedi Mind Tricks": {
       "albums": [
@@ -2756,7 +3587,12 @@
         "Visions of Ghandi"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "underground-hiphop"
+      ],
+      "genre": "underground hip-hop",
+      "era": "2000s"
     },
     "Jeff Beck": {
       "albums": [
@@ -2764,7 +3600,13 @@
         "Unknown Album"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "guitar-god",
+        "jazz-fusion"
+      ],
+      "genre": "rock / fusion",
+      "era": "1960s-now"
     },
     "Jeff Buckley": {
       "albums": [
@@ -2776,7 +3618,13 @@
         "SKETCHES for My Sweetheart The Drunk"
       ],
       "album_count": 6,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "singer-songwriter",
+        "alt-rock-90s"
+      ],
+      "genre": "alternative rock",
+      "era": "1990s"
     },
     "Jerry Douglas": {
       "albums": [
@@ -2785,7 +3633,13 @@
         "Traveler"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "bluegrass",
+        "newgrass"
+      ],
+      "genre": "bluegrass / dobro",
+      "era": "1980s-now"
     },
     "Jerry Douglas_Russ Barenberg_Edgar Meyer": {
       "albums": [
@@ -2844,21 +3698,39 @@
         "Unknown Album (8_20_2007 4_05_03 PM)"
       ],
       "album_count": 4,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "psychedelic-rock",
+        "blues-rock",
+        "classic-rock"
+      ],
+      "genre": "psychedelic rock",
+      "era": "1960s-70s"
     },
     "Jimmy Cliff": {
       "albums": [
         "Breakout"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "reggae"
+      ],
+      "genre": "reggae",
+      "era": "1960s-now"
     },
     "Joe Cocker": {
       "albums": [
         "Classics, Vol. 4"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "blue-eyed-soul",
+        "classic-rock"
+      ],
+      "genre": "rock / soul",
+      "era": "1970s"
     },
     "Joe Public": {
       "albums": [
@@ -2887,14 +3759,26 @@
         "Global Underground- Los Angeles Disc 2"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "progressive-house",
+        "electronic"
+      ],
+      "genre": "progressive house",
+      "era": "1990s-now"
     },
     "John Lee Hooker": {
       "albums": [
         "The Best of John Lee Hooker [GNP]"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "blues",
+        "blues-canon"
+      ],
+      "genre": "blues",
+      "era": "1950s-now"
     },
     "John Mayer": {
       "albums": [
@@ -2903,7 +3787,13 @@
         "Room For Squares"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "singer-songwriter",
+        "blues-rock"
+      ],
+      "genre": "pop / blues",
+      "era": "2000s-now"
     },
     "John Zorn": {
       "albums": [
@@ -3036,7 +3926,13 @@
         "Short Trip Home"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "newgrass",
+        "classical-crossover"
+      ],
+      "genre": "newgrass / chamber",
+      "era": "1990s-now"
     },
     "Joss Stone": {
       "albums": [
@@ -3052,7 +3948,13 @@
         "Bachata Rosa"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "bachata",
+        "latin-american"
+      ],
+      "genre": "bachata / merengue",
+      "era": "1990s-now"
     },
     "Juan Luis Guerra y 440": {
       "albums": [
@@ -3060,7 +3962,13 @@
         "Ojalá Que Llueva Café"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "bachata",
+        "latin-american"
+      ],
+      "genre": "bachata / merengue",
+      "era": "1990s-now"
     },
     "Juanes": {
       "albums": [
@@ -3076,28 +3984,52 @@
         "Quality Control"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "underground-hiphop",
+        "west-coast-hiphop"
+      ],
+      "genre": "underground hip-hop",
+      "era": "1990s-now"
     },
     "Jónsi": {
       "albums": [
         "Go"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "post-rock",
+        "icelandic"
+      ],
+      "genre": "post-rock / art pop",
+      "era": "2010s-now"
     },
     "Karsh Kale": {
       "albums": [
         "Realize"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "world-electronic",
+        "indo-american"
+      ],
+      "genre": "world electronic",
+      "era": "2000s-now"
     },
     "Kate Bush": {
       "albums": [
         "Hounds of Love"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "art-pop",
+        "british-art-rock"
+      ],
+      "genre": "art pop",
+      "era": "1980s-now"
     },
     "Keiko Matsui": {
       "albums": [
@@ -3113,14 +4045,24 @@
         "Laugh"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jam"
+      ],
+      "genre": "jam",
+      "era": "1990s-now"
     },
     "Kings Of Convenience": {
       "albums": [
         "Declaration of Dependence"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-folk"
+      ],
+      "genre": "indie folk",
+      "era": "2000s-now"
     },
     "Kings Of Leon": {
       "albums": [
@@ -3128,35 +4070,64 @@
         "Only By The Night"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-rock",
+        "southern-rock"
+      ],
+      "genre": "rock",
+      "era": "2000s-now"
     },
     "Kraftwerk": {
       "albums": [
         "The Mix"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "krautrock",
+        "electronic"
+      ],
+      "genre": "electronic",
+      "era": "1970s-now"
     },
     "Kremerata Baltica_Gidon Kremer": {
       "albums": [
         "Happy Birthday"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "classical"
+      ],
+      "genre": "classical",
+      "era": "2000s"
     },
     "Kruder & Dorfmeister": {
       "albums": [
         "DJ-Kicks"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "downtempo",
+        "trip-hop"
+      ],
+      "genre": "downtempo",
+      "era": "1990s-now"
     },
     "LMNO": {
       "albums": [
         "Leave My Name Out"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "project-blowed",
+        "underground-hiphop"
+      ],
+      "genre": "underground hip-hop",
+      "era": "2000s"
     },
     "Lady Sovereign": {
       "albums": [
@@ -3174,14 +4145,25 @@
         "What Sound Disc 1"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "trip-hop",
+        "electronic"
+      ],
+      "genre": "trip-hop",
+      "era": "1990s-now"
     },
     "Larry Coryell": {
       "albums": [
         "Spaces Revisited"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jazz-fusion"
+      ],
+      "genre": "jazz fusion guitar",
+      "era": "1970s-now"
     },
     "Laura Pausini": {
       "albums": [
@@ -3203,7 +4185,13 @@
         "Mothership"
       ],
       "album_count": 7,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "hard-rock",
+        "classic-rock"
+      ],
+      "genre": "hard rock",
+      "era": "1960s-70s"
     },
     "Leftover Salmon": {
       "albums": [
@@ -3212,7 +4200,14 @@
         "The Nashville Sessions"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jam",
+        "newgrass",
+        "jamgrass"
+      ],
+      "genre": "jamgrass",
+      "era": "1990s-now"
     },
     "Leo Kottke & Mike Gordon": {
       "albums": [
@@ -3238,7 +4233,12 @@
         "Sea Sew"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-folk"
+      ],
+      "genre": "indie folk",
+      "era": "2000s-now"
     },
     "Little Feat": {
       "albums": [
@@ -3246,7 +4246,13 @@
         "Waiting For Columbus [Live]"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "classic-rock",
+        "roots-rock"
+      ],
+      "genre": "roots rock",
+      "era": "1970s"
     },
     "Living Colour": {
       "albums": [
@@ -3254,7 +4260,13 @@
         "Vivid"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "funk-metal",
+        "alt-funk-rock-90s"
+      ],
+      "genre": "funk metal",
+      "era": "1980s-90s"
     },
     "Liz Phair": {
       "albums": [
@@ -3263,14 +4275,26 @@
         "Whitechocolatespaceegg"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-rock",
+        "lo-fi"
+      ],
+      "genre": "indie rock",
+      "era": "1990s-now"
     },
     "Lootpack": {
       "albums": [
         "Soundpieces- Da Antidote!"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "stones-throw",
+        "underground-hiphop"
+      ],
+      "genre": "underground hip-hop",
+      "era": "1990s-now"
     },
     "Lorde": {
       "albums": [
@@ -3278,7 +4302,13 @@
         "The Love Club EP"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "art-pop",
+        "electro-pop"
+      ],
+      "genre": "art pop",
+      "era": "2010s-now"
     },
     "Loreena McKennitt": {
       "albums": [
@@ -3286,7 +4316,13 @@
         "Live in Paris and Toronto Disc 2"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "celtic",
+        "world"
+      ],
+      "genre": "celtic",
+      "era": "1990s-now"
     },
     "Lori Diamond": {
       "albums": [
@@ -3303,7 +4339,13 @@
         "Arepa 3000- A Venezuelan Journey Into Space"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "latin-american",
+        "acid-jazz"
+      ],
+      "genre": "Latin funk",
+      "era": "2000s"
     },
     "Los Lobos": {
       "albums": [
@@ -3311,7 +4353,13 @@
         "Live at the Fillmore Disc 2"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "roots-rock",
+        "latin-rock"
+      ],
+      "genre": "roots rock / Tex-Mex",
+      "era": "1980s-now"
     },
     "Loudon Wainwright III": {
       "albums": [
@@ -3329,35 +4377,64 @@
         "The Definitive Collection"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jazz-canon",
+        "early-jazz"
+      ],
+      "genre": "jazz / vocal",
+      "era": "1920s-60s"
     },
     "Louis Prima": {
       "albums": [
         "Jump, Jive an' Wail_ The Essential Louis Prima"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "swing-revival",
+        "lounge"
+      ],
+      "genre": "swing / lounge",
+      "era": "1950s"
     },
     "Lovage": {
       "albums": [
         "Music to Make Love to Your Old Lady By"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "trip-hop",
+        "patton-orbit"
+      ],
+      "genre": "downtempo",
+      "era": "2000s"
     },
     "Luciana Souza_Romero Lubambo": {
       "albums": [
         "Duos II"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "world"
+      ],
+      "genre": "Brazilian jazz",
+      "era": "2000s"
     },
     "Lucinda Williams": {
       "albums": [
         "Car Wheels on a Gravel Road"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-country",
+        "americana"
+      ],
+      "genre": "alt-country",
+      "era": "1990s-now"
     },
     "Lush": {
       "albums": [
@@ -3374,14 +4451,25 @@
         "Oracular Spectacular [Explicit]"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "psych-pop",
+        "indie-pop"
+      ],
+      "genre": "psychedelic pop",
+      "era": "2000s-now"
     },
     "M_ Ward": {
       "albums": [
         "A Wasteland Companion"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-folk"
+      ],
+      "genre": "indie folk",
+      "era": "2000s-now"
     },
     "Macy Gray": {
       "albums": [
@@ -3449,7 +4537,13 @@
         "The Charm Of The Highway Strip"
       ],
       "album_count": 7,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-pop",
+        "chamber-pop"
+      ],
+      "genre": "indie pop",
+      "era": "1990s-now"
     },
     "Marc Maron": {
       "albums": [
@@ -3466,7 +4560,13 @@
         "Muy Divertido!"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "downtown-ny",
+        "latin-american"
+      ],
+      "genre": "Cuban / avant-garde",
+      "era": "1990s-now"
     },
     "Margot & The Nuclear So And So's": {
       "albums": [
@@ -3483,7 +4583,13 @@
         "Privateering"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "classic-rock",
+        "roots-rock"
+      ],
+      "genre": "roots rock",
+      "era": "1990s-now"
     },
     "Mark Knopfler And Emmylou Harris": {
       "albums": [
@@ -3504,7 +4610,13 @@
         "The Legendary Marvin Pontiac - Greatest Hits"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "downtown-ny",
+        "outsider"
+      ],
+      "genre": "outsider / blues",
+      "era": "1990s"
     },
     "Mary Chapin Carpenter": {
       "albums": [
@@ -3521,7 +4633,12 @@
         "Mary"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "neo-soul"
+      ],
+      "genre": "R&B / hip-hop soul",
+      "era": "1990s-now"
     },
     "Masada": {
       "albums": [
@@ -3547,7 +4664,14 @@
         "Stolas_ The Book Of Angels Volume 12"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "tzadik",
+        "masada",
+        "downtown-ny"
+      ],
+      "genre": "avant-garde jazz",
+      "era": "2000s"
     },
     "Massive Attack": {
       "albums": [
@@ -3556,14 +4680,26 @@
         "Mezzanine"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "trip-hop",
+        "bristol"
+      ],
+      "genre": "trip-hop",
+      "era": "1990s-now"
     },
     "Mastodon": {
       "albums": [
         "The Hunter (Deluxe Version) [Explicit]"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "progressive-metal",
+        "sludge-metal"
+      ],
+      "genre": "progressive metal",
+      "era": "2000s-now"
     },
     "Matteo Salvatore": {
       "albums": [
@@ -3590,14 +4726,26 @@
         "Zaebos_ The Book Of Angels Volume 11"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jam",
+        "jazz-funk",
+        "downtown-ny"
+      ],
+      "genre": "jazz / groove",
+      "era": "1990s-now"
     },
     "Merry Clayton": {
       "albums": [
         "Merry Clayton"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "soul-canon"
+      ],
+      "genre": "soul",
+      "era": "1970s"
     },
     "Metric": {
       "albums": [
@@ -3605,7 +4753,13 @@
         "Old World Underground, Where Are You Now"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-rock",
+        "synth-pop"
+      ],
+      "genre": "indie rock",
+      "era": "2000s-now"
     },
     "Mew": {
       "albums": [
@@ -3614,7 +4768,13 @@
         "No More Stories Are Told Today I'm Sorry"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "dream-pop",
+        "indie-rock"
+      ],
+      "genre": "dream pop",
+      "era": "2000s-now"
     },
     "Michael Brooks-13 Things That Don't Make Sense": {
       "albums": [
@@ -3636,7 +4796,12 @@
         "Thriller"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "pop-canon"
+      ],
+      "genre": "pop / R&B",
+      "era": "1980s-now"
     },
     "Microphones": {
       "albums": [
@@ -3644,14 +4809,25 @@
         "Unknown Album"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "lo-fi",
+        "indie-folk"
+      ],
+      "genre": "lo-fi",
+      "era": "2000s"
     },
     "Miles Davis": {
       "albums": [
         "Kind of Blue"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jazz-canon"
+      ],
+      "genre": "jazz",
+      "era": "1950s-1980s"
     },
     "Mindfunk": {
       "albums": [
@@ -3685,7 +4861,13 @@
         "Complete Discography"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "hardcore-punk",
+        "dc-hardcore"
+      ],
+      "genre": "hardcore punk",
+      "era": "1980s"
     },
     "Minus the Bear": {
       "albums": [
@@ -3693,7 +4875,13 @@
         "Infinity Overhead"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "math-rock",
+        "indie-rock"
+      ],
+      "genre": "math rock",
+      "era": "2000s-now"
     },
     "Modest Mouse": {
       "albums": [
@@ -3705,7 +4893,12 @@
         "We Were Dead Before The Ship Even Sank"
       ],
       "album_count": 6,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-rock"
+      ],
+      "genre": "indie rock",
+      "era": "1990s-now"
     },
     "Mofro": {
       "albums": [
@@ -3714,14 +4907,25 @@
         "Lochloosa"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "southern-soul",
+        "swamp-funk"
+      ],
+      "genre": "southern soul / funk",
+      "era": "2000s-now"
     },
     "Monsters Of Folk": {
       "albums": [
         "Monsters of Folk"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-folk"
+      ],
+      "genre": "indie folk",
+      "era": "2000s"
     },
     "Morphine": {
       "albums": [
@@ -3731,7 +4935,12 @@
         "The Night"
       ],
       "album_count": 4,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-rock-90s"
+      ],
+      "genre": "low rock / noir",
+      "era": "1990s"
     },
     "Mos Def": {
       "albums": [
@@ -3768,7 +4977,13 @@
         "Mr. Bungle"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "patton-orbit",
+        "experimental-rock"
+      ],
+      "genre": "avant-garde metal",
+      "era": "1990s-2000s"
     },
     "Mr. Lif": {
       "albums": [
@@ -3788,14 +5003,26 @@
         "King of the Electric Blues"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "blues",
+        "blues-canon"
+      ],
+      "genre": "blues",
+      "era": "1950s-70s"
     },
     "Muddy Waters_Dizzy Gillespie": {
       "albums": [
         "Muddy Waters Blues Band Featuring Dizzy"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "blues",
+        "jazz-canon"
+      ],
+      "genre": "blues / jazz",
+      "era": "1970s"
     },
     "Mumford & Sons": {
       "albums": [
@@ -3803,7 +5030,13 @@
         "Sigh No More"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "folk-rock",
+        "indie-folk"
+      ],
+      "genre": "folk rock",
+      "era": "2000s-now"
     },
     "Muse": {
       "albums": [
@@ -3811,7 +5044,13 @@
         "Origin Of Symmetry"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-rock-2000s",
+        "progressive-rock"
+      ],
+      "genre": "alternative rock",
+      "era": "2000s-now"
     },
     "MuteMath": {
       "albums": [
@@ -3820,7 +5059,12 @@
         "Odd Soul (Deluxe Version)"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-rock-2000s"
+      ],
+      "genre": "alternative rock",
+      "era": "2000s-now"
     },
     "My Morning Jacket": {
       "albums": [
@@ -3831,7 +5075,13 @@
         "Unknown Album"
       ],
       "album_count": 5,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-rock",
+        "southern-rock"
+      ],
+      "genre": "indie rock",
+      "era": "2000s-now"
     },
     "Mystic": {
       "albums": [
@@ -3847,7 +5097,13 @@
         "Yesterday Was Dramatic Today Is OK"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "icelandic",
+        "folktronica"
+      ],
+      "genre": "electronic / folktronica",
+      "era": "2000s-now"
     },
     "N.E.R.D": {
       "albums": [
@@ -3866,7 +5122,12 @@
         "So Long And Thanks For All The Shoes"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "skate-punk"
+      ],
+      "genre": "punk rock",
+      "era": "1980s-now"
     },
     "Naked City": {
       "albums": [
@@ -3874,7 +5135,13 @@
         "Naked City Live, Vol. 1- Knitting Factory 1989"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "downtown-ny",
+        "tzadik"
+      ],
+      "genre": "avant-garde / noise jazz",
+      "era": "1990s"
     },
     "Nat King Cole": {
       "albums": [
@@ -3909,21 +5176,37 @@
         "Middle Cyclone"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-country",
+        "indie-rock"
+      ],
+      "genre": "alt-country",
+      "era": "1990s-now"
     },
     "Neko Case & Her Boyfriends": {
       "albums": [
         "Furnace Room Lullaby"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-country"
+      ],
+      "genre": "alt-country",
+      "era": "1990s-2000s"
     },
     "Neko Case And Her Boyfriends": {
       "albums": [
         "Furnace Room Lullaby"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-country"
+      ],
+      "genre": "alt-country",
+      "era": "1990s-2000s"
     },
     "Nellie McKay": {
       "albums": [
@@ -3931,7 +5214,13 @@
         "Get Away from Me Disc 2"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "cabaret-pop",
+        "jazz-pop"
+      ],
+      "genre": "cabaret pop",
+      "era": "2000s-now"
     },
     "Neutral Milk Hotel": {
       "albums": [
@@ -3941,7 +5230,13 @@
         "Unknown Album"
       ],
       "album_count": 4,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-folk",
+        "lo-fi"
+      ],
+      "genre": "indie folk",
+      "era": "1990s"
     },
     "New Grass Revival": {
       "albums": [
@@ -3958,14 +5253,25 @@
         "Live On Frenchmen Street"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "nola"
+      ],
+      "genre": "New Orleans jazz",
+      "era": "2000s"
     },
     "New Orleans Nightcrawlers": {
       "albums": [
         "Funknicity"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "nola",
+        "brass-band"
+      ],
+      "genre": "brass band",
+      "era": "1990s-now"
     },
     "NewGrange": {
       "albums": [
@@ -3984,7 +5290,13 @@
         "The Best of Nick Cave & the Bad Seeds"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "post-punk",
+        "gothic-rock"
+      ],
+      "genre": "post-punk",
+      "era": "1980s-now"
     },
     "Nicolaus Esterhazy Sinfonia": {
       "albums": [
@@ -4000,7 +5312,13 @@
         "DJ-Kicks"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "downtempo",
+        "warp"
+      ],
+      "genre": "downtempo",
+      "era": "1990s-now"
     },
     "Nine Inch Nails": {
       "albums": [
@@ -4008,14 +5326,25 @@
         "Pretty Hate Machine"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "industrial",
+        "industrial-metal"
+      ],
+      "genre": "industrial",
+      "era": "1980s-now"
     },
     "Nitin Sawhney": {
       "albums": [
         "Human"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "world-electronic"
+      ],
+      "genre": "world electronic",
+      "era": "1990s-now"
     },
     "Norah Jones": {
       "albums": [
@@ -4023,7 +5352,13 @@
         "Turn Me On-Crazy"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "vocal-jazz",
+        "adult-alternative"
+      ],
+      "genre": "jazz pop",
+      "era": "2000s-now"
     },
     "Odd Nosdam": {
       "albums": [
@@ -4032,14 +5367,25 @@
         "T.I.M.E. Soundtrack"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "anticon",
+        "instrumental-hiphop"
+      ],
+      "genre": "experimental hip-hop",
+      "era": "2000s"
     },
     "Odds": {
       "albums": [
         "Love Is The Subject"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "power-pop"
+      ],
+      "genre": "power pop",
+      "era": "1990s"
     },
     "Old & In the Way": {
       "albums": [
@@ -4047,7 +5393,13 @@
         "Old & In the Way"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "bluegrass",
+        "newgrass"
+      ],
+      "genre": "bluegrass",
+      "era": "1970s"
     },
     "Old & in the Way-Jerry Garcia-David Grisman": {
       "albums": [
@@ -4065,14 +5417,25 @@
         "Too Far to Care"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-country"
+      ],
+      "genre": "alt-country",
+      "era": "1990s-now"
     },
     "Otis Redding": {
       "albums": [
         "The Very Best Of Otis Redding"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "soul-canon",
+        "memphis-soul"
+      ],
+      "genre": "soul",
+      "era": "1960s"
     },
     "Otis Taylor": {
       "albums": [
@@ -4090,14 +5453,24 @@
         "Speakerboxx_The Love Below"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "southern-hiphop"
+      ],
+      "genre": "hip-hop",
+      "era": "1990s-now"
     },
     "Outback": {
       "albums": [
         "Baka"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "world"
+      ],
+      "genre": "world fusion",
+      "era": "1990s"
     },
     "Ozomatli": {
       "albums": [
@@ -4106,7 +5479,13 @@
         "Ozomatli"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "latin-american",
+        "latin-rock"
+      ],
+      "genre": "Latin fusion",
+      "era": "2000s-now"
     },
     "Paddy Saul": {
       "albums": [
@@ -4122,7 +5501,13 @@
         "Tap The Book of Angels Volume 20"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "tzadik",
+        "jazz-canon"
+      ],
+      "genre": "jazz",
+      "era": "1970s-now"
     },
     "Paul Simon": {
       "albums": [
@@ -4130,7 +5515,13 @@
         "The Rhythm Of The Saints (2011 Remaster)"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "worldbeat",
+        "singer-songwriter-canon"
+      ],
+      "genre": "worldbeat",
+      "era": "1980s-now"
     },
     "Peace Orchestra": {
       "albums": [
@@ -4146,7 +5537,12 @@
         "Peeping Tom"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "patton-orbit"
+      ],
+      "genre": "experimental pop",
+      "era": "2000s"
     },
     "Peter Gabriel": {
       "albums": [
@@ -4155,7 +5551,13 @@
         "Up"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "art-rock",
+        "worldbeat"
+      ],
+      "genre": "art rock",
+      "era": "1980s-now"
     },
     "Peter Malick Group-Norah Jones": {
       "albums": [
@@ -4186,7 +5588,12 @@
         "1999_04_17 I The Warfield"
       ],
       "album_count": 6,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jam"
+      ],
+      "genre": "jam",
+      "era": "1990s-now"
     },
     "Phillips, Grier & Flinner": {
       "albums": [
@@ -4240,7 +5647,14 @@
         "The Final Cut"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "progressive-rock",
+        "psychedelic-rock",
+        "classic-rock"
+      ],
+      "genre": "progressive rock",
+      "era": "1960s-80s"
     },
     "Plaid": {
       "albums": [
@@ -4249,7 +5663,13 @@
         "Parts In The Post cd2"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "idm",
+        "warp"
+      ],
+      "genre": "IDM",
+      "era": "1990s-now"
     },
     "Pop Will Eat Itself": {
       "albums": [
@@ -4268,7 +5688,13 @@
         "Third"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "trip-hop",
+        "bristol"
+      ],
+      "genre": "trip-hop",
+      "era": "1990s-now"
     },
     "Prefuse 73": {
       "albums": [
@@ -4276,7 +5702,13 @@
         "One Word Extinguisher"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "warp",
+        "instrumental-hiphop"
+      ],
+      "genre": "glitch hop",
+      "era": "2000s"
     },
     "Primus": {
       "albums": [
@@ -4287,14 +5719,26 @@
         "Suck on This"
       ],
       "album_count": 5,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "funk-metal",
+        "experimental-rock"
+      ],
+      "genre": "funk metal",
+      "era": "1990s-now"
     },
     "Prince Paul": {
       "albums": [
         "A Prince Among Thieves"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "native-tongues",
+        "underground-hiphop"
+      ],
+      "genre": "hip-hop production",
+      "era": "1980s-now"
     },
     "Priyo": {
       "albums": [
@@ -4346,7 +5790,12 @@
         "The Peel Sessions [CD 1]"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "britpop"
+      ],
+      "genre": "britpop",
+      "era": "1990s"
     },
     "Quartet Coco Briaval": {
       "albums": [
@@ -4354,14 +5803,25 @@
         "Grands Standards of Jazz_ C'est si bon _ It's so good"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "gypsy-jazz"
+      ],
+      "genre": "gypsy jazz",
+      "era": "1990s"
     },
     "Quasimoto": {
       "albums": [
         "The Unseen [Deluxe Edition] Disc 1"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "stones-throw",
+        "underground-hiphop"
+      ],
+      "genre": "underground hip-hop",
+      "era": "2000s"
     },
     "R.E.M": {
       "albums": [
@@ -4401,7 +5861,13 @@
         "The Art of WAR"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "rap-metal",
+        "alt-metal"
+      ],
+      "genre": "rap metal",
+      "era": "1990s-2000s"
     },
     "Randall Kennedy": {
       "albums": [
@@ -4419,7 +5885,13 @@
         "Ratatat"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "electronic",
+        "indie-electronic"
+      ],
+      "genre": "electronic rock",
+      "era": "2000s-now"
     },
     "Ray Charles": {
       "albums": [
@@ -4452,21 +5924,39 @@
         "Trouble"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-folk",
+        "singer-songwriter"
+      ],
+      "genre": "folk / soul",
+      "era": "2000s-now"
     },
     "Ray LaMontagne & The Pariah Dogs": {
       "albums": [
         "God Willin' & The Creek Don't Rise [+Digital Booklet]"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-folk",
+        "singer-songwriter"
+      ],
+      "genre": "folk / soul",
+      "era": "2010s"
     },
     "Red Hot Chili Peppers": {
       "albums": [
         "Mother's Milk"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "funk-rock",
+        "alt-rock-90s"
+      ],
+      "genre": "funk rock",
+      "era": "1980s-now"
     },
     "Regina Spektor": {
       "albums": [
@@ -4474,7 +5964,13 @@
         "Soviet Kitsch"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "anti-folk",
+        "indie-pop"
+      ],
+      "genre": "indie pop",
+      "era": "2000s-now"
     },
     "Reverend Horton Heat": {
       "albums": [
@@ -4483,7 +5979,13 @@
         "The Full Custom Gospel Sounds"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "psychobilly",
+        "rockabilly"
+      ],
+      "genre": "psychobilly",
+      "era": "1990s-now"
     },
     "Ricardo Montaner": {
       "albums": [
@@ -4526,7 +6028,12 @@
         "The Principle of Moments"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "classic-rock"
+      ],
+      "genre": "rock",
+      "era": "1980s-now"
     },
     "Robert Randolph & The Family Band": {
       "albums": [
@@ -4557,7 +6064,13 @@
         "Street Life  20 Greatest Hits"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "glam-rock",
+        "art-rock"
+      ],
+      "genre": "art rock",
+      "era": "1970s-80s"
     },
     "Royal Blood": {
       "albums": [
@@ -4595,7 +6108,13 @@
         "Caress of Steel"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "progressive-rock",
+        "classic-rock"
+      ],
+      "genre": "progressive rock",
+      "era": "1970s-now"
     },
     "Russ Barenberg": {
       "albums": [
@@ -4613,7 +6132,13 @@
         "Ice Caps- Peaks of Telluride"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "newgrass",
+        "bluegrass"
+      ],
+      "genre": "newgrass",
+      "era": "1990s-now"
     },
     "Sam Cooke": {
       "albums": [
@@ -4642,7 +6167,13 @@
         "Gospel Classic"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "soul-canon",
+        "gospel"
+      ],
+      "genre": "gospel / soul",
+      "era": "1950s-60s"
     },
     "Sam Kinison": {
       "albums": [
@@ -4659,7 +6190,13 @@
         "Shaman"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "latin-rock",
+        "classic-rock"
+      ],
+      "genre": "latin rock",
+      "era": "1970s-now"
     },
     "Santigold": {
       "albums": [
@@ -4685,7 +6222,13 @@
         "Remixed [2003 Arista]"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "adult-alternative",
+        "folk-pop"
+      ],
+      "genre": "adult alternative",
+      "era": "1990s-now"
     },
     "Saru": {
       "albums": [
@@ -4693,14 +6236,25 @@
         "Machine"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "downtempo"
+      ],
+      "genre": "downtempo",
+      "era": "2000s"
     },
     "Seal": {
       "albums": [
         "Seal [1994]"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "british-soul",
+        "pop"
+      ],
+      "genre": "pop / soul",
+      "era": "1990s-now"
     },
     "Serenata Guayanesa": {
       "albums": [
@@ -4723,7 +6277,12 @@
         "Sharon Isbin"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "classical"
+      ],
+      "genre": "classical guitar",
+      "era": "1990s-now"
     },
     "Sharon Jones & The Dap-Kings": {
       "albums": [
@@ -4731,7 +6290,12 @@
         "I Learned the Hard Way (Bonus Version)"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "retro-soul"
+      ],
+      "genre": "retro soul / funk",
+      "era": "2000s-now"
     },
     "Sheryl Crow": {
       "albums": [
@@ -4749,14 +6313,26 @@
         "We Are Born [+video] [+digital booklet] (Amazon MP3 Exclusive Version)"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-pop",
+        "downtempo"
+      ],
+      "genre": "pop",
+      "era": "2000s-now"
     },
     "Sidney Bechet": {
       "albums": [
         "Si tu vois ma mère (From the Movie Midnight in Paris)"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jazz-canon",
+        "early-jazz"
+      ],
+      "genre": "early jazz",
+      "era": "1920s-50s"
     },
     "Sigur Ros": {
       "albums": [
@@ -4765,7 +6341,13 @@
         "Takk.._"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "post-rock",
+        "icelandic"
+      ],
+      "genre": "post-rock",
+      "era": "1990s-now"
     },
     "Sigur Rós": {
       "albums": [
@@ -4796,7 +6378,12 @@
         "The Concert in Central Park-20 Greatest Hits Disc 2"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "folk-rock-canon"
+      ],
+      "genre": "folk rock",
+      "era": "1960s-70s"
     },
     "Sin Bandera": {
       "albums": [
@@ -4860,42 +6447,75 @@
         "Trace"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-country"
+      ],
+      "genre": "alt-country",
+      "era": "1990s-now"
     },
     "Sondre Lerche": {
       "albums": [
         "Phantom Punch"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-pop"
+      ],
+      "genre": "indie pop",
+      "era": "2000s-now"
     },
     "Sondre Lerche and the Faces Down": {
       "albums": [
         "Phantom Punch"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-pop"
+      ],
+      "genre": "indie pop",
+      "era": "2000s-now"
     },
     "Sonny Terry with Johnny Winter& Willie D": {
       "albums": [
         "Whoopin'"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "blues",
+        "blues-canon"
+      ],
+      "genre": "blues",
+      "era": "1980s"
     },
     "Sonny Terry with Johnny Winter& Willie Dixon": {
       "albums": [
         "Whoopin'"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "blues",
+        "blues-canon"
+      ],
+      "genre": "blues",
+      "era": "1980s"
     },
     "Soul Position": {
       "albums": [
         "8 Million Stories"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "rhymesayers",
+        "underground-hiphop"
+      ],
+      "genre": "underground hip-hop",
+      "era": "2000s"
     },
     "Soundgarden": {
       "albums": [
@@ -4903,21 +6523,39 @@
         "Superunknown"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "grunge",
+        "alt-rock-90s"
+      ],
+      "genre": "grunge",
+      "era": "1980s-now"
     },
     "Starfucker": {
       "albums": [
         "Reptilians"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-pop",
+        "synth-pop"
+      ],
+      "genre": "indie pop",
+      "era": "2000s-now"
     },
     "Steely Dan": {
       "albums": [
         "A Decade of Steely Dan"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jazz-rock",
+        "classic-rock"
+      ],
+      "genre": "jazz rock",
+      "era": "1970s-now"
     },
     "Stereolab": {
       "albums": [
@@ -4925,7 +6563,13 @@
         "Dots and Loops"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "krautrock",
+        "art-pop"
+      ],
+      "genre": "avant-pop",
+      "era": "1990s-now"
     },
     "Steve Earle": {
       "albums": [
@@ -4950,14 +6594,26 @@
         "Terraplane"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-country",
+        "outlaw-country"
+      ],
+      "genre": "alt-country",
+      "era": "1980s-now"
     },
     "Steve Earle & The Dukes (& Duchesses)": {
       "albums": [
         "The Low Highway"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-country",
+        "outlaw-country"
+      ],
+      "genre": "alt-country",
+      "era": "2010s"
     },
     "Steve Earle-The Del McCoury Band": {
       "albums": [
@@ -4996,7 +6652,13 @@
         "Live at Carnegie Hall"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "blues-rock",
+        "texas-blues"
+      ],
+      "genre": "blues rock",
+      "era": "1980s"
     },
     "Stevie Wonder": {
       "albums": [
@@ -5004,7 +6666,13 @@
         "Song Review- A Greatest Hits Collection Disc 2"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "soul-canon",
+        "funk-canon"
+      ],
+      "genre": "soul / funk",
+      "era": "1960s-now"
     },
     "Sting": {
       "albums": [
@@ -5017,7 +6685,13 @@
         "You Still Touch Me [#2]"
       ],
       "album_count": 7,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "pop-rock",
+        "sophisti-pop"
+      ],
+      "genre": "pop rock",
+      "era": "1980s-now"
     },
     "Strength in Numbers": {
       "albums": [
@@ -5038,14 +6712,25 @@
         "Happy Birthday to You - Disc 4"
       ],
       "album_count": 4,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-folk",
+        "baroque-pop"
+      ],
+      "genre": "indie folk",
+      "era": "2000s-now"
     },
     "Swollen Members": {
       "albums": [
         "Bad Dreams"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "underground-hiphop"
+      ],
+      "genre": "underground hip-hop",
+      "era": "2000s"
     },
     "TV On The Radio": {
       "albums": [
@@ -5053,14 +6738,27 @@
         "Return To Cookie Mountain"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-rock",
+        "art-rock"
+      ],
+      "genre": "art rock",
+      "era": "2000s-now"
     },
     "Taj Mahal & Toumani Diabate": {
       "albums": [
         "Kulanjan"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "world",
+        "west-african",
+        "blues"
+      ],
+      "genre": "world fusion",
+      "era": "2000s"
     },
     "Talib Kweli": {
       "albums": [
@@ -5098,7 +6796,14 @@
         "The Name Of This Band Is Talking Heads (Expanded Version)"
       ],
       "album_count": 5,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "new-wave",
+        "art-rock",
+        "post-punk"
+      ],
+      "genre": "new wave / art rock",
+      "era": "1970s-80s"
     },
     "Tarbox Ramblers": {
       "albums": [
@@ -5115,7 +6820,12 @@
         "2005-03-11 - Mystic Theatre"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jam"
+      ],
+      "genre": "jam",
+      "era": "2000s-now"
     },
     "Tegan & Sara": {
       "albums": [
@@ -5123,35 +6833,64 @@
         "The Con"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-pop"
+      ],
+      "genre": "indie pop",
+      "era": "2000s-now"
     },
     "Tenacious D": {
       "albums": [
         "Tenacious D"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "comedy-rock",
+        "hard-rock"
+      ],
+      "genre": "comedy rock",
+      "era": "2000s-now"
     },
     "Tha Liks": {
       "albums": [
         "X.O. Experience"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "west-coast-hiphop"
+      ],
+      "genre": "hip-hop",
+      "era": "1990s-now"
     },
     "The Allman Brothers Band": {
       "albums": [
         "The Road Goes On Forever"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jam",
+        "southern-rock",
+        "classic-rock"
+      ],
+      "genre": "southern rock",
+      "era": "1970s-now"
     },
     "The Band": {
       "albums": [
         "The Last Waltz"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "roots-rock",
+        "americana"
+      ],
+      "genre": "roots rock",
+      "era": "1960s-70s"
     },
     "The Beat Junkies": {
       "albums": [
@@ -5160,7 +6899,12 @@
         "The World Famous Beat Junkies, Vol. 2 Disc 2"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "turntablism"
+      ],
+      "genre": "turntablism",
+      "era": "1990s-now"
     },
     "The Beatles": {
       "albums": [
@@ -5170,7 +6914,13 @@
         "The Beatles Disc 2 (2009 Stere"
       ],
       "album_count": 4,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "classic-rock",
+        "british-invasion"
+      ],
+      "genre": "rock",
+      "era": "1960s-70s"
     },
     "The Beta Band": {
       "albums": [
@@ -5201,7 +6951,13 @@
         "Thickfreakness"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "blues-rock",
+        "garage-rock"
+      ],
+      "genre": "blues rock",
+      "era": "2000s-now"
     },
     "The Bravery": {
       "albums": [
@@ -5227,14 +6983,26 @@
         "Unknown Album (8_20_2007 3_55_37 PM)"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "folk-rock-canon",
+        "country-rock"
+      ],
+      "genre": "folk rock / country rock",
+      "era": "1960s-70s"
     },
     "The Chemical Brothers": {
       "albums": [
         "Exit Planet Dust"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "big-beat",
+        "electronic"
+      ],
+      "genre": "electronic / big beat",
+      "era": "1990s-now"
     },
     "The Clash": {
       "albums": [
@@ -5270,7 +7038,13 @@
         "the_best_of_the_commodores"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "funk-canon",
+        "soul-canon"
+      ],
+      "genre": "funk / soul",
+      "era": "1970s-80s"
     },
     "The Company Band": {
       "albums": [
@@ -5280,7 +7054,13 @@
         "The Company Band [Explicit]"
       ],
       "album_count": 4,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "stoner-rock",
+        "hard-rock"
+      ],
+      "genre": "stoner rock",
+      "era": "2000s"
     },
     "The Cult": {
       "albums": [
@@ -5305,7 +7085,12 @@
         "Remember Two Things"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jam"
+      ],
+      "genre": "jam",
+      "era": "1990s-now"
     },
     "The Departed Soundtrack": {
       "albums": [
@@ -5320,35 +7105,63 @@
         "Joyful Noise"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jam",
+        "blues-rock",
+        "sacred-steel"
+      ],
+      "genre": "blues rock",
+      "era": "2000s-now"
     },
     "The Dining Rooms": {
       "albums": [
         "Numero Deux"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "downtempo",
+        "nu-jazz"
+      ],
+      "genre": "downtempo",
+      "era": "2000s"
     },
     "The Disposable Heroes of Hiphoprisy": {
       "albums": [
         "Hypocrisy Is the Greatest Luxury"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "political-hiphop"
+      ],
+      "genre": "political hip-hop",
+      "era": "1990s"
     },
     "The Dresden Dolls": {
       "albums": [
         "Dresden Dolls"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "dark-cabaret"
+      ],
+      "genre": "dark cabaret",
+      "era": "2000s-now"
     },
     "The Egg": {
       "albums": [
         "Forwards"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "electronic"
+      ],
+      "genre": "electronic",
+      "era": "2000s"
     },
     "The Flaming Lips": {
       "albums": [
@@ -5358,7 +7171,13 @@
         "Yoshimi Battles The Pink Robots"
       ],
       "album_count": 4,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "psychedelic-rock",
+        "art-rock"
+      ],
+      "genre": "psychedelic rock",
+      "era": "1990s-now"
     },
     "The Fools": {
       "albums": [
@@ -5376,14 +7195,25 @@
         "Drink The Sea"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "electronic",
+        "glitch"
+      ],
+      "genre": "electronic / glitch",
+      "era": "2000s-now"
     },
     "The Grateful Dead": {
       "albums": [
         "Live-Dead"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jam"
+      ],
+      "genre": "jam / psychedelic rock",
+      "era": "1960s-1990s"
     },
     "The Handsome Family": {
       "albums": [
@@ -5392,7 +7222,13 @@
         "Through the Trees [Explicit]"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "gothic-americana",
+        "alt-country"
+      ],
+      "genre": "gothic country",
+      "era": "1990s-now"
     },
     "The Herbaliser": {
       "albums": [
@@ -5401,7 +7237,13 @@
         "Take London - Bonus Disc"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "ninja-tune",
+        "downtempo"
+      ],
+      "genre": "downtempo / funk",
+      "era": "1990s-now"
     },
     "The Hold Steady": {
       "albums": [
@@ -5409,14 +7251,24 @@
         "Unknown Album"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-rock"
+      ],
+      "genre": "heartland rock",
+      "era": "2000s-now"
     },
     "The Hoodoo Kings": {
       "albums": [
         "The Hoodoo Kings"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "nola"
+      ],
+      "genre": "New Orleans",
+      "era": "2000s"
     },
     "The JP's": {
       "albums": [
@@ -5445,7 +7297,12 @@
         "Music, Magic, Myth [Bonus CD] Disc 2"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "underground-hiphop"
+      ],
+      "genre": "underground hip-hop",
+      "era": "2000s"
     },
     "The London Film Score Orchestra": {
       "albums": [
@@ -5461,7 +7318,12 @@
         "Queen of All Ears"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "downtown-ny"
+      ],
+      "genre": "avant-garde jazz",
+      "era": "1980s-now"
     },
     "The Lumineers": {
       "albums": [
@@ -5488,7 +7350,13 @@
         "The Charm Of The Highway Strip"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-pop",
+        "chamber-pop"
+      ],
+      "genre": "indie pop",
+      "era": "1990s-now"
     },
     "The Mars Volta": {
       "albums": [
@@ -5496,28 +7364,52 @@
         "The Bedlam In Goliath"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "progressive-rock",
+        "post-hardcore"
+      ],
+      "genre": "progressive rock",
+      "era": "2000s-now"
     },
     "The Microphones": {
       "albums": [
         "The Glow, pt. 2"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "lo-fi",
+        "indie-folk"
+      ],
+      "genre": "lo-fi",
+      "era": "2000s"
     },
     "The Neville Brothers": {
       "albums": [
         "Uptown Rulin'_ The Best of the Neville B"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "nola",
+        "funk"
+      ],
+      "genre": "New Orleans R&B",
+      "era": "1970s-now"
     },
     "The Nextmen": {
       "albums": [
         "This Was Supposed to Be the Future"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "downtempo",
+        "breakbeat"
+      ],
+      "genre": "hip-hop / breaks",
+      "era": "2000s"
     },
     "The Notwist": {
       "albums": [
@@ -5525,7 +7417,12 @@
         "The Devil, You + Me"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-electronic"
+      ],
+      "genre": "indie electronic",
+      "era": "1990s-now"
     },
     "The Other Ones": {
       "albums": [
@@ -5533,7 +7430,12 @@
         "The Strange Remain Disc 2"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jam"
+      ],
+      "genre": "jam",
+      "era": "2000s"
     },
     "The Pharcyde": {
       "albums": [
@@ -5541,7 +7443,13 @@
         "Labcabincalifornia"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "west-coast-hiphop",
+        "alt-hiphop"
+      ],
+      "genre": "alternative hip-hop",
+      "era": "1990s"
     },
     "The Pogues": {
       "albums": [
@@ -5549,7 +7457,12 @@
         "Rum Sodomy & the Lash"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "celtic-punk"
+      ],
+      "genre": "celtic punk",
+      "era": "1980s-now"
     },
     "The Posies": {
       "albums": [
@@ -5565,7 +7478,12 @@
         "Give Up"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-electronic"
+      ],
+      "genre": "indie electronic",
+      "era": "2000s"
     },
     "The Pursuit of Happiness": {
       "albums": [
@@ -5581,14 +7499,26 @@
         "Consolers of the Lonely"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "garage-rock",
+        "blues-rock"
+      ],
+      "genre": "garage rock",
+      "era": "2000s-now"
     },
     "The Red Hot Chili Peppers": {
       "albums": [
         "Freaky Styley"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "funk-rock",
+        "alt-rock-90s"
+      ],
+      "genre": "funk rock",
+      "era": "1980s-now"
     },
     "The Rembrandts": {
       "albums": [
@@ -5639,14 +7569,26 @@
         "The Best Of The Smithereens"
       ],
       "album_count": 4,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "power-pop",
+        "jangle-pop"
+      ],
+      "genre": "power pop",
+      "era": "1980s-90s"
     },
     "The Soul Stirrers": {
       "albums": [
         "Heaven Is My Home"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "soul-canon",
+        "gospel"
+      ],
+      "genre": "gospel",
+      "era": "1950s-60s"
     },
     "The Steeldrivers": {
       "albums": [
@@ -5654,7 +7596,12 @@
         "Reckless [+Digital Booklet]"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "bluegrass"
+      ],
+      "genre": "bluegrass",
+      "era": "2000s-now"
     },
     "The Streets": {
       "albums": [
@@ -5663,7 +7610,13 @@
         "The Hardest Way To Make An Easy Living"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "uk-garage",
+        "grime"
+      ],
+      "genre": "UK garage / rap",
+      "era": "2000s"
     },
     "The String Cheese Incident": {
       "albums": [
@@ -5671,7 +7624,13 @@
         "'Round the Wheel"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jam",
+        "jamgrass"
+      ],
+      "genre": "jam",
+      "era": "1990s-now"
     },
     "The Sword": {
       "albums": [
@@ -5691,7 +7650,13 @@
         "Mind Bomb"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "post-punk",
+        "sophisti-pop"
+      ],
+      "genre": "post-punk",
+      "era": "1980s-now"
     },
     "The Tribe": {
       "albums": [
@@ -5711,14 +7676,25 @@
         "Revolutions"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "turntablism"
+      ],
+      "genre": "turntablism",
+      "era": "1990s-now"
     },
     "The xx": {
       "albums": [
         "Coexist"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "minimal-indie",
+        "dream-pop"
+      ],
+      "genre": "minimal indie",
+      "era": "2000s-now"
     },
     "TheBeatles-WhiteAbum-2009StereoRemaster": {
       "albums": [
@@ -5726,14 +7702,26 @@
         "Disc 2"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "classic-rock",
+        "british-invasion"
+      ],
+      "genre": "rock",
+      "era": "1960s-70s"
     },
     "Them Crooked Vultures": {
       "albums": [
         "Them Crooked Vultures"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "hard-rock",
+        "stoner-rock"
+      ],
+      "genre": "hard rock",
+      "era": "2000s"
     },
     "They Might Be Giants": {
       "albums": [
@@ -5792,7 +7780,12 @@
         "King of Kings The Very Best of Tito Puente"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "latin-jazz"
+      ],
+      "genre": "Latin jazz / mambo",
+      "era": "1950s-now"
     },
     "Tom Waits": {
       "albums": [
@@ -5835,7 +7828,13 @@
         "Tomahawk"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "patton-orbit",
+        "alt-metal"
+      ],
+      "genre": "experimental rock",
+      "era": "2000s-now"
     },
     "Tony Bennett": {
       "albums": [
@@ -5845,7 +7844,13 @@
         "Unknown Album (8_21_2007 9_25_05 PM)"
       ],
       "album_count": 4,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "crooner-canon",
+        "traditional-pop"
+      ],
+      "genre": "traditional pop",
+      "era": "1950s-now"
     },
     "Tony Rice Unit": {
       "albums": [
@@ -5853,7 +7858,13 @@
         "Unit Of Measure"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "bluegrass",
+        "newgrass"
+      ],
+      "genre": "bluegrass guitar",
+      "era": "1980s-now"
     },
     "Tool": {
       "albums": [
@@ -5880,7 +7891,12 @@
         "Illinoize (instrumentals)"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "instrumental-hiphop"
+      ],
+      "genre": "instrumental hip-hop",
+      "era": "2000s-now"
     },
     "Tori Amos": {
       "albums": [
@@ -5925,7 +7941,12 @@
         "Seis de Mayo"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jam"
+      ],
+      "genre": "jam",
+      "era": "2000s-now"
     },
     "Trey Anastasio Band": {
       "albums": [
@@ -5934,14 +7955,25 @@
         "5.31.03 The Warfield. San Fran, CA Disc 2"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jam"
+      ],
+      "genre": "jam",
+      "era": "2000s-now"
     },
     "Trombone Shorty": {
       "albums": [
         "Backatown"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "nola",
+        "brass-band"
+      ],
+      "genre": "New Orleans funk",
+      "era": "2000s-now"
     },
     "Two Ton Shoe": {
       "albums": [
@@ -5976,7 +8008,13 @@
         "Far Away Trains Passing By"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "ambient",
+        "shoegaze-electronic"
+      ],
+      "genre": "ambient electronic",
+      "era": "2000s"
     },
     "Umphrey's McGee": {
       "albums": [
@@ -5985,7 +8023,13 @@
         "2005-03-12 Langerado Festival - Sunrise, FL"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jam",
+        "progressive-rock"
+      ],
+      "genre": "prog jam",
+      "era": "2000s-now"
     },
     "Un Solo Pueblo": {
       "albums": [
@@ -6013,7 +8057,12 @@
         "Mental Floss for the Globe [Bonus Disc] Disc 1"
       ],
       "album_count": 4,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "rap-rock"
+      ],
+      "genre": "rap rock",
+      "era": "1990s"
     },
     "Van Morrison": {
       "albums": [
@@ -6026,7 +8075,13 @@
         "Tupelo Honey"
       ],
       "album_count": 7,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "singer-songwriter-canon",
+        "blue-eyed-soul"
+      ],
+      "genre": "celtic soul",
+      "era": "1960s-now"
     },
     "Various": {
       "albums": [
@@ -6042,7 +8097,13 @@
         "Look Mom... No Hands"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "defjux",
+        "underground-hiphop"
+      ],
+      "genre": "underground hip-hop",
+      "era": "2000s"
     },
     "Vince Guaraldi": {
       "albums": [
@@ -6062,14 +8123,26 @@
         "Tabula Rasa"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "world",
+        "indo-american"
+      ],
+      "genre": "world fusion",
+      "era": "1990s-now"
     },
     "Vishwa Mohan Bhatt With Bela Fleck and Jie Bing Chen": {
       "albums": [
         "Tabula Rasa"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "world",
+        "indo-american"
+      ],
+      "genre": "world fusion",
+      "era": "1990s-now"
     },
     "Vishwa Mohan Bhatt-Jerry Douglas": {
       "albums": [
@@ -6089,14 +8162,26 @@
         "Galleries"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "project-blowed",
+        "underground-hiphop"
+      ],
+      "genre": "underground hip-hop",
+      "era": "2000s"
     },
     "Volbeat": {
       "albums": [
         "Outlaw Gentlemen & Shady Ladies"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "heavy-metal",
+        "rockabilly"
+      ],
+      "genre": "metal / rockabilly",
+      "era": "2000s-now"
     },
     "WEATHERMEN": {
       "albums": [
@@ -6104,7 +8189,13 @@
         "Weathermen-The_Conspiracy-(Retail)-2003-CMS"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "underground-hiphop",
+        "defjux"
+      ],
+      "genre": "underground hip-hop",
+      "era": "2000s"
     },
     "Warren Zevon - I'll Sleep When I'm Dead (An Anthology)": {
       "albums": [
@@ -6113,28 +8204,50 @@
         "Warren Zevon - I'll Sleep When I'm Dead Scans"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "singer-songwriter"
+      ],
+      "genre": "singer-songwriter",
+      "era": "1970s-2000s"
     },
     "Waylon Jennings": {
       "albums": [
         "Honky Tonk Heroes"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "outlaw-country",
+        "country-canon"
+      ],
+      "genre": "outlaw country",
+      "era": "1970s-80s"
     },
     "Weather Report": {
       "albums": [
         "8-30"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jazz-fusion"
+      ],
+      "genre": "jazz fusion",
+      "era": "1970s-80s"
     },
     "Ween": {
       "albums": [
         "12 Golden Country Greats"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-rock-90s",
+        "experimental-rock"
+      ],
+      "genre": "experimental rock",
+      "era": "1990s-now"
     },
     "Weird Little Boy": {
       "albums": [
@@ -6165,7 +8278,13 @@
         "Night Of Joy"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jam",
+        "southern-rock"
+      ],
+      "genre": "jam",
+      "era": "1990s-now"
     },
     "Wilco": {
       "albums": [
@@ -6175,7 +8294,13 @@
         "Wilco-Yankee_Hotel_Foxtrot-2002-EMG_INT"
       ],
       "album_count": 4,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "alt-country",
+        "indie-rock"
+      ],
+      "genre": "alt-country / indie",
+      "era": "1990s-now"
     },
     "William Orbit": {
       "albums": [
@@ -6426,7 +8551,12 @@
         "The Dragon Experience"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "industrial"
+      ],
+      "genre": "industrial",
+      "era": "2000s"
     },
     "cLOUDDEAD": {
       "albums": [
@@ -6447,21 +8577,38 @@
         "the_mouse_and_the_mask"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "underground-hiphop",
+        "stones-throw"
+      ],
+      "genre": "underground hip-hop",
+      "era": "2000s"
     },
     "dirty projectors": {
       "albums": [
         "Bitte Orca"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "indie-rock",
+        "experimental-rock"
+      ],
+      "genre": "experimental indie",
+      "era": "2000s-now"
     },
     "moe_": {
       "albums": [
         "Wormwood"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": true,
+      "scenes": [
+        "jam"
+      ],
+      "genre": "jam",
+      "era": "1990s-now"
     },
     "The A-Team": {
       "albums": [

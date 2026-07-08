@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["west-coast-hiphop", "alt-hiphop"]
+genre: "alternative hip-hop"
+era: "1990s"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # The Pharcyde
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[west-coast-hiphop|West Coast Hiphop]] · [[alt-hiphop|Alt Hiphop]] · [[alternative hip-hop]]
 
 ## Albums (2)
 - Bizarre Ride II the Pharcyde

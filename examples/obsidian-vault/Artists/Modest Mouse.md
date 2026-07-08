@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["indie-rock"]
+genre: "indie rock"
+era: "1990s-now"
 album_count: 6
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Modest Mouse
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[indie-rock|Indie Rock]] · [[indie rock]]
 
 ## Albums (6)
 - Good News For People Who Love Bad News

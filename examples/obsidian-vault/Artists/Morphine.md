@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["alt-rock-90s"]
+genre: "low rock / noir"
+era: "1990s"
 album_count: 4
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Morphine
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[alt-rock-90s|Alt Rock 90S]] · [[low rock]] · [[noir]]
 
 ## Albums (4)
 - Cure for Pain

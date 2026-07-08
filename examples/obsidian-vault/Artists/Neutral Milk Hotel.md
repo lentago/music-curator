@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["indie-folk", "lo-fi"]
+genre: "indie folk"
+era: "1990s"
 album_count: 4
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Neutral Milk Hotel
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[indie-folk|Indie Folk]] · [[lo-fi|Lo Fi]] · [[indie folk]]
 
 ## Albums (4)
 - Happy Birthday to You - Disc 4

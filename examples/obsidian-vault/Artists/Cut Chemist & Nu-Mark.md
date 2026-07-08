@@ -1,13 +1,16 @@
 ---
 type: "artist"
+scenes: ["turntablism"]
+genre: "turntablism"
+era: "2000s"
 album_count: 1
 collaborators: ["Cut Chemist"]
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Cut Chemist & Nu-Mark
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[turntablism|Turntablism]] · [[turntablism (2)|turntablism]]
 
 **With:** [[Cut Chemist]]
 

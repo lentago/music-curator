@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["funk-electronic", "breakbeat"]
+genre: "funk breaks"
+era: "2000s"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Fort Knox Five
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[funk-electronic|Funk Electronic]] · [[breakbeat|Breakbeat]] · [[funk breaks]]
 
 ## Albums (1)
 - The New Gold Standard

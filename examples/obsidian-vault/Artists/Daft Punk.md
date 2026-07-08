@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["french-electronic", "french-house"]
+genre: "electronic / house"
+era: "1990s-now"
 album_count: 3
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Daft Punk
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[french-electronic|French Electronic]] · [[french-house|French House]] · [[electronic (2)|electronic]] · [[house]]
 
 ## Albums (3)
 - Discovery

@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["dance-punk"]
+genre: "dance punk"
+era: "2000s-now"
 album_count: 6
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Death From Above 1979
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[dance-punk|Dance Punk]] · [[dance punk]]
 
 ## Albums (6)
 - Heads Up!

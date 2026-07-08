@@ -1,13 +1,16 @@
 ---
 type: "artist"
+scenes: ["soul-canon"]
+genre: "soul"
+era: "1960s-70s"
 album_count: 1
 collaborators: ["Curtis Mayfield"]
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Curtis Mayfield & The Impressions
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[soul-canon|Soul Canon]] · [[soul (2)|soul]]
 
 **With:** [[Curtis Mayfield]]
 

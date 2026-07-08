@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["jam", "progressive-rock"]
+genre: "prog jam"
+era: "2000s-now"
 album_count: 3
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Umphrey's McGee
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[jam|Jam]] · [[progressive-rock|Progressive Rock]] · [[prog jam]]
 
 ## Albums (3)
 - 2004-06-11 Bonnaroo

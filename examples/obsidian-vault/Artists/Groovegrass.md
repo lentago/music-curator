@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["newgrass"]
+genre: "newgrass"
+era: "1990s"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Groovegrass
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[newgrass|Newgrass]] · [[newgrass (2)|newgrass]]
 
 ## Albums (2)
 - Groovegrass 101 Featuring Groovegrass Bo

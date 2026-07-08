@@ -1,13 +1,15 @@
 ---
 type: "scene"
-member_count: 2
+member_count: 4
 tags: ["scene"]
 ---
 
 # Folk Pop
 
-*Scene — 2 artist(s) in the collection.*
+*Scene — 4 artist(s) in the collection.*
 
 ## Artists
+- [[Edie Brickell & New Bohemians]]
+- [[Sarah McLachlan]]
 - [[Tracy Chapman]]
 - [[Yael Naïm]]

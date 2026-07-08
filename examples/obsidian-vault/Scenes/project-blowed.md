@@ -1,13 +1,15 @@
 ---
 type: "scene"
-member_count: 2
+member_count: 4
 tags: ["scene"]
 ---
 
 # Project Blowed
 
-*Scene — 2 artist(s) in the collection.*
+*Scene — 4 artist(s) in the collection.*
 
 ## Artists
 - [[Aceyalone]]
+- [[LMNO]]
 - [[The A-Team]]
+- [[Visionaries]]

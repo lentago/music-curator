@@ -1,13 +1,17 @@
 ---
 aliases: ["post-rock"]
 type: "genre"
-member_count: 1
+member_count: 5
 tags: ["genre"]
 ---
 
 # post-rock
 
-*Genre — 1 artist(s) in the collection.*
+*Genre — 5 artist(s) in the collection.*
 
 ## Artists
+- [[Explosions In The Sky]]
+- [[Godspeed You! Black Emperor]]
+- [[Jónsi]]
+- [[Sigur Ros]]
 - [[Sigur Rós]]

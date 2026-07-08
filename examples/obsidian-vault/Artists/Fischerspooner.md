@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["electroclash"]
+genre: "electroclash"
+era: "2000s"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Fischerspooner
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[electroclash|Electroclash]] · [[electroclash (2)|electroclash]]
 
 ## Albums (2)
 - #1 [Explicit]

@@ -1,12 +1,14 @@
 ---
 type: "scene"
-member_count: 1
+member_count: 3
 tags: ["scene"]
 ---
 
 # Progressive Metal
 
-*Scene — 1 artist(s) in the collection.*
+*Scene — 3 artist(s) in the collection.*
 
 ## Artists
+- [[A Perfect Circle]]
+- [[Mastodon]]
 - [[Tool]]
