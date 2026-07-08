@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Ray Charles
 
-**Scenes / genre:** [[soul-canon|Soul Canon]] · [[soul r&b|soul / r&b]]
+**Scenes / genre:** [[soul-canon|Soul Canon]] · [[soul (2)|soul]] · [[r&b]]
 
 ## Albums (13)
 - Genius Loves Company

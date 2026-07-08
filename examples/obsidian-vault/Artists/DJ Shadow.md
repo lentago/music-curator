@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # DJ Shadow
 
-**Scenes / genre:** [[mo-wax|Mo Wax]] · [[instrumental-hiphop|Instrumental Hiphop]] · [[instrumental hip-hop turntablism|instrumental hip-hop / turntablism]]
+**Scenes / genre:** [[mo-wax|Mo Wax]] · [[instrumental-hiphop|Instrumental Hiphop]] · [[instrumental hip-hop]] · [[turntablism (2)|turntablism]]
 
 ## Albums (4)
 - Endtroducing

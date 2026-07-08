@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Thievery Corporation
 
-**Scenes / genre:** [[trip-hop|Trip Hop]] · [[dub-electronic|Dub Electronic]] · [[trip-hop downtempo|trip-hop / downtempo]]
+**Scenes / genre:** [[trip-hop|Trip Hop]] · [[dub-electronic|Dub Electronic]] · [[trip-hop (2)|trip-hop]] · [[downtempo (2)|downtempo]]
 
 ## Albums (12)
 - Abductions and Reconstructions

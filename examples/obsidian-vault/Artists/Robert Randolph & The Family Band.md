@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Robert Randolph & The Family Band
 
-**Scenes / genre:** [[sacred-steel|Sacred Steel]] · [[jam|Jam]] · [[blues-rock|Blues Rock]] · [[sacred steel blues-jam|sacred steel / blues-jam]]
+**Scenes / genre:** [[sacred-steel|Sacred Steel]] · [[jam|Jam]] · [[blues-rock|Blues Rock]] · [[sacred steel]] · [[blues-jam]]
 
 > sacred-steel pedal-steel guitar — confirmed lane
 

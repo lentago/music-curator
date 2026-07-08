@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Xx
 
-**Scenes / genre:** [[minimal-indie|Minimal Indie]] · [[indie dream pop|indie / dream pop]]
+**Scenes / genre:** [[minimal-indie|Minimal Indie]] · [[indie]] · [[dream pop]]
 
 ## Albums (1)
 - The XX

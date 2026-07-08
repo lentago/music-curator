@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Zero 7
 
-**Scenes / genre:** [[trip-hop|Trip Hop]] · [[downtempo|Downtempo]] · [[downtempo trip-hop|downtempo / trip-hop]]
+**Scenes / genre:** [[trip-hop|Trip Hop]] · [[downtempo|Downtempo]] · [[downtempo (2)|downtempo]] · [[trip-hop (2)|trip-hop]]
 
 ## Albums (4)
 - Simple Things

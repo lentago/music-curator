@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Masada
 
-**Scenes / genre:** [[downtown-ny|Downtown Ny]] · [[tzadik|Tzadik]] · [[radical-jewish-culture|Radical Jewish Culture]] · [[avant-garde jazz (2)|avant-garde jazz]]
+**Scenes / genre:** [[downtown-ny|Downtown Ny]] · [[tzadik|Tzadik]] · [[radical-jewish-culture|Radical Jewish Culture]] · [[avant-garde jazz]]
 
 ## Albums (6)
 - 50th Birthday Celebration, Vol. 7

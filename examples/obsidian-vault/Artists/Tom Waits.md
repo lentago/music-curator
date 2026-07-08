@@ -10,7 +10,7 @@ tags: ["artist", "anchor"]
 
 # Tom Waits
 
-**Scenes / genre:** [[art-pop|Art Pop]] · [[americana|Americana]] · [[outsider|Outsider]] · [[art-rock americana|art-rock / americana]]
+**Scenes / genre:** [[art-pop|Art Pop]] · [[americana|Americana]] · [[outsider|Outsider]] · [[art-rock]] · [[americana (2)|americana]]
 
 > **Anchor.** Foundational anchor — art-rock/Americana/outsider centerpiece
 

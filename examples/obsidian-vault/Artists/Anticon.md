@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Anticon
 
-**Scenes / genre:** [[anticon (2)|Anticon]] · [[underground-hiphop|Underground Hiphop]] · [[collective label|collective/label]]
+**Scenes / genre:** [[anticon (2)|Anticon]] · [[underground-hiphop|Underground Hiphop]] · [[collective]] · [[label]]
 
 ## Albums (1)
 - we ain't fessin' (double quotes)

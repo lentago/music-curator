@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Al Jarreau & Lou Rawls
 
-**Scenes / genre:** [[vocal-jazz|Vocal Jazz]] · [[soul|Soul]] · [[vocal jazz soul|vocal jazz / soul]]
+**Scenes / genre:** [[vocal-jazz|Vocal Jazz]] · [[soul|Soul]] · [[vocal jazz]] · [[soul (2)|soul]]
 
 ## Albums (1)
 - Soul Men

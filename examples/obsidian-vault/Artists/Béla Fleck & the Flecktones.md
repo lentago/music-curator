@@ -1,12 +1,15 @@
 ---
 type: "artist"
 album_count: 5
+collaborators: ["Béla Fleck"]
 tags: ["artist", "reservoir"]
 ---
 
 # Béla Fleck & the Flecktones
 
 **Filed under:** [[Reservoir]]
+
+**With:** [[Béla Fleck]]
 
 ## Albums (5)
 - Flight of the Cosmic Hippo

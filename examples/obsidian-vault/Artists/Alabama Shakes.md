@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Alabama Shakes
 
-**Scenes / genre:** [[retro-soul|Retro Soul]] · [[soul blues rock|soul / blues rock]]
+**Scenes / genre:** [[retro-soul|Retro Soul]] · [[soul (2)|soul]] · [[blues rock]]
 
 ## Albums (2)
 - Boys & Girls

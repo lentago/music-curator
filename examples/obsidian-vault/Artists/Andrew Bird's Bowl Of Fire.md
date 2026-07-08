@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Andrew Bird's Bowl Of Fire
 
-**Scenes / genre:** [[indie-folk|Indie Folk]] · [[swing-revival|Swing Revival]] · [[swing indie folk|swing / indie folk]]
+**Scenes / genre:** [[indie-folk|Indie Folk]] · [[swing-revival|Swing Revival]] · [[swing]] · [[indie folk]]
 
 ## Albums (3)
 - Weather Systems

@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Yerba Buena
 
-**Scenes / genre:** [[nu-latin|Nu Latin]] · [[world|World]] · [[latin world|latin / world]]
+**Scenes / genre:** [[nu-latin|Nu Latin]] · [[world|World]] · [[latin]] · [[world (2)|world]]
 
 ## Albums (1)
 - President Alien

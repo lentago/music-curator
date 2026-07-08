@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # XTC
 
-**Scenes / genre:** [[british-new-wave|British New Wave]] · [[art rock new wave|art rock / new wave]]
+**Scenes / genre:** [[british-new-wave|British New Wave]] · [[art rock]] · [[new wave]]
 
 ## Albums (1)
 - Nonsuch

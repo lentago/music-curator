@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Madlib
 
-**Scenes / genre:** [[stones-throw|Stones Throw]] · [[underground-hiphop|Underground Hiphop]] · [[instrumental-hiphop|Instrumental Hiphop]] · [[hip-hop production|hip-hop / production]]
+**Scenes / genre:** [[stones-throw|Stones Throw]] · [[underground-hiphop|Underground Hiphop]] · [[instrumental-hiphop|Instrumental Hiphop]] · [[hip-hop]] · [[production]]
 
 ## Albums (2)
 - Shades of Blue

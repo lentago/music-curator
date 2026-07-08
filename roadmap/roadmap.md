@@ -127,20 +127,31 @@ only describes in prose.
 worked-example vault at `examples/obsidian-vault/`, and a pre-styled
 `.obsidian/graph.json` (color groups by note type). Deterministic and
 idempotent; the output dir is guarded by a marker file so it never clobbers a
-foreign directory.
+foreign directory. Edges are drawn from three sources, all derived from the
+existing inventory with no schema change:
+
+1. **Scene + genre hubs.** Each artist links to its scene(s) and genre. Compound
+   genres are split on `/` so a shared `hip-hop` or `soul` component connects
+   artists that don't share a full genre string.
+2. **Collaboration edges.** Combo artist keys are parsed into their members
+   (`El-P & Cannibal Ox` → El-P + Cannibal Ox; `Willie Nelson-Waylon Jennings`
+   → both), and a direct artist→artist edge is drawn to each member that is
+   itself in the collection. Members are only linked on an exact node match, so
+   canonical groups (Hall & Oates) and `The`-prefix near-duplicates yield no
+   false edges.
 
 **Possible extensions:**
-- **Artist→artist collaboration edges.** The richest enthusiast graph links
-  artists directly (Hail Mary Mallon → Aesop Rock + Rob Sonic; the
-  doseone → Backwoodz bridge). Those relationships live in the profile prose,
-  not the inventory JSON — extracting them into structured `collaborators`/
-  `members` fields would let the driver draw first-class collaboration edges.
+- **Named side-project edges.** Key-parsing catches `A & B`-style keys but not
+  named projects whose key doesn't name its members (Hail Mary Mallon → Aesop
+  Rock + Rob Sonic; Madvillain → MF DOOM + Madlib; the doseone → Backwoodz
+  bridge). Those live in the profile prose; a curated `members`/`collaborators`
+  schema field would let the driver draw them too.
 - **Thread MOCs from the profile.** Generate a note per queued exploration
   thread (Tzadik deep dive, bluegrass extension, …) linking its anchors and
   expansion candidates, so the profile's editorial threads become navigable.
 - **Era/decade lens.** An optional era-bucket edge set for a temporal view.
 
-**Dependencies:** None for the core; the collaboration-edge extension depends on
+**Dependencies:** None for the core; the named-side-project extension depends on
 adding collaboration data to the schema.
 
 ---

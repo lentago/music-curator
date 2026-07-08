@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # A Tribe Called Quest
 
-**Scenes / genre:** [[native-tongues|Native Tongues]] · [[jazz rap hip-hop|jazz rap / hip-hop]]
+**Scenes / genre:** [[native-tongues|Native Tongues]] · [[jazz rap]] · [[hip-hop]]
 
 ## Albums (1)
 - Scenario (CD Single)

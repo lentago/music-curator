@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Andrew Bird
 
-**Scenes / genre:** [[indie-folk|Indie Folk]] · [[art-pop|Art Pop]] · [[indie folk chamber pop|indie folk / chamber pop]]
+**Scenes / genre:** [[indie-folk|Indie Folk]] · [[art-pop|Art Pop]] · [[indie folk]] · [[chamber pop]]
 
 ## Albums (9)
 - Andrew Bird & the Mysterious Production

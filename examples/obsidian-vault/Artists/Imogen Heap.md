@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Imogen Heap
 
-**Scenes / genre:** [[art-pop|Art Pop]] · [[electronic|Electronic]] · [[art pop electronic|art pop / electronic]]
+**Scenes / genre:** [[art-pop|Art Pop]] · [[electronic|Electronic]] · [[art pop]] · [[electronic (2)|electronic]]
 
 ## Albums (11)
 - Getting Scared (Single)

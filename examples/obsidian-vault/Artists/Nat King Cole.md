@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Nat King Cole
 
-**Scenes / genre:** [[crooner-canon|Crooner Canon]] · [[vocal-jazz|Vocal Jazz]] · [[vocal jazz standards|vocal jazz / standards]]
+**Scenes / genre:** [[crooner-canon|Crooner Canon]] · [[vocal-jazz|Vocal Jazz]] · [[vocal jazz]] · [[standards]]
 
 > confirmed authentic by Chris — there IS a crooner soft spot
 

@@ -10,7 +10,7 @@ tags: ["artist", "anchor"]
 
 # John Zorn
 
-**Scenes / genre:** [[downtown-ny|Downtown Ny]] · [[tzadik|Tzadik]] · [[radical-jewish-culture|Radical Jewish Culture]] · [[avant-garde jazz|avant-garde / jazz]]
+**Scenes / genre:** [[downtown-ny|Downtown Ny]] · [[tzadik|Tzadik]] · [[radical-jewish-culture|Radical Jewish Culture]] · [[avant-garde]] · [[jazz]]
 
 > **Anchor.** Foundational anchor — entire Downtown NY/Tzadik/Radical Jewish Culture universe
 

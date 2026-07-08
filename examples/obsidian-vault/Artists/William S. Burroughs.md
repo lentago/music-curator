@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # William S. Burroughs
 
-**Scenes / genre:** [[beat-spoken-word|Beat Spoken Word]] · [[spoken word beat|spoken word / beat]]
+**Scenes / genre:** [[beat-spoken-word|Beat Spoken Word]] · [[spoken word]] · [[beat]]
 
 ## Albums (2)
 - spare ass annie

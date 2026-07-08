@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Yo-Yo Ma
 
-**Scenes / genre:** [[classical-crossover|Classical Crossover]] · [[classical crossover|classical / crossover]]
+**Scenes / genre:** [[classical-crossover|Classical Crossover]] · [[classical]] · [[crossover]]
 
 ## Albums (1)
 - Obrigado Brazil

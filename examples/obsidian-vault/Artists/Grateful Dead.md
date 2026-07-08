@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Grateful Dead
 
-**Scenes / genre:** [[jam|Jam]] · [[jam psychedelic rock|jam / psychedelic rock]]
+**Scenes / genre:** [[jam|Jam]] · [[jam (2)|jam]] · [[psychedelic rock]]
 
 ## Albums (8)
 - Dick's Picks, Vol. 12 Disc 1

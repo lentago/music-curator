@@ -99,6 +99,55 @@ def prettify_album(name):
     return re.sub(r"\s+", " ", name.replace("_", " ")).strip()
 
 
+def genre_components(genre):
+    """Split a compound genre string on '/' into its component hub names.
+
+    `jazz rap / hip-hop` -> ['jazz rap', 'hip-hop'], so two artists that share
+    only the `hip-hop` component still cluster together. A simple genre with no
+    '/' is returned as a single-element list.
+    """
+    if not genre:
+        return []
+    return [part.strip() for part in re.split(r"\s*/\s*", genre) if part.strip()]
+
+
+# Delimiters inside an artist key that suggest a collaboration of separately
+# collected artists. Constituents are only linked when they exactly match an
+# existing artist node, so over-splitting a canonical group (Hall & Oates,
+# Earth Wind & Fire) is harmless — it simply yields no edges.
+_COLLAB_SPLIT = re.compile(
+    r"\s*(?:&|\+|/|,|;|\bx\b|\band\b|\bwith\b|\bfeat\.?\b|\bfeaturing\b|\bvs\.?\b)\s*"
+    r"|(?<=\S)-(?=\S)",
+    re.I,
+)
+
+
+def parse_collaborators(name, lookup):
+    """Constituent artist nodes named inside a collaboration key.
+
+    `lookup` maps a lowercased artist name to its canonical form. Returns the
+    canonical names of constituents that are themselves nodes (excluding `name`
+    itself), preserving order and dropping duplicates.
+
+    Only names that actually contain a separator are treated as collaborations,
+    so a lone `The Grateful Dead` is never linked to a separate `Grateful Dead`
+    node — that is a near-duplicate key (validate.py's job), not a collaboration.
+    """
+    raw_parts = [p for p in _COLLAB_SPLIT.split(name) if p and p.strip()]
+    if len(raw_parts) < 2:
+        return []
+    found = []
+    for raw in raw_parts:
+        part = re.sub(r"\(.*?\)", "", raw).strip().strip(".")
+        if not part:
+            continue
+        for cand in (part, re.sub(r"^the\s+", "", part, flags=re.I)):
+            canonical = lookup.get(cand.lower())
+            if canonical and canonical != name and canonical not in found:
+                found.append(canonical)
+    return found
+
+
 def yaml_scalar(value):
     if isinstance(value, bool):
         return "true" if value else "false"
@@ -181,22 +230,28 @@ def build_vault(inventory, out_dir, include_discarded=False):
             continue
         active[name] = rec
 
+    # Case-insensitive lookup used to resolve collaboration constituents.
+    name_lookup = {name.lower(): name for name in active}
+
     # Collect scene and genre hub nodes and their members.
-    scene_members = {}   # scene slug -> [artist display names]
-    genre_members = {}   # genre string -> [artist display names]
+    scene_members = {}     # scene slug      -> [artist display names]
+    genre_members = {}     # genre component -> [artist display names]
     reservoir_members = []
     anchors = []
+    collab_map = {}        # artist name -> [constituent artist names that are nodes]
 
     for name, rec in active.items():
         if is_reservoir(rec):
             reservoir_members.append(name)
         for scene in rec.get("scenes", []) or []:
             scene_members.setdefault(scene, []).append(name)
-        genre = rec.get("genre")
-        if genre:
-            genre_members.setdefault(genre, []).append(name)
+        for component in genre_components(rec.get("genre")):
+            genre_members.setdefault(component, []).append(name)
         if rec.get("anchor"):
             anchors.append(name)
+        constituents = parse_collaborators(name, name_lookup)
+        if constituents:
+            collab_map[name] = constituents
 
     # Allocate globally-unique basenames. Reserve the MOC names first so they
     # keep clean titles, then artists, then hubs.
@@ -228,22 +283,32 @@ def build_vault(inventory, out_dir, include_discarded=False):
             ("album_count", rec.get("album_count")),
             ("anchor", True if rec.get("anchor") else None),
             ("discarded", True if rec.get("discard") else None),
+            ("collaborators", collab_map.get(name) or None),
             ("tags", tags),
         ])
 
         parts = [fm, "", f"# {name}", ""]
 
-        # Edge links: scenes, then genre, then Reservoir for the untagged.
+        # Edge links: scenes, then each genre component, then Reservoir.
         edges = []
         for scene in rec.get("scenes", []) or []:
             edges.append(link(scene_base[scene], prettify_scene(scene)))
-        if rec.get("genre"):
-            edges.append(link(genre_base[rec["genre"]], rec["genre"]))
+        for component in genre_components(rec.get("genre")):
+            edges.append(link(genre_base[component], component))
         if reservoir:
             edges.append(link(fixed[RESERVOIR_HUB]))
         if edges:
             label = "Scenes / genre" if not reservoir else "Filed under"
             parts.append(f"**{label}:** " + " · ".join(edges))
+            parts.append("")
+
+        # Collaboration edges: direct artist-to-artist links parsed from the
+        # combo key, drawn only to constituents that are themselves nodes.
+        collaborators = collab_map.get(name, [])
+        if collaborators:
+            parts.append(
+                "**With:** " + " · ".join(link(artist_base[c], c) for c in collaborators)
+            )
             parts.append("")
 
         if rec.get("anchor") and rec.get("anchor_note"):
@@ -329,18 +394,20 @@ def build_vault(inventory, out_dir, include_discarded=False):
 
     # --- Home MOC -------------------------------------------------------------
     bridges = sum(1 for r in active.values() if len(r.get("scenes", []) or []) > 1)
+    collab_edges = sum(len(v) for v in collab_map.values())
     top_scenes = sorted(scene_members.items(), key=lambda kv: (-len(kv[1]), kv[0]))
     home = [
         frontmatter([("type", "moc"), ("tags", ["moc"])]), "",
         f"# {HOME_MOC}", "",
         "A taste map of the collection. Open the **graph view** (Ctrl/Cmd-G) to "
         "see artists cluster around the scene and genre hubs they link to; the "
-        "four anchors sit at the densest nodes, and multi-scene artists bridge "
-        "the clusters.", "",
+        "four anchors sit at the densest nodes, multi-scene artists bridge the "
+        "clusters, and combo acts link straight to the members they share.", "",
         "## By the numbers", "",
         f"- **{len(active)}** artists",
-        f"- **{len(scene_members)}** scenes · **{len(genre_members)}** genres",
+        f"- **{len(scene_members)}** scenes · **{len(genre_members)}** genre components",
         f"- **{len(anchors)}** anchors · **{bridges}** multi-scene bridge artists",
+        f"- **{collab_edges}** direct artist-to-artist collaboration edges",
         f"- **{len(reservoir_members)}** in the untagged {link(fixed[RESERVOIR_HUB])}",
         "",
         "## Start here", "",
@@ -364,7 +431,12 @@ def build_vault(inventory, out_dir, include_discarded=False):
         "notes — regenerate instead; edits are overwritten.", "",
         "## Reading the graph", "",
         "- **Artist** notes link to the **scene** and **genre** hubs they "
-        "belong to — those links are the graph edges.",
+        "belong to — those links are the graph edges. Compound genres are split "
+        "on `/` so artists sharing just one component (e.g. `hip-hop`) still "
+        "connect.",
+        "- **Combo acts link directly to their members** (`El-P & Cannibal Ox` "
+        "→ El-P + Cannibal Ox), so the graph shows the collaboration social "
+        "graph, not just hub membership. See a note's **With:** line.",
         "- Color groups are pre-set: anchors gold, scenes blue, genres green, "
         "the reservoir grey, ordinary artists light.",
         "- Multi-scene artists are the bridges between clusters — follow them to "
@@ -386,6 +458,7 @@ def build_vault(inventory, out_dir, include_discarded=False):
         "genres": len(genre_members),
         "anchors": len(anchors),
         "bridges": bridges,
+        "collab_edges": collab_edges,
         "reservoir": len(reservoir_members),
         "meta_total": meta.get("total_unique_artists"),
     }
@@ -456,8 +529,9 @@ def main():
 
     print(f"Wrote vault to: {args.out}")
     print(f"  artists:   {stats['artists']}")
-    print(f"  scenes:    {stats['scenes']}  genres: {stats['genres']}")
+    print(f"  scenes:    {stats['scenes']}  genre components: {stats['genres']}")
     print(f"  anchors:   {stats['anchors']}  bridges: {stats['bridges']}")
+    print(f"  collab edges: {stats['collab_edges']}")
     print(f"  reservoir: {stats['reservoir']}")
 
 
