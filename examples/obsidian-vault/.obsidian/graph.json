@@ -1,38 +1,45 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "-tag:#moc",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#scene",
       "color": {
         "a": 1,
-        "rgb": 4827094
+        "rgb": 4886745
       }
     },
     {
       "query": "tag:#genre",
       "color": {
         "a": 1,
-        "rgb": 6605645
+        "rgb": 15243066
       }
     },
     {
       "query": "tag:#reservoir",
       "color": {
         "a": 1,
-        "rgb": 8355711
+        "rgb": 7240587
       }
     },
     {
-      "query": "tag:#artist",
+      "query": "tag:#moc -tag:#reservoir",
       "color": {
         "a": 1,
-        "rgb": 14737632
+        "rgb": 5595248
+      }
+    },
+    {
+      "query": "tag:#artist -tag:#reservoir",
+      "color": {
+        "a": 1,
+        "rgb": 13225426
       }
     }
   ],

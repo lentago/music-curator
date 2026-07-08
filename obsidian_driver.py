@@ -416,14 +416,17 @@ def build_vault(inventory, out_dir, include_discarded=False):
         "- **Combo acts link directly to their members** (`El-P & Cannibal Ox` "
         "→ El-P + Cannibal Ox), so the graph shows the collaboration social "
         "graph, not just hub membership. See a note's **With:** line.",
-        "- Color groups are pre-set by node type: scenes blue, genres green, "
-        "the reservoir grey, artists light. No artist is singled out — node size "
+        "- Color groups are pre-set by node type: **scene** hubs blue, **genre** "
+        "hubs orange, artists light grey. No artist is singled out — node size "
         "follows degree, so importance emerges from the graph, not a prior.",
         "- Multi-scene artists are the bridges between clusters — follow them to "
         "find cross-pollination (a jazz guitarist who is also in the klezmer and "
         "Tom Waits orbits, say).",
-        "- The grey **Reservoir** blob is untagged inventory; hide it with a "
-        "`-tag:#reservoir` graph filter for a clean taste map.", "",
+        "- The graph opens **filtered** (`-tag:#moc`, orphans hidden) so the "
+        "meta notes (this one, Music Collection, Reservoir) and the untagged "
+        "reservoir don't clutter the taste map. Clear the filter and enable "
+        "*Show orphans* to browse the whole collection, including the grey "
+        "reservoir inventory.", "",
         f"Start at {link(fixed[HOME_MOC])}.",
     ]
     write_note(out_dir, "", fixed[ABOUT_NOTE], "\n".join(about))
@@ -444,20 +447,31 @@ def build_vault(inventory, out_dir, include_discarded=False):
 
 
 def write_graph_config(out_dir):
-    """Drop a .obsidian/graph.json so the graph opens color-grouped by type."""
+    """Drop a .obsidian/graph.json so the graph opens filtered and colored by type.
+
+    The meta / navigation notes (Music Collection, About, Reservoir) are all
+    tagged #moc, so `-tag:#moc` hides them from the graph while they remain in
+    the vault for reading. With the Reservoir hub hidden, the untagged artists
+    that only linked to it become orphans, so showOrphans is off — leaving a
+    clean, connected taste-structure graph of artists + scene/genre hubs.
+
+    Color-group queries are mutually exclusive so a node's type color never
+    depends on color-group ordering.
+    """
     graph = {
         "collapse-filter": True,
-        "search": "",
+        "search": "-tag:#moc",
         "showTags": False,
         "showAttachments": False,
         "hideUnresolved": False,
-        "showOrphans": True,
+        "showOrphans": False,
         "collapse-color-groups": False,
         "colorGroups": [
-            {"query": "tag:#scene", "color": {"a": 1, "rgb": 4827094}},       # blue
-            {"query": "tag:#genre", "color": {"a": 1, "rgb": 6605645}},       # green
-            {"query": "tag:#reservoir", "color": {"a": 1, "rgb": 8355711}},   # grey
-            {"query": "tag:#artist", "color": {"a": 1, "rgb": 14737632}},     # light grey
+            {"query": "tag:#scene", "color": {"a": 1, "rgb": 4886745}},               # blue   #4A90D9
+            {"query": "tag:#genre", "color": {"a": 1, "rgb": 15243066}},              # orange #E8973A
+            {"query": "tag:#reservoir", "color": {"a": 1, "rgb": 7240587}},           # slate grey #6E7B8B
+            {"query": "tag:#moc -tag:#reservoir", "color": {"a": 1, "rgb": 5595248}}, # dim slate  #556070
+            {"query": "tag:#artist -tag:#reservoir", "color": {"a": 1, "rgb": 13225426}},  # light grey #C9CDD2
         ],
         "collapse-display": False,
         "showArrow": False,
