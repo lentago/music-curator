@@ -47,10 +47,12 @@ The cleaned inventory is already a graph: artists carry `scenes[]` and `genre`
 tags. `obsidian_driver.py` renders those relationships into a self-contained
 [Obsidian](https://obsidian.md) vault where each artist note wikilinks to its
 scene and genre hubs — and those links are the graph edges. Open the folder in
-Obsidian and the graph view clusters artists by scene out of the box
-(color-grouped, no plugins). No artist is pre-weighted as an "anchor"; the
-important nodes surface from the connectivity itself, since Obsidian sizes
-nodes by degree.
+Obsidian and the graph view clusters artists by scene out of the box, no
+plugins. It opens **filtered to the taste structure** — the meta/navigation
+notes are hidden and node type is color-coded (scene hubs blue, genre hubs
+orange, artists light) — so you see the music, not the scaffolding. No artist is
+pre-weighted as an "anchor"; the important nodes surface from the connectivity
+itself, since Obsidian sizes nodes by degree.
 
 ```bash
 python obsidian_driver.py            # → examples/obsidian-vault/
