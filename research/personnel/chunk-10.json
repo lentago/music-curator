@@ -1,0 +1,825 @@
+{
+  "chunk": "chunk-10",
+  "web_tools_available": true,
+  "artists": {
+    "Ella Fitzgerald": {
+      "Ella in Rome- The Birthday Concert": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Ella Fitzgerald", "role": "vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Oscar Peterson", "role": "piano", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Herb Ellis", "role": "guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Ray Brown", "role": "bass", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Oh, Lady, Be Good! Best of the Gershwin": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Oh, Lady, Be Good! Best of the Gershwin Songbook": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Ella Fitzgerald", "role": "vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Nelson Riddle", "role": "arranger, conductor", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Norman Granz", "role": "producer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Quiet Now- Ella's Moods": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Sings the Jerome Kern Song Book [Origina": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Ella Fitzgerald", "role": "vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Nelson Riddle", "role": "arranger, conductor", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Norman Granz", "role": "producer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Sings the Jerome Kern Song Book [Original CD]": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Ella Fitzgerald", "role": "vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Nelson Riddle", "role": "arranger, conductor", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Norman Granz", "role": "producer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Something to Live For Disc 1": {
+        "status": "unverified",
+        "personnel": []
+      },
+      "Something to Live For Disc 2": {
+        "status": "unverified",
+        "personnel": []
+      },
+      "The Best of the Songbooks- The Ballads": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "Beth Orton": {
+      "Central Reservation": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Victor Van Vugt", "role": "producer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Terry Callier", "role": "guest vocalist", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Comfort of Strangers": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Jim O'Rourke", "role": "producer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Conceived - EP": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Daybreaker": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Ben Watt", "role": "producer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Heart of Soul - Single": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Pass in Time - The Definitive Collection": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "The Other Side of Daybreak": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Trailer Park": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Victor Van Vugt", "role": "producer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Andrew Weatherall", "role": "co-producer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "George Carlin": {
+      "Back in Town [Explicit]": {"status": "skipped", "personnel": []},
+      "Complaints and Grievances": {"status": "skipped", "personnel": []},
+      "It's Bad For Ya [Explicit]": {"status": "skipped", "personnel": []},
+      "Jammin' In New York [Explicit]": {"status": "skipped", "personnel": []},
+      "Life is Worth Losing [Explicit]": {"status": "skipped", "personnel": []},
+      "Parental Advisory_ Explicit Lyrics": {"status": "skipped", "personnel": []},
+      "You Are All Diseased [Explicit]": {"status": "skipped", "personnel": []}
+    },
+    "Jeff Buckley": {
+      "Grace": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Jeff Buckley", "role": "vocals, guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Andy Wallace", "role": "producer, mixer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Michael Tighe", "role": "guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Mick Grondahl", "role": "bass", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Matt Johnson", "role": "drums", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Gary Lucas", "role": "guitar (2 tracks, co-writer)", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Live at Sin-é": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Live at Sin-é [Bonus Track_DVD] Disc 1": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Live at Sin-é [Bonus Track_DVD] Disc 2": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "My Sweetheart The Drunk": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Jeff Buckley", "role": "vocals, guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Michael Tighe", "role": "guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Mick Grondahl", "role": "bass", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Matt Johnson", "role": "drums", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "SKETCHES for My Sweetheart The Drunk": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Jeff Buckley", "role": "vocals, guitar (posthumous release)", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Tom Verlaine", "role": "co-producer (disc 2 sessions)", "confidence": "medium", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Rjd2": {
+      "Dead Ringer": {
+        "status": "verified",
+        "personnel": [
+          {"name": "RJD2 (Ramble John Krohn)", "role": "producer, beats", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Blueprint", "role": "MC (guest)", "confidence": "medium", "source": "knowledge", "in_collection": false},
+          {"name": "Copywrite", "role": "MC (guest)", "confidence": "medium", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Since We Last Spoke": {
+        "status": "verified",
+        "personnel": [
+          {"name": "RJD2 (Ramble John Krohn)", "role": "producer, multi-instrumentalist", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "The Colossus": {
+        "status": "verified",
+        "personnel": [
+          {"name": "RJD2 (Ramble John Krohn)", "role": "producer, multi-instrumentalist", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "The Horror Disc 1": {
+        "status": "unverified",
+        "personnel": []
+      },
+      "The Third Hand": {
+        "status": "verified",
+        "personnel": [
+          {"name": "RJD2 (Ramble John Krohn)", "role": "producer, multi-instrumentalist", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Neutral Milk Hotel": {
+      "Happy Birthday to You - Disc 4": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "In The Aeroplane Over The Sea": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Jeff Mangum", "role": "vocals, guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Julian Koster", "role": "accordion, banjo, singing saw", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Scott Spillane", "role": "horns (trumpet, trombone, flugelhorn)", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Jeremy Barnes", "role": "drums, percussion", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Robert Schneider", "role": "producer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Live in San Francisco 4_12_98": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Unknown Album": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "A Perfect Circle": {
+      "emotive": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Maynard James Keenan", "role": "vocals", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Tool"},
+          {"name": "Billy Howerdel", "role": "guitar, bass, keyboards, producer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Mer de Noms": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Maynard James Keenan", "role": "vocals", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Tool"},
+          {"name": "Billy Howerdel", "role": "guitar, bass, keyboards, producer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Tim Commerford", "role": "bass (studio)", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Brad Wilk", "role": "drums", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Paz Lenchantin", "role": "bass, strings", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Thirteenth Step": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Maynard James Keenan", "role": "vocals", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Tool"},
+          {"name": "Billy Howerdel", "role": "guitar, bass, producer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "James Iha", "role": "guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Troy Van Leeuwen", "role": "guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Tim Commerford", "role": "bass", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Brad Wilk", "role": "drums", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "David Cross": {
+      "It's Not Funny": {"status": "skipped", "personnel": []},
+      "Shut Up, You Fucking Baby! Disc 1": {"status": "skipped", "personnel": []},
+      "Shut Up, You Fucking Baby! Disc 2": {"status": "skipped", "personnel": []}
+    },
+    "Leftover Salmon": {
+      "Ask the Fish": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Vince Herman", "role": "vocals, guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Mark Vann", "role": "banjo", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Drew Emmitt", "role": "mandolin, guitar, vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Michael Travis", "role": "drums", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Tye North", "role": "bass", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Euphoria": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Vince Herman", "role": "vocals, guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Mark Vann", "role": "banjo", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Drew Emmitt", "role": "mandolin, guitar, vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Michael Travis", "role": "drums", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Tye North", "role": "bass", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "The Nashville Sessions": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Vince Herman", "role": "vocals, guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Mark Vann", "role": "banjo", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Drew Emmitt", "role": "mandolin, guitar, vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Randy Scruggs", "role": "producer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Béla Fleck", "role": "banjo (guest)", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Béla Fleck"},
+          {"name": "Sam Bush", "role": "mandolin, fiddle (guest)", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Sam Bush"},
+          {"name": "Jerry Douglas", "role": "Dobro (guest)", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Jerry Douglas"},
+          {"name": "Lucinda Williams", "role": "vocals (guest)", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Lucinda Williams"},
+          {"name": "Del McCoury", "role": "vocals, guitar (guest)", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Del McCoury"},
+          {"name": "Waylon Jennings", "role": "vocals, guitar (guest)", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Waylon Jennings"},
+          {"name": "Taj Mahal", "role": "vocals (guest)", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Taj Mahal & Toumani Diabate"},
+          {"name": "John Bell", "role": "vocals (guest)", "confidence": "medium", "source": "knowledge", "in_collection": true, "collection_match": "Widespread Panic"}
+        ]
+      }
+    },
+    "Odd Nosdam": {
+      "Level Live Wires": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Odd Nosdam (Dave Madson)", "role": "producer, beats, electronics", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Pretty Sweet Explode": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Odd Nosdam (Dave Madson)", "role": "producer, beats, electronics", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "T.I.M.E. Soundtrack": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Odd Nosdam (Dave Madson)", "role": "producer, composer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Sarah McLachlan": {
+      "Bloom- Remix Album": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Mirrorball": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Sarah McLachlan", "role": "vocals, piano", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Pierre Marchand", "role": "producer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Brian MacLeod", "role": "drums", "confidence": "medium", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Remixed [2003 Arista]": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "Tor": {
+      "cn_tower_mp3": {
+        "status": "unverified",
+        "personnel": []
+      },
+      "Illinoize": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Tor (producer)", "role": "producer, arranger (Sufjan Stevens x hip-hop mashup)", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Illinoize (instrumentals)": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Tor (producer)", "role": "producer, arranger (instrumental version)", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Antipop Consortium": {
+      "Antipop vs. Matthew Shipp": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Matthew Shipp", "role": "piano", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "William Parker", "role": "bass", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Guillermo E. Brown", "role": "drums", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Khan Jamal", "role": "vibraphone", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Daniel Carter", "role": "trumpet", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Beans", "role": "MC (Antipop Consortium)", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "High Priest", "role": "MC (Antipop Consortium)", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "M. Sayyid", "role": "MC (Antipop Consortium)", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "arrhythmia": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Beans", "role": "MC, producer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "High Priest", "role": "MC, producer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "M. Sayyid", "role": "MC, producer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Boards Of Canada": {
+      "Music Has The Right To Children": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Marcus Eoin", "role": "producer, composer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Michael Sandison", "role": "producer, composer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Tomorrows Harvest": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Marcus Eoin", "role": "producer, composer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Michael Sandison", "role": "producer, composer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "David Sedaris - Squirrel Seeks Chipmunk": {
+      "David Sedaris - Squirrel Seeks Chipmunk.epub": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Torrent_downloaded_from_Demonoid.com.txt": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "Emancipator": {
+      "Dusk to Dawn": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Doug Appling", "role": "producer, composer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "safe in the steep cliffs": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Doug Appling", "role": "producer, composer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Gotan Project": {
+      "Inspiracion-Espiracion Remix Disc 1": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Inspiracion-Espiracion Remix Disc 2": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "Jim Florentine": {
+      "Jim Florentine Is Terrorizing Telemarket": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Jim Florentine Is Terrorizing Telemarketers": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "Lorde": {
+      "Pure Heroine (Extended)": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Lorde (Ella Yelich-O'Connor)", "role": "vocals, co-writer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Joel Little", "role": "producer, co-writer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "The Love Club EP": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Lorde (Ella Yelich-O'Connor)", "role": "vocals, co-writer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Joel Little", "role": "producer, co-writer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Minus the Bear": {
+      "Acoustics": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Jake Snider", "role": "vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Dave Knudson", "role": "guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Cory Murchy", "role": "bass", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Erin Tate", "role": "drums", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Infinity Overhead": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Jake Snider", "role": "vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Dave Knudson", "role": "guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Cory Murchy", "role": "bass", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Erin Tate", "role": "drums", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Matt Bayles", "role": "producer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Paul Simon": {
+      "Graceland": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Paul Simon", "role": "vocals, guitar, producer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Roy Halee", "role": "co-producer, engineer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Ladysmith Black Mambazo", "role": "vocals (multiple tracks)", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Los Lobos", "role": "band (\"All Around the World or the Myth of Fingerprints\")", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Los Lobos"},
+          {"name": "Hugh Masekela", "role": "trumpet", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "The Rhythm Of The Saints (2011 Remaster)": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Paul Simon", "role": "vocals, guitar, producer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Roy Halee", "role": "co-producer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Olodum", "role": "Brazilian percussion ensemble", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Milton Nascimento", "role": "vocals (guest)", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Saru": {
+      "Downtempo Dojo": {
+        "status": "unverified",
+        "personnel": []
+      },
+      "Machine": {
+        "status": "unverified",
+        "personnel": []
+      }
+    },
+    "The Hold Steady": {
+      "Stay Positive": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Craig Finn", "role": "vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Tad Kubler", "role": "guitar, co-producer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Galen Polivka", "role": "bass", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Bobby Drake", "role": "drums", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Franz Nicolay", "role": "piano, accordion", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "John Agnello", "role": "producer", "confidence": "medium", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Unknown Album": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "The String Cheese Incident": {
+      "A String Cheese Incident Live": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "'Round the Wheel": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Bill Nershi", "role": "guitar, vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Michael Kang", "role": "mandolin, violin", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Keith Moseley", "role": "bass", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Kyle Hollingsworth", "role": "keyboards", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "WEATHERMEN": {
+      "Torrent downloaded from Demonoid.com.txt": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Weathermen-The_Conspiracy-(Retail)-2003-CMS": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Cage (Sean Williams)", "role": "MC, founder", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "El-P", "role": "MC, member", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "El-P"},
+          {"name": "Camu Tao", "role": "MC, producer", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Vast Aire", "role": "MC, member", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Vast Aire"},
+          {"name": "RJD2", "role": "producer (tracks)", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Rjd2"},
+          {"name": "Yak Ballz", "role": "MC", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Breeze Brewin", "role": "MC", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Anticon": {
+      "we_ain't_fessin'_(double_quotes)": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Passage", "role": "MC", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Why? (Yoni Wolf)", "role": "MC", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Pedestrian", "role": "MC", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Odd Nosdam", "role": "producer", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Odd Nosdam"},
+          {"name": "Jel", "role": "producer", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Sixtoo", "role": "producer", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Beirut": {
+      "Gulag Orkestar": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Zach Condon", "role": "vocals, trumpet, ukulele, accordion, organ, producer", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Jeremy Barnes", "role": "percussion, accordion", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Heather Trost", "role": "violin", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Perrin Cloutier", "role": "cello", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Hari Ziznewski", "role": "clarinet", "confidence": "medium", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Brooklyn Funk Essentials": {
+      "Make 'em Like It [Explicit]": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Lati Kronlund", "role": "bass", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Vassal Benford", "role": "keyboards", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Steve Bernstein", "role": "trumpet, effects", "confidence": "medium", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Chris Stapleton": {
+      "Traveller": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Chris Stapleton", "role": "vocals, guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Dave Cobb", "role": "producer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Cut Chemist & Nu-Mark": {
+      "Live at the Variety Arts Center, 1997": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Cut Chemist (Laurent Dubussy)", "role": "DJ, turntablist", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Jurassic 5"},
+          {"name": "Nu-Mark", "role": "DJ, turntablist", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Jurassic 5"}
+        ]
+      }
+    },
+    "David Grisman Quintet": {
+      "1": {
+        "status": "verified",
+        "personnel": [
+          {"name": "David Grisman", "role": "mandolin", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Tony Rice", "role": "guitar, vocals", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Tony Rice Unit"},
+          {"name": "Darol Anger", "role": "violin", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Anger_Marshall Band"},
+          {"name": "Todd Phillips", "role": "bass", "confidence": "medium", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "DMX": {
+      "DJ Envy - MVP (All-American)": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "Electric Masada": {
+      "50th Birthday Celebration, Vol. 4": {
+        "status": "verified",
+        "personnel": [
+          {"name": "John Zorn", "role": "alto saxophone", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "John Zorn"},
+          {"name": "Marc Ribot", "role": "guitar", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Marc Ribot Y los Cubanos Postizos"},
+          {"name": "Trevor Dunn", "role": "bass", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Jamie Saft", "role": "keyboards", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Ikue Mori", "role": "laptop electronics", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Joey Baron", "role": "drums", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Kenny Wollesen", "role": "drums", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Cyro Baptista", "role": "percussion", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Eszter Balint": {
+      "Flicker": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Eszter Balint", "role": "vocals, violin, composer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "J.D. Foster", "role": "producer", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Marc Ribot", "role": "guitar (tracks 8, 11)", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Marc Ribot Y los Cubanos Postizos"}
+        ]
+      }
+    },
+    "Fugazi": {
+      "13 Songs": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Ian MacKaye", "role": "vocals, guitar", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Minor Threat"},
+          {"name": "Guy Picciotto", "role": "vocals, guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Joe Lally", "role": "bass", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Brendan Canty", "role": "drums", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Ted Niceley", "role": "producer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Groove Armada": {
+      "Back to Mine": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "Jack Tottle": {
+      "The Bluegrass Sound": {
+        "status": "unverified",
+        "personnel": []
+      }
+    },
+    "John Coltrane": {
+      "John Coltrane Plays for Lovers [2003]": {
+        "status": "verified",
+        "personnel": [
+          {"name": "John Coltrane", "role": "tenor/alto saxophone", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "McCoy Tyner", "role": "piano (classic quartet tracks)", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Jimmy Garrison", "role": "bass (classic quartet tracks)", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Elvin Jones", "role": "drums (classic quartet tracks)", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Keller Williams": {
+      "Laugh": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Keller Williams", "role": "vocals, multi-instrumentalist, looping (solo performance)", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Louis Prima": {
+      "Jump, Jive an' Wail_ The Essential Louis Prima": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Louis Prima", "role": "vocals, trumpet", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Keely Smith", "role": "vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Sam Butera", "role": "tenor saxophone", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Merry Clayton": {
+      "Merry Clayton": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Lou Adler", "role": "producer", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Billy Preston", "role": "keyboards", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Billy Preston"},
+          {"name": "Carole King", "role": "keyboards", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Wilton Felder", "role": "bass", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "David T. Walker", "role": "guitar", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Joe Sample", "role": "keyboards", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Muddy Waters_Dizzy Gillespie": {
+      "Muddy Waters Blues Band Featuring Dizzy": {
+        "status": "unverified",
+        "personnel": []
+      }
+    },
+    "New Orleans Nightcrawlers": {
+      "Funknicity": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Tom McDermott", "role": "piano, executive producer", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Matt Perrine", "role": "sousaphone", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Kevin Clark", "role": "trumpet", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Craig Klein", "role": "trombone", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Eric Traub", "role": "tenor saxophone", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Jason Mingledorff", "role": "tenor saxophone, clarinet", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Peter Kaplan", "role": "snare drums", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Peeping Tom": {
+      "Peeping Tom": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Mike Patton", "role": "vocals, producer", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Mr. Bungle"},
+          {"name": "Dan the Automator", "role": "producer, performer (\"Mojo\")", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Dan the Automator"},
+          {"name": "Norah Jones", "role": "guest vocals (\"Sucker\")", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Norah Jones"},
+          {"name": "Kool Keith", "role": "guest MC (\"Getaway\")", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Dr. Octagon"},
+          {"name": "Doseone (Adam Drucker)", "role": "guest (\"How U Feelin?\")", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "cLOUDDEAD"},
+          {"name": "Odd Nosdam", "role": "performer (\"Your Neighborhood Spaceman\")", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Odd Nosdam"},
+          {"name": "Massive Attack", "role": "performer (\"Kill the DJ\")", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Massive Attack"},
+          {"name": "Amon Tobin", "role": "producer, performer", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Kid Koala", "role": "performer (\"Celebrity Death Match\")", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Bebel Gilberto", "role": "guest vocals (\"Caipirinha\")", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Ray LaMontagne & The Pariah Dogs": {
+      "God Willin' & The Creek Don't Rise [+Digital Booklet]": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Ray LaMontagne", "role": "vocals, guitar, producer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Ethan Johns", "role": "co-producer, guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Jennifer Condos", "role": "bass", "confidence": "medium", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Sidney Bechet": {
+      "Si tu vois ma mère (From the Movie Midnight in Paris)": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Sidney Bechet", "role": "soprano saxophone", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Claude Luter", "role": "clarinet (frequent 1950s collaborator)", "confidence": "medium", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Steve Earle & The Dukes": {
+      "Terraplane": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Steve Earle", "role": "vocals, guitar, producer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Chris Masterson", "role": "guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Eleanor Whitmore", "role": "violin, guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Kelley Looney", "role": "bass", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Harry Stinson", "role": "drums", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Tenacious D": {
+      "Tenacious D": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Jack Black", "role": "vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Kyle Gass", "role": "guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Dave Grohl", "role": "drums", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Them Crooked Vultures"},
+          {"name": "The Dust Brothers", "role": "producers", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "The Disposable Heroes of Hiphoprisy": {
+      "Hypocrisy Is the Greatest Luxury": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Michael Franti", "role": "MC, vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Rono Tse", "role": "beats, percussion", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Mark Pistel", "role": "producer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "The Neville Brothers": {
+      "Uptown Rulin'_ The Best of the Neville B": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "Them Crooked Vultures": {
+      "Them Crooked Vultures": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Josh Homme", "role": "vocals, guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "John Paul Jones", "role": "bass, keyboards", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Led Zeppelin"},
+          {"name": "Dave Grohl", "role": "drums", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Alain Johannes", "role": "additional guitar, bass", "confidence": "medium", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Vishwa Mohan Bhatt With Bela Fleck and Jie Bing Chen": {
+      "Tabula Rasa": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Vishwa Mohan Bhatt", "role": "Mohan Veena (modified slide guitar)", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Béla Fleck", "role": "banjo", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Jie-Bing Chen", "role": "erhu (Chinese fiddle)", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Wrecking Crew": {
+      "Balance of Terror": {
+        "status": "unverified",
+        "personnel": []
+      }
+    }
+  }
+}
