@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["electronic", "indie-electronic"]
-genre: "electronic rock"
+category: "Indie Pop & Synth-Pop"
 era: "2000s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "indie-pop-synth-pop"]
 ---
 
 # Ratatat
 
-**Scenes / genre:** [[electronic|Electronic]] · [[indie-electronic|Indie Electronic]] · [[electronic rock]]
+**Category:** [[Indie Pop & Synth-Pop]]
 
 ## Albums (3)
 - Classics

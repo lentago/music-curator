@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["contemporary-jazz"]
-genre: "jazz piano duo"
+category: "Jazz"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "jazz"]
 ---
 
 # Aisha Duo
 
-**Scenes / genre:** [[contemporary-jazz|Contemporary Jazz]] · [[jazz piano duo]]
+**Category:** [[Jazz]]
 
 ## Albums (1)
 - Quiet Songs

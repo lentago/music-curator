@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["soul-canon"]
-genre: "soul"
+category: "Soul, Funk & R&B"
 era: "1951-1964"
 album_count: 11
-tags: ["artist"]
+tags: ["artist", "soul-funk-r-b"]
 ---
 
 # Sam Cooke
 
-**Scenes / genre:** [[soul-canon|Soul Canon]] · [[soul (2)|soul]]
+**Category:** [[Soul, Funk & R&B]]
 
 ## Albums (11)
 - Greatest Hits

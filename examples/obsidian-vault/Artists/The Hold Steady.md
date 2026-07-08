@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-rock"]
-genre: "heartland rock"
+category: "Indie Rock"
 era: "2000s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "indie-rock"]
 ---
 
 # The Hold Steady
 
-**Scenes / genre:** [[indie-rock|Indie Rock]] · [[heartland rock]]
+**Category:** [[Indie Rock]]
 
 ## Albums (2)
 - Stay Positive

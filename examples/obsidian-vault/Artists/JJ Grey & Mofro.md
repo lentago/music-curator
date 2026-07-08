@@ -1,16 +1,15 @@
 ---
 type: "artist"
-scenes: ["southern-soul", "swamp-funk"]
-genre: "southern soul / funk"
+category: "Soul, Funk & R&B"
 era: "2000s-now"
 album_count: 2
 collaborators: ["Mofro"]
-tags: ["artist"]
+tags: ["artist", "soul-funk-r-b"]
 ---
 
 # JJ Grey & Mofro
 
-**Scenes / genre:** [[southern-soul|Southern Soul]] · [[swamp-funk|Swamp Funk]] · [[southern soul]] · [[funk (2)|funk]]
+**Category:** [[Soul, Funk & R&B]]
 
 **With:** [[Mofro]]
 

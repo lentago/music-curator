@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["trip-hop", "bristol"]
-genre: "trip-hop"
+category: "Trip-Hop & Downtempo"
 era: "1990s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "trip-hop-downtempo"]
 ---
 
 # Massive Attack
 
-**Scenes / genre:** [[trip-hop|Trip Hop]] · [[bristol|Bristol]] · [[trip-hop (2)|trip-hop]]
+**Category:** [[Trip-Hop & Downtempo]]
 
 ## Albums (3)
 - Collected

@@ -1,16 +1,15 @@
 ---
 type: "artist"
-scenes: ["soul-canon", "gospel"]
-genre: "gospel / soul"
+category: "Soul, Funk & R&B"
 era: "1950s-60s"
 album_count: 1
 collaborators: ["Sam Cooke", "The Soul Stirrers"]
-tags: ["artist"]
+tags: ["artist", "soul-funk-r-b"]
 ---
 
 # Sam Cooke & the Soul Stirrers
 
-**Scenes / genre:** [[soul-canon|Soul Canon]] · [[gospel|Gospel]] · [[gospel (2)|gospel]] · [[soul (2)|soul]]
+**Category:** [[Soul, Funk & R&B]]
 
 **With:** [[Sam Cooke]] · [[The Soul Stirrers]]
 

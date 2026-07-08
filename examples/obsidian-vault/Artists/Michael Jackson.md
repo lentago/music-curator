@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["pop-canon"]
-genre: "pop / R&B"
+category: "Pop"
 era: "1980s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "pop"]
 ---
 
 # Michael Jackson
 
-**Scenes / genre:** [[pop-canon|Pop Canon]] · [[pop (2)|pop]] · [[R&B]]
+**Category:** [[Pop]]
 
 ## Albums (3)
 - Dangerous

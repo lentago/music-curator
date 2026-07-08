@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["southern-soul", "swamp-funk"]
-genre: "southern soul / funk"
+category: "Soul, Funk & R&B"
 era: "2000s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "soul-funk-r-b"]
 ---
 
 # Mofro
 
-**Scenes / genre:** [[southern-soul|Southern Soul]] · [[swamp-funk|Swamp Funk]] · [[southern soul]] · [[funk (2)|funk]]
+**Category:** [[Soul, Funk & R&B]]
 
 ## Albums (3)
 - Blackwater

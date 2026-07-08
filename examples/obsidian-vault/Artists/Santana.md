@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["latin-rock", "classic-rock"]
-genre: "latin rock"
+category: "Latin"
 era: "1970s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "latin"]
 ---
 
 # Santana
 
-**Scenes / genre:** [[latin-rock|Latin Rock]] · [[classic-rock|Classic Rock]] · [[latin rock]]
+**Category:** [[Latin]]
 
 ## Albums (2)
 - Caravanserai

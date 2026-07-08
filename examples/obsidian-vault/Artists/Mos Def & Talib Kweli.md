@@ -1,16 +1,15 @@
 ---
 type: "artist"
-scenes: ["conscious-hiphop", "rawkus", "black-star"]
-genre: "hip-hop"
+category: "Underground Hip-Hop"
 era: "1998"
 album_count: 1
 collaborators: ["Mos Def", "Talib Kweli"]
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # Mos Def & Talib Kweli
 
-**Scenes / genre:** [[conscious-hiphop|Conscious Hiphop]] · [[rawkus|Rawkus]] · [[black-star|Black Star]] · [[hip-hop]]
+**Category:** [[Underground Hip-Hop]]
 
 **With:** [[Mos Def]] · [[Talib Kweli]]
 

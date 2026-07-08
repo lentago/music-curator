@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["alt-country"]
-genre: "alt-country"
+category: "Country & Americana"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "country-americana"]
 ---
 
 # Old 97's
 
-**Scenes / genre:** [[alt-country|Alt Country]] · [[alt-country (2)|alt-country]]
+**Category:** [[Country & Americana]]
 
 ## Albums (1)
 - Too Far to Care

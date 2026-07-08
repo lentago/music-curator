@@ -1,16 +1,15 @@
 ---
 type: "artist"
-scenes: ["art-pop", "ambient"]
-genre: "art pop / electronic"
+category: "Art-Pop & New Wave"
 era: "1980s-now"
 album_count: 2
 collaborators: ["David Byrne"]
-tags: ["artist"]
+tags: ["artist", "art-pop-new-wave"]
 ---
 
 # David Byrne & Brian Eno
 
-**Scenes / genre:** [[art-pop|Art Pop]] · [[ambient|Ambient]] · [[art pop]] · [[electronic (2)|electronic]]
+**Category:** [[Art-Pop & New Wave]]
 
 **With:** [[David Byrne]]
 

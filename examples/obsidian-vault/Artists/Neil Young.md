@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["folk-rock-canon", "singer-songwriter-canon"]
-genre: "folk-rock"
+category: "Indie Folk & Singer-Songwriter"
 era: "1968-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # Neil Young
 
-**Scenes / genre:** [[folk-rock-canon|Folk Rock Canon]] · [[singer-songwriter-canon|Singer Songwriter Canon]] · [[folk-rock (2)|folk-rock]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 > sole comp acceptable for canonical figure (Aretha/JB/Cole/Guaraldi rule)
 

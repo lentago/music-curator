@@ -1,16 +1,15 @@
 ---
 type: "artist"
-scenes: ["outlaw-country"]
-genre: "country"
+category: "Country & Americana"
 era: "live event 1998"
 album_count: 1
 collaborators: ["Johnny Cash", "Willie Nelson"]
-tags: ["artist"]
+tags: ["artist", "country-americana"]
 ---
 
 # Johnny Cash & Willie Nelson
 
-**Scenes / genre:** [[outlaw-country|Outlaw Country]] · [[country (2)|country]]
+**Category:** [[Country & Americana]]
 
 **With:** [[Johnny Cash]] · [[Willie Nelson]]
 

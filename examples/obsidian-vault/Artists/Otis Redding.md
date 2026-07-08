@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["soul-canon", "memphis-soul"]
-genre: "soul"
+category: "Soul, Funk & R&B"
 era: "1960s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "soul-funk-r-b"]
 ---
 
 # Otis Redding
 
-**Scenes / genre:** [[soul-canon|Soul Canon]] · [[memphis-soul|Memphis Soul]] · [[soul (2)|soul]]
+**Category:** [[Soul, Funk & R&B]]
 
 ## Albums (1)
 - The Very Best Of Otis Redding

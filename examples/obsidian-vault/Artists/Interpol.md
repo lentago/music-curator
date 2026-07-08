@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["post-punk-revival", "indie-rock"]
-genre: "post-punk revival"
+category: "Indie Rock"
 era: "2000s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "indie-rock"]
 ---
 
 # Interpol
 
-**Scenes / genre:** [[post-punk-revival|Post Punk Revival]] · [[indie-rock|Indie Rock]] · [[post-punk revival]]
+**Category:** [[Indie Rock]]
 
 ## Albums (1)
 - Turn on the Bright Lights

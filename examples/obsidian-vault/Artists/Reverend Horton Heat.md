@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["psychobilly", "rockabilly"]
-genre: "psychobilly"
+category: "Pop"
 era: "1990s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "pop"]
 ---
 
 # Reverend Horton Heat
 
-**Scenes / genre:** [[psychobilly|Psychobilly]] · [[rockabilly|Rockabilly]] · [[psychobilly (2)|psychobilly]]
+**Category:** [[Pop]]
 
 ## Albums (3)
 - It's Martini Time

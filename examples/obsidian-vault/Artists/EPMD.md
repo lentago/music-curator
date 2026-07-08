@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["east-coast-hiphop"]
-genre: "hip-hop"
+category: "Hip-Hop"
 era: "1980s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "hip-hop"]
 ---
 
 # EPMD
 
-**Scenes / genre:** [[east-coast-hiphop|East Coast Hiphop]] · [[hip-hop]]
+**Category:** [[Hip-Hop]]
 
 ## Albums (1)
 - Business Never Personal

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["lo-fi", "indie-folk"]
-genre: "lo-fi"
+category: "Indie Folk & Singer-Songwriter"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # The Microphones
 
-**Scenes / genre:** [[lo-fi|Lo Fi]] · [[indie-folk|Indie Folk]] · [[lo-fi (2)|lo-fi]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 ## Albums (1)
 - The Glow, pt. 2

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["downtempo"]
-genre: "downtempo"
+category: "Trip-Hop & Downtempo"
 era: "2000s"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "trip-hop-downtempo"]
 ---
 
 # Saru
 
-**Scenes / genre:** [[downtempo|Downtempo]] · [[downtempo (2)|downtempo]]
+**Category:** [[Trip-Hop & Downtempo]]
 
 ## Albums (2)
 - Downtempo Dojo

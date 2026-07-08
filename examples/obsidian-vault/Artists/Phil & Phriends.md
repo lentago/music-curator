@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jam"]
-genre: "jam"
+category: "Jam"
 era: "1990s-now"
 album_count: 6
-tags: ["artist"]
+tags: ["artist", "jam"]
 ---
 
 # Phil & Phriends
 
-**Scenes / genre:** [[jam|Jam]] · [[jam (2)|jam]]
+**Category:** [[Jam]]
 
 ## Albums (6)
 - 1999 04 15 II The Warfield

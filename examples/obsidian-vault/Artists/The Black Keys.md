@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["blues-rock", "garage-rock"]
-genre: "blues rock"
+category: "Blues"
 era: "2000s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "blues"]
 ---
 
 # The Black Keys
 
-**Scenes / genre:** [[blues-rock|Blues Rock]] · [[garage-rock|Garage Rock]] · [[blues rock]]
+**Category:** [[Blues]]
 
 ## Albums (3)
 - Attack & Release

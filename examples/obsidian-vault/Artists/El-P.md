@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["defjux", "underground-hiphop"]
-genre: "underground hip-hop"
+category: "Def Jux"
 era: "1995-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "def-jux"]
 ---
 
 # El-P
 
-**Scenes / genre:** [[defjux|Defjux]] · [[underground-hiphop|Underground Hiphop]] · [[underground hip-hop]]
+**Category:** [[Def Jux]]
 
 ## Albums (2)
 - Fantastic Damage

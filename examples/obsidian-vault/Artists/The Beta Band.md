@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["scottish-indie", "folktronica"]
-genre: "indie"
+category: "Indie Rock"
 era: "1996-2004"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "indie-rock"]
 ---
 
 # The Beta Band
 
-**Scenes / genre:** [[scottish-indie|Scottish Indie]] · [[folktronica|Folktronica]] · [[indie]]
+**Category:** [[Indie Rock]]
 
 ## Albums (1)
 - Heroes To Zeros

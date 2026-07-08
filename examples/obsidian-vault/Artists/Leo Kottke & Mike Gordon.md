@@ -1,13 +1,13 @@
 ---
 type: "artist"
-scenes: ["bluegrass"]
+category: "Bluegrass"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "bluegrass"]
 ---
 
 # Leo Kottke & Mike Gordon
 
-**Scenes / genre:** [[bluegrass|Bluegrass]]
+**Category:** [[Bluegrass]]
 
 ## Albums (1)
 - Sixty Six Steps

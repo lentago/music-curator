@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["vocal-jazz", "jazz-canon"]
-genre: "vocal jazz"
+category: "Jazz"
 era: "1950s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "jazz"]
 ---
 
 # Ella Fitzgerald_Louis Armstrong
 
-**Scenes / genre:** [[vocal-jazz|Vocal Jazz]] · [[jazz-canon|Jazz Canon]] · [[vocal jazz]]
+**Category:** [[Jazz]]
 
 ## Albums (1)
 - The Early Years

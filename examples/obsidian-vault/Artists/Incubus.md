@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["alt-metal", "funk-rock"]
-genre: "alternative rock"
+category: "Metal"
 era: "1990s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "metal"]
 ---
 
 # Incubus
 
-**Scenes / genre:** [[alt-metal|Alt Metal]] · [[funk-rock|Funk Rock]] · [[alternative rock]]
+**Category:** [[Metal]]
 
 ## Albums (3)
 - Fungus Amongus

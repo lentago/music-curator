@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["classical-crossover", "appalachian"]
-genre: "classical / appalachian"
+category: "Bluegrass"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "bluegrass"]
 ---
 
 # Yo-Yo Ma-Edgar Meyer-Mark O'Connor
 
-**Scenes / genre:** [[classical-crossover|Classical Crossover]] · [[appalachian|Appalachian]] · [[classical (2)|classical]] · [[appalachian (2)|appalachian]]
+**Category:** [[Bluegrass]]
 
 ## Albums (1)
 - Appalachian Journey

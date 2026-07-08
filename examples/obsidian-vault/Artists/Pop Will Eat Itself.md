@@ -1,13 +1,13 @@
 ---
 type: "artist"
-scenes: ["industrial", "grebo"]
+category: "Industrial & EBM"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "industrial-ebm"]
 ---
 
 # Pop Will Eat Itself
 
-**Scenes / genre:** [[industrial|Industrial]] · [[grebo|Grebo]]
+**Category:** [[Industrial & EBM]]
 
 > fits industrial lane
 

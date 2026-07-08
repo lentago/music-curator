@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["trip-hop", "patton-orbit"]
-genre: "downtempo"
+category: "Patton Orbit"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "patton-orbit"]
 ---
 
 # Lovage
 
-**Scenes / genre:** [[trip-hop|Trip Hop]] · [[patton-orbit|Patton Orbit]] · [[downtempo (2)|downtempo]]
+**Category:** [[Patton Orbit]]
 
 ## Albums (1)
 - Music to Make Love to Your Old Lady By

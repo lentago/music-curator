@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["beat-spoken-word"]
-genre: "spoken word / beat"
+category: "Art-Pop & New Wave"
 era: "1960s-1990s"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "art-pop-new-wave"]
 ---
 
 # William S. Burroughs
 
-**Scenes / genre:** [[beat-spoken-word|Beat Spoken Word]] · [[spoken word]] · [[beat]]
+**Category:** [[Art-Pop & New Wave]]
 
 ## Albums (2)
 - spare ass annie

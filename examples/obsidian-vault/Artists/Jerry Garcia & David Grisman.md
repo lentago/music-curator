@@ -1,14 +1,14 @@
 ---
 type: "artist"
-scenes: ["bluegrass", "newgrass"]
+category: "Newgrass"
 album_count: 1
 collaborators: ["David Grisman"]
-tags: ["artist"]
+tags: ["artist", "newgrass"]
 ---
 
 # Jerry Garcia & David Grisman
 
-**Scenes / genre:** [[bluegrass|Bluegrass]] · [[newgrass|Newgrass]]
+**Category:** [[Newgrass]]
 
 **With:** [[David Grisman]]
 

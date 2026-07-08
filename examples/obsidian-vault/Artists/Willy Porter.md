@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["singer-songwriter"]
-genre: "acoustic singer-songwriter"
+category: "Indie Folk & Singer-Songwriter"
 era: "1990s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # Willy Porter
 
-**Scenes / genre:** [[singer-songwriter|Singer Songwriter]] · [[acoustic singer-songwriter]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 ## Albums (3)
 - Falling Forward

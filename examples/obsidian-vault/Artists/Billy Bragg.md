@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["folk-punk", "singer-songwriter"]
-genre: "folk / political"
+category: "Indie Folk & Singer-Songwriter"
 era: "1980s-now"
 album_count: 7
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # Billy Bragg
 
-**Scenes / genre:** [[folk-punk|Folk Punk]] · [[singer-songwriter|Singer Songwriter]] · [[folk (2)|folk]] · [[political]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 ## Albums (7)
 - Back to Basics

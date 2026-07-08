@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["blues", "jazz-canon"]
-genre: "blues / jazz"
+category: "Jazz"
 era: "1970s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "jazz"]
 ---
 
 # Muddy Waters_Dizzy Gillespie
 
-**Scenes / genre:** [[blues|Blues]] · [[jazz-canon|Jazz Canon]] · [[blues (2)|blues]] · [[jazz]]
+**Category:** [[Jazz]]
 
 ## Albums (1)
 - Muddy Waters Blues Band Featuring Dizzy

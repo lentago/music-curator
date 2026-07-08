@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["french-electronic", "downtempo"]
-genre: "electronic / downtempo"
+category: "Trip-Hop & Downtempo"
 era: "1995-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "trip-hop-downtempo"]
 ---
 
 # Air
 
-**Scenes / genre:** [[french-electronic|French Electronic]] · [[downtempo|Downtempo]] · [[electronic (2)|electronic]] · [[downtempo (2)|downtempo]]
+**Category:** [[Trip-Hop & Downtempo]]
 
 ## Albums (1)
 - Love 2

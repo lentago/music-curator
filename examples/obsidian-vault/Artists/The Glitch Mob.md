@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["electronic", "glitch"]
-genre: "electronic / glitch"
+category: "Electronic"
 era: "2000s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "electronic"]
 ---
 
 # The Glitch Mob
 
-**Scenes / genre:** [[electronic|Electronic]] · [[glitch|Glitch]] · [[electronic (2)|electronic]] · [[glitch (2)|glitch]]
+**Category:** [[Electronic]]
 
 ## Albums (1)
 - Drink The Sea

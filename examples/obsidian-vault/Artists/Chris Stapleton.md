@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["country", "americana"]
-genre: "country"
+category: "Country & Americana"
 era: "2010s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "country-americana"]
 ---
 
 # Chris Stapleton
 
-**Scenes / genre:** [[country|Country]] · [[americana|Americana]] · [[country (2)|country]]
+**Category:** [[Country & Americana]]
 
 ## Albums (1)
 - Traveller

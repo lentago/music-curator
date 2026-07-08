@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["anticon", "underground-hiphop"]
-genre: "collective/label"
+category: "Anticon"
 era: "1998-2010s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "anticon"]
 ---
 
 # Anticon
 
-**Scenes / genre:** [[anticon (2)|Anticon]] · [[underground-hiphop|Underground Hiphop]] · [[collective]] · [[label]]
+**Category:** [[Anticon (2)|Anticon]]
 
 ## Albums (1)
 - we ain't fessin' (double quotes)

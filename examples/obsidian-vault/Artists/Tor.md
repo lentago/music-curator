@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["instrumental-hiphop"]
-genre: "instrumental hip-hop"
+category: "Turntablism & Beats"
 era: "2000s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "turntablism-beats"]
 ---
 
 # Tor
 
-**Scenes / genre:** [[instrumental-hiphop|Instrumental Hiphop]] · [[instrumental hip-hop]]
+**Category:** [[Turntablism & Beats]]
 
 ## Albums (3)
 - cn tower mp3

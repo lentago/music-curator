@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["britpop"]
-genre: "britpop"
+category: "Indie Rock"
 era: "1990s"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "indie-rock"]
 ---
 
 # Pulp
 
-**Scenes / genre:** [[britpop|Britpop]] · [[britpop (2)|britpop]]
+**Category:** [[Indie Rock]]
 
 ## Albums (3)
 - Different Class

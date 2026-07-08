@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jazz-piano-canon"]
-genre: "jazz piano"
+category: "Jazz"
 era: "1955-1976"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "jazz"]
 ---
 
 # Vince Guaraldi
 
-**Scenes / genre:** [[jazz-piano-canon|Jazz Piano Canon]] · [[jazz piano]]
+**Category:** [[Jazz]]
 
 > foundational jazz piano — fits Mehldau/Goldberg/Aaron Goldberg lane
 

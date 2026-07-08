@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["underground-hiphop", "west-coast-hiphop"]
-genre: "underground hip-hop"
+category: "Underground Hip-Hop"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # Jurassic 5
 
-**Scenes / genre:** [[underground-hiphop|Underground Hiphop]] · [[west-coast-hiphop|West Coast Hiphop]] · [[underground hip-hop]]
+**Category:** [[Underground Hip-Hop]]
 
 ## Albums (1)
 - Quality Control

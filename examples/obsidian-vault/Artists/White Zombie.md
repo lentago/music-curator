@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["industrial-metal"]
-genre: "industrial metal"
+category: "Industrial & EBM"
 era: "1985-1996"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "industrial-ebm"]
 ---
 
 # White Zombie
 
-**Scenes / genre:** [[industrial-metal|Industrial Metal]] · [[industrial metal]]
+**Category:** [[Industrial & EBM]]
 
 >  (lane confirmed by Chris)
 

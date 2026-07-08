@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["alt-country", "outlaw-country"]
-genre: "alt country"
+category: "Country & Americana"
 era: "1986-now"
 album_count: 6
-tags: ["artist"]
+tags: ["artist", "country-americana"]
 ---
 
 # Steve Earle
 
-**Scenes / genre:** [[alt-country|Alt Country]] · [[outlaw-country|Outlaw Country]] · [[alt country]]
+**Category:** [[Country & Americana]]
 
 ## Albums (6)
 - El Corazón

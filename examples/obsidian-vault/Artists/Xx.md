@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["minimal-indie"]
-genre: "indie / dream pop"
+category: "Indie Rock"
 era: "2009-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "indie-rock"]
 ---
 
 # Xx
 
-**Scenes / genre:** [[minimal-indie|Minimal Indie]] · [[indie]] · [[dream pop]]
+**Category:** [[Indie Rock]]
 
 ## Albums (1)
 - The XX

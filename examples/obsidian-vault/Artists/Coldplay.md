@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["alt-rock-2000s", "pop-rock"]
-genre: "alternative rock"
+category: "Indie Rock"
 era: "2000s-now"
 album_count: 6
-tags: ["artist"]
+tags: ["artist", "indie-rock"]
 ---
 
 # Coldplay
 
-**Scenes / genre:** [[alt-rock-2000s|Alt Rock 2000S]] · [[pop-rock|Pop Rock]] · [[alternative rock]]
+**Category:** [[Indie Rock]]
 
 ## Albums (6)
 - A Rush Of Blood To The Head

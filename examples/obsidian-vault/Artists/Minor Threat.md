@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["hardcore-punk", "dc-hardcore"]
-genre: "hardcore punk"
+category: "Punk & Hardcore"
 era: "1980s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "punk-hardcore"]
 ---
 
 # Minor Threat
 
-**Scenes / genre:** [[hardcore-punk|Hardcore Punk]] · [[dc-hardcore|Dc Hardcore]] · [[hardcore punk]]
+**Category:** [[Punk & Hardcore]]
 
 ## Albums (1)
 - Complete Discography

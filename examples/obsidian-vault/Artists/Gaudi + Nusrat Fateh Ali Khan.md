@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["world-electronic", "dub"]
-genre: "dub / qawwali"
+category: "Trip-Hop & Downtempo"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "trip-hop-downtempo"]
 ---
 
 # Gaudi + Nusrat Fateh Ali Khan
 
-**Scenes / genre:** [[world-electronic|World Electronic]] · [[dub|Dub]] · [[dub (2)|dub]] · [[qawwali]]
+**Category:** [[Trip-Hop & Downtempo]]
 
 ## Albums (1)
 - Dub Qawwali

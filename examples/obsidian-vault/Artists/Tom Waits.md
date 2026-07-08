@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["art-pop", "americana", "outsider"]
-genre: "art-rock / americana"
+category: "Country & Americana"
 era: "1973-now"
 album_count: 20
-tags: ["artist"]
+tags: ["artist", "country-americana"]
 ---
 
 # Tom Waits
 
-**Scenes / genre:** [[art-pop|Art Pop]] · [[americana|Americana]] · [[outsider|Outsider]] · [[art-rock (2)|art-rock]] · [[americana (3)|americana]]
+**Category:** [[Country & Americana]]
 
 ## Albums (20)
 - alice

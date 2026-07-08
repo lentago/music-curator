@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["celtic", "world"]
-genre: "celtic"
+category: "World"
 era: "1990s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "world"]
 ---
 
 # Loreena McKennitt
 
-**Scenes / genre:** [[celtic|Celtic]] · [[world|World]] · [[celtic (2)|celtic]]
+**Category:** [[World]]
 
 ## Albums (2)
 - Live in Paris and Toronto Disc 1

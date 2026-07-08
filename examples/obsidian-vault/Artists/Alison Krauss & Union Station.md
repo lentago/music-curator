@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["bluegrass"]
-genre: "bluegrass"
+category: "Bluegrass"
 era: "1989-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "bluegrass"]
 ---
 
 # Alison Krauss & Union Station
 
-**Scenes / genre:** [[bluegrass|Bluegrass]] · [[bluegrass (2)|bluegrass]]
+**Category:** [[Bluegrass]]
 
 ## Albums (1)
 - New Favorite

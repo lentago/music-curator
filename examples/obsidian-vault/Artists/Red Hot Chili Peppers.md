@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["funk-rock", "alt-rock-90s"]
-genre: "funk rock"
+category: "Classic Rock"
 era: "1980s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "classic-rock"]
 ---
 
 # Red Hot Chili Peppers
 
-**Scenes / genre:** [[funk-rock|Funk Rock]] · [[alt-rock-90s|Alt Rock 90S]] · [[funk rock]]
+**Category:** [[Classic Rock]]
 
 ## Albums (1)
 - Mother's Milk

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["retro-soul"]
-genre: "retro soul / funk"
+category: "Soul, Funk & R&B"
 era: "2000s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "soul-funk-r-b"]
 ---
 
 # Sharon Jones & The Dap-Kings
 
-**Scenes / genre:** [[retro-soul|Retro Soul]] · [[retro soul]] · [[funk (2)|funk]]
+**Category:** [[Soul, Funk & R&B]]
 
 ## Albums (2)
 - 100 Days, 100 Nights

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["conscious-hiphop", "rawkus"]
-genre: "hip-hop"
+category: "Underground Hip-Hop"
 era: "1998-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # Mos Def
 
-**Scenes / genre:** [[conscious-hiphop|Conscious Hiphop]] · [[rawkus|Rawkus]] · [[hip-hop]]
+**Category:** [[Underground Hip-Hop]]
 
 ## Albums (2)
 - Black on Both Sides

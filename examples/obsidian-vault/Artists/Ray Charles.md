@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["soul-canon"]
-genre: "soul / r&b"
+category: "Soul, Funk & R&B"
 era: "1949-2004"
 album_count: 13
-tags: ["artist"]
+tags: ["artist", "soul-funk-r-b"]
 ---
 
 # Ray Charles
 
-**Scenes / genre:** [[soul-canon|Soul Canon]] · [[soul (2)|soul]] · [[r&b (2)|r&b]]
+**Category:** [[Soul, Funk & R&B]]
 
 ## Albums (13)
 - Genius Loves Company

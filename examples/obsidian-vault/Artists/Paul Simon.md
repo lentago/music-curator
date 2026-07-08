@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["worldbeat", "singer-songwriter-canon"]
-genre: "worldbeat"
+category: "Indie Folk & Singer-Songwriter"
 era: "1980s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # Paul Simon
 
-**Scenes / genre:** [[worldbeat|Worldbeat]] · [[singer-songwriter-canon|Singer Songwriter Canon]] · [[worldbeat (2)|worldbeat]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 ## Albums (2)
 - Graceland

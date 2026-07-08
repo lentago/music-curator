@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["anticon", "underground-hiphop"]
-genre: "experimental hip-hop"
+category: "Anticon"
 era: "2001-2004"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "anticon"]
 ---
 
 # cLOUDDEAD
 
-**Scenes / genre:** [[anticon (2)|Anticon]] · [[underground-hiphop|Underground Hiphop]] · [[experimental hip-hop]]
+**Category:** [[Anticon (2)|Anticon]]
 
 ## Albums (2)
 - clouddead

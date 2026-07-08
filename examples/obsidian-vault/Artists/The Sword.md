@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["stoner-metal"]
-genre: "stoner metal"
+category: "Metal"
 era: "2003-2018"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "metal"]
 ---
 
 # The Sword
 
-**Scenes / genre:** [[stoner-metal|Stoner Metal]] · [[stoner metal]]
+**Category:** [[Metal]]
 
 ## Albums (1)
 - High Country

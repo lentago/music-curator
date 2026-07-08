@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["country", "americana"]
-genre: "country / Americana"
+category: "Country & Americana"
 era: "1970s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "country-americana"]
 ---
 
 # Emmylou Harris
 
-**Scenes / genre:** [[country|Country]] · [[americana|Americana]] · [[country (2)|country]] · [[Americana (2)|Americana]]
+**Category:** [[Country & Americana]]
 
 ## Albums (3)
 - Emmylou Harris and the Nash Ra

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["big-beat", "electronic"]
-genre: "electronic / big beat"
+category: "Electronic"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "electronic"]
 ---
 
 # The Chemical Brothers
 
-**Scenes / genre:** [[big-beat|Big Beat]] · [[electronic|Electronic]] · [[electronic (2)|electronic]] · [[big beat]]
+**Category:** [[Electronic]]
 
 ## Albums (1)
 - Exit Planet Dust

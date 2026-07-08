@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["post-rock", "icelandic"]
-genre: "post-rock / art pop"
+category: "Post-Rock"
 era: "2010s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "post-rock"]
 ---
 
 # Jónsi
 
-**Scenes / genre:** [[post-rock|Post Rock]] · [[icelandic|Icelandic]] · [[post-rock (2)|post-rock]] · [[art pop]]
+**Category:** [[Post-Rock]]
 
 ## Albums (1)
 - Go

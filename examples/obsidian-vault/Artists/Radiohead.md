@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["british-art-rock"]
-genre: "art rock"
+category: "Art-Pop & New Wave"
 era: "1993-now"
 album_count: 8
-tags: ["artist"]
+tags: ["artist", "art-pop-new-wave"]
 ---
 
 # Radiohead
 
-**Scenes / genre:** [[british-art-rock|British Art Rock]] · [[art rock]]
+**Category:** [[Art-Pop & New Wave]]
 
 ## Albums (8)
 - hail to the thief

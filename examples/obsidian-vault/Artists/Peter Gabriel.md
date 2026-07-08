@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["art-rock", "worldbeat"]
-genre: "art rock"
+category: "Art-Pop & New Wave"
 era: "1980s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "art-pop-new-wave"]
 ---
 
 # Peter Gabriel
 
-**Scenes / genre:** [[art-rock|Art Rock]] · [[worldbeat|Worldbeat]] · [[art rock]]
+**Category:** [[Art-Pop & New Wave]]
 
 ## Albums (3)
 - Passion

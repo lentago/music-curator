@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["alt-metal", "funk-metal"]
-genre: "alternative metal"
+category: "Metal"
 era: "1980s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "metal"]
 ---
 
 # Faith No More
 
-**Scenes / genre:** [[alt-metal|Alt Metal]] · [[funk-metal|Funk Metal]] · [[alternative metal]]
+**Category:** [[Metal]]
 
 ## Albums (1)
 - Angel Dust

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["world"]
-genre: "world (verify)"
+category: "World"
 era: "unknown"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "world"]
 ---
 
 # The Tribe
 
-**Scenes / genre:** [[world|World]] · [[world (verify)]]
+**Category:** [[World]]
 
 ## Albums (1)
 - Abort

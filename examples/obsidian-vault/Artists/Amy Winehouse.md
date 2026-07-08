@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["retro-soul", "british-soul"]
-genre: "retro soul"
+category: "Soul, Funk & R&B"
 era: "2003-2011"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "soul-funk-r-b"]
 ---
 
 # Amy Winehouse
 
-**Scenes / genre:** [[retro-soul|Retro Soul]] · [[british-soul|British Soul]] · [[retro soul]]
+**Category:** [[Soul, Funk & R&B]]
 
 ## Albums (1)
 - Back To Black [Explicit]

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["traditional-pop"]
-genre: "traditional pop"
+category: "Pop"
 era: "1950s-1990s"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "pop"]
 ---
 
 # Al Martino
 
-**Scenes / genre:** [[traditional-pop|Traditional Pop]] · [[traditional pop]]
+**Category:** [[Pop]]
 
 ## Albums (2)
 - I Love You Because My Cherie

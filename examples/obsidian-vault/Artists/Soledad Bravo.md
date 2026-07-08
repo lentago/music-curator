@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["latin-american", "nueva-cancion"]
-genre: "nueva canción"
+category: "Latin"
 era: "1970s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "latin"]
 ---
 
 # Soledad Bravo
 
-**Scenes / genre:** [[latin-american|Latin American]] · [[nueva-cancion|Nueva Cancion]] · [[nueva canción]]
+**Category:** [[Latin]]
 
 ## Albums (1)
 - 21 Temas Románticos

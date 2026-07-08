@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["singer-songwriter-canon", "blue-eyed-soul"]
-genre: "celtic soul"
+category: "Soul, Funk & R&B"
 era: "1960s-now"
 album_count: 7
-tags: ["artist"]
+tags: ["artist", "soul-funk-r-b"]
 ---
 
 # Van Morrison
 
-**Scenes / genre:** [[singer-songwriter-canon|Singer Songwriter Canon]] · [[blue-eyed-soul|Blue Eyed Soul]] · [[celtic soul]]
+**Category:** [[Soul, Funk & R&B]]
 
 ## Albums (7)
 - Astral Weeks

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["americana", "folk"]
-genre: "folk / Americana"
+category: "Country & Americana"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "country-americana"]
 ---
 
 # Iris DeMent
 
-**Scenes / genre:** [[americana|Americana]] · [[folk|Folk]] · [[folk (2)|folk]] · [[Americana (2)|Americana]]
+**Category:** [[Country & Americana]]
 
 ## Albums (1)
 - My Life

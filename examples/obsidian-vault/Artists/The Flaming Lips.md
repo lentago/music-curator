@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["psychedelic-rock", "art-rock"]
-genre: "psychedelic rock"
+category: "Art-Pop & New Wave"
 era: "1990s-now"
 album_count: 4
-tags: ["artist"]
+tags: ["artist", "art-pop-new-wave"]
 ---
 
 # The Flaming Lips
 
-**Scenes / genre:** [[psychedelic-rock|Psychedelic Rock]] · [[art-rock|Art Rock]] · [[psychedelic rock]]
+**Category:** [[Art-Pop & New Wave]]
 
 ## Albums (4)
 - At War With The Mystics

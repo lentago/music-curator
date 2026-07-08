@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["defjux", "underground-hiphop"]
-genre: "underground hip-hop"
+category: "Def Jux"
 era: "1999-now"
 album_count: 5
-tags: ["artist"]
+tags: ["artist", "def-jux"]
 ---
 
 # Aesop Rock
 
-**Scenes / genre:** [[defjux|Defjux]] · [[underground-hiphop|Underground Hiphop]] · [[underground hip-hop]]
+**Category:** [[Def Jux]]
 
 ## Albums (5)
 - Bazooka Tooth Disc 1

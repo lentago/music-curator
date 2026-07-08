@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["nola", "brass-band"]
-genre: "brass band"
+category: "New Orleans"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "new-orleans"]
 ---
 
 # New Orleans Nightcrawlers
 
-**Scenes / genre:** [[nola|Nola]] · [[brass-band|Brass Band]] · [[brass band]]
+**Category:** [[New Orleans]]
 
 ## Albums (1)
 - Funknicity

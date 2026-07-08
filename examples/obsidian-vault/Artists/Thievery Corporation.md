@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["trip-hop", "dub-electronic"]
-genre: "trip-hop / downtempo"
+category: "Trip-Hop & Downtempo"
 era: "1995-now"
 album_count: 12
-tags: ["artist"]
+tags: ["artist", "trip-hop-downtempo"]
 ---
 
 # Thievery Corporation
 
-**Scenes / genre:** [[trip-hop|Trip Hop]] · [[dub-electronic|Dub Electronic]] · [[trip-hop (2)|trip-hop]] · [[downtempo (2)|downtempo]]
+**Category:** [[Trip-Hop & Downtempo]]
 
 ## Albums (12)
 - Abductions and Reconstructions

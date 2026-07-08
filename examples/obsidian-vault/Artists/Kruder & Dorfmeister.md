@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["downtempo", "trip-hop"]
-genre: "downtempo"
+category: "Trip-Hop & Downtempo"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "trip-hop-downtempo"]
 ---
 
 # Kruder & Dorfmeister
 
-**Scenes / genre:** [[downtempo|Downtempo]] · [[trip-hop|Trip Hop]] · [[downtempo (2)|downtempo]]
+**Category:** [[Trip-Hop & Downtempo]]
 
 ## Albums (1)
 - DJ-Kicks

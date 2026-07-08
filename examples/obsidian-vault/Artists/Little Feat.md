@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["classic-rock", "roots-rock"]
-genre: "roots rock"
+category: "Country & Americana"
 era: "1970s"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "country-americana"]
 ---
 
 # Little Feat
 
-**Scenes / genre:** [[classic-rock|Classic Rock]] · [[roots-rock|Roots Rock]] · [[roots rock]]
+**Category:** [[Country & Americana]]
 
 ## Albums (2)
 - Dixie Chicken

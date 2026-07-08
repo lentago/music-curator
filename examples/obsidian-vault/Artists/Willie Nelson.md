@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["outlaw-country"]
-genre: "country"
+category: "Country & Americana"
 era: "1962-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "country-americana"]
 ---
 
 # Willie Nelson
 
-**Scenes / genre:** [[outlaw-country|Outlaw Country]] · [[country (2)|country]]
+**Category:** [[Country & Americana]]
 
 ## Albums (1)
 - Stardust

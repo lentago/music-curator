@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["neo-soul", "electronic"]
-genre: "soul / pop"
+category: "Soul, Funk & R&B"
 era: "2000s"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "soul-funk-r-b"]
 ---
 
 # Gnarls Barkley
 
-**Scenes / genre:** [[neo-soul|Neo Soul]] · [[electronic|Electronic]] · [[soul (2)|soul]] · [[pop (2)|pop]]
+**Category:** [[Soul, Funk & R&B]]
 
 ## Albums (2)
 - St. Elsewhere

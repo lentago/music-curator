@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["old-school-hiphop"]
-genre: "hip-hop"
+category: "Underground Hip-Hop"
 era: "1980s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # Run-D.M.C
 
-**Scenes / genre:** [[old-school-hiphop|Old School Hiphop]] · [[hip-hop]]
+**Category:** [[Underground Hip-Hop]]
 
 ## Albums (1)
 - Run-D.M.C

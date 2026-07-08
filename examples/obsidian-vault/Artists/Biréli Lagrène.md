@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["gypsy-jazz"]
-genre: "gypsy jazz"
+category: "Jazz"
 era: "1980s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "jazz"]
 ---
 
 # Biréli Lagrène
 
-**Scenes / genre:** [[gypsy-jazz|Gypsy Jazz]] · [[gypsy jazz]]
+**Category:** [[Jazz]]
 
 ## Albums (1)
 - Gipsy Project & Friends

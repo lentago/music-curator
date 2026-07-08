@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-pop", "chamber-pop"]
-genre: "indie pop"
+category: "Indie Pop & Synth-Pop"
 era: "1990s-now"
 album_count: 7
-tags: ["artist"]
+tags: ["artist", "indie-pop-synth-pop"]
 ---
 
 # Magnetic Fields
 
-**Scenes / genre:** [[indie-pop|Indie Pop]] · [[chamber-pop|Chamber Pop]] · [[indie pop]]
+**Category:** [[Indie Pop & Synth-Pop]]
 
 ## Albums (7)
 - 69 Love Songs

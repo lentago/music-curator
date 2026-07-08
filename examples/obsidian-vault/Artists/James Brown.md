@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["soul-canon", "funk-canon"]
-genre: "soul / funk"
+category: "Soul, Funk & R&B"
 era: "1956-2006"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "soul-funk-r-b"]
 ---
 
 # James Brown
 
-**Scenes / genre:** [[soul-canon|Soul Canon]] · [[funk-canon|Funk Canon]] · [[soul (2)|soul]] · [[funk (2)|funk]]
+**Category:** [[Soul, Funk & R&B]]
 
 > sole comp acceptable for canonical figure
 

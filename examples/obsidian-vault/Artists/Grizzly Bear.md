@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-rock", "baroque-pop"]
-genre: "indie rock"
+category: "Indie Rock"
 era: "2000s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "indie-rock"]
 ---
 
 # Grizzly Bear
 
-**Scenes / genre:** [[indie-rock|Indie Rock]] · [[baroque-pop|Baroque Pop]] · [[indie rock]]
+**Category:** [[Indie Rock]]
 
 ## Albums (1)
 - Veckatimest

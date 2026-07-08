@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-folk", "art-pop"]
-genre: "indie folk / chamber pop"
+category: "Indie Folk & Singer-Songwriter"
 era: "1996-now"
 album_count: 9
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # Andrew Bird
 
-**Scenes / genre:** [[indie-folk|Indie Folk]] · [[art-pop|Art Pop]] · [[indie folk]] · [[chamber pop]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 ## Albums (9)
 - Andrew Bird & the Mysterious Production

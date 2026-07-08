@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["post-punk", "sophisti-pop"]
-genre: "post-punk"
+category: "Art-Pop & New Wave"
 era: "1980s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "art-pop-new-wave"]
 ---
 
 # The The
 
-**Scenes / genre:** [[post-punk|Post Punk]] · [[sophisti-pop|Sophisti Pop]] · [[post-punk (2)|post-punk]]
+**Category:** [[Art-Pop & New Wave]]
 
 ## Albums (2)
 - Infected

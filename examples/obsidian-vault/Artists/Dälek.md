@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["experimental-hiphop", "industrial-hiphop"]
-genre: "industrial hip-hop"
+category: "Underground Hip-Hop"
 era: "2000s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # Dälek
 
-**Scenes / genre:** [[experimental-hiphop|Experimental Hiphop]] · [[industrial-hiphop|Industrial Hiphop]] · [[industrial hip-hop]]
+**Category:** [[Underground Hip-Hop]]
 
 ## Albums (1)
 - Negro Necro Nekros

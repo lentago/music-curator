@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["krautrock", "electronic"]
-genre: "electronic"
+category: "Electronic"
 era: "1970s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "electronic"]
 ---
 
 # Kraftwerk
 
-**Scenes / genre:** [[krautrock|Krautrock]] · [[electronic|Electronic]] · [[electronic (2)|electronic]]
+**Category:** [[Electronic]]
 
 ## Albums (1)
 - The Mix

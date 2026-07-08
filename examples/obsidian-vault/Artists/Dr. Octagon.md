@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["underground-hiphop"]
-genre: "experimental hip-hop"
+category: "Underground Hip-Hop"
 era: "1990s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # Dr. Octagon
 
-**Scenes / genre:** [[underground-hiphop|Underground Hiphop]] · [[experimental hip-hop]]
+**Category:** [[Underground Hip-Hop]]
 
 ## Albums (1)
 - Dr. Octagonecologyst

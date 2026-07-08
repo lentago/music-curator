@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["blues-rock", "guitar-god"]
-genre: "blues rock"
+category: "Blues"
 era: "2008"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "blues"]
 ---
 
 # Eric Clapton And Steve Winwood
 
-**Scenes / genre:** [[blues-rock|Blues Rock]] · [[guitar-god|Guitar God]] · [[blues rock]]
+**Category:** [[Blues]]
 
 > confirmed authentic by Chris — blues-rock guitar appreciation
 

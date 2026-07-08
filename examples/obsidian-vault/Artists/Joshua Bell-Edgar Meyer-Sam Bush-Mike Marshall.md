@@ -1,14 +1,14 @@
 ---
 type: "artist"
-scenes: ["bluegrass", "newgrass"]
+category: "Newgrass"
 album_count: 1
 collaborators: ["Sam Bush"]
-tags: ["artist"]
+tags: ["artist", "newgrass"]
 ---
 
 # Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall
 
-**Scenes / genre:** [[bluegrass|Bluegrass]] · [[newgrass|Newgrass]]
+**Category:** [[Newgrass]]
 
 **With:** [[Sam Bush]]
 

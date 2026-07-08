@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["classical"]
-genre: "classical"
+category: "Classical"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "classical"]
 ---
 
 # Kremerata Baltica_Gidon Kremer
 
-**Scenes / genre:** [[classical|Classical]] · [[classical (2)|classical]]
+**Category:** [[Classical]]
 
 ## Albums (1)
 - Happy Birthday

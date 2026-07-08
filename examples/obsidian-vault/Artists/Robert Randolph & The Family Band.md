@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["sacred-steel", "jam", "blues-rock"]
-genre: "sacred steel / blues-jam"
+category: "Jam"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "jam"]
 ---
 
 # Robert Randolph & The Family Band
 
-**Scenes / genre:** [[sacred-steel|Sacred Steel]] · [[jam|Jam]] · [[blues-rock|Blues Rock]] · [[sacred steel]] · [[blues-jam]]
+**Category:** [[Jam]]
 
 > sacred-steel pedal-steel guitar — confirmed lane
 

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-folk", "gypsy-punk"]
-genre: "indie / gypsy"
+category: "Indie Folk & Singer-Songwriter"
 era: "2000s-now"
 album_count: 4
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # DeVotchKa
 
-**Scenes / genre:** [[indie-folk|Indie Folk]] · [[gypsy-punk|Gypsy Punk]] · [[indie]] · [[gypsy]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 ## Albums (4)
 - [2008] A Mad & Faithful Telling

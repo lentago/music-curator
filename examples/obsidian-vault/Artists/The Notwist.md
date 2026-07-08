@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-electronic"]
-genre: "indie electronic"
+category: "Indie Pop & Synth-Pop"
 era: "1990s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "indie-pop-synth-pop"]
 ---
 
 # The Notwist
 
-**Scenes / genre:** [[indie-electronic|Indie Electronic]] · [[indie electronic]]
+**Category:** [[Indie Pop & Synth-Pop]]
 
 ## Albums (2)
 - Neon Golden

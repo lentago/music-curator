@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["contemporary-jazz", "jazz-funk"]
-genre: "jazz guitar"
+category: "Jazz"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "jazz"]
 ---
 
 # Charlie Hunter Quartet
 
-**Scenes / genre:** [[contemporary-jazz|Contemporary Jazz]] · [[jazz-funk|Jazz Funk]] · [[jazz guitar]]
+**Category:** [[Jazz]]
 
 ## Albums (1)
 - Songs from the Analog Playground

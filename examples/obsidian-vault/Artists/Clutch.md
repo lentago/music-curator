@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["stoner-rock"]
-genre: "stoner rock"
+category: "Metal"
 era: "1991-now"
 album_count: 14
-tags: ["artist"]
+tags: ["artist", "metal"]
 ---
 
 # Clutch
 
-**Scenes / genre:** [[stoner-rock|Stoner Rock]] · [[stoner rock]]
+**Category:** [[Metal]]
 
 ## Albums (14)
 - Blast Tyrant

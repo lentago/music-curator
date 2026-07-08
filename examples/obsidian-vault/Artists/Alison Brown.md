@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["progressive-bluegrass", "bluegrass"]
-genre: "progressive bluegrass"
+category: "Bluegrass"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "bluegrass"]
 ---
 
 # Alison Brown
 
-**Scenes / genre:** [[progressive-bluegrass|Progressive Bluegrass]] · [[bluegrass|Bluegrass]] · [[progressive bluegrass]]
+**Category:** [[Bluegrass]]
 
 ## Albums (1)
 - Fair Weather

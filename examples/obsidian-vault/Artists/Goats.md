@@ -1,13 +1,13 @@
 ---
 type: "artist"
-scenes: ["underground-hiphop", "political-hiphop"]
+category: "Underground Hip-Hop"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # Goats
 
-**Scenes / genre:** [[underground-hiphop|Underground Hiphop]] · [[political-hiphop|Political Hiphop]]
+**Category:** [[Underground Hip-Hop]]
 
 ## Albums (1)
 - Tricks of the Shade

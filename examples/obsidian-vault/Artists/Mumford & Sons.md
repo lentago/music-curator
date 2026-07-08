@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["folk-rock", "indie-folk"]
-genre: "folk rock"
+category: "Indie Folk & Singer-Songwriter"
 era: "2000s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # Mumford & Sons
 
-**Scenes / genre:** [[folk-rock|Folk Rock]] · [[indie-folk|Indie Folk]] · [[folk rock]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 ## Albums (2)
 - Babel

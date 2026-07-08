@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["art-pop", "electro-pop"]
-genre: "art pop"
+category: "Art-Pop & New Wave"
 era: "2010s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "art-pop-new-wave"]
 ---
 
 # Lorde
 
-**Scenes / genre:** [[art-pop|Art Pop]] · [[electro-pop|Electro Pop]] · [[art pop]]
+**Category:** [[Art-Pop & New Wave]]
 
 ## Albums (2)
 - Pure Heroine (Extended)

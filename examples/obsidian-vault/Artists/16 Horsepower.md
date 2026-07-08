@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["gothic-americana"]
-genre: "gothic americana"
+category: "Gothic Americana"
 era: "1992-2005"
 album_count: 6
-tags: ["artist"]
+tags: ["artist", "gothic-americana"]
 ---
 
 # 16 Horsepower
 
-**Scenes / genre:** [[gothic-americana|Gothic Americana]] · [[gothic americana]]
+**Category:** [[Gothic Americana]]
 
 ## Albums (6)
 - blush music

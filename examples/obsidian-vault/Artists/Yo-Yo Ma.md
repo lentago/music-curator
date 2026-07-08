@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["classical-crossover"]
-genre: "classical / crossover"
+category: "Classical"
 era: "1979-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "classical"]
 ---
 
 # Yo-Yo Ma
 
-**Scenes / genre:** [[classical-crossover|Classical Crossover]] · [[classical (2)|classical]] · [[crossover]]
+**Category:** [[Classical]]
 
 ## Albums (1)
 - Obrigado Brazil

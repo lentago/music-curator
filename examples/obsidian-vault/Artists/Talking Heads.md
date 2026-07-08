@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["new-wave", "art-rock", "post-punk"]
-genre: "new wave / art rock"
+category: "Art-Pop & New Wave"
 era: "1970s-80s"
 album_count: 5
-tags: ["artist"]
+tags: ["artist", "art-pop-new-wave"]
 ---
 
 # Talking Heads
 
-**Scenes / genre:** [[new-wave|New Wave]] · [[art-rock|Art Rock]] · [[post-punk|Post Punk]] · [[new wave]] · [[art rock]]
+**Category:** [[Art-Pop & New Wave]]
 
 ## Albums (5)
 - Once In A Lifetime The Talking Heads Box (US Release)

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["underground-hiphop", "weightless-recordings"]
-genre: "underground hip-hop"
+category: "Underground Hip-Hop"
 era: "2000s"
 album_count: 9
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # Illogic
 
-**Scenes / genre:** [[underground-hiphop|Underground Hiphop]] · [[weightless-recordings|Weightless Recordings]] · [[underground hip-hop]]
+**Category:** [[Underground Hip-Hop]]
 
 ## Albums (9)
 - Illogic and Blockhead - Capture The Sun (2013)

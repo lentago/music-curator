@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["classical"]
-genre: "classical piano"
+category: "Classical"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "classical"]
 ---
 
 # Arcadi Volodos
 
-**Scenes / genre:** [[classical|Classical]] · [[classical piano]]
+**Category:** [[Classical]]
 
 ## Albums (1)
 - Piano Transcriptions

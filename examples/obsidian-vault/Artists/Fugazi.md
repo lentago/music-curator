@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["post-hardcore", "dc-hardcore"]
-genre: "post-hardcore"
+category: "Punk & Hardcore"
 era: "1980s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "punk-hardcore"]
 ---
 
 # Fugazi
 
-**Scenes / genre:** [[post-hardcore|Post Hardcore]] · [[dc-hardcore|Dc Hardcore]] · [[post-hardcore (2)|post-hardcore]]
+**Category:** [[Punk & Hardcore]]
 
 ## Albums (1)
 - 13 Songs

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["post-punk-revival"]
-genre: "post-punk revival"
+category: "Indie Rock"
 era: "2002-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "indie-rock"]
 ---
 
 # Franz Ferdinand
 
-**Scenes / genre:** [[post-punk-revival|Post Punk Revival]] · [[post-punk revival]]
+**Category:** [[Indie Rock]]
 
 ## Albums (1)
 - franz ferdinand

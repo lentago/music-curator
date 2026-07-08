@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["electroclash"]
-genre: "electroclash"
+category: "Electronic"
 era: "2000s"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "electronic"]
 ---
 
 # Fischerspooner
 
-**Scenes / genre:** [[electroclash|Electroclash]] · [[electroclash (2)|electroclash]]
+**Category:** [[Electronic]]
 
 ## Albums (2)
 - #1 [Explicit]

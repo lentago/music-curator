@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["downtempo", "new-age"]
-genre: "new age / downtempo"
+category: "Trip-Hop & Downtempo"
 era: "1990s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "trip-hop-downtempo"]
 ---
 
 # Enigma
 
-**Scenes / genre:** [[downtempo|Downtempo]] · [[new-age|New Age]] · [[new age]] · [[downtempo (2)|downtempo]]
+**Category:** [[Trip-Hop & Downtempo]]
 
 ## Albums (1)
 - MCMXC A.D

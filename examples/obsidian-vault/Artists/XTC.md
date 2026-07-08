@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["british-new-wave"]
-genre: "art rock / new wave"
+category: "Art-Pop & New Wave"
 era: "1977-2005"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "art-pop-new-wave"]
 ---
 
 # XTC
 
-**Scenes / genre:** [[british-new-wave|British New Wave]] · [[art rock]] · [[new wave]]
+**Category:** [[Art-Pop & New Wave]]
 
 ## Albums (1)
 - Nonsuch

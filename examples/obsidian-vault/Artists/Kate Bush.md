@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["art-pop", "british-art-rock"]
-genre: "art pop"
+category: "Art-Pop & New Wave"
 era: "1980s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "art-pop-new-wave"]
 ---
 
 # Kate Bush
 
-**Scenes / genre:** [[art-pop|Art Pop]] · [[british-art-rock|British Art Rock]] · [[art pop]]
+**Category:** [[Art-Pop & New Wave]]
 
 ## Albums (1)
 - Hounds of Love

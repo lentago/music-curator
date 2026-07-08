@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["world"]
-genre: "world fusion"
+category: "World"
 era: "1990s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "world"]
 ---
 
 # Outback
 
-**Scenes / genre:** [[world|World]] · [[world fusion]]
+**Category:** [[World]]
 
 ## Albums (1)
 - Baka

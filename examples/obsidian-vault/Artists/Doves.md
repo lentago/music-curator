@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["britpop", "indie-rock"]
-genre: "indie rock"
+category: "Indie Rock"
 era: "2000s"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "indie-rock"]
 ---
 
 # Doves
 
-**Scenes / genre:** [[britpop|Britpop]] · [[indie-rock|Indie Rock]] · [[indie rock]]
+**Category:** [[Indie Rock]]
 
 ## Albums (2)
 - Lost Souls

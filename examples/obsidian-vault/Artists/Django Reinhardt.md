@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["gypsy-jazz", "jazz-canon"]
-genre: "gypsy jazz"
+category: "Jazz"
 era: "1930s-50s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "jazz"]
 ---
 
 # Django Reinhardt
 
-**Scenes / genre:** [[gypsy-jazz|Gypsy Jazz]] · [[jazz-canon|Jazz Canon]] · [[gypsy jazz]]
+**Category:** [[Jazz]]
 
 ## Albums (1)
 - The Ultimate Collection

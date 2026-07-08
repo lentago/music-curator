@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["buddha-bar", "world-electronic"]
-genre: "world electronic"
+category: "Trip-Hop & Downtempo"
 era: "2000s"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "trip-hop-downtempo"]
 ---
 
 # DJ Ravin
 
-**Scenes / genre:** [[buddha-bar|Buddha Bar]] · [[world-electronic|World Electronic]] · [[world electronic]]
+**Category:** [[Trip-Hop & Downtempo]]
 
 ## Albums (2)
 - Huvafen Fushi Maldives Mixed by Ravin [

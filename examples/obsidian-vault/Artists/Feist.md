@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-pop", "singer-songwriter"]
-genre: "indie pop"
+category: "Indie Folk & Singer-Songwriter"
 era: "2000s-now"
 album_count: 4
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # Feist
 
-**Scenes / genre:** [[indie-pop|Indie Pop]] · [[singer-songwriter|Singer Songwriter]] · [[indie pop]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 ## Albums (4)
 - Let It Die

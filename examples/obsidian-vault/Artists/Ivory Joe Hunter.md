@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["blues", "soul-canon"]
-genre: "R&B / blues"
+category: "Soul, Funk & R&B"
 era: "1950s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "soul-funk-r-b"]
 ---
 
 # Ivory Joe Hunter
 
-**Scenes / genre:** [[blues|Blues]] · [[soul-canon|Soul Canon]] · [[R&B]] · [[blues (2)|blues]]
+**Category:** [[Soul, Funk & R&B]]
 
 ## Albums (1)
 - SINCE I MET YOU BABY

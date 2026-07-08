@@ -1,16 +1,15 @@
 ---
 type: "artist"
-scenes: ["soul-canon"]
-genre: "soul"
+category: "Soul, Funk & R&B"
 era: "1960s-70s"
 album_count: 1
 collaborators: ["Curtis Mayfield"]
-tags: ["artist"]
+tags: ["artist", "soul-funk-r-b"]
 ---
 
 # Curtis Mayfield & The Impressions
 
-**Scenes / genre:** [[soul-canon|Soul Canon]] · [[soul (2)|soul]]
+**Category:** [[Soul, Funk & R&B]]
 
 **With:** [[Curtis Mayfield]]
 

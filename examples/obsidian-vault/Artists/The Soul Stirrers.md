@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["soul-canon", "gospel"]
-genre: "gospel"
+category: "Soul, Funk & R&B"
 era: "1950s-60s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "soul-funk-r-b"]
 ---
 
 # The Soul Stirrers
 
-**Scenes / genre:** [[soul-canon|Soul Canon]] · [[gospel|Gospel]] · [[gospel (2)|gospel]]
+**Category:** [[Soul, Funk & R&B]]
 
 ## Albums (1)
 - Heaven Is My Home

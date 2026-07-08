@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-electronic"]
-genre: "indie electronic"
+category: "Indie Pop & Synth-Pop"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "indie-pop-synth-pop"]
 ---
 
 # The Postal Service
 
-**Scenes / genre:** [[indie-electronic|Indie Electronic]] · [[indie electronic]]
+**Category:** [[Indie Pop & Synth-Pop]]
 
 ## Albums (1)
 - Give Up

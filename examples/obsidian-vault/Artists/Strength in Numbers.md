@@ -1,13 +1,13 @@
 ---
 type: "artist"
-scenes: ["bluegrass", "newgrass"]
+category: "Newgrass"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "newgrass"]
 ---
 
 # Strength in Numbers
 
-**Scenes / genre:** [[bluegrass|Bluegrass]] · [[newgrass|Newgrass]]
+**Category:** [[Newgrass]]
 
 ## Albums (1)
 - The Telluride Sessions

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["patton-orbit"]
-genre: "experimental pop"
+category: "Patton Orbit"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "patton-orbit"]
 ---
 
 # Peeping Tom
 
-**Scenes / genre:** [[patton-orbit|Patton Orbit]] · [[experimental pop]]
+**Category:** [[Patton Orbit]]
 
 ## Albums (1)
 - Peeping Tom

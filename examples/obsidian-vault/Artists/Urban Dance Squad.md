@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["rap-rock"]
-genre: "rap rock"
+category: "Hip-Hop"
 era: "1990s"
 album_count: 4
-tags: ["artist"]
+tags: ["artist", "hip-hop"]
 ---
 
 # Urban Dance Squad
 
-**Scenes / genre:** [[rap-rock|Rap Rock]] · [[rap rock]]
+**Category:** [[Hip-Hop]]
 
 ## Albums (4)
 - Life 'n Perspective of a Genuine Crossov

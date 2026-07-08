@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["stones-throw", "underground-hiphop"]
-genre: "underground hip-hop"
+category: "Stones Throw"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "stones-throw"]
 ---
 
 # Lootpack
 
-**Scenes / genre:** [[stones-throw|Stones Throw]] · [[underground-hiphop|Underground Hiphop]] · [[underground hip-hop]]
+**Category:** [[Stones Throw]]
 
 ## Albums (1)
 - Soundpieces- Da Antidote!

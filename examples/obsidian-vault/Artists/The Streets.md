@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["uk-garage", "grime"]
-genre: "UK garage / rap"
+category: "Pop"
 era: "2000s"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "pop"]
 ---
 
 # The Streets
 
-**Scenes / genre:** [[uk-garage|Uk Garage]] · [[grime|Grime]] · [[UK garage]] · [[rap]]
+**Category:** [[Pop]]
 
 ## Albums (3)
 - a grand don't come for free

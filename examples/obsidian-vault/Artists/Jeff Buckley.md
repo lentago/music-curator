@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["singer-songwriter", "alt-rock-90s"]
-genre: "alternative rock"
+category: "Indie Folk & Singer-Songwriter"
 era: "1990s"
 album_count: 6
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # Jeff Buckley
 
-**Scenes / genre:** [[singer-songwriter|Singer Songwriter]] · [[alt-rock-90s|Alt Rock 90S]] · [[alternative rock]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 ## Albums (6)
 - Grace

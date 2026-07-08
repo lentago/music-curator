@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["anti-folk", "indie-pop"]
-genre: "indie pop"
+category: "Indie Folk & Singer-Songwriter"
 era: "2000s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # Regina Spektor
 
-**Scenes / genre:** [[anti-folk|Anti Folk]] · [[indie-pop|Indie Pop]] · [[indie pop]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 ## Albums (2)
 - Begin To Hope

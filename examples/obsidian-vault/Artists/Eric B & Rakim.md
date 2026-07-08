@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["east-coast-hiphop", "golden-age-hiphop"]
-genre: "hip-hop"
+category: "Underground Hip-Hop"
 era: "1980s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # Eric B & Rakim
 
-**Scenes / genre:** [[east-coast-hiphop|East Coast Hiphop]] · [[golden-age-hiphop|Golden Age Hiphop]] · [[hip-hop]]
+**Category:** [[Underground Hip-Hop]]
 
 ## Albums (1)
 - Follow the Leader

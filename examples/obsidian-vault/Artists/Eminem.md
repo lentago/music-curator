@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["detroit-hiphop"]
-genre: "hip-hop"
+category: "Hip-Hop"
 era: "1990s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "hip-hop"]
 ---
 
 # Eminem
 
-**Scenes / genre:** [[detroit-hiphop|Detroit Hiphop]] · [[hip-hop]]
+**Category:** [[Hip-Hop]]
 
 ## Albums (2)
 - The Eminem Show

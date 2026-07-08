@@ -1,16 +1,15 @@
 ---
 type: "artist"
-scenes: ["defjux", "underground-hiphop"]
-genre: "underground hip-hop"
+category: "Def Jux"
 era: "2001"
 album_count: 1
 collaborators: ["Cannibal Ox"]
-tags: ["artist"]
+tags: ["artist", "def-jux"]
 ---
 
 # El-P & Cannibal Ox
 
-**Scenes / genre:** [[defjux|Defjux]] · [[underground-hiphop|Underground Hiphop]] · [[underground hip-hop]]
+**Category:** [[Def Jux]]
 
 **With:** [[Cannibal Ox]]
 

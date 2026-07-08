@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["hard-rock"]
-genre: "hard rock"
+category: "Classic Rock"
 era: "1973-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "classic-rock"]
 ---
 
 # AC-DC
 
-**Scenes / genre:** [[hard-rock|Hard Rock]] · [[hard rock]]
+**Category:** [[Classic Rock]]
 
 ## Albums (1)
 - The Complete Collection

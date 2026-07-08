@@ -1,16 +1,15 @@
 ---
 type: "artist"
-scenes: ["newgrass", "jazz-fusion"]
-genre: "newgrass / fusion"
+category: "Newgrass"
 era: "1990s-now"
 album_count: 5
 collaborators: ["Béla Fleck"]
-tags: ["artist"]
+tags: ["artist", "newgrass"]
 ---
 
 # Béla Fleck & the Flecktones
 
-**Scenes / genre:** [[newgrass|Newgrass]] · [[jazz-fusion|Jazz Fusion]] · [[newgrass (2)|newgrass]] · [[fusion]]
+**Category:** [[Newgrass]]
 
 **With:** [[Béla Fleck]]
 

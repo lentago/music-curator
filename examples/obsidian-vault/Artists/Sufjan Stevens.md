@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-folk", "baroque-pop"]
-genre: "indie folk"
+category: "Indie Folk & Singer-Songwriter"
 era: "2000s-now"
 album_count: 4
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # Sufjan Stevens
 
-**Scenes / genre:** [[indie-folk|Indie Folk]] · [[baroque-pop|Baroque Pop]] · [[indie folk]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 ## Albums (4)
 - Come On Feel The Illinoise!

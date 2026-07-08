@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["country"]
-genre: "country"
+category: "Country & Americana"
 era: "2000s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "country-americana"]
 ---
 
 # Bucky Covington & Shooter Jenn
 
-**Scenes / genre:** [[country|Country]] · [[country (2)|country]]
+**Category:** [[Country & Americana]]
 
 ## Albums (1)
 - Drinking Side of Country - Sin

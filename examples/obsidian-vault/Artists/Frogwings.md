@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jam"]
-genre: "jam / improv"
+category: "Jam"
 era: "1990s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "jam"]
 ---
 
 # Frogwings
 
-**Scenes / genre:** [[jam|Jam]] · [[jam (2)|jam]] · [[improv]]
+**Category:** [[Jam]]
 
 ## Albums (1)
 - Croakin' at Toad's

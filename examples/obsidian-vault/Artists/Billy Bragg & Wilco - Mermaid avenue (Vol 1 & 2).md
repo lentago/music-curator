@@ -1,16 +1,15 @@
 ---
 type: "artist"
-scenes: ["folk-punk", "alt-country"]
-genre: "folk / Americana"
+category: "Country & Americana"
 era: "1990s-2000s"
 album_count: 2
 collaborators: ["Billy Bragg"]
-tags: ["artist"]
+tags: ["artist", "country-americana"]
 ---
 
 # Billy Bragg & Wilco - Mermaid avenue (Vol 1 & 2)
 
-**Scenes / genre:** [[folk-punk|Folk Punk]] · [[alt-country|Alt Country]] · [[folk (2)|folk]] · [[Americana (2)|Americana]]
+**Category:** [[Country & Americana]]
 
 **With:** [[Billy Bragg]]
 

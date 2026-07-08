@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["patton-orbit", "alt-metal"]
-genre: "experimental rock"
+category: "Patton Orbit"
 era: "2000s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "patton-orbit"]
 ---
 
 # Tomahawk
 
-**Scenes / genre:** [[patton-orbit|Patton Orbit]] · [[alt-metal|Alt Metal]] · [[experimental rock]]
+**Category:** [[Patton Orbit]]
 
 ## Albums (2)
 - Anonymous

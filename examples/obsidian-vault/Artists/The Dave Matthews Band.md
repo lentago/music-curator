@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jam"]
-genre: "jam"
+category: "Jam"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "jam"]
 ---
 
 # The Dave Matthews Band
 
-**Scenes / genre:** [[jam|Jam]] · [[jam (2)|jam]]
+**Category:** [[Jam]]
 
 ## Albums (1)
 - Remember Two Things

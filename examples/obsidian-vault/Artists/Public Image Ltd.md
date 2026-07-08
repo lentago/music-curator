@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["post-punk"]
-genre: "post-punk"
+category: "Art-Pop & New Wave"
 era: "1978-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "art-pop-new-wave"]
 ---
 
 # Public Image Ltd
 
-**Scenes / genre:** [[post-punk|Post Punk]] · [[post-punk (2)|post-punk]]
+**Category:** [[Art-Pop & New Wave]]
 
 ## Albums (1)
 - 9

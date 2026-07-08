@@ -1,13 +1,13 @@
 ---
 type: "artist"
-scenes: ["alt-rock-canon"]
+category: "Classic Rock"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "classic-rock"]
 ---
 
 # They Might Be Giants
 
-**Scenes / genre:** [[alt-rock-canon|Alt Rock Canon]]
+**Category:** [[Classic Rock]]
 
 > sole canon — passes canon-tolerance test
 

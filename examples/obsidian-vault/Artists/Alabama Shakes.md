@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["retro-soul"]
-genre: "soul / blues rock"
+category: "Soul, Funk & R&B"
 era: "2009-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "soul-funk-r-b"]
 ---
 
 # Alabama Shakes
 
-**Scenes / genre:** [[retro-soul|Retro Soul]] · [[soul (2)|soul]] · [[blues rock]]
+**Category:** [[Soul, Funk & R&B]]
 
 ## Albums (2)
 - Boys & Girls

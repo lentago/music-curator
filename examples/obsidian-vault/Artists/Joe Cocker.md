@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["blue-eyed-soul", "classic-rock"]
-genre: "rock / soul"
+category: "Soul, Funk & R&B"
 era: "1970s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "soul-funk-r-b"]
 ---
 
 # Joe Cocker
 
-**Scenes / genre:** [[blue-eyed-soul|Blue Eyed Soul]] · [[classic-rock|Classic Rock]] · [[rock]] · [[soul (2)|soul]]
+**Category:** [[Soul, Funk & R&B]]
 
 ## Albums (1)
 - Classics, Vol. 4

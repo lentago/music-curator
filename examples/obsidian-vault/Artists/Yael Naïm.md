@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["french-israeli", "folk-pop"]
-genre: "folk pop"
+category: "Downtown Avant-Garde"
 era: "2007-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "downtown-avant-garde"]
 ---
 
 # Yael Naïm
 
-**Scenes / genre:** [[french-israeli|French Israeli]] · [[folk-pop|Folk Pop]] · [[folk pop]]
+**Category:** [[Downtown Avant-Garde]]
 
 ## Albums (1)
 - Yael Naïm

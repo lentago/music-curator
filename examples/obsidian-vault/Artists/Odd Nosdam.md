@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["anticon", "instrumental-hiphop"]
-genre: "experimental hip-hop"
+category: "Anticon"
 era: "2000s"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "anticon"]
 ---
 
 # Odd Nosdam
 
-**Scenes / genre:** [[anticon (2)|Anticon]] · [[instrumental-hiphop|Instrumental Hiphop]] · [[experimental hip-hop]]
+**Category:** [[Anticon (2)|Anticon]]
 
 ## Albums (3)
 - Level Live Wires

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["chanson"]
-genre: "French chanson"
+category: "Pop"
 era: "1940s-50s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "pop"]
 ---
 
 # Edith Piaf
 
-**Scenes / genre:** [[chanson|Chanson]] · [[French chanson]]
+**Category:** [[Pop]]
 
 ## Albums (1)
 - La vie en rose

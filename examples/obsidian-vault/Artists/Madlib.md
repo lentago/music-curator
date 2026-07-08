@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["stones-throw", "underground-hiphop", "instrumental-hiphop"]
-genre: "hip-hop / production"
+category: "Stones Throw"
 era: "1990s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "stones-throw"]
 ---
 
 # Madlib
 
-**Scenes / genre:** [[stones-throw|Stones Throw]] · [[underground-hiphop|Underground Hiphop]] · [[instrumental-hiphop|Instrumental Hiphop]] · [[hip-hop]] · [[production]]
+**Category:** [[Stones Throw]]
 
 ## Albums (2)
 - Shades of Blue

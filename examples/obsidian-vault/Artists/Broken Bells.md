@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-rock", "indie-pop"]
-genre: "indie pop"
+category: "Indie Rock"
 era: "2010s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "indie-rock"]
 ---
 
 # Broken Bells
 
-**Scenes / genre:** [[indie-rock|Indie Rock]] · [[indie-pop|Indie Pop]] · [[indie pop]]
+**Category:** [[Indie Rock]]
 
 ## Albums (1)
 - Broken Bells [+Video]

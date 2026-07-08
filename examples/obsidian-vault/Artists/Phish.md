@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jam"]
-genre: "jam"
+category: "Jam"
 era: "1983-now"
 album_count: 15
-tags: ["artist"]
+tags: ["artist", "jam"]
 ---
 
 # Phish
 
-**Scenes / genre:** [[jam|Jam]] · [[jam (2)|jam]]
+**Category:** [[Jam]]
 
 ## Albums (15)
 - A Live One Disc 1

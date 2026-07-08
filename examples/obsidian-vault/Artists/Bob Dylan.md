@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["folk-rock-canon", "singer-songwriter-canon"]
-genre: "folk rock"
+category: "Indie Folk & Singer-Songwriter"
 era: "1960s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # Bob Dylan
 
-**Scenes / genre:** [[folk-rock-canon|Folk Rock Canon]] · [[singer-songwriter-canon|Singer Songwriter Canon]] · [[folk rock]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 ## Albums (3)
 - John Wesley Harding [Remastered]

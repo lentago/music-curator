@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["progressive-rock", "post-hardcore"]
-genre: "progressive rock"
+category: "Punk & Hardcore"
 era: "2000s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "punk-hardcore"]
 ---
 
 # The Mars Volta
 
-**Scenes / genre:** [[progressive-rock|Progressive Rock]] · [[post-hardcore|Post Hardcore]] · [[progressive rock]]
+**Category:** [[Punk & Hardcore]]
 
 ## Albums (2)
 - Noctourniquet

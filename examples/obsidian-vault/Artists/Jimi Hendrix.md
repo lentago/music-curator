@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["psychedelic-rock", "blues-rock", "classic-rock"]
-genre: "psychedelic rock"
+category: "Blues"
 era: "1960s-70s"
 album_count: 4
-tags: ["artist"]
+tags: ["artist", "blues"]
 ---
 
 # Jimi Hendrix
 
-**Scenes / genre:** [[psychedelic-rock|Psychedelic Rock]] · [[blues-rock|Blues Rock]] · [[classic-rock|Classic Rock]] · [[psychedelic rock]]
+**Category:** [[Blues]]
 
 ## Albums (4)
 - Band Of Gypsys (Live)

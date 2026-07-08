@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["funk-metal", "experimental-rock"]
-genre: "funk metal"
+category: "Metal"
 era: "1990s-now"
 album_count: 5
-tags: ["artist"]
+tags: ["artist", "metal"]
 ---
 
 # Primus
 
-**Scenes / genre:** [[funk-metal|Funk Metal]] · [[experimental-rock|Experimental Rock]] · [[funk metal]]
+**Category:** [[Metal]]
 
 ## Albums (5)
 - Frizzle Fry [Bonus Track]

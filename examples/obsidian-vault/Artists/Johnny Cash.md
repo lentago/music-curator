@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["country-canon"]
-genre: "country"
+category: "Country & Americana"
 era: "1955-2003"
 album_count: 8
-tags: ["artist"]
+tags: ["artist", "country-americana"]
 ---
 
 # Johnny Cash
 
-**Scenes / genre:** [[country-canon|Country Canon]] · [[country (2)|country]]
+**Category:** [[Country & Americana]]
 
 ## Albums (8)
 - American III Solitary Man

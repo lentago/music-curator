@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jam", "southern-rock", "classic-rock"]
-genre: "southern rock"
+category: "Jam"
 era: "1970s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "jam"]
 ---
 
 # The Allman Brothers Band
 
-**Scenes / genre:** [[jam|Jam]] · [[southern-rock|Southern Rock]] · [[classic-rock|Classic Rock]] · [[southern rock]]
+**Category:** [[Jam]]
 
 ## Albums (1)
 - The Road Goes On Forever

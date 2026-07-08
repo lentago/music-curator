@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["conscious-hiphop", "rawkus"]
-genre: "hip-hop"
+category: "Underground Hip-Hop"
 era: "1998-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # Talib Kweli
 
-**Scenes / genre:** [[conscious-hiphop|Conscious Hiphop]] · [[rawkus|Rawkus]] · [[hip-hop]]
+**Category:** [[Underground Hip-Hop]]
 
 ## Albums (1)
 - Quality

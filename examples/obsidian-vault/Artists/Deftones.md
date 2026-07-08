@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["alt-metal"]
-genre: "alternative metal"
+category: "Metal"
 era: "1990s-now"
 album_count: 6
-tags: ["artist"]
+tags: ["artist", "metal"]
 ---
 
 # Deftones
 
-**Scenes / genre:** [[alt-metal|Alt Metal]] · [[alternative metal]]
+**Category:** [[Metal]]
 
 ## Albums (6)
 - 2010 - Diamond Eyes

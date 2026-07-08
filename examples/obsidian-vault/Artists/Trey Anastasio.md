@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jam"]
-genre: "jam"
+category: "Jam"
 era: "2000s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "jam"]
 ---
 
 # Trey Anastasio
 
-**Scenes / genre:** [[jam|Jam]] · [[jam (2)|jam]]
+**Category:** [[Jam]]
 
 ## Albums (2)
 - Plasma

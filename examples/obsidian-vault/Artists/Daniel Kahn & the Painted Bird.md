@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["klezmer", "radical-jewish-culture"]
-genre: "klezmer / Yiddish"
+category: "Downtown Avant-Garde"
 era: "2000s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "downtown-avant-garde"]
 ---
 
 # Daniel Kahn & the Painted Bird
 
-**Scenes / genre:** [[klezmer|Klezmer]] · [[radical-jewish-culture|Radical Jewish Culture]] · [[klezmer (2)|klezmer]] · [[Yiddish]]
+**Category:** [[Downtown Avant-Garde]]
 
 ## Albums (2)
 - Bad Old Songs

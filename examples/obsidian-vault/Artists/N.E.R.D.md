@@ -1,13 +1,13 @@
 ---
 type: "artist"
-scenes: ["neptunes", "funk-rap"]
+category: "Hip-Hop"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "hip-hop"]
 ---
 
 # N.E.R.D
 
-**Scenes / genre:** [[neptunes|Neptunes]] · [[funk-rap|Funk Rap]]
+**Category:** [[Hip-Hop]]
 
 ## Albums (1)
 - Fly or Die

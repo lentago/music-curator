@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["world", "indo-american"]
-genre: "world fusion"
+category: "World"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "world"]
 ---
 
 # Vishwa Mohan Bhatt With Bela Fleck and J
 
-**Scenes / genre:** [[world|World]] · [[indo-american|Indo American]] · [[world fusion]]
+**Category:** [[World]]
 
 ## Albums (1)
 - Tabula Rasa

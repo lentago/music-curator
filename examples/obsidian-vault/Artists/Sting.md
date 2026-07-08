@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["pop-rock", "sophisti-pop"]
-genre: "pop rock"
+category: "Art-Pop & New Wave"
 era: "1980s-now"
 album_count: 7
-tags: ["artist"]
+tags: ["artist", "art-pop-new-wave"]
 ---
 
 # Sting
 
-**Scenes / genre:** [[pop-rock|Pop Rock]] · [[sophisti-pop|Sophisti Pop]] · [[pop rock]]
+**Category:** [[Art-Pop & New Wave]]
 
 ## Albums (7)
 - At the Movies

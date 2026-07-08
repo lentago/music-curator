@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["gothic-americana", "16hp-orbit"]
-genre: "gothic americana"
+category: "Gothic Americana"
 era: "2002-now"
 album_count: 5
-tags: ["artist"]
+tags: ["artist", "gothic-americana"]
 ---
 
 # Wovenhand
 
-**Scenes / genre:** [[gothic-americana|Gothic Americana]] · [[16hp-orbit|16Hp Orbit]] · [[gothic americana]]
+**Category:** [[Gothic Americana]]
 
 ## Albums (5)
 - Consider the Birds

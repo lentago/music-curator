@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["nola"]
-genre: "New Orleans jazz"
+category: "New Orleans"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "new-orleans"]
 ---
 
 # New Orleans Jazz Vipers
 
-**Scenes / genre:** [[nola|Nola]] · [[New Orleans jazz]]
+**Category:** [[New Orleans]]
 
 ## Albums (1)
 - Live On Frenchmen Street

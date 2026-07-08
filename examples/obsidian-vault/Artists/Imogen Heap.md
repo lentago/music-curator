@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["art-pop", "electronic"]
-genre: "art pop / electronic"
+category: "Art-Pop & New Wave"
 era: "1998-now"
 album_count: 11
-tags: ["artist"]
+tags: ["artist", "art-pop-new-wave"]
 ---
 
 # Imogen Heap
 
-**Scenes / genre:** [[art-pop|Art Pop]] · [[electronic|Electronic]] · [[art pop]] · [[electronic (2)|electronic]]
+**Category:** [[Art-Pop & New Wave]]
 
 ## Albums (11)
 - Getting Scared (Single)

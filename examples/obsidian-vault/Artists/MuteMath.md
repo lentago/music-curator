@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["alt-rock-2000s"]
-genre: "alternative rock"
+category: "Indie Rock"
 era: "2000s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "indie-rock"]
 ---
 
 # MuteMath
 
-**Scenes / genre:** [[alt-rock-2000s|Alt Rock 2000S]] · [[alternative rock]]
+**Category:** [[Indie Rock]]
 
 ## Albums (3)
 - Armistice

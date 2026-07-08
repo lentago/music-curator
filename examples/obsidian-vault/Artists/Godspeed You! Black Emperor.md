@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["post-rock"]
-genre: "post-rock / drone"
+category: "Post-Rock"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "post-rock"]
 ---
 
 # Godspeed You! Black Emperor
 
-**Scenes / genre:** [[post-rock|Post Rock]] · [[post-rock (2)|post-rock]] · [[drone]]
+**Category:** [[Post-Rock]]
 
 ## Albums (1)
 - Yanqui U.X.O

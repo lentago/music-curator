@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["turntablism", "jazz-electronic"]
-genre: "turntablism / jazz"
+category: "Turntablism & Beats"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "turntablism-beats"]
 ---
 
 # DJ Logic
 
-**Scenes / genre:** [[turntablism|Turntablism]] · [[jazz-electronic|Jazz Electronic]] · [[turntablism (2)|turntablism]] · [[jazz]]
+**Category:** [[Turntablism & Beats]]
 
 ## Albums (1)
 - The Anomaly

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["vocal-jazz", "soul"]
-genre: "vocal jazz / soul"
+category: "Jazz"
 era: "1990s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "jazz"]
 ---
 
 # Al Jarreau & Lou Rawls
 
-**Scenes / genre:** [[vocal-jazz|Vocal Jazz]] · [[soul|Soul]] · [[vocal jazz]] · [[soul (2)|soul]]
+**Category:** [[Jazz]]
 
 ## Albums (1)
 - Soul Men

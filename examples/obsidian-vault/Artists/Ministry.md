@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["industrial", "wax-trax"]
-genre: "industrial"
+category: "Industrial & EBM"
 era: "1981-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "industrial-ebm"]
 ---
 
 # Ministry
 
-**Scenes / genre:** [[industrial|Industrial]] · [[wax-trax|Wax Trax]] · [[industrial (2)|industrial]]
+**Category:** [[Industrial & EBM]]
 
 >  (lane confirmed by Chris)
 

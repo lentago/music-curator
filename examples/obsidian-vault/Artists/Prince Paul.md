@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["native-tongues", "underground-hiphop"]
-genre: "hip-hop production"
+category: "Underground Hip-Hop"
 era: "1980s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # Prince Paul
 
-**Scenes / genre:** [[native-tongues|Native Tongues]] · [[underground-hiphop|Underground Hiphop]] · [[hip-hop production]]
+**Category:** [[Underground Hip-Hop]]
 
 ## Albums (1)
 - A Prince Among Thieves

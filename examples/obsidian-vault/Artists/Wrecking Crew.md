@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["session-musicians"]
-genre: "session musicians"
+category: "Pop"
 era: "1960s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "pop"]
 ---
 
 # Wrecking Crew
 
-**Scenes / genre:** [[session-musicians|Session Musicians]] · [[session musicians]]
+**Category:** [[Pop]]
 
 ## Albums (1)
 - Balance of Terror

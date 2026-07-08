@@ -1,16 +1,15 @@
 ---
 type: "artist"
-scenes: ["turntablism"]
-genre: "turntablism"
+category: "Turntablism & Beats"
 era: "2000s"
 album_count: 1
 collaborators: ["Cut Chemist"]
-tags: ["artist"]
+tags: ["artist", "turntablism-beats"]
 ---
 
 # Cut Chemist & Nu-Mark
 
-**Scenes / genre:** [[turntablism|Turntablism]] · [[turntablism (2)|turntablism]]
+**Category:** [[Turntablism & Beats]]
 
 **With:** [[Cut Chemist]]
 

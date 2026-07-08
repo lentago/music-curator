@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["vallenato", "latin-american"]
-genre: "vallenato"
+category: "Latin"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "latin"]
 ---
 
 # Carlos Vives
 
-**Scenes / genre:** [[vallenato|Vallenato]] · [[latin-american|Latin American]] · [[vallenato (2)|vallenato]]
+**Category:** [[Latin]]
 
 ## Albums (1)
 - El Amor de Mi Tierra

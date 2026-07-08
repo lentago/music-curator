@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["downtown-ny", "tzadik"]
-genre: "avant-garde / noise jazz"
+category: "Downtown Avant-Garde"
 era: "1990s"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "downtown-avant-garde"]
 ---
 
 # Naked City
 
-**Scenes / genre:** [[downtown-ny|Downtown Ny]] · [[tzadik|Tzadik]] · [[avant-garde]] · [[noise jazz]]
+**Category:** [[Downtown Avant-Garde]]
 
 ## Albums (2)
 - Naked City Live, Vol. 1 Knitting Factor

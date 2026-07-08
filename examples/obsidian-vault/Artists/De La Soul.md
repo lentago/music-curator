@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["native-tongues"]
-genre: "hip-hop"
+category: "Underground Hip-Hop"
 era: "1989-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # De La Soul
 
-**Scenes / genre:** [[native-tongues|Native Tongues]] · [[hip-hop]]
+**Category:** [[Underground Hip-Hop]]
 
 ## Albums (2)
 - 3 Feet High and Rising

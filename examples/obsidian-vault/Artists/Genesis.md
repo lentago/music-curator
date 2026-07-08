@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["progressive-rock"]
-genre: "progressive rock"
+category: "Classic Rock"
 era: "1970s-80s"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "classic-rock"]
 ---
 
 # Genesis
 
-**Scenes / genre:** [[progressive-rock|Progressive Rock]] · [[progressive rock]]
+**Category:** [[Classic Rock]]
 
 ## Albums (2)
 - Genesis Live The Way We Walk, Vol. 1 (T

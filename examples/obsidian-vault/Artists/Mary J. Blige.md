@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["neo-soul"]
-genre: "R&B / hip-hop soul"
+category: "Soul, Funk & R&B"
 era: "1990s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "soul-funk-r-b"]
 ---
 
 # Mary J. Blige
 
-**Scenes / genre:** [[neo-soul|Neo Soul]] · [[R&B]] · [[hip-hop soul]]
+**Category:** [[Soul, Funk & R&B]]
 
 ## Albums (2)
 - Growing Pains

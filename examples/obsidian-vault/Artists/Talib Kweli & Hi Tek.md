@@ -1,16 +1,15 @@
 ---
 type: "artist"
-scenes: ["conscious-hiphop", "rawkus", "reflection-eternal"]
-genre: "hip-hop"
+category: "Underground Hip-Hop"
 era: "2000"
 album_count: 1
 collaborators: ["Talib Kweli"]
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # Talib Kweli & Hi Tek
 
-**Scenes / genre:** [[conscious-hiphop|Conscious Hiphop]] · [[rawkus|Rawkus]] · [[reflection-eternal|Reflection Eternal]] · [[hip-hop]]
+**Category:** [[Underground Hip-Hop]]
 
 **With:** [[Talib Kweli]]
 

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["project-blowed", "underground-hiphop"]
-genre: "underground hip-hop"
+category: "Underground Hip-Hop"
 era: "2010s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # The A-Team
 
-**Scenes / genre:** [[project-blowed|Project Blowed]] · [[underground-hiphop|Underground Hiphop]] · [[underground hip-hop]]
+**Category:** [[Underground Hip-Hop]]
 
 > Aceyalone & Abstract Rude duo — corrected by Chris
 
