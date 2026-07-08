@@ -1,0 +1,13 @@
+---
+type: "artist"
+album_count: 2
+tags: ["artist", "reservoir"]
+---
+
+# The Mars Volta
+
+**Filed under:** [[Reservoir]]
+
+## Albums (2)
+- Noctourniquet
+- The Bedlam In Goliath

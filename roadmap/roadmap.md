@@ -8,10 +8,14 @@ speculative feature-padding.
 **Status:** The methodology (`music-curation-methodology.md`) and worked
 `examples/` are the core deliverable. The items below are planned extensions.
 
-**Implemented:** Engineering spine (issue #4) — `schema/music-inventory.schema.json`
-(JSON Schema Draft 7 for structural validation) and `validate.py` (cross-field
-integrity checker + near-duplicate artist-key detection). CI runs the validator on
-every change to the inventory, schema, or validator itself (`.github/workflows/validate.yml`).
+**Implemented:**
+- Engineering spine (issue #4) — `schema/music-inventory.schema.json`
+  (JSON Schema Draft 7 for structural validation) and `validate.py` (cross-field
+  integrity checker + near-duplicate artist-key detection). CI runs the validator on
+  every change to the inventory, schema, or validator itself (`.github/workflows/validate.yml`).
+- Obsidian graph vault — `obsidian_driver.py` renders the inventory into an
+  Obsidian vault (`examples/obsidian-vault/`) whose graph view clusters artists
+  by scene/genre around anchor hubs (see below).
 
 ---
 
@@ -108,6 +112,39 @@ Anticon→doseone→Backwoodz social-graph bridge).
 
 ---
 
+## Visualization
+
+### Obsidian Graph Vault ✅ (implemented)
+
+**What it adds:** Turns the inventory into a browsable, visual **artist graph**.
+`obsidian_driver.py` renders one note per active artist that wikilinks to its
+scene and genre hubs; opened in Obsidian, the graph view clusters artists by
+scene, sizes anchors as the densest hubs, and exposes the ~84 multi-scene
+"bridge" artists that connect clusters — the cross-pollination the flat profile
+only describes in prose.
+
+**Implemented as:** a stdlib-only driver (sibling to `validate.py`), a committed
+worked-example vault at `examples/obsidian-vault/`, and a pre-styled
+`.obsidian/graph.json` (color groups by note type). Deterministic and
+idempotent; the output dir is guarded by a marker file so it never clobbers a
+foreign directory.
+
+**Possible extensions:**
+- **Artist→artist collaboration edges.** The richest enthusiast graph links
+  artists directly (Hail Mary Mallon → Aesop Rock + Rob Sonic; the
+  doseone → Backwoodz bridge). Those relationships live in the profile prose,
+  not the inventory JSON — extracting them into structured `collaborators`/
+  `members` fields would let the driver draw first-class collaboration edges.
+- **Thread MOCs from the profile.** Generate a note per queued exploration
+  thread (Tzadik deep dive, bluegrass extension, …) linking its anchors and
+  expansion candidates, so the profile's editorial threads become navigable.
+- **Era/decade lens.** An optional era-bucket edge set for a temporal view.
+
+**Dependencies:** None for the core; the collaboration-edge extension depends on
+adding collaboration data to the schema.
+
+---
+
 ## Productization
 
 ### Package as a Claude Skill
@@ -151,6 +188,8 @@ from a proven base, not a speculative one.
 
 0. **Engineering spine** ✅ — JSON Schema + validator; keeps the data source
    self-consistent as it grows.
+0b. **Obsidian graph vault** ✅ — visual artist map driven off the inventory;
+   makes the taste structure explorable.
 1. **Periodic Spotify harvest** — where the original conversation pointed;
    converts a snapshot into a living data source.
 2. **Streaming + collection merge** — closes the historical-vs-current gap the
