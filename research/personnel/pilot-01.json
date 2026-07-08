@@ -1,0 +1,4311 @@
+{
+  "chunk": "pilot-01",
+  "web_tools_available": true,
+  "artists": {
+    "Tom Waits": {
+      "alice": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Tom Waits",
+            "role": "vocals, pump organ, piano, producer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Tom Waits"
+          },
+          {
+            "name": "Kathleen Brennan",
+            "role": "producer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Larry Taylor",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Matt Brubeck",
+            "role": "cello",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Carla Kihlstedt",
+            "role": "violin",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Colin Stetson",
+            "role": "bass clarinet",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Bad As Me": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Tom Waits",
+            "role": "vocals, guitar, piano, producer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Tom Waits"
+          },
+          {
+            "name": "Kathleen Brennan",
+            "role": "producer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Marc Ribot",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+          },
+          {
+            "name": "Keith Richards",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "The Rolling Stones"
+          },
+          {
+            "name": "Flea",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Red Hot Chili Peppers"
+          },
+          {
+            "name": "David Hidalgo",
+            "role": "guitar, accordion",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Los Lobos"
+          },
+          {
+            "name": "Charlie Musselwhite",
+            "role": "harmonica",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Larry Taylor",
+            "role": "bass",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Big Time": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Tom Waits",
+            "role": "lead vocals, piano, guitar, organ, percussion, producer",
+            "confidence": "high",
+            "source": "liner-notes",
+            "in_collection": true,
+            "collection_match": "Tom Waits"
+          },
+          {
+            "name": "Kathleen Brennan",
+            "role": "producer",
+            "confidence": "high",
+            "source": "liner-notes",
+            "in_collection": false
+          },
+          {
+            "name": "Marc Ribot",
+            "role": "lead guitar, banjo, trumpet",
+            "confidence": "high",
+            "source": "liner-notes",
+            "in_collection": true,
+            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+          },
+          {
+            "name": "Greg Cohen",
+            "role": "electric bass, alto horn",
+            "confidence": "high",
+            "source": "liner-notes",
+            "in_collection": false
+          },
+          {
+            "name": "Ralph Carney",
+            "role": "saxophone, clarinets, baritone horn",
+            "confidence": "high",
+            "source": "liner-notes",
+            "in_collection": false
+          },
+          {
+            "name": "Willy Schwarz",
+            "role": "accordion, Hammond organ, sitar, conga",
+            "confidence": "high",
+            "source": "liner-notes",
+            "in_collection": false
+          },
+          {
+            "name": "Michael Blair",
+            "role": "drums, percussion",
+            "confidence": "high",
+            "source": "liner-notes",
+            "in_collection": false
+          }
+        ]
+      },
+      "Blood money": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Tom Waits",
+            "role": "vocals, piano, Chamberlin, guitars, pump organ, producer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Tom Waits"
+          },
+          {
+            "name": "Kathleen Brennan",
+            "role": "producer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Colin Stetson",
+            "role": "saxophones, clarinets, baritone horn",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Larry Taylor",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Matthew Brubeck",
+            "role": "cello",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Stewart Copeland",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Casey Waits",
+            "role": "drums, percussion",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Blue Valentine": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Tom Waits",
+            "role": "vocals, electric guitar, piano",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Tom Waits"
+          },
+          {
+            "name": "Bones Howe",
+            "role": "producer",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Jim Hughart",
+            "role": "bass guitar",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Earl Palmer",
+            "role": "drums",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Harold Battiste",
+            "role": "acoustic piano",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Ray Crawford",
+            "role": "electric guitar",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Bob Alcivar",
+            "role": "string arrangement",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          }
+        ]
+      },
+      "Bone Machine": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Tom Waits",
+            "role": "vocals, guitar, percussion, producer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Tom Waits"
+          },
+          {
+            "name": "Kathleen Brennan",
+            "role": "producer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Les Claypool",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Primus"
+          },
+          {
+            "name": "Bryan \"Brain\" Mantia",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "David Hidalgo",
+            "role": "violin, accordion",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Los Lobos"
+          },
+          {
+            "name": "Keith Richards",
+            "role": "guitar, vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "The Rolling Stones"
+          }
+        ]
+      },
+      "Closing Time": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Tom Waits",
+            "role": "vocals, piano, guitar",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Tom Waits"
+          },
+          {
+            "name": "Jerry Yester",
+            "role": "producer, arranger, engineer",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Bill Plummer",
+            "role": "double bass",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "John Seiter",
+            "role": "drums, backing vocals",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Shep Cooke",
+            "role": "guitar, backing vocals",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Peter Klimes",
+            "role": "guitar, pedal steel",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          }
+        ]
+      },
+      "Foreign Affairs": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Tom Waits",
+            "role": "vocals, piano",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Tom Waits"
+          },
+          {
+            "name": "Bones Howe",
+            "role": "producer, engineer",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Bette Midler",
+            "role": "vocals",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Jim Hughart",
+            "role": "bass",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Shelly Manne",
+            "role": "drums",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Jack Sheldon",
+            "role": "trumpet solo",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Bob Alcivar",
+            "role": "orchestration, conducting",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          }
+        ]
+      },
+      "Franks Wild Years": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Tom Waits",
+            "role": "vocals, guitar, keyboards, producer",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Tom Waits"
+          },
+          {
+            "name": "Marc Ribot",
+            "role": "guitar, banjo",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+          },
+          {
+            "name": "Ralph Carney",
+            "role": "saxophone, baritone horn, violin",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Greg Cohen",
+            "role": "bass, alto horn, horn arrangements",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "William Schimmel",
+            "role": "accordion, piano, pump organ",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "David Hidalgo",
+            "role": "accordion",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Los Lobos"
+          },
+          {
+            "name": "Michael Blair",
+            "role": "drums, percussion, marimba",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Larry Taylor",
+            "role": "upright bass",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          }
+        ]
+      },
+      "Glitter And Doom Live [Deluxe Edition]": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Tom Waits",
+            "role": "vocals, guitar, producer",
+            "confidence": "high",
+            "source": "liner-notes",
+            "in_collection": true,
+            "collection_match": "Tom Waits"
+          },
+          {
+            "name": "Kathleen Brennan",
+            "role": "producer",
+            "confidence": "high",
+            "source": "liner-notes",
+            "in_collection": false
+          },
+          {
+            "name": "Seth Ford-Young",
+            "role": "upright bass, bass guitar",
+            "confidence": "high",
+            "source": "liner-notes",
+            "in_collection": false
+          },
+          {
+            "name": "Omar Torrez",
+            "role": "guitar, banjo",
+            "confidence": "high",
+            "source": "liner-notes",
+            "in_collection": false
+          },
+          {
+            "name": "Vincent Henry",
+            "role": "woodwinds, harmonica",
+            "confidence": "high",
+            "source": "liner-notes",
+            "in_collection": false
+          },
+          {
+            "name": "Patrick Warren",
+            "role": "keyboards",
+            "confidence": "high",
+            "source": "liner-notes",
+            "in_collection": false
+          },
+          {
+            "name": "Casey Waits",
+            "role": "drums, percussion",
+            "confidence": "high",
+            "source": "liner-notes",
+            "in_collection": false
+          },
+          {
+            "name": "Sullivan Waits",
+            "role": "clarinet",
+            "confidence": "high",
+            "source": "liner-notes",
+            "in_collection": false
+          }
+        ]
+      },
+      "Heartattack And Vine": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Tom Waits",
+            "role": "vocals, electric guitar, piano",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Tom Waits"
+          },
+          {
+            "name": "Bones Howe",
+            "role": "producer, engineer",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Roland Bautista",
+            "role": "electric guitar, twelve-string guitar",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Ronnie Barron",
+            "role": "Hammond organ, piano",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Plas Johnson",
+            "role": "tenor & baritone saxophone",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Larry Taylor",
+            "role": "bass",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Greg Cohen",
+            "role": "bass",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Bob Alcivar",
+            "role": "string arrangement, conducting",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          }
+        ]
+      },
+      "Mule Variations": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Tom Waits",
+            "role": "vocals, guitar, piano, organ, percussion, producer",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Tom Waits"
+          },
+          {
+            "name": "Kathleen Brennan",
+            "role": "producer",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Marc Ribot",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+          },
+          {
+            "name": "Larry Taylor",
+            "role": "bass, guitar",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Greg Cohen",
+            "role": "bass",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Ralph Carney",
+            "role": "saxophone, trumpet, reeds",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Charlie Musselwhite",
+            "role": "harmonica",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Les Claypool",
+            "role": "bass",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Primus"
+          }
+        ]
+      },
+      "Nighthawks At The Diner": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Tom Waits",
+            "role": "vocals, piano, guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Tom Waits"
+          },
+          {
+            "name": "Bones Howe",
+            "role": "producer, engineer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Jim Hughart",
+            "role": "upright bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Bill Goodwin",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Pete Christlieb",
+            "role": "tenor saxophone",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Mike Melvoin",
+            "role": "piano, electric piano",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          }
+        ]
+      },
+      "Orphans": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Tom Waits",
+            "role": "vocals, guitar, piano, percussion, producer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Tom Waits"
+          },
+          {
+            "name": "Kathleen Brennan",
+            "role": "co-producer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Marc Ribot",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+          },
+          {
+            "name": "Larry Taylor",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Ralph Carney",
+            "role": "saxophone",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Charlie Musselwhite",
+            "role": "harmonica",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "John Hammond",
+            "role": "harmonica",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Les Claypool",
+            "role": "bass",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Primus"
+          }
+        ]
+      },
+      "Rain Dogs": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Tom Waits",
+            "role": "vocals, guitar, organ, piano, banjo, harmonium, producer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Tom Waits"
+          },
+          {
+            "name": "Marc Ribot",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+          },
+          {
+            "name": "Keith Richards",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "The Rolling Stones"
+          },
+          {
+            "name": "Robert Quine",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Chris Spedding",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "G.E. Smith",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Greg Cohen",
+            "role": "double bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Larry Taylor",
+            "role": "double bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Real Gone": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Tom Waits",
+            "role": "vocals, guitar, beatboxing, producer",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Tom Waits"
+          },
+          {
+            "name": "Kathleen Brennan",
+            "role": "producer",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Marc Ribot",
+            "role": "guitar, banjo",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+          },
+          {
+            "name": "Larry Taylor",
+            "role": "bass, guitar",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Les Claypool",
+            "role": "bass",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Primus"
+          },
+          {
+            "name": "Bryan \"Brain\" Mantia",
+            "role": "percussion",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Casey Waits",
+            "role": "drums, turntables, percussion",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          }
+        ]
+      },
+      "Small Change": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Tom Waits",
+            "role": "vocals, piano",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Tom Waits"
+          },
+          {
+            "name": "Bones Howe",
+            "role": "producer",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Shelly Manne",
+            "role": "drums",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Jim Hughart",
+            "role": "bass",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Lew Tabackin",
+            "role": "tenor saxophone",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          }
+        ]
+      },
+      "Swordfishtrombones": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Tom Waits",
+            "role": "vocals, organ, piano, harmonium, producer",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Tom Waits"
+          },
+          {
+            "name": "Victor Feldman",
+            "role": "marimba, percussion",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Larry Taylor",
+            "role": "acoustic & electric bass",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Greg Cohen",
+            "role": "bass",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Fred Tackett",
+            "role": "electric guitar, banjo",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Stephen Hodges",
+            "role": "drums, percussion",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          }
+        ]
+      },
+      "The Black Rider": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Tom Waits",
+            "role": "vocals, music & lyrics, producer",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Tom Waits"
+          },
+          {
+            "name": "William S. Burroughs",
+            "role": "vocals, lyrics",
+            "confidence": "high",
+            "source": "liner-notes",
+            "in_collection": true,
+            "collection_match": "William S. Burroughs"
+          },
+          {
+            "name": "Greg Cohen",
+            "role": "musical director; bass, banjo, accordion, viola",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Ralph Carney",
+            "role": "saxophone, bass clarinet, tuba",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Joe Gore",
+            "role": "guitar, banjo",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Kenny Wollesen",
+            "role": "marimba, percussion",
+            "confidence": "medium",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Matt Brubeck",
+            "role": "cello",
+            "confidence": "medium",
+            "source": "allmusic",
+            "in_collection": false
+          }
+        ]
+      },
+      "The Heart Of Saturday Night": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Tom Waits",
+            "role": "vocals, piano, electric piano, guitar",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Tom Waits"
+          },
+          {
+            "name": "Bones Howe",
+            "role": "producer, engineer",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Jim Hughart",
+            "role": "double bass",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Jim Gordon",
+            "role": "drums",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Tom Scott",
+            "role": "tenor saxophone, clarinet",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Mike Melvoin",
+            "role": "piano, orchestral arrangements",
+            "confidence": "medium",
+            "source": "allmusic",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "John Zorn": {
+      "Astaroth_ Book Of Angels Volume One - Ja": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "composer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Jamie Saft",
+            "role": "piano",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Greg Cohen",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Ben Perowsky",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Cobra_ John Zorn's Game Pieces, Vol. 2 [": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "prompter / composer",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Mark Feldman",
+            "role": "violin",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Erik Friedlander",
+            "role": "cello",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Sylvie Courvoisier",
+            "role": "piano",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Jamie Saft",
+            "role": "keyboards",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Derek Bailey",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Trevor Dunn",
+            "role": "bass",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Ikue Mori",
+            "role": "laptop",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          }
+        ]
+      },
+      "Cobra- John Zorn's Game Pieces, Vol. 2 [Tzadik]": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "prompter / composer",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Mark Feldman",
+            "role": "violin",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Erik Friedlander",
+            "role": "cello",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Sylvie Courvoisier",
+            "role": "piano",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Jamie Saft",
+            "role": "keyboards",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Derek Bailey",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Trevor Dunn",
+            "role": "bass",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Ikue Mori",
+            "role": "laptop",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          }
+        ]
+      },
+      "Elegy": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "composer / producer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Mike Patton",
+            "role": "vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Fantômas"
+          },
+          {
+            "name": "Trey Spruance",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Mr. Bungle"
+          },
+          {
+            "name": "David Shea",
+            "role": "turntables",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "William Winant",
+            "role": "percussion",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Barbara Chaffe",
+            "role": "alto flute, bass flute",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "David Abel",
+            "role": "viola",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Godard-Spillane": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "composer / reeds",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Bill Frisell",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Bill Frisell"
+          },
+          {
+            "name": "Anthony Coleman",
+            "role": "keyboards",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Carol Emanuel",
+            "role": "harp",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Christian Marclay",
+            "role": "turntables",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Bobby Previte",
+            "role": "drums, percussion",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "John Lurie",
+            "role": "voice (Mike Hammer)",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "The Lounge Lizards"
+          },
+          {
+            "name": "Robert Quine",
+            "role": "voice",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "I.A.O": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "composer / alto saxophone",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Jamie Saft",
+            "role": "keyboards",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Greg Cohen",
+            "role": "bass",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Bill Laswell",
+            "role": "electric bass",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Cyro Baptista",
+            "role": "percussion",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Jennifer Charles",
+            "role": "vocals",
+            "confidence": "medium",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Mike Patton",
+            "role": "vocals",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": true,
+            "collection_match": "Fantômas"
+          }
+        ]
+      },
+      "Locus Solus": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "composer / alto saxophone, game calls",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Christian Marclay",
+            "role": "phonograph / turntables",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Peter Blegvad",
+            "role": "vocals, lyrics",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Arto Lindsay",
+            "role": "guitar, vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Anton Fier",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Wayne Horvitz",
+            "role": "organ, electronics",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Ikue Mori",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Lucifer_ The Book Of Angels Volume 10": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "composer / conductor",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Marc Ribot",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+          },
+          {
+            "name": "Mark Feldman",
+            "role": "violin",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Erik Friedlander",
+            "role": "cello",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Greg Cohen",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Joey Baron",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Cyro Baptista",
+            "role": "percussion",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Masada Guitars": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "composer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Marc Ribot",
+            "role": "solo guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+          },
+          {
+            "name": "Bill Frisell",
+            "role": "solo guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Bill Frisell"
+          },
+          {
+            "name": "Tim Sparks",
+            "role": "solo guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Music Romance, Vol. 2- Taboo & Exile": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "composer / saxophone",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Mike Patton",
+            "role": "voice",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Fantômas"
+          },
+          {
+            "name": "Marc Ribot",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+          },
+          {
+            "name": "Fred Frith",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Naked City"
+          },
+          {
+            "name": "Chris Wood",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Medeski, Martin & Wood"
+          },
+          {
+            "name": "Bill Laswell",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Jamie Saft",
+            "role": "piano, organ",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Robert Quine",
+            "role": "guitar",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Spy Vs. Spy_ The Music of Ornette Colema": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "alto saxophone",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Tim Berne",
+            "role": "alto saxophone",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Mark Dresser",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Joey Baron",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Michael Vatcher",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Spy Vs. Spy- The Music of Ornette Coleman": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "alto saxophone",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Tim Berne",
+            "role": "alto saxophone",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Mark Dresser",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Joey Baron",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Michael Vatcher",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "The Big Gundown_ John Zorn Plays the Mus": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "composer / arranger / saxophone",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Bill Frisell",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Bill Frisell"
+          },
+          {
+            "name": "Fred Frith",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Naked City"
+          },
+          {
+            "name": "Marc Ribot",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+          },
+          {
+            "name": "Wayne Horvitz",
+            "role": "keyboards",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Bobby Previte",
+            "role": "drums, percussion",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Toots Thielemans",
+            "role": "harmonica",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Cyro Baptista",
+            "role": "percussion",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "The Big Gundown- John Zorn Plays the Music of Ennio Morricone": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "composer / arranger / saxophone",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Bill Frisell",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Bill Frisell"
+          },
+          {
+            "name": "Fred Frith",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Naked City"
+          },
+          {
+            "name": "Marc Ribot",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+          },
+          {
+            "name": "Wayne Horvitz",
+            "role": "keyboards",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Bobby Previte",
+            "role": "drums, percussion",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Toots Thielemans",
+            "role": "harmonica",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Cyro Baptista",
+            "role": "percussion",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "The Circle Maker Disc 1": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "composer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Mark Feldman",
+            "role": "violin",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Erik Friedlander",
+            "role": "cello",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Greg Cohen",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "The Circle Maker Disc 2": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "composer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Mark Feldman",
+            "role": "violin",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Erik Friedlander",
+            "role": "cello",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Greg Cohen",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Marc Ribot",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+          },
+          {
+            "name": "Joey Baron",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Cyro Baptista",
+            "role": "percussion",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "The Concealed": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "composer / conductor",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "John Medeski",
+            "role": "piano",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Medeski, Martin & Wood"
+          },
+          {
+            "name": "Mark Feldman",
+            "role": "violin",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Erik Friedlander",
+            "role": "cello",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Trevor Dunn",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Joey Baron",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Kenny Wollesen",
+            "role": "vibes",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "The Gift": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "composer / piano / theremin",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Marc Ribot",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+          },
+          {
+            "name": "Mike Patton",
+            "role": "vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Fantômas"
+          },
+          {
+            "name": "Dave Douglas",
+            "role": "trumpet",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Cyro Baptista",
+            "role": "percussion",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Joey Baron",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Greg Cohen",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Jamie Saft",
+            "role": "organ, keyboards",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Voices in the Wilderness Disc 1": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Voices in the Wilderness Disc 2": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "Marc Ribot Y los Cubanos Postizos": {
+      "Muy Divertido!": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Marc Ribot",
+            "role": "guitar, vocals",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+          },
+          {
+            "name": "Anthony Coleman",
+            "role": "keyboards",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Brad Jones",
+            "role": "bass",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "E.J. Rodriguez",
+            "role": "conga, percussion",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Roberto Rodriguez",
+            "role": "drums, timbales, percussion",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "Medeski, Martin & Wood": {
+      "Last Chance to Dance Trance (perhaps)_ B": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Last Chance to Dance Trance (perhaps)- Best Of (1991-1996)": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Zaebos_ The Book Of Angels Volume 11": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Medeski",
+            "role": "keyboards",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Chris Wood",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Billy Martin",
+            "role": "drums, percussion",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "John Zorn",
+            "role": "composer, producer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          }
+        ]
+      }
+    },
+    "Béla Fleck": {
+      "Drive": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Béla Fleck",
+            "role": "banjo",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Béla Fleck"
+          },
+          {
+            "name": "Sam Bush",
+            "role": "mandolin",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Sam Bush"
+          },
+          {
+            "name": "Jerry Douglas",
+            "role": "dobro",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Jerry Douglas"
+          },
+          {
+            "name": "Tony Rice",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Tony Rice Unit"
+          },
+          {
+            "name": "Mark Schatz",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Stuart Duncan",
+            "role": "fiddle",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Mark O'Connor",
+            "role": "fiddle",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Yo-Yo Ma-Edgar Meyer-Mark O'Connor"
+          }
+        ]
+      },
+      "Natural Bridge": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Béla Fleck",
+            "role": "banjo",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Béla Fleck"
+          },
+          {
+            "name": "Mark Schatz",
+            "role": "bass",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Jerry Douglas",
+            "role": "dobro",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Jerry Douglas"
+          },
+          {
+            "name": "Sam Bush",
+            "role": "fiddle",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Sam Bush"
+          },
+          {
+            "name": "David Grisman",
+            "role": "mandolin",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "David Grisman"
+          },
+          {
+            "name": "Mark O'Connor",
+            "role": "fiddle, twelve-string guitar",
+            "confidence": "medium",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Yo-Yo Ma-Edgar Meyer-Mark O'Connor"
+          },
+          {
+            "name": "Mike Marshall",
+            "role": "mandolin",
+            "confidence": "medium",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall"
+          }
+        ]
+      },
+      "Perpetual Motion": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Béla Fleck",
+            "role": "banjo",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Béla Fleck"
+          },
+          {
+            "name": "Edgar Meyer",
+            "role": "double bass, piano",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall"
+          },
+          {
+            "name": "Chris Thile",
+            "role": "mandolin",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Joshua Bell",
+            "role": "violin",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall"
+          },
+          {
+            "name": "Gary Hoffman",
+            "role": "cello",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Evelyn Glennie",
+            "role": "marimba, percussion",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "John Williams",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Bryan Sutton",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          }
+        ]
+      },
+      "Places": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Béla Fleck",
+            "role": "banjo",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Béla Fleck"
+          },
+          {
+            "name": "Sam Bush",
+            "role": "mandolin",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Sam Bush"
+          },
+          {
+            "name": "Jerry Douglas",
+            "role": "dobro",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Jerry Douglas"
+          },
+          {
+            "name": "Tony Rice",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Tony Rice Unit"
+          },
+          {
+            "name": "Mark Schatz",
+            "role": "bass",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Edgar Meyer",
+            "role": "bass",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall"
+          },
+          {
+            "name": "Mike Marshall",
+            "role": "mandolin",
+            "confidence": "medium",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall"
+          },
+          {
+            "name": "Mark O'Connor",
+            "role": "fiddle",
+            "confidence": "medium",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Yo-Yo Ma-Edgar Meyer-Mark O'Connor"
+          }
+        ]
+      },
+      "Tales From the Acoustic Planet": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Béla Fleck",
+            "role": "banjo",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Béla Fleck"
+          },
+          {
+            "name": "Sam Bush",
+            "role": "mandolin",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Sam Bush"
+          },
+          {
+            "name": "Jerry Douglas",
+            "role": "dobro",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Jerry Douglas"
+          },
+          {
+            "name": "Tony Rice",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Tony Rice Unit"
+          },
+          {
+            "name": "Edgar Meyer",
+            "role": "upright bass, piano",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall"
+          },
+          {
+            "name": "Chick Corea",
+            "role": "piano",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Branford Marsalis",
+            "role": "soprano and tenor saxophone",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Victor Wooten",
+            "role": "bass guitar",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      },
+      "The Bluegrass Sessions_ Tales from the A": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Béla Fleck",
+            "role": "banjo",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Béla Fleck"
+          },
+          {
+            "name": "Sam Bush",
+            "role": "mandolin",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Sam Bush"
+          },
+          {
+            "name": "Jerry Douglas",
+            "role": "dobro",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Jerry Douglas"
+          },
+          {
+            "name": "Stuart Duncan",
+            "role": "fiddle",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Tony Rice",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Tony Rice Unit"
+          },
+          {
+            "name": "Mark Schatz",
+            "role": "bass",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Earl Scruggs",
+            "role": "banjo (guest)",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "John Hartford",
+            "role": "banjo, fiddle (guest)",
+            "confidence": "medium",
+            "source": "allmusic",
+            "in_collection": false
+          }
+        ]
+      },
+      "The Bluegrass Sessions- Tales from the Acoustic Planet, Vol. 2": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Béla Fleck",
+            "role": "banjo",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Béla Fleck"
+          },
+          {
+            "name": "Sam Bush",
+            "role": "mandolin",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Sam Bush"
+          },
+          {
+            "name": "Jerry Douglas",
+            "role": "dobro",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Jerry Douglas"
+          },
+          {
+            "name": "Stuart Duncan",
+            "role": "fiddle",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Tony Rice",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Tony Rice Unit"
+          },
+          {
+            "name": "Mark Schatz",
+            "role": "bass",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Earl Scruggs",
+            "role": "banjo (guest)",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "John Hartford",
+            "role": "banjo, fiddle (guest)",
+            "confidence": "medium",
+            "source": "allmusic",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "Béla Fleck & the Flecktones": {
+      "Flight of the Cosmic Hippo": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Béla Fleck",
+            "role": "banjo",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Béla Fleck"
+          },
+          {
+            "name": "Victor Wooten",
+            "role": "bass",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Future Man (Roy Wooten)",
+            "role": "Synth-Axe Drumitar",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Howard Levy",
+            "role": "harmonica, keyboards",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      },
+      "Left of Cool": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Béla Fleck",
+            "role": "banjo",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Béla Fleck"
+          },
+          {
+            "name": "Victor Wooten",
+            "role": "bass",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Future Man (Roy Wooten)",
+            "role": "Synth-Axe Drumitar, percussion",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Jeff Coffin",
+            "role": "saxophone",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Dave Matthews",
+            "role": "vocals (guest)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Dave Matthews Band"
+          },
+          {
+            "name": "Amy Grant",
+            "role": "vocals (guest)",
+            "confidence": "medium",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      },
+      "Live Art Disc 1": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Béla Fleck",
+            "role": "banjo",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Béla Fleck"
+          },
+          {
+            "name": "Victor Wooten",
+            "role": "bass",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Future Man (Roy Wooten)",
+            "role": "Synth-Axe Drumitar, percussion",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Sam Bush",
+            "role": "mandolin, violin (guest)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Sam Bush"
+          },
+          {
+            "name": "Jerry Douglas",
+            "role": "dobro (guest)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Jerry Douglas"
+          },
+          {
+            "name": "Chick Corea",
+            "role": "piano (guest)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Branford Marsalis",
+            "role": "soprano saxophone (guest)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Howard Levy",
+            "role": "keyboards, harmonica (guest)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      },
+      "Live Art Disc 2": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Béla Fleck",
+            "role": "banjo",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Béla Fleck"
+          },
+          {
+            "name": "Victor Wooten",
+            "role": "bass",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Future Man (Roy Wooten)",
+            "role": "Synth-Axe Drumitar, percussion",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Bruce Hornsby",
+            "role": "piano, vocals (guest)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "John Cowan",
+            "role": "vocals (guest)",
+            "confidence": "medium",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      },
+      "Outbound": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Béla Fleck",
+            "role": "banjo",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Béla Fleck"
+          },
+          {
+            "name": "Victor Wooten",
+            "role": "bass, vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Future Man (Roy Wooten)",
+            "role": "Synth-Axe Drumitar, percussion",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Jeff Coffin",
+            "role": "saxophones, alto flute",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "John Medeski",
+            "role": "keyboards (guest)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Paul McCandless",
+            "role": "oboe (guest)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Edgar Meyer",
+            "role": "bass (guest)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall"
+          },
+          {
+            "name": "Jon Anderson",
+            "role": "vocals (guest)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "David Grisman": {
+      "Tone Poems": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "David Grisman",
+            "role": "mandolins",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "David Grisman"
+          },
+          {
+            "name": "Tony Rice",
+            "role": "guitars",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Tony Rice Unit"
+          }
+        ]
+      }
+    },
+    "The Derek Trucks Band": {
+      "Joyful Noise": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Derek Trucks",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "The Derek Trucks Band"
+          },
+          {
+            "name": "Kofi Burbridge",
+            "role": "keyboards, flute",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Todd Smallie",
+            "role": "bass",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Yonrico Scott",
+            "role": "drums, percussion",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Solomon Burke",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Susan Tedeschi",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Rubén Blades",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Craig Street",
+            "role": "producer",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "Steve Earle": {
+      "El Corazón": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Steve Earle",
+            "role": "vocals, guitar, producer",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Steve Earle"
+          },
+          {
+            "name": "Ray Kennedy",
+            "role": "producer, guitar",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Emmylou Harris",
+            "role": "background vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Emmylou Harris"
+          },
+          {
+            "name": "The Del McCoury Band",
+            "role": "guest band (\"I Still Carry You Around\")",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Del McCoury"
+          },
+          {
+            "name": "The Fairfield Four",
+            "role": "background vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "The Supersuckers",
+            "role": "guest band",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      },
+      "I Feel Alright": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Steve Earle",
+            "role": "vocals, guitar, harmonica",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": true,
+            "collection_match": "Steve Earle"
+          },
+          {
+            "name": "Richard Bennett",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Ray Kennedy",
+            "role": "guitar, mixing",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Roy Huskey Jr.",
+            "role": "bass",
+            "confidence": "medium",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "The Fairfield Four",
+            "role": "vocals",
+            "confidence": "medium",
+            "source": "allmusic",
+            "in_collection": false
+          }
+        ]
+      },
+      "Ill Never Get Out of This World Alive": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Steve Earle",
+            "role": "vocals, guitar, mandolin, banjo",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Steve Earle"
+          },
+          {
+            "name": "T Bone Burnett",
+            "role": "producer, electric guitar",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Allen Toussaint",
+            "role": "horn arranger, conductor",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Greg Leisz",
+            "role": "pedal steel guitar",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Jay Bellerose",
+            "role": "drums",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Allison Moorer",
+            "role": "vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Sara Watkins",
+            "role": "fiddle, vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      },
+      "Jerusalem": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Steve Earle",
+            "role": "vocals, multi-instrumentalist",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Steve Earle"
+          },
+          {
+            "name": "Ray Kennedy",
+            "role": "producer",
+            "confidence": "medium",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Emmylou Harris",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Emmylou Harris"
+          }
+        ]
+      },
+      "Sidetracks": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Transcendental Blues": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Steve Earle",
+            "role": "vocals, guitar, producer",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Steve Earle"
+          },
+          {
+            "name": "Ray Kennedy",
+            "role": "producer",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "David Steele",
+            "role": "electric guitar",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Kelley Looney",
+            "role": "bass",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Will Rigby",
+            "role": "drums",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Sharon Shannon",
+            "role": "accordion (\"The Galway Girl\")",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Tim O'Brien",
+            "role": "mandolin, vocals",
+            "confidence": "medium",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "Emmylou Harris": {
+      "Emmylou Harris and the Nash Ra": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Emmylou Harris",
+            "role": "vocals, guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Emmylou Harris"
+          },
+          {
+            "name": "Sam Bush",
+            "role": "fiddle, mandolin, vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Sam Bush"
+          },
+          {
+            "name": "Roy Huskey Jr.",
+            "role": "double bass, vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Larry Atamanuik",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Al Perkins",
+            "role": "banjo, guitar, resonator guitar, vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Jon Randall (John Randall Stewart)",
+            "role": "guitar, mandolin, vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Spyboy": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Emmylou Harris",
+            "role": "vocals, producer",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Emmylou Harris"
+          },
+          {
+            "name": "Buddy Miller",
+            "role": "guitar, vocals, producer",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Daryl Johnson",
+            "role": "bass, percussion, vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Brady Blade",
+            "role": "drums, percussion, vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      },
+      "Wrecking Ball": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Emmylou Harris",
+            "role": "vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Emmylou Harris"
+          },
+          {
+            "name": "Daniel Lanois",
+            "role": "producer, guitar, bass, percussion",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Neil Young",
+            "role": "harmonica, backing vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Neil Young"
+          },
+          {
+            "name": "Steve Earle",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Steve Earle"
+          },
+          {
+            "name": "Lucinda Williams",
+            "role": "backing vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Lucinda Williams"
+          },
+          {
+            "name": "Larry Mullen Jr.",
+            "role": "drums",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Malcolm Burn",
+            "role": "keyboards, bass, guitar",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "Gillian Welch": {
+      "Hell Among The Yearlings": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Gillian Welch",
+            "role": "vocals, guitar, banjo",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Gillian Welch"
+          },
+          {
+            "name": "David Rawlings",
+            "role": "guitar, harmony vocals, mixing",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "T Bone Burnett",
+            "role": "producer",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "Aesop Rock": {
+      "Bazooka Tooth Disc 1": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Aesop Rock",
+            "role": "vocals, production",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Aesop Rock"
+          },
+          {
+            "name": "El-P",
+            "role": "producer (one track), executive producer, guest vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "El-P"
+          },
+          {
+            "name": "Blockhead",
+            "role": "producer (three tracks)",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Blockhead"
+          },
+          {
+            "name": "Mr. Lif",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Mr. Lif"
+          },
+          {
+            "name": "Camp Lo",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Party Fun Action Committee",
+            "role": "guest vocals",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Cannibal Ox",
+            "role": "additional vocals",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Cannibal Ox"
+          },
+          {
+            "name": "DJ Cip One",
+            "role": "scratches",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Bazooka Tooth Disc 2": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Aesop Rock",
+            "role": "vocals, production",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Aesop Rock"
+          },
+          {
+            "name": "El-P",
+            "role": "producer (one track), executive producer, guest vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "El-P"
+          },
+          {
+            "name": "Blockhead",
+            "role": "producer (three tracks)",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Blockhead"
+          },
+          {
+            "name": "Mr. Lif",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Mr. Lif"
+          },
+          {
+            "name": "Camp Lo",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Party Fun Action Committee",
+            "role": "guest vocals",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Cannibal Ox",
+            "role": "additional vocals",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Cannibal Ox"
+          },
+          {
+            "name": "DJ Cip One",
+            "role": "scratches",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Float": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Aesop Rock",
+            "role": "vocals, production",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Aesop Rock"
+          },
+          {
+            "name": "Blockhead",
+            "role": "producer (most tracks)",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Blockhead"
+          },
+          {
+            "name": "Omega One",
+            "role": "producer (one track)",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Vast Aire",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Vast Aire"
+          },
+          {
+            "name": "Slug",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Doseone",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Labor Days": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Aesop Rock",
+            "role": "vocals, production (four tracks)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Aesop Rock"
+          },
+          {
+            "name": "Blockhead",
+            "role": "producer (most tracks)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Blockhead"
+          },
+          {
+            "name": "Omega One",
+            "role": "producer (one track)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Illogic",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Illogic"
+          },
+          {
+            "name": "C-Rayz Walz",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      },
+      "None Shall Pass": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Aesop Rock",
+            "role": "vocals, production",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Aesop Rock"
+          },
+          {
+            "name": "Blockhead",
+            "role": "producer",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Blockhead"
+          },
+          {
+            "name": "El-P",
+            "role": "producer, guest vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "El-P"
+          },
+          {
+            "name": "Rob Sonic",
+            "role": "producer, guest vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Cage",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Breeze Brewin",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "John Darnielle",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "DJ Big Wiz",
+            "role": "scratches",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "El-P": {
+      "Fantastic Damage": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "El-P",
+            "role": "vocals, production (all tracks)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "El-P"
+          },
+          {
+            "name": "Aesop Rock",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Aesop Rock"
+          },
+          {
+            "name": "Vast Aire",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Vast Aire"
+          },
+          {
+            "name": "Cage",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Camu Tao",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Rob Sonic",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Ill Bill",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "C-Rayz Walz",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      },
+      "I'll Sleep When You're Dead": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "El-P",
+            "role": "vocals, production",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "El-P"
+          },
+          {
+            "name": "Trent Reznor",
+            "role": "guest vocals (Flyentology)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Chan Marshall (Cat Power)",
+            "role": "guest vocals (Poisenville Kids No Wins)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Cat Power"
+          },
+          {
+            "name": "Aesop Rock",
+            "role": "guest vocals (Run the Numbers)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Aesop Rock"
+          },
+          {
+            "name": "Mr. Lif",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Mr. Lif"
+          },
+          {
+            "name": "Cage",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Cedric Bixler-Zavala & Omar Rodriguez-Lopez (The Mars Volta)",
+            "role": "guest musicians",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Camu Tao",
+            "role": "guest vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "DJ Shadow": {
+      "Endtroducing": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "DJ Shadow",
+            "role": "producer, all instrumentation/samples, turntables",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "DJ Shadow"
+          },
+          {
+            "name": "Dan the Automator",
+            "role": "assistant engineering",
+            "confidence": "medium",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Dan the Automator"
+          }
+        ]
+      },
+      "The Outsider": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "DJ Shadow",
+            "role": "producer",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "DJ Shadow"
+          },
+          {
+            "name": "Q-Tip",
+            "role": "guest vocals (Enuff)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Lateef the Truth Speaker",
+            "role": "guest vocals (Enuff)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "David Banner",
+            "role": "guest vocals (Seein' Thangs)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Keak da Sneak",
+            "role": "guest vocals (3 Freaks)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Turf Talk",
+            "role": "guest vocals (3 Freaks)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Phonte",
+            "role": "guest vocals (Backstage Girl)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Sergio Pizzorno",
+            "role": "guest vocals (The Tiger)",
+            "confidence": "medium",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      },
+      "The Private Press [Special Package] Disc": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "DJ Shadow",
+            "role": "producer, all instrumentation/samples, turntables",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "DJ Shadow"
+          },
+          {
+            "name": "Lateef the Truth Speaker",
+            "role": "guest vocals (Mashin' on the Motorway)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      },
+      "The Private Press [Special Package] Disc 1": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "DJ Shadow",
+            "role": "producer, all instrumentation/samples, turntables",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "DJ Shadow"
+          },
+          {
+            "name": "Lateef the Truth Speaker",
+            "role": "guest vocals (Mashin' on the Motorway)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "Cut Chemist": {
+      "Live at the Variety Arts Center, 1997": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "Naked City": {
+      "Naked City Live, Vol. 1_ Knitting Factor": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "alto saxophone",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Bill Frisell",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Bill Frisell"
+          },
+          {
+            "name": "Wayne Horvitz",
+            "role": "keyboards",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Fred Frith",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Joey Baron",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Naked City Live, Vol. 1- Knitting Factory 1989": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "alto saxophone",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Bill Frisell",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Bill Frisell"
+          },
+          {
+            "name": "Wayne Horvitz",
+            "role": "keyboards",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Fred Frith",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Joey Baron",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "Bar Kokhba Sextet": {
+      "50th Birthday Celebration, Vol. 11 Disc": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "composer, conductor",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Marc Ribot",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+          },
+          {
+            "name": "Mark Feldman",
+            "role": "violin",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Erik Friedlander",
+            "role": "cello",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Greg Cohen",
+            "role": "bass",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Joey Baron",
+            "role": "drums",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Cyro Baptista",
+            "role": "percussion",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      },
+      "50th Birthday Celebration, Vol. 11 Disc 1": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "composer, conductor",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Marc Ribot",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+          },
+          {
+            "name": "Mark Feldman",
+            "role": "violin",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Erik Friedlander",
+            "role": "cello",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Greg Cohen",
+            "role": "bass",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Joey Baron",
+            "role": "drums",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Cyro Baptista",
+            "role": "percussion",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      },
+      "50th Birthday Celebration, Vol. 11 Disc 2": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "composer, conductor",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Marc Ribot",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+          },
+          {
+            "name": "Mark Feldman",
+            "role": "violin",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Erik Friedlander",
+            "role": "cello",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Greg Cohen",
+            "role": "bass",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Joey Baron",
+            "role": "drums",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Cyro Baptista",
+            "role": "percussion",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      },
+      "50th Birthday Celebration, Vol. 11 Disc 3": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Zorn",
+            "role": "composer, conductor",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "John Zorn"
+          },
+          {
+            "name": "Marc Ribot",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+          },
+          {
+            "name": "Mark Feldman",
+            "role": "violin",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Erik Friedlander",
+            "role": "cello",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Greg Cohen",
+            "role": "bass",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Joey Baron",
+            "role": "drums",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Cyro Baptista",
+            "role": "percussion",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "The Lounge Lizards": {
+      "Queen of All Ears": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Lurie",
+            "role": "alto and soprano saxophone, vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Michael Blake",
+            "role": "tenor saxophone, bass clarinet",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Steven Bernstein",
+            "role": "trumpet",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Dave Tronzo",
+            "role": "slide guitar",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Evan Lurie",
+            "role": "piano, organ",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Erik Sanko",
+            "role": "bass",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Calvin Weston",
+            "role": "drums",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Ben Perowsky",
+            "role": "percussion",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      }
+    }
+  }
+}
