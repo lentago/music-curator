@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-pop"]
-genre: "indie pop"
+category: "Indie Pop & Synth-Pop"
 era: "2000s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "indie-pop-synth-pop"]
 ---
 
 # Tegan & Sara
 
-**Scenes / genre:** [[indie-pop|Indie Pop]] · [[indie pop]]
+**Category:** [[Indie Pop & Synth-Pop]]
 
 ## Albums (2)
 - So Jealous

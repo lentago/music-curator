@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["classic-rock"]
-genre: "heartland rock"
+category: "Classic Rock"
 era: "1970s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "classic-rock"]
 ---
 
 # Bruce Springsteen
 
-**Scenes / genre:** [[classic-rock|Classic Rock]] · [[heartland rock]]
+**Category:** [[Classic Rock]]
 
 ## Albums (1)
 - We Shall Overcome The Seeger Sessions

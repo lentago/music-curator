@@ -1,13 +1,13 @@
 ---
 type: "artist"
-scenes: ["bluegrass", "newgrass"]
+category: "Newgrass"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "newgrass"]
 ---
 
 # David Grisman
 
-**Scenes / genre:** [[bluegrass|Bluegrass]] · [[newgrass|Newgrass]]
+**Category:** [[Newgrass]]
 
 ## Albums (1)
 - Tone Poems

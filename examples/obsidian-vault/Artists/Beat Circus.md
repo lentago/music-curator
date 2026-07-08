@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["gothic-americana", "dark-cabaret"]
-genre: "dark cabaret"
+category: "Gothic Americana"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "gothic-americana"]
 ---
 
 # Beat Circus
 
-**Scenes / genre:** [[gothic-americana|Gothic Americana]] · [[dark-cabaret|Dark Cabaret]] · [[dark cabaret]]
+**Category:** [[Gothic Americana]]
 
 ## Albums (1)
 - Boy from Black Mountain

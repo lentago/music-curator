@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jam", "newgrass", "jamgrass"]
-genre: "jamgrass"
+category: "Newgrass"
 era: "1990s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "newgrass"]
 ---
 
 # Leftover Salmon
 
-**Scenes / genre:** [[jam|Jam]] · [[newgrass|Newgrass]] · [[jamgrass|Jamgrass]] · [[jamgrass (2)|jamgrass]]
+**Category:** [[Newgrass]]
 
 ## Albums (3)
 - Ask the Fish

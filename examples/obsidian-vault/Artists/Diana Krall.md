@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["vocal-jazz"]
-genre: "vocal jazz / jazz piano"
+category: "Jazz"
 era: "1990s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "jazz"]
 ---
 
 # Diana Krall
 
-**Scenes / genre:** [[vocal-jazz|Vocal Jazz]] · [[vocal jazz]] · [[jazz piano]]
+**Category:** [[Jazz]]
 
 ## Albums (2)
 - All for You

@@ -15,8 +15,8 @@ speculative feature-padding.
   every change to the inventory, schema, or validator itself (`.github/workflows/validate.yml`).
 - Obsidian graph vault — `obsidian_driver.py` renders the inventory into an
   Obsidian vault (`examples/obsidian-vault/`) whose graph view clusters artists
-  around scene/genre hubs, letting the important nodes surface from the
-  connectivity rather than a prior (see below).
+  into ~30 color-coded category hubs (one category per artist), letting the
+  important nodes surface from the connectivity rather than a prior (see below).
 
 ---
 
@@ -119,22 +119,22 @@ Anticon→doseone→Backwoodz social-graph bridge).
 
 **What it adds:** Turns the inventory into a browsable, visual **artist graph**.
 `obsidian_driver.py` renders one note per active artist that wikilinks to its
-scene and genre hubs; opened in Obsidian, the graph view clusters artists by
-scene and exposes the ~84 multi-scene "bridge" artists that connect clusters —
-the cross-pollination the flat profile only describes in prose. No artist is
-pre-designated as important; node size follows degree, so the hubs emerge from
-the graph rather than from a prior imposed on it.
+single **category** hub; opened in Obsidian, the graph clusters into ~30
+color-coded categories. No artist is pre-designated as important; node size
+follows degree, so the hubs emerge from the graph rather than from a prior
+imposed on it.
 
 **Implemented as:** a stdlib-only driver (sibling to `validate.py`), a committed
 worked-example vault at `examples/obsidian-vault/`, and a pre-styled
-`.obsidian/graph.json` (color groups by note type). Deterministic and
-idempotent; the output dir is guarded by a marker file so it never clobbers a
-foreign directory. Edges are drawn from three sources, all derived from the
-existing inventory with no schema change:
+`.obsidian/graph.json` (a distinct color per category, spaced by the golden
+ratio; the meta hubs filtered out). Deterministic and idempotent; the output dir
+is guarded by a marker file so it never clobbers a foreign directory. Edges come
+from two sources:
 
-1. **Scene + genre hubs.** Each artist links to its scene(s) and genre. Compound
-   genres are split on `/` so a shared `hip-hop` or `soul` component connects
-   artists that don't share a full genre string.
+1. **Category hubs.** Each artist links to exactly one of ~30 curated categories
+   that keep the distinctive micro-scenes (`Def Jux`, `Downtown Avant-Garde`,
+   `Gothic Americana`) while folding the old sprawling scene/genre pairs up into
+   a single, legible axis.
 2. **Collaboration edges.** Combo artist keys are parsed into their members
    (`El-P & Cannibal Ox` → El-P + Cannibal Ox; `Willie Nelson-Waylon Jennings`
    → both), and a direct artist→artist edge is drawn to each member that is

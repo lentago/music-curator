@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["newgrass", "bluegrass"]
-genre: "newgrass"
+category: "Newgrass"
 era: "1990s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "newgrass"]
 ---
 
 # Sam Bush
 
-**Scenes / genre:** [[newgrass|Newgrass]] · [[bluegrass|Bluegrass]] · [[newgrass (2)|newgrass]]
+**Category:** [[Newgrass]]
 
 ## Albums (2)
 - Howlin' at the Moon

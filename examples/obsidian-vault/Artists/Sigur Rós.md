@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["post-rock", "icelandic"]
-genre: "post-rock"
+category: "Post-Rock"
 era: "1994-now"
 album_count: 10
-tags: ["artist"]
+tags: ["artist", "post-rock"]
 ---
 
 # Sigur Rós
 
-**Scenes / genre:** [[post-rock|Post Rock]] · [[icelandic|Icelandic]] · [[post-rock (2)|post-rock]]
+**Category:** [[Post-Rock]]
 
 ## Albums (10)
 - Ágætis Byrjun

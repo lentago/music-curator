@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["gothic-americana", "alt-country"]
-genre: "gothic country"
+category: "Gothic Americana"
 era: "1990s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "gothic-americana"]
 ---
 
 # The Handsome Family
 
-**Scenes / genre:** [[gothic-americana|Gothic Americana]] · [[alt-country|Alt Country]] · [[gothic country]]
+**Category:** [[Gothic Americana]]
 
 ## Albums (3)
 - Honey Moon

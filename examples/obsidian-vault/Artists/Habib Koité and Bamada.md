@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["west-african", "world"]
-genre: "Malian / world"
+category: "World"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "world"]
 ---
 
 # Habib Koité and Bamada
 
-**Scenes / genre:** [[west-african|West African]] · [[world|World]] · [[Malian]] · [[world (2)|world]]
+**Category:** [[World]]
 
 ## Albums (1)
 - Muso Ko

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["singer-songwriter", "blues-rock"]
-genre: "pop / blues"
+category: "Blues"
 era: "2000s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "blues"]
 ---
 
 # John Mayer
 
-**Scenes / genre:** [[singer-songwriter|Singer Songwriter]] · [[blues-rock|Blues Rock]] · [[pop (2)|pop]] · [[blues (2)|blues]]
+**Category:** [[Blues]]
 
 ## Albums (3)
 - Continuum

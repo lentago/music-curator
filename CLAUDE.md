@@ -31,7 +31,7 @@ the `examples/` are a worked instance.
 | `examples/chris-music-profile.md` | A worked instance — Chris's distilled taste profile (anchors, signal lanes, exploration threads). The analog of reference-checker's `reports/`. |
 | `examples/music-inventory.json` | The cleaned, tagged data source the profile is built from. Schema is documented in the methodology's "Outputs produced" section. |
 | `examples/music-tree` | The raw library tree fed in, kept as an input fixture. |
-| `obsidian_driver.py` | Stdlib-only driver that renders the inventory into an Obsidian vault (artist notes → scene/genre hub wikilinks). Sibling to `validate.py`. |
+| `obsidian_driver.py` | Stdlib-only driver that renders the inventory into an Obsidian vault (each artist note → one `category` hub wikilink, ~30 color-coded categories). Sibling to `validate.py`. |
 | `examples/obsidian-vault/` | **Generated** worked-example vault — regenerate with the driver, don't hand-edit. Ships a pre-styled `.obsidian/graph.json`. Guarded by a `.generated-by-music-curator` marker. |
 | `roadmap/roadmap.md` | Planned capabilities, grounded in threads from the original run (periodic Spotify harvest, streaming + collection merge, skill packaging). |
 
@@ -44,8 +44,10 @@ the `examples/` are a worked instance.
   correct; mistagging pollutes later analysis. Same for discard pitches —
   they're predictions, framed honestly, not pronouncements.
 - **The data source is meant to grow.** When a user confirms a new artist,
-  add it with `tagged: true` and proper scene tags. Build the inventory as
-  something a future session would want to inherit.
+  add it with `tagged: true` and a `category` from the driver's controlled
+  vocabulary (see `obsidian_driver.py`'s `CATS`-style rollup — one category per
+  artist). Build the inventory as something a future session would want to
+  inherit.
 - **The example is personal data, published deliberately.** Chris chose to
   publish his real profile/inventory/tree as a demonstration. It contains
   taste data only — no credentials or PII. Keep it that way: if a future run

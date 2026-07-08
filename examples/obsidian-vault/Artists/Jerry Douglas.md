@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["bluegrass", "newgrass"]
-genre: "bluegrass / dobro"
+category: "Newgrass"
 era: "1980s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "newgrass"]
 ---
 
 # Jerry Douglas
 
-**Scenes / genre:** [[bluegrass|Bluegrass]] · [[newgrass|Newgrass]] · [[bluegrass (2)|bluegrass]] · [[dobro]]
+**Category:** [[Newgrass]]
 
 ## Albums (3)
 - Lookout for Hope

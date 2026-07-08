@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["progressive-metal", "sludge-metal"]
-genre: "progressive metal"
+category: "Metal"
 era: "2000s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "metal"]
 ---
 
 # Mastodon
 
-**Scenes / genre:** [[progressive-metal|Progressive Metal]] · [[sludge-metal|Sludge Metal]] · [[progressive metal]]
+**Category:** [[Metal]]
 
 ## Albums (1)
 - The Hunter (Deluxe Version) [Explicit]

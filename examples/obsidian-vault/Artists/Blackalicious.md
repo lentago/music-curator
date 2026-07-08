@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["underground-hiphop", "conscious-hiphop", "quannum"]
-genre: "underground hip-hop"
+category: "Underground Hip-Hop"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # Blackalicious
 
-**Scenes / genre:** [[underground-hiphop|Underground Hiphop]] · [[conscious-hiphop|Conscious Hiphop]] · [[quannum|Quannum]] · [[underground hip-hop]]
+**Category:** [[Underground Hip-Hop]]
 
 ## Albums (1)
 - Nia

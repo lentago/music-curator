@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["electro-pop", "industrial"]
-genre: "electropunk"
+category: "Industrial & EBM"
 era: "2000s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "industrial-ebm"]
 ---
 
 # IAMX
 
-**Scenes / genre:** [[electro-pop|Electro Pop]] · [[industrial|Industrial]] · [[electropunk]]
+**Category:** [[Industrial & EBM]]
 
 ## Albums (3)
 - Kingdom Of Welcome Addiction

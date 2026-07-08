@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jazz-canon"]
-genre: "jazz"
+category: "Jazz"
 era: "1950s-1980s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "jazz"]
 ---
 
 # Miles Davis
 
-**Scenes / genre:** [[jazz-canon|Jazz Canon]] · [[jazz]]
+**Category:** [[Jazz]]
 
 ## Albums (1)
 - Kind of Blue

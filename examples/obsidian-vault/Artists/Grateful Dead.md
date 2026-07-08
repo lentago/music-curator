@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jam"]
-genre: "jam / psychedelic rock"
+category: "Jam"
 era: "1965-1995"
 album_count: 8
-tags: ["artist"]
+tags: ["artist", "jam"]
 ---
 
 # Grateful Dead
 
-**Scenes / genre:** [[jam|Jam]] · [[jam (2)|jam]] · [[psychedelic rock]]
+**Category:** [[Jam]]
 
 ## Albums (8)
 - Dick's Picks, Vol. 12 Disc 1

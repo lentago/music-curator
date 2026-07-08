@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["folk-rock-canon", "country-rock"]
-genre: "folk rock / country rock"
+category: "Country & Americana"
 era: "1960s-70s"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "country-americana"]
 ---
 
 # The Byrds
 
-**Scenes / genre:** [[folk-rock-canon|Folk Rock Canon]] · [[country-rock|Country Rock]] · [[folk rock]] · [[country rock]]
+**Category:** [[Country & Americana]]
 
 ## Albums (2)
 - Sweetheart of the Rodeo

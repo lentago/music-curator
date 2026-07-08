@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["electro-pop", "dark-pop"]
-genre: "electro-pop"
+category: "Art-Pop & New Wave"
 era: "2000-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "art-pop-new-wave"]
 ---
 
 # Goldfrapp
 
-**Scenes / genre:** [[electro-pop|Electro Pop]] · [[dark-pop|Dark Pop]] · [[electro-pop (2)|electro-pop]]
+**Category:** [[Art-Pop & New Wave]]
 
 >  (lane confirmed by Chris)
 

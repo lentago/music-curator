@@ -1,13 +1,13 @@
 ---
 type: "artist"
-scenes: ["90s-hiphop"]
+category: "Underground Hip-Hop"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # Fu-Schnickens
 
-**Scenes / genre:** [[90s-hiphop|90S Hiphop]]
+**Category:** [[Underground Hip-Hop]]
 
 ## Albums (1)
 - F.U. Don't Take It Personal

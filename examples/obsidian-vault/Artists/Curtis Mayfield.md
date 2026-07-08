@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["soul-canon"]
-genre: "soul / funk"
+category: "Soul, Funk & R&B"
 era: "1960s-70s"
 album_count: 4
-tags: ["artist"]
+tags: ["artist", "soul-funk-r-b"]
 ---
 
 # Curtis Mayfield
 
-**Scenes / genre:** [[soul-canon|Soul Canon]] · [[soul (2)|soul]] · [[funk (2)|funk]]
+**Category:** [[Soul, Funk & R&B]]
 
 ## Albums (4)
 - Curtis!

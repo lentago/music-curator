@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["anticon", "electronic"]
-genre: "glitch pop"
+category: "Anticon"
 era: "2010s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "anticon"]
 ---
 
 # Baths
 
-**Scenes / genre:** [[anticon (2)|Anticon]] · [[electronic|Electronic]] · [[glitch pop]]
+**Category:** [[Anticon (2)|Anticon]]
 
 ## Albums (1)
 - Cerulean

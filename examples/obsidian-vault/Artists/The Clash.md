@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["british-punk"]
-genre: "punk"
+category: "Punk & Hardcore"
 era: "1976-1986"
 album_count: 18
-tags: ["artist"]
+tags: ["artist", "punk-hardcore"]
 ---
 
 # The Clash
 
-**Scenes / genre:** [[british-punk|British Punk]] · [[punk]]
+**Category:** [[Punk & Hardcore]]
 
 ## Albums (18)
 - Combat Rock

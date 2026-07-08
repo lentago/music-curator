@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["vocal-jazz", "adult-alternative"]
-genre: "jazz pop"
+category: "Jazz"
 era: "2000s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "jazz"]
 ---
 
 # Norah Jones
 
-**Scenes / genre:** [[vocal-jazz|Vocal Jazz]] · [[adult-alternative|Adult Alternative]] · [[jazz pop]]
+**Category:** [[Jazz]]
 
 ## Albums (2)
 - Come Away with Me

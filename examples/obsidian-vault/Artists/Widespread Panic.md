@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jam", "southern-rock"]
-genre: "jam"
+category: "Jam"
 era: "1990s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "jam"]
 ---
 
 # Widespread Panic
 
-**Scenes / genre:** [[jam|Jam]] · [[southern-rock|Southern Rock]] · [[jam (2)|jam]]
+**Category:** [[Jam]]
 
 ## Albums (3)
 - Dirty Side Down

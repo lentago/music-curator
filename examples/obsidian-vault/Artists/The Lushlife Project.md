@@ -1,13 +1,13 @@
 ---
 type: "artist"
-scenes: ["indie-hiphop"]
+category: "Underground Hip-Hop"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # The Lushlife Project
 
-**Scenes / genre:** [[indie-hiphop|Indie Hiphop]]
+**Category:** [[Underground Hip-Hop]]
 
 ## Albums (1)
 - Budapest Eskimos

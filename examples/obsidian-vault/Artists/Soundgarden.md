@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["grunge", "alt-rock-90s"]
-genre: "grunge"
+category: "Indie Rock"
 era: "1980s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "indie-rock"]
 ---
 
 # Soundgarden
 
-**Scenes / genre:** [[grunge|Grunge]] · [[alt-rock-90s|Alt Rock 90S]] · [[grunge (2)|grunge]]
+**Category:** [[Indie Rock]]
 
 ## Albums (2)
 - Rusty Cage

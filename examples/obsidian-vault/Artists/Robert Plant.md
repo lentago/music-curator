@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["classic-rock"]
-genre: "rock"
+category: "Classic Rock"
 era: "1980s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "classic-rock"]
 ---
 
 # Robert Plant
 
-**Scenes / genre:** [[classic-rock|Classic Rock]] · [[rock]]
+**Category:** [[Classic Rock]]
 
 ## Albums (2)
 - Now & Zen

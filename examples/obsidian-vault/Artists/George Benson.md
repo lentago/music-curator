@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jazz-funk"]
-genre: "jazz guitar"
+category: "Jazz"
 era: "1970s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "jazz"]
 ---
 
 # George Benson
 
-**Scenes / genre:** [[jazz-funk|Jazz Funk]] · [[jazz guitar]]
+**Category:** [[Jazz]]
 
 ## Albums (2)
 - The Best of George Benson [Warner Brothe

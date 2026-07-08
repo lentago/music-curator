@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["roots-rock", "latin-rock"]
-genre: "roots rock / Tex-Mex"
+category: "Latin"
 era: "1980s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "latin"]
 ---
 
 # Los Lobos
 
-**Scenes / genre:** [[roots-rock|Roots Rock]] · [[latin-rock|Latin Rock]] · [[roots rock]] · [[Tex-Mex]]
+**Category:** [[Latin]]
 
 ## Albums (2)
 - Live at the Fillmore Disc 1

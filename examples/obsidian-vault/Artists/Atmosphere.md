@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["rhymesayers", "underground-hiphop"]
-genre: "underground hip-hop"
+category: "Underground Hip-Hop"
 era: "1997-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # Atmosphere
 
-**Scenes / genre:** [[rhymesayers|Rhymesayers]] · [[underground-hiphop|Underground Hiphop]] · [[underground hip-hop]]
+**Category:** [[Underground Hip-Hop]]
 
 ## Albums (3)
 - God Loves Ugly

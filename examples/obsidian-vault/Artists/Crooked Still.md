@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["newgrass", "bluegrass"]
-genre: "progressive bluegrass"
+category: "Newgrass"
 era: "2000s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "newgrass"]
 ---
 
 # Crooked Still
 
-**Scenes / genre:** [[newgrass|Newgrass]] · [[bluegrass|Bluegrass]] · [[progressive bluegrass]]
+**Category:** [[Newgrass]]
 
 ## Albums (2)
 - Hop High

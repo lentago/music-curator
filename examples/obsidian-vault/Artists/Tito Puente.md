@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["latin-jazz"]
-genre: "Latin jazz / mambo"
+category: "Latin"
 era: "1950s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "latin"]
 ---
 
 # Tito Puente
 
-**Scenes / genre:** [[latin-jazz|Latin Jazz]] · [[Latin jazz]] · [[mambo]]
+**Category:** [[Latin]]
 
 ## Albums (1)
 - King of Kings The Very Best of Tito Puente

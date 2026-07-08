@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-rock", "indie-folk"]
-genre: "indie rock"
+category: "Indie Folk & Singer-Songwriter"
 era: "1990s-now"
 album_count: 5
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # Cat Power
 
-**Scenes / genre:** [[indie-rock|Indie Rock]] · [[indie-folk|Indie Folk]] · [[indie rock]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 ## Albums (5)
 - Moon Pix

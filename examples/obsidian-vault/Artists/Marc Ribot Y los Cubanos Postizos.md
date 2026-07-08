@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["downtown-ny", "latin-american"]
-genre: "Cuban / avant-garde"
+category: "Downtown Avant-Garde"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "downtown-avant-garde"]
 ---
 
 # Marc Ribot Y los Cubanos Postizos
 
-**Scenes / genre:** [[downtown-ny|Downtown Ny]] · [[latin-american|Latin American]] · [[Cuban]] · [[avant-garde]]
+**Category:** [[Downtown Avant-Garde]]
 
 ## Albums (1)
 - Muy Divertido!

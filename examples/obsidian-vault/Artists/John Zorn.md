@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["downtown-ny", "tzadik", "radical-jewish-culture"]
-genre: "avant-garde / jazz"
+category: "Downtown Avant-Garde"
 era: "1980s-now"
 album_count: 20
-tags: ["artist"]
+tags: ["artist", "downtown-avant-garde"]
 ---
 
 # John Zorn
 
-**Scenes / genre:** [[downtown-ny|Downtown Ny]] · [[tzadik|Tzadik]] · [[radical-jewish-culture|Radical Jewish Culture]] · [[avant-garde]] · [[jazz]]
+**Category:** [[Downtown Avant-Garde]]
 
 ## Albums (20)
 - Astaroth Book Of Angels Volume One - Ja

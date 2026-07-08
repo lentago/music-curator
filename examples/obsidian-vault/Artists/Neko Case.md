@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["alt-country", "indie-rock"]
-genre: "alt-country"
+category: "Country & Americana"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "country-americana"]
 ---
 
 # Neko Case
 
-**Scenes / genre:** [[alt-country|Alt Country]] · [[indie-rock|Indie Rock]] · [[alt-country (2)|alt-country]]
+**Category:** [[Country & Americana]]
 
 ## Albums (1)
 - Middle Cyclone

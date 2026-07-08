@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["east-coast-hiphop", "hardcore-hiphop"]
-genre: "hardcore hip-hop"
+category: "Hip-Hop"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "hip-hop"]
 ---
 
 # DMX
 
-**Scenes / genre:** [[east-coast-hiphop|East Coast Hiphop]] · [[hardcore-hiphop|Hardcore Hiphop]] · [[hardcore hip-hop]]
+**Category:** [[Hip-Hop]]
 
 ## Albums (1)
 - DJ Envy - MVP (All-American)

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["turntablism", "mo-wax"]
-genre: "turntablism"
+category: "Turntablism & Beats"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "turntablism-beats"]
 ---
 
 # Cut Chemist
 
-**Scenes / genre:** [[turntablism|Turntablism]] · [[mo-wax|Mo Wax]] · [[turntablism (2)|turntablism]]
+**Category:** [[Turntablism & Beats]]
 
 ## Albums (1)
 - Live at the Variety Arts Center, 1997

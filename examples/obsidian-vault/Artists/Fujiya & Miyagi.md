@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["electronic", "krautrock"]
-genre: "electronic"
+category: "Electronic"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "electronic"]
 ---
 
 # Fujiya & Miyagi
 
-**Scenes / genre:** [[electronic|Electronic]] · [[krautrock|Krautrock]] · [[electronic (2)|electronic]]
+**Category:** [[Electronic]]
 
 ## Albums (1)
 - Lightbulbs

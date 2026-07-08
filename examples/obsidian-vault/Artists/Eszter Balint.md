@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["downtown-ny"]
-genre: "art rock"
+category: "Downtown Avant-Garde"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "downtown-avant-garde"]
 ---
 
 # Eszter Balint
 
-**Scenes / genre:** [[downtown-ny|Downtown Ny]] · [[art rock]]
+**Category:** [[Downtown Avant-Garde]]
 
 ## Albums (1)
 - Flicker

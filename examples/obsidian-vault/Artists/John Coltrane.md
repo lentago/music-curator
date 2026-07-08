@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jazz-canon"]
-genre: "jazz"
+category: "Jazz"
 era: "1955-1967"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "jazz"]
 ---
 
 # John Coltrane
 
-**Scenes / genre:** [[jazz-canon|Jazz Canon]] · [[jazz]]
+**Category:** [[Jazz]]
 
 ## Albums (1)
 - John Coltrane Plays for Lovers [2003]

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["krautrock", "art-pop"]
-genre: "avant-pop"
+category: "Art-Pop & New Wave"
 era: "1990s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "art-pop-new-wave"]
 ---
 
 # Stereolab
 
-**Scenes / genre:** [[krautrock|Krautrock]] · [[art-pop|Art Pop]] · [[avant-pop]]
+**Category:** [[Art-Pop & New Wave]]
 
 ## Albums (2)
 - Chemical Chords

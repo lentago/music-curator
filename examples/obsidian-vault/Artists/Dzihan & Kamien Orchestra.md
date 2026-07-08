@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["downtempo", "nu-jazz"]
-genre: "nu-jazz / downtempo"
+category: "Trip-Hop & Downtempo"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "trip-hop-downtempo"]
 ---
 
 # Dzihan & Kamien Orchestra
 
-**Scenes / genre:** [[downtempo|Downtempo]] · [[nu-jazz|Nu Jazz]] · [[nu-jazz (2)|nu-jazz]] · [[downtempo (2)|downtempo]]
+**Category:** [[Trip-Hop & Downtempo]]
 
 ## Albums (1)
 - Live in Vienna

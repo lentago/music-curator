@@ -94,12 +94,9 @@
         "In My Tribe"
       ],
       "album_count": 2,
-      "scenes": [
-        "college-rock"
-      ],
       "era": "1981-now",
-      "genre": "folk rock",
-      "tagged": true
+      "tagged": true,
+      "category": "Indie Rock"
     },
     "16 Horsepower": {
       "albums": [
@@ -111,12 +108,9 @@
         "secret_south"
       ],
       "album_count": 6,
-      "scenes": [
-        "gothic-americana"
-      ],
       "era": "1992-2005",
-      "genre": "gothic americana",
-      "tagged": true
+      "tagged": true,
+      "category": "Gothic Americana"
     },
     "A Perfect Circle": {
       "albums": [
@@ -126,12 +120,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "alt-metal",
-        "progressive-metal"
-      ],
-      "genre": "alternative metal",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Metal"
     },
     "A Six Degrees Collection": {
       "albums": [
@@ -145,36 +135,27 @@
         "Scenario (CD Single)"
       ],
       "album_count": 1,
-      "scenes": [
-        "native-tongues"
-      ],
       "era": "1990s",
-      "genre": "jazz rap / hip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Underground Hip-Hop"
     },
     "AC-DC": {
       "albums": [
         "The Complete Collection"
       ],
       "album_count": 1,
-      "scenes": [
-        "hard-rock"
-      ],
       "era": "1973-now",
-      "genre": "hard rock",
-      "tagged": true
+      "tagged": true,
+      "category": "Classic Rock"
     },
     "Aaron Goldberg": {
       "albums": [
         "Worlds"
       ],
       "album_count": 1,
-      "scenes": [
-        "contemporary-jazz"
-      ],
       "era": "1990s-now",
-      "genre": "jazz piano",
-      "tagged": true
+      "tagged": true,
+      "category": "Jazz"
     },
     "Aceyalone": {
       "albums": [
@@ -184,13 +165,9 @@
         "Magnificent City"
       ],
       "album_count": 4,
-      "scenes": [
-        "project-blowed",
-        "underground-hiphop"
-      ],
       "era": "1990s-now",
-      "genre": "underground hip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Underground Hip-Hop"
     },
     "Adele - [2011] 21 (Limited Edition)": {
       "albums": [
@@ -198,11 +175,7 @@
         "Torrent downloaded from Demonoid.me.txt"
       ],
       "album_count": 2,
-      "scenes": [
-        "pop"
-      ],
       "era": "2011",
-      "genre": "pop / soul",
       "tagged": true,
       "discard": true,
       "discard_reason": "confirmed by Chris (round 1)"
@@ -216,24 +189,16 @@
         "None Shall Pass"
       ],
       "album_count": 5,
-      "scenes": [
-        "defjux",
-        "underground-hiphop"
-      ],
       "era": "1999-now",
-      "genre": "underground hip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Def Jux"
     },
     "Afroman": {
       "albums": [
         "The Good Times"
       ],
       "album_count": 1,
-      "scenes": [
-        "novelty-hiphop"
-      ],
       "era": "2001",
-      "genre": "hip-hop / novelty",
       "tagged": true,
       "discard": true,
       "discard_reason": "confirmed by Chris (round 1)"
@@ -243,51 +208,36 @@
         "Love 2"
       ],
       "album_count": 1,
-      "scenes": [
-        "french-electronic",
-        "downtempo"
-      ],
       "era": "1995-now",
-      "genre": "electronic / downtempo",
-      "tagged": true
+      "tagged": true,
+      "category": "Trip-Hop & Downtempo"
     },
     "Aisha Duo": {
       "albums": [
         "Quiet Songs"
       ],
       "album_count": 1,
-      "scenes": [
-        "contemporary-jazz"
-      ],
       "era": "2000s",
-      "genre": "jazz piano duo",
-      "tagged": true
+      "tagged": true,
+      "category": "Jazz"
     },
     "Al Green": {
       "albums": [
         "Al Green's Greatest Hits"
       ],
       "album_count": 1,
-      "scenes": [
-        "soul-canon",
-        "memphis-soul"
-      ],
       "era": "1967-now",
-      "genre": "soul",
-      "tagged": true
+      "tagged": true,
+      "category": "Soul, Funk & R&B"
     },
     "Al Jarreau & Lou Rawls": {
       "albums": [
         "Soul Men"
       ],
       "album_count": 1,
-      "scenes": [
-        "vocal-jazz",
-        "soul"
-      ],
       "era": "1990s",
-      "genre": "vocal jazz / soul",
-      "tagged": true
+      "tagged": true,
+      "category": "Jazz"
     },
     "Al Martino": {
       "albums": [
@@ -295,12 +245,9 @@
         "The Very Best Of Al Martino"
       ],
       "album_count": 2,
-      "scenes": [
-        "traditional-pop"
-      ],
       "era": "1950s-1990s",
-      "genre": "traditional pop",
-      "tagged": true
+      "tagged": true,
+      "category": "Pop"
     },
     "Alabama Shakes": {
       "albums": [
@@ -308,23 +255,16 @@
         "Sound & Color"
       ],
       "album_count": 2,
-      "scenes": [
-        "retro-soul"
-      ],
       "era": "2009-now",
-      "genre": "soul / blues rock",
-      "tagged": true
+      "tagged": true,
+      "category": "Soul, Funk & R&B"
     },
     "Alejandro Fernandez": {
       "albums": [
         "Muy Dentro de Mi Corazon"
       ],
       "album_count": 1,
-      "scenes": [
-        "mexican-pop"
-      ],
       "era": "1990s-now",
-      "genre": "ranchera / latin pop",
       "tagged": true,
       "discard": true,
       "discard_reason": "confirmed by Chris (round 13 — Latin sweep)"
@@ -334,11 +274,7 @@
         "Más"
       ],
       "album_count": 1,
-      "scenes": [
-        "spanish-pop"
-      ],
       "era": "1991-now",
-      "genre": "spanish pop",
       "tagged": true,
       "discard": true,
       "discard_reason": "confirmed by Chris (round 13 — Latin sweep)"
@@ -348,25 +284,18 @@
         "Fair Weather"
       ],
       "album_count": 1,
-      "scenes": [
-        "progressive-bluegrass",
-        "bluegrass"
-      ],
       "era": "1990s-now",
-      "genre": "progressive bluegrass",
-      "tagged": true
+      "tagged": true,
+      "category": "Bluegrass"
     },
     "Alison Krauss & Union Station": {
       "albums": [
         "New Favorite"
       ],
       "album_count": 1,
-      "scenes": [
-        "bluegrass"
-      ],
       "era": "1989-now",
-      "genre": "bluegrass",
-      "tagged": true
+      "tagged": true,
+      "category": "Bluegrass"
     },
     "Amy Winehouse": {
       "albums": [
@@ -374,12 +303,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "retro-soul",
-        "british-soul"
-      ],
       "era": "2003-2011",
-      "genre": "retro soul"
+      "category": "Soul, Funk & R&B"
     },
     "Andrea Bocelli": {
       "albums": [
@@ -403,13 +328,9 @@
         "Noble Beast"
       ],
       "album_count": 9,
-      "scenes": [
-        "indie-folk",
-        "art-pop"
-      ],
       "era": "1996-now",
-      "genre": "indie folk / chamber pop",
-      "tagged": true
+      "tagged": true,
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Andrew Bird's Bowl Of Fire": {
       "albums": [
@@ -418,13 +339,9 @@
         "The Swimming Hour"
       ],
       "album_count": 3,
-      "scenes": [
-        "indie-folk",
-        "swing-revival"
-      ],
       "era": "1998-2003",
-      "genre": "swing / indie folk",
-      "tagged": true
+      "tagged": true,
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Anger_Marshall Band": {
       "albums": [
@@ -432,10 +349,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "newgrass"
-      ],
-      "note": "Darol Anger + Mike Marshall newgrass collab"
+      "note": "Darol Anger + Mike Marshall newgrass collab",
+      "category": "Newgrass"
     },
     "Animal Collective": {
       "albums": [
@@ -453,12 +368,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "art-pop",
-        "british-soul"
-      ],
-      "genre": "pop / soul",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Soul, Funk & R&B"
     },
     "Anonymous 4": {
       "albums": [
@@ -481,13 +392,9 @@
         "we_ain't_fessin'_(double_quotes)"
       ],
       "album_count": 1,
-      "scenes": [
-        "anticon",
-        "underground-hiphop"
-      ],
       "era": "1998-2010s",
-      "genre": "collective/label",
-      "tagged": true
+      "tagged": true,
+      "category": "Anticon"
     },
     "Antipop Consortium": {
       "albums": [
@@ -496,12 +403,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "underground-hiphop",
-        "experimental-hiphop"
-      ],
-      "genre": "experimental hip-hop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Underground Hip-Hop"
     },
     "Aníbal Troilo": {
       "albums": [
@@ -519,12 +422,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "indie-rock",
-        "baroque-pop"
-      ],
-      "genre": "indie rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Rock"
     },
     "Arcadi Volodos": {
       "albums": [
@@ -532,11 +431,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "classical"
-      ],
-      "genre": "classical piano",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Classical"
     },
     "Aretha Franklin": {
       "albums": [
@@ -544,12 +440,9 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "soul-canon"
-      ],
       "era": "1960s-2000s",
-      "genre": "soul",
-      "note": "sole comp acceptable for canonical soul figure"
+      "note": "sole comp acceptable for canonical soul figure",
+      "category": "Soul, Funk & R&B"
     },
     "Arkestra One": {
       "albums": [
@@ -573,12 +466,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "post-hardcore",
-        "alt-rock-90s"
-      ],
-      "genre": "post-hardcore",
-      "era": "1990s-2000s"
+      "era": "1990s-2000s",
+      "category": "Punk & Hardcore"
     },
     "Atmosphere": {
       "albums": [
@@ -587,13 +476,9 @@
         "When Life Gives You Lemons, You Paint That Shit Gold"
       ],
       "album_count": 3,
-      "scenes": [
-        "rhymesayers",
-        "underground-hiphop"
-      ],
       "era": "1997-now",
-      "genre": "underground hip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Underground Hip-Hop"
     },
     "Audioslave": {
       "albums": [
@@ -610,12 +495,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "underground-hiphop",
-        "conscious-hiphop"
-      ],
-      "genre": "underground hip-hop",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Underground Hip-Hop"
     },
     "Band of Horses": {
       "albums": [
@@ -624,11 +505,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "indie-rock"
-      ],
-      "genre": "indie rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Rock"
     },
     "Bar Kokhba Sextet": {
       "albums": [
@@ -639,14 +517,8 @@
       ],
       "album_count": 4,
       "tagged": true,
-      "scenes": [
-        "tzadik",
-        "masada",
-        "downtown-ny",
-        "radical-jewish-culture"
-      ],
-      "genre": "avant-garde / klezmer",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Downtown Avant-Garde"
     },
     "Basehead": {
       "albums": [
@@ -654,11 +526,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "alt-hiphop"
-      ],
-      "genre": "alternative hip-hop",
-      "era": "1990s"
+      "era": "1990s",
+      "category": "Underground Hip-Hop"
     },
     "Basement Jaxx": {
       "albums": [
@@ -675,12 +544,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "anticon",
-        "electronic"
-      ],
-      "genre": "glitch pop",
-      "era": "2010s"
+      "era": "2010s",
+      "category": "Anticon"
     },
     "Beat Circus": {
       "albums": [
@@ -688,12 +553,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "gothic-americana",
-        "dark-cabaret"
-      ],
-      "genre": "dark cabaret",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Gothic Americana"
     },
     "Beat Junkies": {
       "albums": [
@@ -701,11 +562,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "turntablism"
-      ],
-      "genre": "turntablism",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Turntablism & Beats"
     },
     "Beck": {
       "albums": [
@@ -722,11 +580,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "balkan-folk",
-        "indie-folk"
-      ],
-      "note": "lane confirmed by Chris (\"Balkan and klezmer\")"
+      "note": "lane confirmed by Chris (\"Balkan and klezmer\")",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Believe Sessions": {
       "albums": [
@@ -758,13 +613,9 @@
         "Trailer Park"
       ],
       "album_count": 8,
-      "scenes": [
-        "indie-folk",
-        "folktronica"
-      ],
       "era": "1996-now",
-      "genre": "folktronica",
-      "tagged": true
+      "tagged": true,
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Big Al Carson and the Blues Masters": {
       "albums": [
@@ -773,12 +624,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "nola",
-        "blues"
-      ],
-      "genre": "New Orleans blues",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "New Orleans"
     },
     "Bill Frisell": {
       "albums": [
@@ -787,11 +634,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "contemporary-jazz"
-      ],
-      "genre": "jazz guitar",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Jazz"
     },
     "Bill Hicks": {
       "albums": [
@@ -808,11 +652,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "soul-canon"
-      ],
-      "genre": "soul",
-      "era": "1970s"
+      "era": "1970s",
+      "category": "Soul, Funk & R&B"
     },
     "Billy Bragg": {
       "albums": [
@@ -826,12 +667,8 @@
       ],
       "album_count": 7,
       "tagged": true,
-      "scenes": [
-        "folk-punk",
-        "singer-songwriter"
-      ],
-      "genre": "folk / political",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Billy Bragg & Wilco - Mermaid avenue (Vol 1 & 2)": {
       "albums": [
@@ -840,12 +677,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "folk-punk",
-        "alt-country"
-      ],
-      "genre": "folk / Americana",
-      "era": "1990s-2000s"
+      "era": "1990s-2000s",
+      "category": "Country & Americana"
     },
     "Billy Preston": {
       "albums": [
@@ -853,12 +686,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "soul-canon",
-        "funk-canon"
-      ],
-      "genre": "soul / funk",
-      "era": "1970s"
+      "era": "1970s",
+      "category": "Soul, Funk & R&B"
     },
     "Binary Star": {
       "albums": [
@@ -867,11 +696,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "underground-hiphop"
-      ],
-      "genre": "underground hip-hop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Underground Hip-Hop"
     },
     "Biréli Lagrène": {
       "albums": [
@@ -879,11 +705,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "gypsy-jazz"
-      ],
-      "genre": "gypsy jazz",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Jazz"
     },
     "Blackalicious": {
       "albums": [
@@ -891,13 +714,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "underground-hiphop",
-        "conscious-hiphop",
-        "quannum"
-      ],
-      "genre": "underground hip-hop",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Underground Hip-Hop"
     },
     "Blitzen Trapper": {
       "albums": [
@@ -914,14 +732,9 @@
         "The Music Scene"
       ],
       "album_count": 2,
-      "scenes": [
-        "ninja-tune",
-        "instrumental-hiphop",
-        "aesop-orbit"
-      ],
       "era": "2004-now",
-      "genre": "instrumental hip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Turntablism & Beats"
     },
     "Blue Merle": {
       "albums": [
@@ -929,11 +742,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "indie-folk"
-      ],
-      "genre": "folk rock",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Blue Öyster Cult": {
       "albums": [
@@ -950,12 +760,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "jamgrass",
-        "jam"
-      ],
-      "genre": "jamgrass",
-      "era": "1990s-2000s"
+      "era": "1990s-2000s",
+      "category": "Bluegrass"
     },
     "Boards Of Canada": {
       "albums": [
@@ -964,12 +770,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "idm",
-        "warp"
-      ],
-      "genre": "IDM / electronic",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Electronic"
     },
     "Bob Dylan": {
       "albums": [
@@ -979,12 +781,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "folk-rock-canon",
-        "singer-songwriter-canon"
-      ],
-      "genre": "folk rock",
-      "era": "1960s-now"
+      "era": "1960s-now",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Bob Marley & the Wailers": {
       "albums": [
@@ -1002,12 +800,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "alt-rock-90s",
-        "post-hardcore"
-      ],
-      "genre": "alternative rock",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Punk & Hardcore"
     },
     "Boney James": {
       "albums": [
@@ -1033,12 +827,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "ninja-tune",
-        "downtempo"
-      ],
-      "genre": "downtempo",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Turntablism & Beats"
     },
     "Boom Bip": {
       "albums": [
@@ -1046,12 +836,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "anticon",
-        "instrumental-hiphop"
-      ],
-      "genre": "experimental hip-hop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Anticon"
     },
     "Brazilian Girls": {
       "albums": [
@@ -1059,12 +845,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "electronic",
-        "art-pop"
-      ],
-      "genre": "electronic pop",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Art-Pop & New Wave"
     },
     "Broken Bells": {
       "albums": [
@@ -1072,12 +854,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "indie-rock",
-        "indie-pop"
-      ],
-      "genre": "indie pop",
-      "era": "2010s"
+      "era": "2010s",
+      "category": "Indie Rock"
     },
     "Brooklyn Funk Essentials": {
       "albums": [
@@ -1085,12 +863,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "funk",
-        "acid-jazz"
-      ],
-      "genre": "funk",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Jazz"
     },
     "Bruce Springsteen": {
       "albums": [
@@ -1098,11 +872,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "classic-rock"
-      ],
-      "genre": "heartland rock",
-      "era": "1970s-now"
+      "era": "1970s-now",
+      "category": "Classic Rock"
     },
     "Bruce Springsteen with the Sessions Band": {
       "albums": [
@@ -1110,12 +881,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "americana",
-        "folk"
-      ],
-      "genre": "folk / Americana",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Country & Americana"
     },
     "Bryan Ferry": {
       "albums": [
@@ -1132,11 +899,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "country"
-      ],
-      "genre": "country",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Country & Americana"
     },
     "Built to Spill": {
       "albums": [
@@ -1148,11 +912,8 @@
       ],
       "album_count": 5,
       "tagged": true,
-      "scenes": [
-        "indie-rock"
-      ],
-      "genre": "indie rock",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Indie Rock"
     },
     "Béla Fleck": {
       "albums": [
@@ -1166,12 +927,8 @@
       ],
       "album_count": 7,
       "tagged": true,
-      "scenes": [
-        "newgrass",
-        "bluegrass"
-      ],
-      "genre": "newgrass / banjo",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Newgrass"
     },
     "Béla Fleck & the Flecktones": {
       "albums": [
@@ -1183,12 +940,8 @@
       ],
       "album_count": 5,
       "tagged": true,
-      "scenes": [
-        "newgrass",
-        "jazz-fusion"
-      ],
-      "genre": "newgrass / fusion",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Newgrass"
     },
     "Cake": {
       "albums": [
@@ -1198,11 +951,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "alt-rock-90s"
-      ],
-      "genre": "alternative rock",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Indie Rock"
     },
     "Canibus": {
       "albums": [
@@ -1210,24 +960,17 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "underground-hiphop"
-      ],
-      "genre": "underground hip-hop",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Underground Hip-Hop"
     },
     "Cannibal Ox": {
       "albums": [
         "The Cold Vein"
       ],
       "album_count": 1,
-      "scenes": [
-        "defjux",
-        "underground-hiphop"
-      ],
       "era": "2001",
-      "genre": "underground hip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Def Jux"
     },
     "Carlos Vives": {
       "albums": [
@@ -1235,12 +978,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "vallenato",
-        "latin-american"
-      ],
-      "genre": "vallenato",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Latin"
     },
     "Carly Simon": {
       "albums": [
@@ -1261,12 +1000,8 @@
       ],
       "album_count": 5,
       "tagged": true,
-      "scenes": [
-        "indie-rock",
-        "indie-folk"
-      ],
-      "genre": "indie rock",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Cerioti": {
       "albums": [
@@ -1283,12 +1018,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "contemporary-jazz",
-        "jazz-funk"
-      ],
-      "genre": "jazz guitar",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Jazz"
     },
     "Charlie Hunter Quintet": {
       "albums": [
@@ -1296,12 +1027,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "contemporary-jazz",
-        "jazz-funk"
-      ],
-      "genre": "jazz guitar",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Jazz"
     },
     "Chet Baker_Gotan Project": {
       "albums": [
@@ -1336,12 +1063,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "country",
-        "americana"
-      ],
-      "genre": "country",
-      "era": "2010s-now"
+      "era": "2010s-now",
+      "category": "Country & Americana"
     },
     "Chucklehead": {
       "albums": [
@@ -1365,11 +1088,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "classical-crossover"
-      ],
-      "genre": "jazz-classical crossover",
-      "era": "1970s-80s"
+      "era": "1970s-80s",
+      "category": "Classical"
     },
     "Clutch": {
       "albums": [
@@ -1389,12 +1109,9 @@
         "The Elephant Riders"
       ],
       "album_count": 14,
-      "scenes": [
-        "stoner-rock"
-      ],
       "era": "1991-now",
-      "genre": "stoner rock",
-      "tagged": true
+      "tagged": true,
+      "category": "Metal"
     },
     "Coldcut": {
       "albums": [
@@ -1411,13 +1128,9 @@
         "Cold Krush Cuts_Back in the Base Disc 2"
       ],
       "album_count": 2,
-      "scenes": [
-        "ninja-tune",
-        "instrumental-hiphop"
-      ],
       "era": "1990s",
-      "genre": "instrumental hip-hop / electronic",
-      "tagged": true
+      "tagged": true,
+      "category": "Turntablism & Beats"
     },
     "Coldplay": {
       "albums": [
@@ -1430,12 +1143,8 @@
       ],
       "album_count": 6,
       "tagged": true,
-      "scenes": [
-        "alt-rock-2000s",
-        "pop-rock"
-      ],
-      "genre": "alternative rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Rock"
     },
     "Common": {
       "albums": [
@@ -1443,11 +1152,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "conscious-hiphop"
-      ],
-      "genre": "conscious hip-hop",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Underground Hip-Hop"
     },
     "Company Flow": {
       "albums": [
@@ -1455,13 +1161,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "underground-hiphop",
-        "defjux",
-        "rawkus"
-      ],
-      "genre": "underground hip-hop",
-      "era": "1990s"
+      "era": "1990s",
+      "category": "Def Jux"
     },
     "Compilations": {
       "albums": [
@@ -1480,11 +1181,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "neo-soul"
-      ],
-      "genre": "neo-soul",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Soul, Funk & R&B"
     },
     "Cracow Klezmer Band": {
       "albums": [
@@ -1492,13 +1190,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "tzadik",
-        "radical-jewish-culture",
-        "klezmer"
-      ],
-      "genre": "klezmer / avant-garde",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Downtown Avant-Garde"
     },
     "Creedence Clearwater Revival": {
       "albums": [
@@ -1506,12 +1199,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "classic-rock",
-        "roots-rock"
-      ],
-      "genre": "roots rock",
-      "era": "1960s-70s"
+      "era": "1960s-70s",
+      "category": "Country & Americana"
     },
     "Crooked Still": {
       "albums": [
@@ -1520,12 +1209,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "newgrass",
-        "bluegrass"
-      ],
-      "genre": "progressive bluegrass",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Newgrass"
     },
     "Curtis Mayfield": {
       "albums": [
@@ -1536,11 +1221,8 @@
       ],
       "album_count": 4,
       "tagged": true,
-      "scenes": [
-        "soul-canon"
-      ],
-      "genre": "soul / funk",
-      "era": "1960s-70s"
+      "era": "1960s-70s",
+      "category": "Soul, Funk & R&B"
     },
     "Curtis Mayfield & The Impressions": {
       "albums": [
@@ -1548,11 +1230,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "soul-canon"
-      ],
-      "genre": "soul",
-      "era": "1960s-70s"
+      "era": "1960s-70s",
+      "category": "Soul, Funk & R&B"
     },
     "Curtis Stigers": {
       "albums": [
@@ -1560,11 +1239,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "vocal-jazz"
-      ],
-      "genre": "vocal jazz",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Jazz"
     },
     "Cut Chemist": {
       "albums": [
@@ -1572,12 +1248,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "turntablism",
-        "mo-wax"
-      ],
-      "genre": "turntablism",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Turntablism & Beats"
     },
     "Cut Chemist & DJ Shadow": {
       "albums": [
@@ -1585,12 +1257,9 @@
         "Product Placement"
       ],
       "album_count": 2,
-      "scenes": [
-        "turntablism"
-      ],
       "era": "2000s",
-      "genre": "turntablism",
-      "tagged": true
+      "tagged": true,
+      "category": "Turntablism & Beats"
     },
     "Cut Chemist & Nu-Mark": {
       "albums": [
@@ -1598,11 +1267,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "turntablism"
-      ],
-      "genre": "turntablism",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Turntablism & Beats"
     },
     "Cut Chemist_Shortkut": {
       "albums": [
@@ -1610,11 +1276,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "turntablism"
-      ],
-      "genre": "turntablism",
-      "era": "1990s"
+      "era": "1990s",
+      "category": "Turntablism & Beats"
     },
     "Cygorhex": {
       "albums": [
@@ -1629,12 +1292,9 @@
         "Collision"
       ],
       "album_count": 2,
-      "scenes": [
-        "jam-electronic"
-      ],
       "era": "2000s",
-      "genre": "jam electronic",
-      "tagged": true
+      "tagged": true,
+      "category": "Jam"
     },
     "DJ Krush": {
       "albums": [
@@ -1648,26 +1308,18 @@
         "Zen"
       ],
       "album_count": 8,
-      "scenes": [
-        "mo-wax",
-        "instrumental-hiphop"
-      ],
       "era": "1990s-now",
-      "genre": "instrumental hip-hop / turntablism",
-      "tagged": true
+      "tagged": true,
+      "category": "Turntablism & Beats"
     },
     "DJ Logic": {
       "albums": [
         "The Anomaly"
       ],
       "album_count": 1,
-      "scenes": [
-        "turntablism",
-        "jazz-electronic"
-      ],
       "era": "1990s-now",
-      "genre": "turntablism / jazz",
-      "tagged": true
+      "tagged": true,
+      "category": "Turntablism & Beats"
     },
     "DJ Ravin": {
       "albums": [
@@ -1675,13 +1327,9 @@
         "Huvafen Fushi Maldives- Mixed by Ravin [Bonus DVD] Disc 1"
       ],
       "album_count": 2,
-      "scenes": [
-        "buddha-bar",
-        "world-electronic"
-      ],
       "era": "2000s",
-      "genre": "world electronic",
-      "tagged": true
+      "tagged": true,
+      "category": "Trip-Hop & Downtempo"
     },
     "DJ Shadow": {
       "albums": [
@@ -1691,13 +1339,9 @@
         "The Private Press [Special Package] Disc 1"
       ],
       "album_count": 4,
-      "scenes": [
-        "mo-wax",
-        "instrumental-hiphop"
-      ],
       "era": "1996-now",
-      "genre": "instrumental hip-hop / turntablism",
-      "tagged": true
+      "tagged": true,
+      "category": "Turntablism & Beats"
     },
     "DJ Spooky": {
       "albums": [
@@ -1705,13 +1349,9 @@
         "Optometry"
       ],
       "album_count": 2,
-      "scenes": [
-        "illbient",
-        "experimental-electronic"
-      ],
       "era": "1996-now",
-      "genre": "illbient / turntablism",
-      "tagged": true
+      "tagged": true,
+      "category": "Underground Hip-Hop"
     },
     "DJ Z-Trip & Radar": {
       "albums": [
@@ -1719,12 +1359,9 @@
         "Live at the Future Primitive Soundsession, Vol. 2"
       ],
       "album_count": 2,
-      "scenes": [
-        "turntablism"
-      ],
       "era": "2000s",
-      "genre": "turntablism",
-      "tagged": true
+      "tagged": true,
+      "category": "Turntablism & Beats"
     },
     "DMX": {
       "albums": [
@@ -1732,12 +1369,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "east-coast-hiphop",
-        "hardcore-hiphop"
-      ],
-      "genre": "hardcore hip-hop",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Hip-Hop"
     },
     "Daft Punk": {
       "albums": [
@@ -1747,12 +1380,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "french-electronic",
-        "french-house"
-      ],
-      "genre": "electronic / house",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Electronic"
     },
     "Damien Rice": {
       "albums": [
@@ -1760,11 +1389,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "indie-folk"
-      ],
       "era": "2002-now",
-      "genre": "indie folk"
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Dan the Automator": {
       "albums": [
@@ -1772,12 +1398,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "instrumental-hiphop",
-        "trip-hop"
-      ],
-      "genre": "hip-hop production",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Turntablism & Beats"
     },
     "Dane Cook": {
       "albums": [
@@ -1793,11 +1415,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "neo-soul"
-      ],
-      "genre": "neo-soul",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Soul, Funk & R&B"
     },
     "Danger Mouse & Daniele Luppi": {
       "albums": [
@@ -1805,11 +1424,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "cinematic-pop"
-      ],
-      "genre": "cinematic pop",
-      "era": "2010s"
+      "era": "2010s",
+      "category": "Indie Pop & Synth-Pop"
     },
     "Daniel Kahn & the Painted Bird": {
       "albums": [
@@ -1818,12 +1434,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "klezmer",
-        "radical-jewish-culture"
-      ],
-      "genre": "klezmer / Yiddish",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Downtown Avant-Garde"
     },
     "Dark Was The Night - Various": {
       "albums": [
@@ -1840,11 +1452,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "east-coast-hiphop"
-      ],
-      "genre": "hip-hop",
-      "era": "1990s"
+      "era": "1990s",
+      "category": "Hip-Hop"
     },
     "Dave Matthews Band": {
       "albums": [
@@ -1852,11 +1461,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "jam"
-      ],
-      "genre": "jam",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Jam"
     },
     "David Byrne": {
       "albums": [
@@ -1865,12 +1471,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "art-pop",
-        "new-wave"
-      ],
-      "genre": "art pop",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Art-Pop & New Wave"
     },
     "David Byrne & Brian Eno": {
       "albums": [
@@ -1881,12 +1483,8 @@
       "tagged": true,
       "anchor": true,
       "anchor_note": "Foundational anchor — David Byrne / Talking Heads / Eno collaborations",
-      "scenes": [
-        "art-pop",
-        "ambient"
-      ],
-      "genre": "art pop / electronic",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Art-Pop & New Wave"
     },
     "David Cross": {
       "albums": [
@@ -1906,11 +1504,8 @@
       ],
       "album_count": 4,
       "tagged": true,
-      "scenes": [
-        "singer-songwriter"
-      ],
-      "genre": "singer-songwriter",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "David Grisman": {
       "albums": [
@@ -1918,10 +1513,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "bluegrass",
-        "newgrass"
-      ]
+      "category": "Newgrass"
     },
     "David Grisman Quintet": {
       "albums": [
@@ -1929,10 +1521,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "bluegrass",
-        "newgrass"
-      ]
+      "category": "Newgrass"
     },
     "David Sedaris - Squirrel Seeks Chipmunk": {
       "albums": [
@@ -1948,12 +1537,9 @@
         "De La Soul Is Dead"
       ],
       "album_count": 2,
-      "scenes": [
-        "native-tongues"
-      ],
       "era": "1989-now",
-      "genre": "hip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Underground Hip-Hop"
     },
     "DeVotchKa": {
       "albums": [
@@ -1964,12 +1550,8 @@
       ],
       "album_count": 4,
       "tagged": true,
-      "scenes": [
-        "indie-folk",
-        "gypsy-punk"
-      ],
-      "genre": "indie / gypsy",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Death Cab for Cutie": {
       "albums": [
@@ -1980,11 +1562,8 @@
       ],
       "album_count": 4,
       "tagged": true,
-      "scenes": [
-        "indie-rock"
-      ],
-      "genre": "indie rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Rock"
     },
     "Death From Above 1979": {
       "albums": [
@@ -1997,24 +1576,17 @@
       ],
       "album_count": 6,
       "tagged": true,
-      "scenes": [
-        "dance-punk"
-      ],
-      "genre": "dance punk",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Punk & Hardcore"
     },
     "Deep Puddle Dynamics_Anticon": {
       "albums": [
         "We Ain't Fessin'"
       ],
       "album_count": 1,
-      "scenes": [
-        "anticon",
-        "underground-hiphop"
-      ],
       "era": "1999",
-      "genre": "experimental hip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Anticon"
     },
     "Deftones": {
       "albums": [
@@ -2027,11 +1599,8 @@
       ],
       "album_count": 6,
       "tagged": true,
-      "scenes": [
-        "alt-metal"
-      ],
-      "genre": "alternative metal",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Metal"
     },
     "Del McCoury": {
       "albums": [
@@ -2039,9 +1608,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "bluegrass"
-      ]
+      "category": "Bluegrass"
     },
     "Deltron 3030": {
       "albums": [
@@ -2049,11 +1616,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "underground-hiphop"
-      ],
-      "genre": "underground hip-hop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Underground Hip-Hop"
     },
     "Deuter": {
       "albums": [
@@ -2061,11 +1625,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "new-age"
-      ],
-      "genre": "new age",
-      "era": "1970s-now"
+      "era": "1970s-now",
+      "category": "Electronic"
     },
     "Diana Krall": {
       "albums": [
@@ -2074,11 +1635,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "vocal-jazz"
-      ],
-      "genre": "vocal jazz / jazz piano",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Jazz"
     },
     "Dido": {
       "albums": [
@@ -2096,12 +1654,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "underground-hiphop",
-        "west-coast-hiphop"
-      ],
-      "genre": "underground hip-hop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Underground Hip-Hop"
     },
     "Dire Straits & Mark Knopfler": {
       "albums": [
@@ -2109,12 +1663,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "classic-rock",
-        "roots-rock"
-      ],
-      "genre": "roots rock",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Country & Americana"
     },
     "Diverse": {
       "albums": [
@@ -2122,11 +1672,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "underground-hiphop"
-      ],
-      "genre": "underground hip-hop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Underground Hip-Hop"
     },
     "Divine Fits": {
       "albums": [
@@ -2152,12 +1699,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "gypsy-jazz",
-        "jazz-canon"
-      ],
-      "genre": "gypsy jazz",
-      "era": "1930s-50s"
+      "era": "1930s-50s",
+      "category": "Jazz"
     },
     "Domingo Cura": {
       "albums": [
@@ -2175,12 +1718,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "britpop",
-        "indie-rock"
-      ],
-      "genre": "indie rock",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Indie Rock"
     },
     "Dr. Octagon": {
       "albums": [
@@ -2188,11 +1727,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "underground-hiphop"
-      ],
-      "genre": "experimental hip-hop",
-      "era": "1990s"
+      "era": "1990s",
+      "category": "Underground Hip-Hop"
     },
     "Dresden Dolls": {
       "albums": [
@@ -2200,11 +1736,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "dark-cabaret"
-      ],
-      "genre": "dark cabaret",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Art-Pop & New Wave"
     },
     "Dropkick Murphys": {
       "albums": [
@@ -2213,23 +1746,17 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "celtic-punk"
-      ],
-      "genre": "celtic punk",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Punk & Hardcore"
     },
     "Dub Kweli - produced by Max Tannone": {
       "albums": [
         "Dub Kweli - tracklist and information.txt"
       ],
       "album_count": 1,
-      "scenes": [
-        "mashup"
-      ],
       "era": "2010s",
-      "genre": "mashup",
-      "tagged": true
+      "tagged": true,
+      "category": "Electronic"
     },
     "Dzihan & Kamien Orchestra": {
       "albums": [
@@ -2237,12 +1764,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "downtempo",
-        "nu-jazz"
-      ],
-      "genre": "nu-jazz / downtempo",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Trip-Hop & Downtempo"
     },
     "Dälek": {
       "albums": [
@@ -2250,12 +1773,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "experimental-hiphop",
-        "industrial-hiphop"
-      ],
-      "genre": "industrial hip-hop",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Underground Hip-Hop"
     },
     "EPMD": {
       "albums": [
@@ -2263,11 +1782,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "east-coast-hiphop"
-      ],
-      "genre": "hip-hop",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Hip-Hop"
     },
     "Eagles": {
       "albums": [
@@ -2284,12 +1800,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "newgrass",
-        "classical-crossover"
-      ],
-      "genre": "newgrass / chamber",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Newgrass"
     },
     "Edie Brickell & New Bohemians": {
       "albums": [
@@ -2297,11 +1809,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "folk-pop"
-      ],
-      "genre": "folk pop",
-      "era": "1980s-90s"
+      "era": "1980s-90s",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Edith Piaf": {
       "albums": [
@@ -2309,11 +1818,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "chanson"
-      ],
-      "genre": "French chanson",
-      "era": "1940s-50s"
+      "era": "1940s-50s",
+      "category": "Pop"
     },
     "Eisley": {
       "albums": [
@@ -2330,26 +1836,18 @@
         "I'll Sleep When You're Dead"
       ],
       "album_count": 2,
-      "scenes": [
-        "defjux",
-        "underground-hiphop"
-      ],
       "era": "1995-now",
-      "genre": "underground hip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Def Jux"
     },
     "El-P & Cannibal Ox": {
       "albums": [
         "El-P Presents Cannibal Oxtrumentals"
       ],
       "album_count": 1,
-      "scenes": [
-        "defjux",
-        "underground-hiphop"
-      ],
       "era": "2001",
-      "genre": "underground hip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Def Jux"
     },
     "Electric Masada": {
       "albums": [
@@ -2357,14 +1855,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "tzadik",
-        "masada",
-        "downtown-ny",
-        "radical-jewish-culture"
-      ],
-      "genre": "avant-garde jazz",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Downtown Avant-Garde"
     },
     "Ella Fitzgerald": {
       "albums": [
@@ -2379,13 +1871,9 @@
         "The Best of the Songbooks- The Ballads"
       ],
       "album_count": 9,
-      "scenes": [
-        "jazz-canon",
-        "vocal-jazz"
-      ],
       "era": "1934-1996",
-      "genre": "vocal jazz",
-      "tagged": true
+      "tagged": true,
+      "category": "Jazz"
     },
     "Ella Fitzgerald_Louis Armstrong": {
       "albums": [
@@ -2393,12 +1881,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "vocal-jazz",
-        "jazz-canon"
-      ],
-      "genre": "vocal jazz",
-      "era": "1950s"
+      "era": "1950s",
+      "category": "Jazz"
     },
     "Emancipator": {
       "albums": [
@@ -2407,12 +1891,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "downtempo",
-        "instrumental-hiphop"
-      ],
-      "genre": "downtempo",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Turntablism & Beats"
     },
     "Emile Pandolfi": {
       "albums": [
@@ -2429,11 +1909,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "indie-rock"
-      ],
-      "genre": "indie / chamber pop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Indie Rock"
     },
     "Emily Haines & The Soft Skeleton": {
       "albums": [
@@ -2441,11 +1918,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "indie-rock"
-      ],
-      "genre": "indie / chamber pop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Indie Rock"
     },
     "Eminem": {
       "albums": [
@@ -2454,11 +1928,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "detroit-hiphop"
-      ],
-      "genre": "hip-hop",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Hip-Hop"
     },
     "Emmylou Harris": {
       "albums": [
@@ -2468,12 +1939,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "country",
-        "americana"
-      ],
-      "genre": "country / Americana",
-      "era": "1970s-now"
+      "era": "1970s-now",
+      "category": "Country & Americana"
     },
     "Enigma": {
       "albums": [
@@ -2481,12 +1948,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "downtempo",
-        "new-age"
-      ],
-      "genre": "new age / downtempo",
-      "era": "1990s"
+      "era": "1990s",
+      "category": "Trip-Hop & Downtempo"
     },
     "Erasure": {
       "albums": [
@@ -2503,12 +1966,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "east-coast-hiphop",
-        "golden-age-hiphop"
-      ],
-      "genre": "hip-hop",
-      "era": "1980s"
+      "era": "1980s",
+      "category": "Underground Hip-Hop"
     },
     "Eric Clapton And Steve Winwood": {
       "albums": [
@@ -2516,13 +1975,9 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "blues-rock",
-        "guitar-god"
-      ],
       "era": "2008",
-      "genre": "blues rock",
-      "note": "confirmed authentic by Chris — blues-rock guitar appreciation"
+      "note": "confirmed authentic by Chris — blues-rock guitar appreciation",
+      "category": "Blues"
     },
     "Eric Daub": {
       "albums": [
@@ -2539,12 +1994,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "contemporary-jazz",
-        "jazz-piano-canon"
-      ],
-      "genre": "jazz piano trio",
-      "era": "1990s-2000s"
+      "era": "1990s-2000s",
+      "category": "Jazz"
     },
     "Eskmo": {
       "albums": [
@@ -2552,12 +2003,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "ninja-tune",
-        "electronic"
-      ],
-      "genre": "electronic",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Turntablism & Beats"
     },
     "Eszter Balint": {
       "albums": [
@@ -2565,11 +2012,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "downtown-ny"
-      ],
-      "genre": "art rock",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Downtown Avant-Garde"
     },
     "Etta James": {
       "albums": [
@@ -2578,12 +2022,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "soul-canon",
-        "blues"
-      ],
-      "genre": "soul / R&B",
-      "era": "1960s"
+      "era": "1960s",
+      "category": "Soul, Funk & R&B"
     },
     "Explosions In The Sky": {
       "albums": [
@@ -2591,11 +2031,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "post-rock"
-      ],
-      "genre": "post-rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Post-Rock"
     },
     "FOUR PLAY": {
       "albums": [
@@ -2619,12 +2056,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "alt-metal",
-        "funk-metal"
-      ],
-      "genre": "alternative metal",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Metal"
     },
     "Fantômas": {
       "albums": [
@@ -2632,12 +2065,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "avant-metal",
-        "patton-orbit"
-      ],
-      "genre": "experimental metal",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Patton Orbit"
     },
     "Faust vs. Dälek": {
       "albums": [
@@ -2645,12 +2074,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "experimental-hiphop",
-        "krautrock"
-      ],
-      "genre": "experimental hip-hop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Underground Hip-Hop"
     },
     "Feist": {
       "albums": [
@@ -2661,12 +2086,8 @@
       ],
       "album_count": 4,
       "tagged": true,
-      "scenes": [
-        "indie-pop",
-        "singer-songwriter"
-      ],
-      "genre": "indie pop",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Fischerspooner": {
       "albums": [
@@ -2675,11 +2096,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "electroclash"
-      ],
-      "genre": "electroclash",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Electronic"
     },
     "Fishbone": {
       "albums": [
@@ -2689,12 +2107,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "funk-punk",
-        "ska-punk"
-      ],
-      "genre": "funk punk",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Punk & Hardcore"
     },
     "Flobots": {
       "albums": [
@@ -2729,12 +2143,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "funk-electronic",
-        "breakbeat"
-      ],
-      "genre": "funk breaks",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Electronic"
     },
     "Foster The People": {
       "albums": [
@@ -2752,11 +2162,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "latin-american"
-      ],
-      "genre": "bolero / latin",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Latin"
     },
     "Frank Black-Black Francis": {
       "albums": [
@@ -2764,13 +2171,9 @@
         "Frank Black Francis Disc 2"
       ],
       "album_count": 2,
-      "scenes": [
-        "alt-rock-90s",
-        "pixies-orbit"
-      ],
       "era": "1986-now",
-      "genre": "alt rock",
-      "tagged": true
+      "tagged": true,
+      "category": "Indie Rock"
     },
     "Frank Sinatra": {
       "albums": [
@@ -2786,12 +2189,9 @@
         "franz_ferdinand"
       ],
       "album_count": 1,
-      "scenes": [
-        "post-punk-revival"
-      ],
       "era": "2002-now",
-      "genre": "post-punk revival",
-      "tagged": true
+      "tagged": true,
+      "category": "Indie Rock"
     },
     "Frogwings": {
       "albums": [
@@ -2799,11 +2199,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "jam"
-      ],
-      "genre": "jam / improv",
-      "era": "1990s"
+      "era": "1990s",
+      "category": "Jam"
     },
     "Fu-Schnickens": {
       "albums": [
@@ -2811,9 +2208,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "90s-hiphop"
-      ]
+      "category": "Underground Hip-Hop"
     },
     "Fugazi": {
       "albums": [
@@ -2821,12 +2216,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "post-hardcore",
-        "dc-hardcore"
-      ],
-      "genre": "post-hardcore",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Punk & Hardcore"
     },
     "Fujiya & Miyagi": {
       "albums": [
@@ -2834,12 +2225,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "electronic",
-        "krautrock"
-      ],
-      "genre": "electronic",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Electronic"
     },
     "Fungo Mungo": {
       "albums": [
@@ -2847,12 +2234,9 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "alt-funk-rock-90s"
-      ],
       "era": "1990s",
-      "genre": "alt funk-rock",
-      "note": " (lane confirmed by Chris)"
+      "note": " (lane confirmed by Chris)",
+      "category": "Indie Rock"
     },
     "G-Spliff": {
       "albums": [
@@ -2869,12 +2253,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "downtempo",
-        "lounge"
-      ],
-      "genre": "downtempo / lounge",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Trip-Hop & Downtempo"
     },
     "Gaudi + Nusrat Fateh Ali Khan": {
       "albums": [
@@ -2882,12 +2262,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "world-electronic",
-        "dub"
-      ],
-      "genre": "dub / qawwali",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Trip-Hop & Downtempo"
     },
     "Genesis": {
       "albums": [
@@ -2896,11 +2272,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "progressive-rock"
-      ],
-      "genre": "progressive rock",
-      "era": "1970s-80s"
+      "era": "1970s-80s",
+      "category": "Classic Rock"
     },
     "George Benson": {
       "albums": [
@@ -2909,11 +2282,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "jazz-funk"
-      ],
-      "genre": "jazz guitar",
-      "era": "1970s-now"
+      "era": "1970s-now",
+      "category": "Jazz"
     },
     "George Carlin": {
       "albums": [
@@ -2943,12 +2313,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "americana",
-        "appalachian"
-      ],
-      "genre": "Americana / old-time",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Bluegrass"
     },
     "Gipsy Kings": {
       "albums": [
@@ -2957,12 +2323,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "flamenco",
-        "world"
-      ],
-      "genre": "flamenco / rumba",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "World"
     },
     "Gloria Estefan": {
       "albums": [
@@ -2980,12 +2342,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "neo-soul",
-        "electronic"
-      ],
-      "genre": "soul / pop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Soul, Funk & R&B"
     },
     "Goats": {
       "albums": [
@@ -2993,10 +2351,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "underground-hiphop",
-        "political-hiphop"
-      ]
+      "category": "Underground Hip-Hop"
     },
     "Godspeed You! Black Emperor": {
       "albums": [
@@ -3004,11 +2359,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "post-rock"
-      ],
-      "genre": "post-rock / drone",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Post-Rock"
     },
     "Goldfrapp": {
       "albums": [
@@ -3016,13 +2368,9 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "electro-pop",
-        "dark-pop"
-      ],
       "era": "2000-now",
-      "genre": "electro-pop",
-      "note": " (lane confirmed by Chris)"
+      "note": " (lane confirmed by Chris)",
+      "category": "Art-Pop & New Wave"
     },
     "Gotan Project": {
       "albums": [
@@ -3031,13 +2379,9 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "electronic-tango",
-        "remix-project"
-      ],
       "era": "1999-now",
-      "genre": "electronic tango",
-      "note": "canonical owner of Inspiración-Espiración comp; the 7 fragment artists are guest tracks"
+      "note": "canonical owner of Inspiración-Espiración comp; the 7 fragment artists are guest tracks",
+      "category": "Latin"
     },
     "Gram Parsons": {
       "albums": [
@@ -3045,12 +2389,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "alt-country",
-        "country"
-      ],
-      "genre": "cosmic country",
-      "era": "1970s"
+      "era": "1970s",
+      "category": "Country & Americana"
     },
     "Grateful Dead": {
       "albums": [
@@ -3064,12 +2404,9 @@
         "Without a Net Disc 2"
       ],
       "album_count": 8,
-      "scenes": [
-        "jam"
-      ],
       "era": "1965-1995",
-      "genre": "jam / psychedelic rock",
-      "tagged": true
+      "tagged": true,
+      "category": "Jam"
     },
     "Grizzly Bear": {
       "albums": [
@@ -3077,12 +2414,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "indie-rock",
-        "baroque-pop"
-      ],
-      "genre": "indie rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Rock"
     },
     "Groove Armada": {
       "albums": [
@@ -3090,12 +2423,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "downtempo",
-        "big-beat"
-      ],
-      "genre": "electronic",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Trip-Hop & Downtempo"
     },
     "Groovegrass": {
       "albums": [
@@ -3104,11 +2433,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "newgrass"
-      ],
-      "genre": "newgrass",
-      "era": "1990s"
+      "era": "1990s",
+      "category": "Newgrass"
     },
     "Guns N' Roses": {
       "albums": [
@@ -3116,12 +2442,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "hard-rock",
-        "classic-rock"
-      ],
       "era": "1985-now",
-      "genre": "hard rock"
+      "category": "Classic Rock"
     },
     "Habib Koité and Bamada": {
       "albums": [
@@ -3129,12 +2451,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "west-african",
-        "world"
-      ],
-      "genre": "Malian / world",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "World"
     },
     "Handsome Boy Modeling School": {
       "albums": [
@@ -3142,11 +2460,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "underground-hiphop"
-      ],
-      "genre": "hip-hop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Underground Hip-Hop"
     },
     "Hanne Hukkelberg": {
       "albums": [
@@ -3156,11 +2471,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "art-pop"
-      ],
-      "genre": "art pop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Art-Pop & New Wave"
     },
     "Heartless Bastards": {
       "albums": [
@@ -3178,12 +2490,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "jazz-canon",
-        "jazz-fusion"
-      ],
-      "genre": "jazz / funk",
-      "era": "1960s-now"
+      "era": "1960s-now",
+      "category": "Jazz"
     },
     "Hieroglyphics": {
       "albums": [
@@ -3191,12 +2499,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "underground-hiphop",
-        "west-coast-hiphop"
-      ],
-      "genre": "underground hip-hop",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Underground Hip-Hop"
     },
     "Hot Club of San Francisco": {
       "albums": [
@@ -3204,11 +2508,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "gypsy-jazz"
-      ],
-      "genre": "gypsy jazz",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Jazz"
     },
     "IAMX": {
       "albums": [
@@ -3218,12 +2519,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "electro-pop",
-        "industrial"
-      ],
-      "genre": "electropunk",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Industrial & EBM"
     },
     "INXS": {
       "albums": [
@@ -3250,11 +2547,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "latin-american"
-      ],
-      "genre": "Venezuelan",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Latin"
     },
     "Illogic": {
       "albums": [
@@ -3269,13 +2563,9 @@
         "Illogic - Write To Death Vol 1 - My Hand Hurts EP (2003)"
       ],
       "album_count": 9,
-      "scenes": [
-        "underground-hiphop",
-        "weightless-recordings"
-      ],
       "era": "2000s",
-      "genre": "underground hip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Underground Hip-Hop"
     },
     "Imogen Heap": {
       "albums": [
@@ -3292,13 +2582,9 @@
         "Various Artists - New Dawn (Class of 94}"
       ],
       "album_count": 11,
-      "scenes": [
-        "art-pop",
-        "electronic"
-      ],
       "era": "1998-now",
-      "genre": "art pop / electronic",
-      "tagged": true
+      "tagged": true,
+      "category": "Art-Pop & New Wave"
     },
     "Incomplete": {
       "albums": [
@@ -3316,12 +2602,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "alt-metal",
-        "funk-rock"
-      ],
-      "genre": "alternative rock",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Metal"
     },
     "Ingrid Michaelson": {
       "albums": [
@@ -3339,12 +2621,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "horrorcore",
-        "rap-rock"
-      ],
-      "genre": "horrorcore",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Hip-Hop"
     },
     "Interpol": {
       "albums": [
@@ -3352,12 +2630,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "post-punk-revival",
-        "indie-rock"
-      ],
-      "genre": "post-punk revival",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Rock"
     },
     "Invisible Skratch Piklz": {
       "albums": [
@@ -3365,11 +2639,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "turntablism"
-      ],
-      "genre": "turntablism",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Turntablism & Beats"
     },
     "Ippazzi": {
       "albums": [
@@ -3386,12 +2657,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "americana",
-        "folk"
-      ],
-      "genre": "folk / Americana",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Country & Americana"
     },
     "Iron & Wine": {
       "albums": [
@@ -3405,12 +2672,9 @@
         "The Shepherd's Dog"
       ],
       "album_count": 8,
-      "scenes": [
-        "indie-folk"
-      ],
       "era": "2002-now",
-      "genre": "indie folk",
-      "tagged": true
+      "tagged": true,
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Ivory Joe Hunter": {
       "albums": [
@@ -3418,12 +2682,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "blues",
-        "soul-canon"
-      ],
-      "genre": "R&B / blues",
-      "era": "1950s"
+      "era": "1950s",
+      "category": "Soul, Funk & R&B"
     },
     "J-Zone": {
       "albums": [
@@ -3441,12 +2701,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "southern-soul",
-        "swamp-funk"
-      ],
-      "genre": "southern soul / funk",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Soul, Funk & R&B"
     },
     "JPs": {
       "albums": [
@@ -3472,9 +2728,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "bluegrass"
-      ]
+      "category": "Bluegrass"
     },
     "Jack White": {
       "albums": [
@@ -3482,12 +2736,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "garage-rock",
-        "blues-rock"
-      ],
-      "genre": "garage rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Blues"
     },
     "Jackie McLean": {
       "albums": [
@@ -3498,12 +2748,8 @@
       ],
       "album_count": 4,
       "tagged": true,
-      "scenes": [
-        "jazz-canon",
-        "hard-bop"
-      ],
-      "genre": "hard bop",
-      "era": "1950s-now"
+      "era": "1950s-now",
+      "category": "Jazz"
     },
     "Jaco Pastorius": {
       "albums": [
@@ -3512,11 +2758,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "jazz-fusion"
-      ],
-      "genre": "jazz fusion",
-      "era": "1970s-80s"
+      "era": "1970s-80s",
+      "category": "Jazz"
     },
     "James Brown": {
       "albums": [
@@ -3524,13 +2767,9 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "soul-canon",
-        "funk-canon"
-      ],
       "era": "1956-2006",
-      "genre": "soul / funk",
-      "note": "sole comp acceptable for canonical figure"
+      "note": "sole comp acceptable for canonical figure",
+      "category": "Soul, Funk & R&B"
     },
     "James Taylor": {
       "albums": [
@@ -3547,12 +2786,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "acid-jazz",
-        "funk-electronic"
-      ],
       "era": "1992-now",
-      "genre": "acid jazz / funk"
+      "category": "Jazz"
     },
     "Jane's Addiction": {
       "albums": [
@@ -3561,12 +2796,9 @@
         "Unknown Bootleg"
       ],
       "album_count": 3,
-      "scenes": [
-        "alt-rock-90s"
-      ],
       "era": "1985-now",
-      "genre": "alternative rock",
-      "tagged": true
+      "tagged": true,
+      "category": "Indie Rock"
     },
     "Jaya the Cat": {
       "albums": [
@@ -3574,12 +2806,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "ska-punk",
-        "reggae"
-      ],
-      "genre": "reggae punk",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Punk & Hardcore"
     },
     "Jedi Mind Tricks": {
       "albums": [
@@ -3588,11 +2816,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "underground-hiphop"
-      ],
-      "genre": "underground hip-hop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Underground Hip-Hop"
     },
     "Jeff Beck": {
       "albums": [
@@ -3601,12 +2826,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "guitar-god",
-        "jazz-fusion"
-      ],
-      "genre": "rock / fusion",
-      "era": "1960s-now"
+      "era": "1960s-now",
+      "category": "Jazz"
     },
     "Jeff Buckley": {
       "albums": [
@@ -3619,12 +2840,8 @@
       ],
       "album_count": 6,
       "tagged": true,
-      "scenes": [
-        "singer-songwriter",
-        "alt-rock-90s"
-      ],
-      "genre": "alternative rock",
-      "era": "1990s"
+      "era": "1990s",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Jerry Douglas": {
       "albums": [
@@ -3634,12 +2851,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "bluegrass",
-        "newgrass"
-      ],
-      "genre": "bluegrass / dobro",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Newgrass"
     },
     "Jerry Douglas_Russ Barenberg_Edgar Meyer": {
       "albums": [
@@ -3647,10 +2860,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "bluegrass",
-        "newgrass"
-      ]
+      "category": "Newgrass"
     },
     "Jerry Garcia & David Grisman": {
       "albums": [
@@ -3658,10 +2868,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "bluegrass",
-        "newgrass"
-      ]
+      "category": "Newgrass"
     },
     "Jerry Garcia-David Grisman-Tony Rice": {
       "albums": [
@@ -3669,10 +2876,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "bluegrass",
-        "newgrass"
-      ]
+      "category": "Newgrass"
     },
     "Jesse Rubenfeld": {
       "albums": [
@@ -3699,13 +2903,8 @@
       ],
       "album_count": 4,
       "tagged": true,
-      "scenes": [
-        "psychedelic-rock",
-        "blues-rock",
-        "classic-rock"
-      ],
-      "genre": "psychedelic rock",
-      "era": "1960s-70s"
+      "era": "1960s-70s",
+      "category": "Blues"
     },
     "Jimmy Cliff": {
       "albums": [
@@ -3713,11 +2912,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "reggae"
-      ],
-      "genre": "reggae",
-      "era": "1960s-now"
+      "era": "1960s-now",
+      "category": "World"
     },
     "Joe Cocker": {
       "albums": [
@@ -3725,12 +2921,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "blue-eyed-soul",
-        "classic-rock"
-      ],
-      "genre": "rock / soul",
-      "era": "1970s"
+      "era": "1970s",
+      "category": "Soul, Funk & R&B"
     },
     "Joe Public": {
       "albums": [
@@ -3746,12 +2938,9 @@
         "John Coltrane Plays for Lovers [2003]"
       ],
       "album_count": 1,
-      "scenes": [
-        "jazz-canon"
-      ],
       "era": "1955-1967",
-      "genre": "jazz",
-      "tagged": true
+      "tagged": true,
+      "category": "Jazz"
     },
     "John Digweed": {
       "albums": [
@@ -3760,12 +2949,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "progressive-house",
-        "electronic"
-      ],
-      "genre": "progressive house",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Electronic"
     },
     "John Lee Hooker": {
       "albums": [
@@ -3773,12 +2958,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "blues",
-        "blues-canon"
-      ],
-      "genre": "blues",
-      "era": "1950s-now"
+      "era": "1950s-now",
+      "category": "Blues"
     },
     "John Mayer": {
       "albums": [
@@ -3788,12 +2969,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "singer-songwriter",
-        "blues-rock"
-      ],
-      "genre": "pop / blues",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Blues"
     },
     "John Zorn": {
       "albums": [
@@ -3819,16 +2996,11 @@
         "Voices in the Wilderness Disc 2"
       ],
       "album_count": 20,
-      "scenes": [
-        "downtown-ny",
-        "tzadik",
-        "radical-jewish-culture"
-      ],
       "era": "1980s-now",
-      "genre": "avant-garde / jazz",
       "tagged": true,
       "anchor": true,
-      "anchor_note": "Foundational anchor — entire Downtown NY/Tzadik/Radical Jewish Culture universe"
+      "anchor_note": "Foundational anchor — entire Downtown NY/Tzadik/Radical Jewish Culture universe",
+      "category": "Downtown Avant-Garde"
     },
     "John Zorn-Electric Masada": {
       "albums": [
@@ -3836,14 +3008,9 @@
         "At the Mountains of Madness Disc 2"
       ],
       "album_count": 2,
-      "scenes": [
-        "downtown-ny",
-        "tzadik",
-        "radical-jewish-culture"
-      ],
       "era": "2000s",
-      "genre": "avant-garde jazz",
-      "tagged": true
+      "tagged": true,
+      "category": "Downtown Avant-Garde"
     },
     "John Zorn-Masada Chamber Ensembles": {
       "albums": [
@@ -3851,14 +3018,9 @@
         "Bar Kokhba Disc 2"
       ],
       "album_count": 2,
-      "scenes": [
-        "downtown-ny",
-        "tzadik",
-        "radical-jewish-culture"
-      ],
       "era": "2000s",
-      "genre": "avant-garde / chamber",
-      "tagged": true
+      "tagged": true,
+      "category": "Downtown Avant-Garde"
     },
     "Johnny Cash": {
       "albums": [
@@ -3872,14 +3034,11 @@
         "Unchained"
       ],
       "album_count": 8,
-      "scenes": [
-        "country-canon"
-      ],
       "era": "1955-2003",
-      "genre": "country",
       "tagged": true,
       "anchor": true,
-      "anchor_note": "Foundational anchor — country canon centerpiece"
+      "anchor_note": "Foundational anchor — country canon centerpiece",
+      "category": "Country & Americana"
     },
     "Johnny Cash & Willie Nelson": {
       "albums": [
@@ -3887,11 +3046,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "outlaw-country"
-      ],
       "era": "live event 1998",
-      "genre": "country"
+      "category": "Country & Americana"
     },
     "Johnny Marr": {
       "albums": [
@@ -3916,10 +3072,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "bluegrass",
-        "newgrass"
-      ]
+      "category": "Newgrass"
     },
     "Joshua Bell_Edgar Meyer_Sam Bush_Mike Ma": {
       "albums": [
@@ -3927,12 +3080,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "newgrass",
-        "classical-crossover"
-      ],
-      "genre": "newgrass / chamber",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Newgrass"
     },
     "Joss Stone": {
       "albums": [
@@ -3949,12 +3098,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "bachata",
-        "latin-american"
-      ],
-      "genre": "bachata / merengue",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Latin"
     },
     "Juan Luis Guerra y 440": {
       "albums": [
@@ -3963,12 +3108,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "bachata",
-        "latin-american"
-      ],
-      "genre": "bachata / merengue",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Latin"
     },
     "Juanes": {
       "albums": [
@@ -3985,12 +3126,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "underground-hiphop",
-        "west-coast-hiphop"
-      ],
-      "genre": "underground hip-hop",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Underground Hip-Hop"
     },
     "Jónsi": {
       "albums": [
@@ -3998,12 +3135,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "post-rock",
-        "icelandic"
-      ],
-      "genre": "post-rock / art pop",
-      "era": "2010s-now"
+      "era": "2010s-now",
+      "category": "Post-Rock"
     },
     "Karsh Kale": {
       "albums": [
@@ -4011,12 +3144,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "world-electronic",
-        "indo-american"
-      ],
-      "genre": "world electronic",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "World"
     },
     "Kate Bush": {
       "albums": [
@@ -4024,12 +3153,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "art-pop",
-        "british-art-rock"
-      ],
-      "genre": "art pop",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Art-Pop & New Wave"
     },
     "Keiko Matsui": {
       "albums": [
@@ -4046,11 +3171,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "jam"
-      ],
-      "genre": "jam",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Jam"
     },
     "Kings Of Convenience": {
       "albums": [
@@ -4058,11 +3180,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "indie-folk"
-      ],
-      "genre": "indie folk",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Kings Of Leon": {
       "albums": [
@@ -4071,12 +3190,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "indie-rock",
-        "southern-rock"
-      ],
-      "genre": "rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Classic Rock"
     },
     "Kraftwerk": {
       "albums": [
@@ -4084,12 +3199,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "krautrock",
-        "electronic"
-      ],
-      "genre": "electronic",
-      "era": "1970s-now"
+      "era": "1970s-now",
+      "category": "Electronic"
     },
     "Kremerata Baltica_Gidon Kremer": {
       "albums": [
@@ -4097,11 +3208,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "classical"
-      ],
-      "genre": "classical",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Classical"
     },
     "Kruder & Dorfmeister": {
       "albums": [
@@ -4109,12 +3217,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "downtempo",
-        "trip-hop"
-      ],
-      "genre": "downtempo",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Trip-Hop & Downtempo"
     },
     "LMNO": {
       "albums": [
@@ -4122,12 +3226,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "project-blowed",
-        "underground-hiphop"
-      ],
-      "genre": "underground hip-hop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Underground Hip-Hop"
     },
     "Lady Sovereign": {
       "albums": [
@@ -4146,12 +3246,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "trip-hop",
-        "electronic"
-      ],
-      "genre": "trip-hop",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Trip-Hop & Downtempo"
     },
     "Larry Coryell": {
       "albums": [
@@ -4159,11 +3255,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "jazz-fusion"
-      ],
-      "genre": "jazz fusion guitar",
-      "era": "1970s-now"
+      "era": "1970s-now",
+      "category": "Jazz"
     },
     "Laura Pausini": {
       "albums": [
@@ -4186,12 +3279,8 @@
       ],
       "album_count": 7,
       "tagged": true,
-      "scenes": [
-        "hard-rock",
-        "classic-rock"
-      ],
-      "genre": "hard rock",
-      "era": "1960s-70s"
+      "era": "1960s-70s",
+      "category": "Classic Rock"
     },
     "Leftover Salmon": {
       "albums": [
@@ -4201,13 +3290,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "jam",
-        "newgrass",
-        "jamgrass"
-      ],
-      "genre": "jamgrass",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Newgrass"
     },
     "Leo Kottke & Mike Gordon": {
       "albums": [
@@ -4215,9 +3299,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "bluegrass"
-      ]
+      "category": "Bluegrass"
     },
     "Lhasa De Sela": {
       "albums": [
@@ -4234,11 +3316,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "indie-folk"
-      ],
-      "genre": "indie folk",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Little Feat": {
       "albums": [
@@ -4247,12 +3326,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "classic-rock",
-        "roots-rock"
-      ],
-      "genre": "roots rock",
-      "era": "1970s"
+      "era": "1970s",
+      "category": "Country & Americana"
     },
     "Living Colour": {
       "albums": [
@@ -4261,12 +3336,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "funk-metal",
-        "alt-funk-rock-90s"
-      ],
-      "genre": "funk metal",
-      "era": "1980s-90s"
+      "era": "1980s-90s",
+      "category": "Metal"
     },
     "Liz Phair": {
       "albums": [
@@ -4276,12 +3347,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "indie-rock",
-        "lo-fi"
-      ],
-      "genre": "indie rock",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Indie Rock"
     },
     "Lootpack": {
       "albums": [
@@ -4289,12 +3356,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "stones-throw",
-        "underground-hiphop"
-      ],
-      "genre": "underground hip-hop",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Stones Throw"
     },
     "Lorde": {
       "albums": [
@@ -4303,12 +3366,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "art-pop",
-        "electro-pop"
-      ],
-      "genre": "art pop",
-      "era": "2010s-now"
+      "era": "2010s-now",
+      "category": "Art-Pop & New Wave"
     },
     "Loreena McKennitt": {
       "albums": [
@@ -4317,12 +3376,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "celtic",
-        "world"
-      ],
-      "genre": "celtic",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "World"
     },
     "Lori Diamond": {
       "albums": [
@@ -4340,12 +3395,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "latin-american",
-        "acid-jazz"
-      ],
-      "genre": "Latin funk",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Latin"
     },
     "Los Lobos": {
       "albums": [
@@ -4354,12 +3405,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "roots-rock",
-        "latin-rock"
-      ],
-      "genre": "roots rock / Tex-Mex",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Latin"
     },
     "Loudon Wainwright III": {
       "albums": [
@@ -4378,12 +3425,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "jazz-canon",
-        "early-jazz"
-      ],
-      "genre": "jazz / vocal",
-      "era": "1920s-60s"
+      "era": "1920s-60s",
+      "category": "Jazz"
     },
     "Louis Prima": {
       "albums": [
@@ -4391,12 +3434,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "swing-revival",
-        "lounge"
-      ],
-      "genre": "swing / lounge",
-      "era": "1950s"
+      "era": "1950s",
+      "category": "Pop"
     },
     "Lovage": {
       "albums": [
@@ -4404,12 +3443,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "trip-hop",
-        "patton-orbit"
-      ],
-      "genre": "downtempo",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Patton Orbit"
     },
     "Luciana Souza_Romero Lubambo": {
       "albums": [
@@ -4417,11 +3452,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "world"
-      ],
-      "genre": "Brazilian jazz",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "World"
     },
     "Lucinda Williams": {
       "albums": [
@@ -4429,12 +3461,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "alt-country",
-        "americana"
-      ],
-      "genre": "alt-country",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Country & Americana"
     },
     "Lush": {
       "albums": [
@@ -4452,12 +3480,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "psych-pop",
-        "indie-pop"
-      ],
-      "genre": "psychedelic pop",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Pop & Synth-Pop"
     },
     "M_ Ward": {
       "albums": [
@@ -4465,11 +3489,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "indie-folk"
-      ],
-      "genre": "indie folk",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Macy Gray": {
       "albums": [
@@ -4495,14 +3516,9 @@
         "The Other Side- Los Angeles Disc 1"
       ],
       "album_count": 2,
-      "scenes": [
-        "stones-throw",
-        "underground-hiphop",
-        "instrumental-hiphop"
-      ],
       "era": "1990s-now",
-      "genre": "hip-hop / production",
-      "tagged": true
+      "tagged": true,
+      "category": "Stones Throw"
     },
     "Madonna": {
       "albums": [
@@ -4518,13 +3534,9 @@
         "Madvillainy"
       ],
       "album_count": 1,
-      "scenes": [
-        "stones-throw",
-        "underground-hiphop"
-      ],
       "era": "2004",
-      "genre": "underground hip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Stones Throw"
     },
     "Magnetic Fields": {
       "albums": [
@@ -4538,12 +3550,8 @@
       ],
       "album_count": 7,
       "tagged": true,
-      "scenes": [
-        "indie-pop",
-        "chamber-pop"
-      ],
-      "genre": "indie pop",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Indie Pop & Synth-Pop"
     },
     "Marc Maron": {
       "albums": [
@@ -4561,12 +3569,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "downtown-ny",
-        "latin-american"
-      ],
-      "genre": "Cuban / avant-garde",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Downtown Avant-Garde"
     },
     "Margot & The Nuclear So And So's": {
       "albums": [
@@ -4584,12 +3588,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "classic-rock",
-        "roots-rock"
-      ],
-      "genre": "roots rock",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Country & Americana"
     },
     "Mark Knopfler And Emmylou Harris": {
       "albums": [
@@ -4597,13 +3597,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "blues-rock",
-        "americana",
-        "duet"
-      ],
       "era": "2006",
-      "genre": "blues-rock / americana"
+      "category": "Blues"
     },
     "Marvin Pontiac": {
       "albums": [
@@ -4611,12 +3606,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "downtown-ny",
-        "outsider"
-      ],
-      "genre": "outsider / blues",
-      "era": "1990s"
+      "era": "1990s",
+      "category": "Downtown Avant-Garde"
     },
     "Mary Chapin Carpenter": {
       "albums": [
@@ -4634,11 +3625,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "neo-soul"
-      ],
-      "genre": "R&B / hip-hop soul",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Soul, Funk & R&B"
     },
     "Masada": {
       "albums": [
@@ -4650,14 +3638,9 @@
         "Unknown Album (8_20_2007 2_05_50 PM)"
       ],
       "album_count": 6,
-      "scenes": [
-        "downtown-ny",
-        "tzadik",
-        "radical-jewish-culture"
-      ],
       "era": "1990s-now",
-      "genre": "avant-garde jazz",
-      "tagged": true
+      "tagged": true,
+      "category": "Downtown Avant-Garde"
     },
     "Masada Quintet Featuring Joe Lovano": {
       "albums": [
@@ -4665,13 +3648,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "tzadik",
-        "masada",
-        "downtown-ny"
-      ],
-      "genre": "avant-garde jazz",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Downtown Avant-Garde"
     },
     "Massive Attack": {
       "albums": [
@@ -4681,12 +3659,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "trip-hop",
-        "bristol"
-      ],
-      "genre": "trip-hop",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Trip-Hop & Downtempo"
     },
     "Mastodon": {
       "albums": [
@@ -4694,12 +3668,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "progressive-metal",
-        "sludge-metal"
-      ],
-      "genre": "progressive metal",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Metal"
     },
     "Matteo Salvatore": {
       "albums": [
@@ -4727,13 +3697,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "jam",
-        "jazz-funk",
-        "downtown-ny"
-      ],
-      "genre": "jazz / groove",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Downtown Avant-Garde"
     },
     "Merry Clayton": {
       "albums": [
@@ -4741,11 +3706,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "soul-canon"
-      ],
-      "genre": "soul",
-      "era": "1970s"
+      "era": "1970s",
+      "category": "Soul, Funk & R&B"
     },
     "Metric": {
       "albums": [
@@ -4754,12 +3716,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "indie-rock",
-        "synth-pop"
-      ],
-      "genre": "indie rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Rock"
     },
     "Mew": {
       "albums": [
@@ -4769,12 +3727,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "dream-pop",
-        "indie-rock"
-      ],
-      "genre": "dream pop",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Rock"
     },
     "Michael Brooks-13 Things That Don't Make Sense": {
       "albums": [
@@ -4797,11 +3751,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "pop-canon"
-      ],
-      "genre": "pop / R&B",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Pop"
     },
     "Microphones": {
       "albums": [
@@ -4810,12 +3761,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "lo-fi",
-        "indie-folk"
-      ],
-      "genre": "lo-fi",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Miles Davis": {
       "albums": [
@@ -4823,11 +3770,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "jazz-canon"
-      ],
-      "genre": "jazz",
-      "era": "1950s-1980s"
+      "era": "1950s-1980s",
+      "category": "Jazz"
     },
     "Mindfunk": {
       "albums": [
@@ -4835,12 +3779,9 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "alt-funk-rock-90s"
-      ],
       "era": "1991-1995",
-      "genre": "alt funk-rock",
-      "note": " (lane confirmed by Chris)"
+      "note": " (lane confirmed by Chris)",
+      "category": "Indie Rock"
     },
     "Ministry": {
       "albums": [
@@ -4848,13 +3789,9 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "industrial",
-        "wax-trax"
-      ],
       "era": "1981-now",
-      "genre": "industrial",
-      "note": " (lane confirmed by Chris)"
+      "note": " (lane confirmed by Chris)",
+      "category": "Industrial & EBM"
     },
     "Minor Threat": {
       "albums": [
@@ -4862,12 +3799,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "hardcore-punk",
-        "dc-hardcore"
-      ],
-      "genre": "hardcore punk",
-      "era": "1980s"
+      "era": "1980s",
+      "category": "Punk & Hardcore"
     },
     "Minus the Bear": {
       "albums": [
@@ -4876,12 +3809,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "math-rock",
-        "indie-rock"
-      ],
-      "genre": "math rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Rock"
     },
     "Modest Mouse": {
       "albums": [
@@ -4894,11 +3823,8 @@
       ],
       "album_count": 6,
       "tagged": true,
-      "scenes": [
-        "indie-rock"
-      ],
-      "genre": "indie rock",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Indie Rock"
     },
     "Mofro": {
       "albums": [
@@ -4908,12 +3834,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "southern-soul",
-        "swamp-funk"
-      ],
-      "genre": "southern soul / funk",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Soul, Funk & R&B"
     },
     "Monsters Of Folk": {
       "albums": [
@@ -4921,11 +3843,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "indie-folk"
-      ],
-      "genre": "indie folk",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Morphine": {
       "albums": [
@@ -4936,11 +3855,8 @@
       ],
       "album_count": 4,
       "tagged": true,
-      "scenes": [
-        "alt-rock-90s"
-      ],
-      "genre": "low rock / noir",
-      "era": "1990s"
+      "era": "1990s",
+      "category": "Indie Rock"
     },
     "Mos Def": {
       "albums": [
@@ -4948,27 +3864,18 @@
         "The Ecstatic"
       ],
       "album_count": 2,
-      "scenes": [
-        "conscious-hiphop",
-        "rawkus"
-      ],
       "era": "1998-now",
-      "genre": "hip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Underground Hip-Hop"
     },
     "Mos Def & Talib Kweli": {
       "albums": [
         "Black Star"
       ],
       "album_count": 1,
-      "scenes": [
-        "conscious-hiphop",
-        "rawkus",
-        "black-star"
-      ],
       "era": "1998",
-      "genre": "hip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Underground Hip-Hop"
     },
     "Mr. Bungle": {
       "albums": [
@@ -4978,25 +3885,17 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "patton-orbit",
-        "experimental-rock"
-      ],
-      "genre": "avant-garde metal",
-      "era": "1990s-2000s"
+      "era": "1990s-2000s",
+      "category": "Patton Orbit"
     },
     "Mr. Lif": {
       "albums": [
         "Emergency Rations"
       ],
       "album_count": 1,
-      "scenes": [
-        "defjux",
-        "underground-hiphop"
-      ],
       "era": "1999-now",
-      "genre": "underground hip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Def Jux"
     },
     "Muddy Waters": {
       "albums": [
@@ -5004,12 +3903,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "blues",
-        "blues-canon"
-      ],
-      "genre": "blues",
-      "era": "1950s-70s"
+      "era": "1950s-70s",
+      "category": "Blues"
     },
     "Muddy Waters_Dizzy Gillespie": {
       "albums": [
@@ -5017,12 +3912,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "blues",
-        "jazz-canon"
-      ],
-      "genre": "blues / jazz",
-      "era": "1970s"
+      "era": "1970s",
+      "category": "Jazz"
     },
     "Mumford & Sons": {
       "albums": [
@@ -5031,12 +3922,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "folk-rock",
-        "indie-folk"
-      ],
-      "genre": "folk rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Muse": {
       "albums": [
@@ -5045,12 +3932,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "alt-rock-2000s",
-        "progressive-rock"
-      ],
-      "genre": "alternative rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Classic Rock"
     },
     "MuteMath": {
       "albums": [
@@ -5060,11 +3943,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "alt-rock-2000s"
-      ],
-      "genre": "alternative rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Rock"
     },
     "My Morning Jacket": {
       "albums": [
@@ -5076,12 +3956,8 @@
       ],
       "album_count": 5,
       "tagged": true,
-      "scenes": [
-        "indie-rock",
-        "southern-rock"
-      ],
-      "genre": "indie rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Classic Rock"
     },
     "Mystic": {
       "albums": [
@@ -5098,12 +3974,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "icelandic",
-        "folktronica"
-      ],
-      "genre": "electronic / folktronica",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Post-Rock"
     },
     "N.E.R.D": {
       "albums": [
@@ -5111,10 +3983,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "neptunes",
-        "funk-rap"
-      ]
+      "category": "Hip-Hop"
     },
     "NOFX": {
       "albums": [
@@ -5123,11 +3992,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "skate-punk"
-      ],
-      "genre": "punk rock",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Punk & Hardcore"
     },
     "Naked City": {
       "albums": [
@@ -5136,12 +4002,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "downtown-ny",
-        "tzadik"
-      ],
-      "genre": "avant-garde / noise jazz",
-      "era": "1990s"
+      "era": "1990s",
+      "category": "Downtown Avant-Garde"
     },
     "Nat King Cole": {
       "albums": [
@@ -5149,13 +4011,9 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "crooner-canon",
-        "vocal-jazz"
-      ],
       "era": "1940s-1960s",
-      "genre": "vocal jazz / standards",
-      "note": "confirmed authentic by Chris — there IS a crooner soft spot"
+      "note": "confirmed authentic by Chris — there IS a crooner soft spot",
+      "category": "Jazz"
     },
     "Neil Young": {
       "albums": [
@@ -5163,13 +4021,9 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "folk-rock-canon",
-        "singer-songwriter-canon"
-      ],
       "era": "1968-now",
-      "genre": "folk-rock",
-      "note": "sole comp acceptable for canonical figure (Aretha/JB/Cole/Guaraldi rule)"
+      "note": "sole comp acceptable for canonical figure (Aretha/JB/Cole/Guaraldi rule)",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Neko Case": {
       "albums": [
@@ -5177,12 +4031,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "alt-country",
-        "indie-rock"
-      ],
-      "genre": "alt-country",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Country & Americana"
     },
     "Neko Case & Her Boyfriends": {
       "albums": [
@@ -5190,11 +4040,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "alt-country"
-      ],
-      "genre": "alt-country",
-      "era": "1990s-2000s"
+      "era": "1990s-2000s",
+      "category": "Country & Americana"
     },
     "Neko Case And Her Boyfriends": {
       "albums": [
@@ -5202,11 +4049,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "alt-country"
-      ],
-      "genre": "alt-country",
-      "era": "1990s-2000s"
+      "era": "1990s-2000s",
+      "category": "Country & Americana"
     },
     "Nellie McKay": {
       "albums": [
@@ -5215,12 +4059,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "cabaret-pop",
-        "jazz-pop"
-      ],
-      "genre": "cabaret pop",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Jazz"
     },
     "Neutral Milk Hotel": {
       "albums": [
@@ -5231,12 +4071,8 @@
       ],
       "album_count": 4,
       "tagged": true,
-      "scenes": [
-        "indie-folk",
-        "lo-fi"
-      ],
-      "genre": "indie folk",
-      "era": "1990s"
+      "era": "1990s",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "New Grass Revival": {
       "albums": [
@@ -5244,9 +4080,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "bluegrass"
-      ]
+      "category": "Bluegrass"
     },
     "New Orleans Jazz Vipers": {
       "albums": [
@@ -5254,11 +4088,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "nola"
-      ],
-      "genre": "New Orleans jazz",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "New Orleans"
     },
     "New Orleans Nightcrawlers": {
       "albums": [
@@ -5266,12 +4097,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "nola",
-        "brass-band"
-      ],
-      "genre": "brass band",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "New Orleans"
     },
     "NewGrange": {
       "albums": [
@@ -5279,10 +4106,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "bluegrass",
-        "newgrass"
-      ]
+      "category": "Newgrass"
     },
     "Nick Cave & the Bad Seeds": {
       "albums": [
@@ -5291,12 +4115,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "post-punk",
-        "gothic-rock"
-      ],
-      "genre": "post-punk",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Art-Pop & New Wave"
     },
     "Nicolaus Esterhazy Sinfonia": {
       "albums": [
@@ -5313,12 +4133,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "downtempo",
-        "warp"
-      ],
-      "genre": "downtempo",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Trip-Hop & Downtempo"
     },
     "Nine Inch Nails": {
       "albums": [
@@ -5327,12 +4143,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "industrial",
-        "industrial-metal"
-      ],
-      "genre": "industrial",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Industrial & EBM"
     },
     "Nitin Sawhney": {
       "albums": [
@@ -5340,11 +4152,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "world-electronic"
-      ],
-      "genre": "world electronic",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "World"
     },
     "Norah Jones": {
       "albums": [
@@ -5353,12 +4162,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "vocal-jazz",
-        "adult-alternative"
-      ],
-      "genre": "jazz pop",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Jazz"
     },
     "Odd Nosdam": {
       "albums": [
@@ -5368,12 +4173,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "anticon",
-        "instrumental-hiphop"
-      ],
-      "genre": "experimental hip-hop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Anticon"
     },
     "Odds": {
       "albums": [
@@ -5381,11 +4182,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "power-pop"
-      ],
-      "genre": "power pop",
-      "era": "1990s"
+      "era": "1990s",
+      "category": "Indie Pop & Synth-Pop"
     },
     "Old & In the Way": {
       "albums": [
@@ -5394,12 +4192,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "bluegrass",
-        "newgrass"
-      ],
-      "genre": "bluegrass",
-      "era": "1970s"
+      "era": "1970s",
+      "category": "Newgrass"
     },
     "Old & in the Way-Jerry Garcia-David Grisman": {
       "albums": [
@@ -5407,10 +4201,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "bluegrass",
-        "newgrass"
-      ]
+      "category": "Newgrass"
     },
     "Old 97's": {
       "albums": [
@@ -5418,11 +4209,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "alt-country"
-      ],
-      "genre": "alt-country",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Country & Americana"
     },
     "Otis Redding": {
       "albums": [
@@ -5430,12 +4218,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "soul-canon",
-        "memphis-soul"
-      ],
-      "genre": "soul",
-      "era": "1960s"
+      "era": "1960s",
+      "category": "Soul, Funk & R&B"
     },
     "Otis Taylor": {
       "albums": [
@@ -5454,11 +4238,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "southern-hiphop"
-      ],
-      "genre": "hip-hop",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Hip-Hop"
     },
     "Outback": {
       "albums": [
@@ -5466,11 +4247,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "world"
-      ],
-      "genre": "world fusion",
-      "era": "1990s"
+      "era": "1990s",
+      "category": "World"
     },
     "Ozomatli": {
       "albums": [
@@ -5480,12 +4258,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "latin-american",
-        "latin-rock"
-      ],
-      "genre": "Latin fusion",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Latin"
     },
     "Paddy Saul": {
       "albums": [
@@ -5502,12 +4276,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "tzadik",
-        "jazz-canon"
-      ],
-      "genre": "jazz",
-      "era": "1970s-now"
+      "era": "1970s-now",
+      "category": "Downtown Avant-Garde"
     },
     "Paul Simon": {
       "albums": [
@@ -5516,12 +4286,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "worldbeat",
-        "singer-songwriter-canon"
-      ],
-      "genre": "worldbeat",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Peace Orchestra": {
       "albums": [
@@ -5538,11 +4304,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "patton-orbit"
-      ],
-      "genre": "experimental pop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Patton Orbit"
     },
     "Peter Gabriel": {
       "albums": [
@@ -5552,12 +4315,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "art-rock",
-        "worldbeat"
-      ],
-      "genre": "art rock",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Art-Pop & New Wave"
     },
     "Peter Malick Group-Norah Jones": {
       "albums": [
@@ -5574,9 +4333,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "bluegrass"
-      ]
+      "category": "Bluegrass"
     },
     "Phil & Phriends": {
       "albums": [
@@ -5589,11 +4346,8 @@
       ],
       "album_count": 6,
       "tagged": true,
-      "scenes": [
-        "jam"
-      ],
-      "genre": "jam",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Jam"
     },
     "Phillips, Grier & Flinner": {
       "albums": [
@@ -5601,9 +4355,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "bluegrass"
-      ]
+      "category": "Bluegrass"
     },
     "Phish": {
       "albums": [
@@ -5624,12 +4376,9 @@
         "Worcester_2010-12-28"
       ],
       "album_count": 15,
-      "scenes": [
-        "jam"
-      ],
       "era": "1983-now",
-      "genre": "jam",
-      "tagged": true
+      "tagged": true,
+      "category": "Jam"
     },
     "Phoenix": {
       "albums": [
@@ -5648,13 +4397,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "progressive-rock",
-        "psychedelic-rock",
-        "classic-rock"
-      ],
-      "genre": "progressive rock",
-      "era": "1960s-80s"
+      "era": "1960s-80s",
+      "category": "Classic Rock"
     },
     "Plaid": {
       "albums": [
@@ -5664,12 +4408,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "idm",
-        "warp"
-      ],
-      "genre": "IDM",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Electronic"
     },
     "Pop Will Eat Itself": {
       "albums": [
@@ -5677,11 +4417,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "industrial",
-        "grebo"
-      ],
-      "note": "fits industrial lane"
+      "note": "fits industrial lane",
+      "category": "Industrial & EBM"
     },
     "Portishead": {
       "albums": [
@@ -5689,12 +4426,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "trip-hop",
-        "bristol"
-      ],
-      "genre": "trip-hop",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Trip-Hop & Downtempo"
     },
     "Prefuse 73": {
       "albums": [
@@ -5703,12 +4436,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "warp",
-        "instrumental-hiphop"
-      ],
-      "genre": "glitch hop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Turntablism & Beats"
     },
     "Primus": {
       "albums": [
@@ -5720,12 +4449,8 @@
       ],
       "album_count": 5,
       "tagged": true,
-      "scenes": [
-        "funk-metal",
-        "experimental-rock"
-      ],
-      "genre": "funk metal",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Metal"
     },
     "Prince Paul": {
       "albums": [
@@ -5733,12 +4458,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "native-tongues",
-        "underground-hiphop"
-      ],
-      "genre": "hip-hop production",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Underground Hip-Hop"
     },
     "Priyo": {
       "albums": [
@@ -5764,24 +4485,18 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "alt-funk-rock-90s"
-      ],
       "era": "1990s",
-      "genre": "alt funk-rock",
-      "note": " (lane confirmed by Chris)"
+      "note": " (lane confirmed by Chris)",
+      "category": "Indie Rock"
     },
     "Public Image Ltd": {
       "albums": [
         "9"
       ],
       "album_count": 1,
-      "scenes": [
-        "post-punk"
-      ],
       "era": "1978-now",
-      "genre": "post-punk",
-      "tagged": true
+      "tagged": true,
+      "category": "Art-Pop & New Wave"
     },
     "Pulp": {
       "albums": [
@@ -5791,11 +4506,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "britpop"
-      ],
-      "genre": "britpop",
-      "era": "1990s"
+      "era": "1990s",
+      "category": "Indie Rock"
     },
     "Quartet Coco Briaval": {
       "albums": [
@@ -5804,11 +4516,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "gypsy-jazz"
-      ],
-      "genre": "gypsy jazz",
-      "era": "1990s"
+      "era": "1990s",
+      "category": "Jazz"
     },
     "Quasimoto": {
       "albums": [
@@ -5816,12 +4525,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "stones-throw",
-        "underground-hiphop"
-      ],
-      "genre": "underground hip-hop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Stones Throw"
     },
     "R.E.M": {
       "albums": [
@@ -5829,13 +4534,9 @@
         "Lifes Rich Pageant"
       ],
       "album_count": 2,
-      "scenes": [
-        "college-rock",
-        "jangle-pop"
-      ],
       "era": "1980-2011",
-      "genre": "alt rock",
-      "tagged": true
+      "tagged": true,
+      "category": "Indie Rock"
     },
     "Radiohead": {
       "albums": [
@@ -5849,12 +4550,9 @@
         "The Bends"
       ],
       "album_count": 8,
-      "scenes": [
-        "british-art-rock"
-      ],
       "era": "1993-now",
-      "genre": "art rock",
-      "tagged": true
+      "tagged": true,
+      "category": "Art-Pop & New Wave"
     },
     "Rage Against the Machine": {
       "albums": [
@@ -5862,12 +4560,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "rap-metal",
-        "alt-metal"
-      ],
-      "genre": "rap metal",
-      "era": "1990s-2000s"
+      "era": "1990s-2000s",
+      "category": "Metal"
     },
     "Randall Kennedy": {
       "albums": [
@@ -5886,12 +4580,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "electronic",
-        "indie-electronic"
-      ],
-      "genre": "electronic rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Pop & Synth-Pop"
     },
     "Ray Charles": {
       "albums": [
@@ -5910,12 +4600,9 @@
         "The Genius Hits the Road"
       ],
       "album_count": 13,
-      "scenes": [
-        "soul-canon"
-      ],
       "era": "1949-2004",
-      "genre": "soul / r&b",
-      "tagged": true
+      "tagged": true,
+      "category": "Soul, Funk & R&B"
     },
     "Ray LaMontagne": {
       "albums": [
@@ -5925,12 +4612,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "indie-folk",
-        "singer-songwriter"
-      ],
-      "genre": "folk / soul",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Ray LaMontagne & The Pariah Dogs": {
       "albums": [
@@ -5938,12 +4621,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "indie-folk",
-        "singer-songwriter"
-      ],
-      "genre": "folk / soul",
-      "era": "2010s"
+      "era": "2010s",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Red Hot Chili Peppers": {
       "albums": [
@@ -5951,12 +4630,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "funk-rock",
-        "alt-rock-90s"
-      ],
-      "genre": "funk rock",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Classic Rock"
     },
     "Regina Spektor": {
       "albums": [
@@ -5965,12 +4640,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "anti-folk",
-        "indie-pop"
-      ],
-      "genre": "indie pop",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Reverend Horton Heat": {
       "albums": [
@@ -5980,12 +4651,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "psychobilly",
-        "rockabilly"
-      ],
-      "genre": "psychobilly",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Pop"
     },
     "Ricardo Montaner": {
       "albums": [
@@ -6005,13 +4672,9 @@
         "The Third Hand"
       ],
       "album_count": 5,
-      "scenes": [
-        "definitive-jux-adjacent",
-        "instrumental-hiphop"
-      ],
       "era": "2002-now",
-      "genre": "instrumental hip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Def Jux"
     },
     "Rob Dougan": {
       "albums": [
@@ -6029,11 +4692,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "classic-rock"
-      ],
-      "genre": "rock",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Classic Rock"
     },
     "Robert Randolph & The Family Band": {
       "albums": [
@@ -6041,14 +4701,9 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "sacred-steel",
-        "jam",
-        "blues-rock"
-      ],
       "era": "2000s",
-      "genre": "sacred steel / blues-jam",
-      "note": "sacred-steel pedal-steel guitar — confirmed lane"
+      "note": "sacred-steel pedal-steel guitar — confirmed lane",
+      "category": "Jam"
     },
     "Roger": {
       "albums": [
@@ -6065,12 +4720,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "glam-rock",
-        "art-rock"
-      ],
-      "genre": "art rock",
-      "era": "1970s-80s"
+      "era": "1970s-80s",
+      "category": "Art-Pop & New Wave"
     },
     "Royal Blood": {
       "albums": [
@@ -6095,12 +4746,9 @@
         "Run-D.M.C"
       ],
       "album_count": 1,
-      "scenes": [
-        "old-school-hiphop"
-      ],
       "era": "1980s",
-      "genre": "hip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Underground Hip-Hop"
     },
     "Rush": {
       "albums": [
@@ -6109,12 +4757,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "progressive-rock",
-        "classic-rock"
-      ],
-      "genre": "progressive rock",
-      "era": "1970s-now"
+      "era": "1970s-now",
+      "category": "Classic Rock"
     },
     "Russ Barenberg": {
       "albums": [
@@ -6122,9 +4766,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "bluegrass"
-      ]
+      "category": "Bluegrass"
     },
     "Sam Bush": {
       "albums": [
@@ -6133,12 +4775,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "newgrass",
-        "bluegrass"
-      ],
-      "genre": "newgrass",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Newgrass"
     },
     "Sam Cooke": {
       "albums": [
@@ -6155,12 +4793,9 @@
         "WINMX SOUNDS"
       ],
       "album_count": 11,
-      "scenes": [
-        "soul-canon"
-      ],
       "era": "1951-1964",
-      "genre": "soul",
-      "tagged": true
+      "tagged": true,
+      "category": "Soul, Funk & R&B"
     },
     "Sam Cooke & the Soul Stirrers": {
       "albums": [
@@ -6168,12 +4803,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "soul-canon",
-        "gospel"
-      ],
-      "genre": "gospel / soul",
-      "era": "1950s-60s"
+      "era": "1950s-60s",
+      "category": "Soul, Funk & R&B"
     },
     "Sam Kinison": {
       "albums": [
@@ -6191,12 +4822,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "latin-rock",
-        "classic-rock"
-      ],
-      "genre": "latin rock",
-      "era": "1970s-now"
+      "era": "1970s-now",
+      "category": "Latin"
     },
     "Santigold": {
       "albums": [
@@ -6223,12 +4850,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "adult-alternative",
-        "folk-pop"
-      ],
-      "genre": "adult alternative",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Saru": {
       "albums": [
@@ -6237,11 +4860,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "downtempo"
-      ],
-      "genre": "downtempo",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Trip-Hop & Downtempo"
     },
     "Seal": {
       "albums": [
@@ -6249,12 +4869,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "british-soul",
-        "pop"
-      ],
-      "genre": "pop / soul",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Soul, Funk & R&B"
     },
     "Serenata Guayanesa": {
       "albums": [
@@ -6278,11 +4894,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "classical"
-      ],
-      "genre": "classical guitar",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Classical"
     },
     "Sharon Jones & The Dap-Kings": {
       "albums": [
@@ -6291,11 +4904,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "retro-soul"
-      ],
-      "genre": "retro soul / funk",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Soul, Funk & R&B"
     },
     "Sheryl Crow": {
       "albums": [
@@ -6314,12 +4924,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "indie-pop",
-        "downtempo"
-      ],
-      "genre": "pop",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Trip-Hop & Downtempo"
     },
     "Sidney Bechet": {
       "albums": [
@@ -6327,12 +4933,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "jazz-canon",
-        "early-jazz"
-      ],
-      "genre": "early jazz",
-      "era": "1920s-50s"
+      "era": "1920s-50s",
+      "category": "Jazz"
     },
     "Sigur Ros": {
       "albums": [
@@ -6342,12 +4944,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "post-rock",
-        "icelandic"
-      ],
-      "genre": "post-rock",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Post-Rock"
     },
     "Sigur Rós": {
       "albums": [
@@ -6363,13 +4961,9 @@
         "Von"
       ],
       "album_count": 10,
-      "scenes": [
-        "post-rock",
-        "icelandic"
-      ],
       "era": "1994-now",
-      "genre": "post-rock",
-      "tagged": true
+      "tagged": true,
+      "category": "Post-Rock"
     },
     "Simon & Garfunkel": {
       "albums": [
@@ -6379,11 +4973,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "folk-rock-canon"
-      ],
-      "genre": "folk rock",
-      "era": "1960s-70s"
+      "era": "1960s-70s",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Sin Bandera": {
       "albums": [
@@ -6406,12 +4997,9 @@
         "Secret South"
       ],
       "album_count": 8,
-      "scenes": [
-        "gothic-americana"
-      ],
       "era": "1992-2005",
-      "genre": "gothic americana",
-      "tagged": true
+      "tagged": true,
+      "category": "Gothic Americana"
     },
     "Skinny Puppy": {
       "albums": [
@@ -6419,27 +5007,18 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "industrial",
-        "ebm",
-        "wax-trax"
-      ],
       "era": "1982-now",
-      "genre": "industrial / EBM",
-      "note": " (lane confirmed by Chris)"
+      "note": " (lane confirmed by Chris)",
+      "category": "Industrial & EBM"
     },
     "Soledad Bravo": {
       "albums": [
         "21 Temas Románticos"
       ],
       "album_count": 1,
-      "scenes": [
-        "latin-american",
-        "nueva-cancion"
-      ],
       "era": "1970s-now",
-      "genre": "nueva canción",
-      "tagged": true
+      "tagged": true,
+      "category": "Latin"
     },
     "Son Volt": {
       "albums": [
@@ -6448,11 +5027,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "alt-country"
-      ],
-      "genre": "alt-country",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Country & Americana"
     },
     "Sondre Lerche": {
       "albums": [
@@ -6460,11 +5036,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "indie-pop"
-      ],
-      "genre": "indie pop",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Pop & Synth-Pop"
     },
     "Sondre Lerche and the Faces Down": {
       "albums": [
@@ -6472,11 +5045,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "indie-pop"
-      ],
-      "genre": "indie pop",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Pop & Synth-Pop"
     },
     "Sonny Terry with Johnny Winter& Willie D": {
       "albums": [
@@ -6484,12 +5054,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "blues",
-        "blues-canon"
-      ],
-      "genre": "blues",
-      "era": "1980s"
+      "era": "1980s",
+      "category": "Blues"
     },
     "Sonny Terry with Johnny Winter& Willie Dixon": {
       "albums": [
@@ -6497,12 +5063,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "blues",
-        "blues-canon"
-      ],
-      "genre": "blues",
-      "era": "1980s"
+      "era": "1980s",
+      "category": "Blues"
     },
     "Soul Position": {
       "albums": [
@@ -6510,12 +5072,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "rhymesayers",
-        "underground-hiphop"
-      ],
-      "genre": "underground hip-hop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Underground Hip-Hop"
     },
     "Soundgarden": {
       "albums": [
@@ -6524,12 +5082,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "grunge",
-        "alt-rock-90s"
-      ],
-      "genre": "grunge",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Indie Rock"
     },
     "Starfucker": {
       "albums": [
@@ -6537,12 +5091,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "indie-pop",
-        "synth-pop"
-      ],
-      "genre": "indie pop",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Pop & Synth-Pop"
     },
     "Steely Dan": {
       "albums": [
@@ -6550,12 +5100,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "jazz-rock",
-        "classic-rock"
-      ],
-      "genre": "jazz rock",
-      "era": "1970s-now"
+      "era": "1970s-now",
+      "category": "Jazz"
     },
     "Stereolab": {
       "albums": [
@@ -6564,12 +5110,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "krautrock",
-        "art-pop"
-      ],
-      "genre": "avant-pop",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Art-Pop & New Wave"
     },
     "Steve Earle": {
       "albums": [
@@ -6581,13 +5123,9 @@
         "Transcendental Blues"
       ],
       "album_count": 6,
-      "scenes": [
-        "alt-country",
-        "outlaw-country"
-      ],
       "era": "1986-now",
-      "genre": "alt country",
-      "tagged": true
+      "tagged": true,
+      "category": "Country & Americana"
     },
     "Steve Earle & The Dukes": {
       "albums": [
@@ -6595,12 +5133,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "alt-country",
-        "outlaw-country"
-      ],
-      "genre": "alt-country",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Country & Americana"
     },
     "Steve Earle & The Dukes (& Duchesses)": {
       "albums": [
@@ -6608,25 +5142,17 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "alt-country",
-        "outlaw-country"
-      ],
-      "genre": "alt-country",
-      "era": "2010s"
+      "era": "2010s",
+      "category": "Country & Americana"
     },
     "Steve Earle-The Del McCoury Band": {
       "albums": [
         "The Mountain"
       ],
       "album_count": 1,
-      "scenes": [
-        "alt-country",
-        "bluegrass"
-      ],
       "era": "1999",
-      "genre": "bluegrass / country",
-      "tagged": true
+      "tagged": true,
+      "category": "Bluegrass"
     },
     "Steve Fowler": {
       "albums": [
@@ -6653,12 +5179,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "blues-rock",
-        "texas-blues"
-      ],
-      "genre": "blues rock",
-      "era": "1980s"
+      "era": "1980s",
+      "category": "Blues"
     },
     "Stevie Wonder": {
       "albums": [
@@ -6667,12 +5189,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "soul-canon",
-        "funk-canon"
-      ],
-      "genre": "soul / funk",
-      "era": "1960s-now"
+      "era": "1960s-now",
+      "category": "Soul, Funk & R&B"
     },
     "Sting": {
       "albums": [
@@ -6686,12 +5204,8 @@
       ],
       "album_count": 7,
       "tagged": true,
-      "scenes": [
-        "pop-rock",
-        "sophisti-pop"
-      ],
-      "genre": "pop rock",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Art-Pop & New Wave"
     },
     "Strength in Numbers": {
       "albums": [
@@ -6699,10 +5213,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "bluegrass",
-        "newgrass"
-      ]
+      "category": "Newgrass"
     },
     "Sufjan Stevens": {
       "albums": [
@@ -6713,12 +5224,8 @@
       ],
       "album_count": 4,
       "tagged": true,
-      "scenes": [
-        "indie-folk",
-        "baroque-pop"
-      ],
-      "genre": "indie folk",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Swollen Members": {
       "albums": [
@@ -6726,11 +5233,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "underground-hiphop"
-      ],
-      "genre": "underground hip-hop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Underground Hip-Hop"
     },
     "TV On The Radio": {
       "albums": [
@@ -6739,12 +5243,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "indie-rock",
-        "art-rock"
-      ],
-      "genre": "art rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Art-Pop & New Wave"
     },
     "Taj Mahal & Toumani Diabate": {
       "albums": [
@@ -6752,40 +5252,26 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "world",
-        "west-african",
-        "blues"
-      ],
-      "genre": "world fusion",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Blues"
     },
     "Talib Kweli": {
       "albums": [
         "Quality"
       ],
       "album_count": 1,
-      "scenes": [
-        "conscious-hiphop",
-        "rawkus"
-      ],
       "era": "1998-now",
-      "genre": "hip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Underground Hip-Hop"
     },
     "Talib Kweli & Hi Tek": {
       "albums": [
         "Reflection Eternal"
       ],
       "album_count": 1,
-      "scenes": [
-        "conscious-hiphop",
-        "rawkus",
-        "reflection-eternal"
-      ],
       "era": "2000",
-      "genre": "hip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Underground Hip-Hop"
     },
     "Talking Heads": {
       "albums": [
@@ -6797,13 +5283,8 @@
       ],
       "album_count": 5,
       "tagged": true,
-      "scenes": [
-        "new-wave",
-        "art-rock",
-        "post-punk"
-      ],
-      "genre": "new wave / art rock",
-      "era": "1970s-80s"
+      "era": "1970s-80s",
+      "category": "Art-Pop & New Wave"
     },
     "Tarbox Ramblers": {
       "albums": [
@@ -6811,9 +5292,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "bluegrass"
-      ]
+      "category": "Bluegrass"
     },
     "Tea Leaf Green": {
       "albums": [
@@ -6821,11 +5300,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "jam"
-      ],
-      "genre": "jam",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Jam"
     },
     "Tegan & Sara": {
       "albums": [
@@ -6834,11 +5310,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "indie-pop"
-      ],
-      "genre": "indie pop",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Pop & Synth-Pop"
     },
     "Tenacious D": {
       "albums": [
@@ -6846,12 +5319,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "comedy-rock",
-        "hard-rock"
-      ],
-      "genre": "comedy rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Classic Rock"
     },
     "Tha Liks": {
       "albums": [
@@ -6859,11 +5328,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "west-coast-hiphop"
-      ],
-      "genre": "hip-hop",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Underground Hip-Hop"
     },
     "The Allman Brothers Band": {
       "albums": [
@@ -6871,13 +5337,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "jam",
-        "southern-rock",
-        "classic-rock"
-      ],
-      "genre": "southern rock",
-      "era": "1970s-now"
+      "era": "1970s-now",
+      "category": "Jam"
     },
     "The Band": {
       "albums": [
@@ -6885,12 +5346,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "roots-rock",
-        "americana"
-      ],
-      "genre": "roots rock",
-      "era": "1960s-70s"
+      "era": "1960s-70s",
+      "category": "Country & Americana"
     },
     "The Beat Junkies": {
       "albums": [
@@ -6900,11 +5357,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "turntablism"
-      ],
-      "genre": "turntablism",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Turntablism & Beats"
     },
     "The Beatles": {
       "albums": [
@@ -6915,12 +5369,8 @@
       ],
       "album_count": 4,
       "tagged": true,
-      "scenes": [
-        "classic-rock",
-        "british-invasion"
-      ],
-      "genre": "rock",
-      "era": "1960s-70s"
+      "era": "1960s-70s",
+      "category": "Classic Rock"
     },
     "The Beta Band": {
       "albums": [
@@ -6928,12 +5378,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "scottish-indie",
-        "folktronica"
-      ],
       "era": "1996-2004",
-      "genre": "indie"
+      "category": "Indie Rock"
     },
     "The Bird And The Bee": {
       "albums": [
@@ -6952,12 +5398,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "blues-rock",
-        "garage-rock"
-      ],
-      "genre": "blues rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Blues"
     },
     "The Bravery": {
       "albums": [
@@ -6984,12 +5426,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "folk-rock-canon",
-        "country-rock"
-      ],
-      "genre": "folk rock / country rock",
-      "era": "1960s-70s"
+      "era": "1960s-70s",
+      "category": "Country & Americana"
     },
     "The Chemical Brothers": {
       "albums": [
@@ -6997,12 +5435,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "big-beat",
-        "electronic"
-      ],
-      "genre": "electronic / big beat",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Electronic"
     },
     "The Clash": {
       "albums": [
@@ -7026,12 +5460,9 @@
         "This is England"
       ],
       "album_count": 18,
-      "scenes": [
-        "british-punk"
-      ],
       "era": "1976-1986",
-      "genre": "punk",
-      "tagged": true
+      "tagged": true,
+      "category": "Punk & Hardcore"
     },
     "The Commodores": {
       "albums": [
@@ -7039,12 +5470,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "funk-canon",
-        "soul-canon"
-      ],
-      "genre": "funk / soul",
-      "era": "1970s-80s"
+      "era": "1970s-80s",
+      "category": "Soul, Funk & R&B"
     },
     "The Company Band": {
       "albums": [
@@ -7055,12 +5482,8 @@
       ],
       "album_count": 4,
       "tagged": true,
-      "scenes": [
-        "stoner-rock",
-        "hard-rock"
-      ],
-      "genre": "stoner rock",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Metal"
     },
     "The Cult": {
       "albums": [
@@ -7086,11 +5509,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "jam"
-      ],
-      "genre": "jam",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Jam"
     },
     "The Departed Soundtrack": {
       "albums": [
@@ -7106,13 +5526,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "jam",
-        "blues-rock",
-        "sacred-steel"
-      ],
-      "genre": "blues rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Jam"
     },
     "The Dining Rooms": {
       "albums": [
@@ -7120,12 +5535,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "downtempo",
-        "nu-jazz"
-      ],
-      "genre": "downtempo",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Trip-Hop & Downtempo"
     },
     "The Disposable Heroes of Hiphoprisy": {
       "albums": [
@@ -7133,11 +5544,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "political-hiphop"
-      ],
-      "genre": "political hip-hop",
-      "era": "1990s"
+      "era": "1990s",
+      "category": "Hip-Hop"
     },
     "The Dresden Dolls": {
       "albums": [
@@ -7145,11 +5553,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "dark-cabaret"
-      ],
-      "genre": "dark cabaret",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Art-Pop & New Wave"
     },
     "The Egg": {
       "albums": [
@@ -7157,11 +5562,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "electronic"
-      ],
-      "genre": "electronic",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Electronic"
     },
     "The Flaming Lips": {
       "albums": [
@@ -7172,12 +5574,8 @@
       ],
       "album_count": 4,
       "tagged": true,
-      "scenes": [
-        "psychedelic-rock",
-        "art-rock"
-      ],
-      "genre": "psychedelic rock",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Art-Pop & New Wave"
     },
     "The Fools": {
       "albums": [
@@ -7185,10 +5583,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "80s-novelty-rock"
-      ],
-      "note": "authentic novelty/comedy-rock lane"
+      "note": "authentic novelty/comedy-rock lane",
+      "category": "Pop"
     },
     "The Glitch Mob": {
       "albums": [
@@ -7196,12 +5592,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "electronic",
-        "glitch"
-      ],
-      "genre": "electronic / glitch",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Electronic"
     },
     "The Grateful Dead": {
       "albums": [
@@ -7209,11 +5601,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "jam"
-      ],
-      "genre": "jam / psychedelic rock",
-      "era": "1960s-1990s"
+      "era": "1960s-1990s",
+      "category": "Jam"
     },
     "The Handsome Family": {
       "albums": [
@@ -7223,12 +5612,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "gothic-americana",
-        "alt-country"
-      ],
-      "genre": "gothic country",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Gothic Americana"
     },
     "The Herbaliser": {
       "albums": [
@@ -7238,12 +5623,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "ninja-tune",
-        "downtempo"
-      ],
-      "genre": "downtempo / funk",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Turntablism & Beats"
     },
     "The Hold Steady": {
       "albums": [
@@ -7252,11 +5633,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "indie-rock"
-      ],
-      "genre": "heartland rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Rock"
     },
     "The Hoodoo Kings": {
       "albums": [
@@ -7264,11 +5642,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "nola"
-      ],
-      "genre": "New Orleans",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "New Orleans"
     },
     "The JP's": {
       "albums": [
@@ -7285,11 +5660,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "klezmer",
-        "jewish-roots"
-      ],
-      "note": "lane confirmed by Chris (\"Balkan and klezmer\")"
+      "note": "lane confirmed by Chris (\"Balkan and klezmer\")",
+      "category": "Downtown Avant-Garde"
     },
     "The Last Emperor": {
       "albums": [
@@ -7298,11 +5670,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "underground-hiphop"
-      ],
-      "genre": "underground hip-hop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Underground Hip-Hop"
     },
     "The London Film Score Orchestra": {
       "albums": [
@@ -7319,11 +5688,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "downtown-ny"
-      ],
-      "genre": "avant-garde jazz",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Downtown Avant-Garde"
     },
     "The Lumineers": {
       "albums": [
@@ -7340,9 +5706,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "indie-hiphop"
-      ]
+      "category": "Underground Hip-Hop"
     },
     "The Magnetic Fields": {
       "albums": [
@@ -7351,12 +5715,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "indie-pop",
-        "chamber-pop"
-      ],
-      "genre": "indie pop",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Indie Pop & Synth-Pop"
     },
     "The Mars Volta": {
       "albums": [
@@ -7365,12 +5725,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "progressive-rock",
-        "post-hardcore"
-      ],
-      "genre": "progressive rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Punk & Hardcore"
     },
     "The Microphones": {
       "albums": [
@@ -7378,12 +5734,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "lo-fi",
-        "indie-folk"
-      ],
-      "genre": "lo-fi",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "The Neville Brothers": {
       "albums": [
@@ -7391,12 +5743,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "nola",
-        "funk"
-      ],
-      "genre": "New Orleans R&B",
-      "era": "1970s-now"
+      "era": "1970s-now",
+      "category": "New Orleans"
     },
     "The Nextmen": {
       "albums": [
@@ -7404,12 +5752,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "downtempo",
-        "breakbeat"
-      ],
-      "genre": "hip-hop / breaks",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Trip-Hop & Downtempo"
     },
     "The Notwist": {
       "albums": [
@@ -7418,11 +5762,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "indie-electronic"
-      ],
-      "genre": "indie electronic",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Indie Pop & Synth-Pop"
     },
     "The Other Ones": {
       "albums": [
@@ -7431,11 +5772,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "jam"
-      ],
-      "genre": "jam",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Jam"
     },
     "The Pharcyde": {
       "albums": [
@@ -7444,12 +5782,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "west-coast-hiphop",
-        "alt-hiphop"
-      ],
-      "genre": "alternative hip-hop",
-      "era": "1990s"
+      "era": "1990s",
+      "category": "Underground Hip-Hop"
     },
     "The Pogues": {
       "albums": [
@@ -7458,11 +5792,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "celtic-punk"
-      ],
-      "genre": "celtic punk",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Punk & Hardcore"
     },
     "The Posies": {
       "albums": [
@@ -7479,11 +5810,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "indie-electronic"
-      ],
-      "genre": "indie electronic",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Indie Pop & Synth-Pop"
     },
     "The Pursuit of Happiness": {
       "albums": [
@@ -7500,12 +5828,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "garage-rock",
-        "blues-rock"
-      ],
-      "genre": "garage rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Blues"
     },
     "The Red Hot Chili Peppers": {
       "albums": [
@@ -7513,12 +5837,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "funk-rock",
-        "alt-rock-90s"
-      ],
-      "genre": "funk rock",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Classic Rock"
     },
     "The Rembrandts": {
       "albums": [
@@ -7544,12 +5864,9 @@
         "Let It Bleed"
       ],
       "album_count": 2,
-      "scenes": [
-        "classic-rock"
-      ],
       "era": "1962-now",
-      "genre": "rock",
-      "tagged": true
+      "tagged": true,
+      "category": "Classic Rock"
     },
     "The Seldom Scene": {
       "albums": [
@@ -7557,9 +5874,7 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "bluegrass"
-      ]
+      "category": "Bluegrass"
     },
     "The Smithereens": {
       "albums": [
@@ -7570,12 +5885,8 @@
       ],
       "album_count": 4,
       "tagged": true,
-      "scenes": [
-        "power-pop",
-        "jangle-pop"
-      ],
-      "genre": "power pop",
-      "era": "1980s-90s"
+      "era": "1980s-90s",
+      "category": "Indie Pop & Synth-Pop"
     },
     "The Soul Stirrers": {
       "albums": [
@@ -7583,12 +5894,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "soul-canon",
-        "gospel"
-      ],
-      "genre": "gospel",
-      "era": "1950s-60s"
+      "era": "1950s-60s",
+      "category": "Soul, Funk & R&B"
     },
     "The Steeldrivers": {
       "albums": [
@@ -7597,11 +5904,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "bluegrass"
-      ],
-      "genre": "bluegrass",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Bluegrass"
     },
     "The Streets": {
       "albums": [
@@ -7611,12 +5915,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "uk-garage",
-        "grime"
-      ],
-      "genre": "UK garage / rap",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Pop"
     },
     "The String Cheese Incident": {
       "albums": [
@@ -7625,12 +5925,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "jam",
-        "jamgrass"
-      ],
-      "genre": "jam",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Bluegrass"
     },
     "The Sword": {
       "albums": [
@@ -7638,11 +5934,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "stoner-metal"
-      ],
       "era": "2003-2018",
-      "genre": "stoner metal"
+      "category": "Metal"
     },
     "The The": {
       "albums": [
@@ -7651,24 +5944,17 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "post-punk",
-        "sophisti-pop"
-      ],
-      "genre": "post-punk",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Art-Pop & New Wave"
     },
     "The Tribe": {
       "albums": [
         "Abort"
       ],
       "album_count": 1,
-      "scenes": [
-        "world"
-      ],
       "era": "unknown",
-      "genre": "world (verify)",
-      "tagged": true
+      "tagged": true,
+      "category": "World"
     },
     "The X-Ecutioners": {
       "albums": [
@@ -7677,11 +5963,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "turntablism"
-      ],
-      "genre": "turntablism",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Turntablism & Beats"
     },
     "The xx": {
       "albums": [
@@ -7689,12 +5972,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "minimal-indie",
-        "dream-pop"
-      ],
-      "genre": "minimal indie",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Indie Rock"
     },
     "TheBeatles-WhiteAbum-2009StereoRemaster": {
       "albums": [
@@ -7703,12 +5982,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "classic-rock",
-        "british-invasion"
-      ],
-      "genre": "rock",
-      "era": "1960s-70s"
+      "era": "1960s-70s",
+      "category": "Classic Rock"
     },
     "Them Crooked Vultures": {
       "albums": [
@@ -7716,12 +5991,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "hard-rock",
-        "stoner-rock"
-      ],
-      "genre": "hard rock",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Metal"
     },
     "They Might Be Giants": {
       "albums": [
@@ -7729,10 +6000,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "alt-rock-canon"
-      ],
-      "note": "sole canon — passes canon-tolerance test"
+      "note": "sole canon — passes canon-tolerance test",
+      "category": "Classic Rock"
     },
     "Thievery Corporation": {
       "albums": [
@@ -7750,13 +6019,9 @@
         "Versions"
       ],
       "album_count": 12,
-      "scenes": [
-        "trip-hop",
-        "dub-electronic"
-      ],
       "era": "1995-now",
-      "genre": "trip-hop / downtempo",
-      "tagged": true
+      "tagged": true,
+      "category": "Trip-Hop & Downtempo"
     },
     "Threebrain": {
       "albums": [
@@ -7781,11 +6046,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "latin-jazz"
-      ],
-      "genre": "Latin jazz / mambo",
-      "era": "1950s-now"
+      "era": "1950s-now",
+      "category": "Latin"
     },
     "Tom Waits": {
       "albums": [
@@ -7811,16 +6073,11 @@
         "The Heart Of Saturday Night"
       ],
       "album_count": 20,
-      "scenes": [
-        "art-pop",
-        "americana",
-        "outsider"
-      ],
       "era": "1973-now",
-      "genre": "art-rock / americana",
       "tagged": true,
       "anchor": true,
-      "anchor_note": "Foundational anchor — art-rock/Americana/outsider centerpiece"
+      "anchor_note": "Foundational anchor — art-rock/Americana/outsider centerpiece",
+      "category": "Country & Americana"
     },
     "Tomahawk": {
       "albums": [
@@ -7829,12 +6086,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "patton-orbit",
-        "alt-metal"
-      ],
-      "genre": "experimental rock",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Patton Orbit"
     },
     "Tony Bennett": {
       "albums": [
@@ -7845,12 +6098,8 @@
       ],
       "album_count": 4,
       "tagged": true,
-      "scenes": [
-        "crooner-canon",
-        "traditional-pop"
-      ],
-      "genre": "traditional pop",
-      "era": "1950s-now"
+      "era": "1950s-now",
+      "category": "Pop"
     },
     "Tony Rice Unit": {
       "albums": [
@@ -7859,12 +6108,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "bluegrass",
-        "newgrass"
-      ],
-      "genre": "bluegrass guitar",
-      "era": "1980s-now"
+      "era": "1980s-now",
+      "category": "Newgrass"
     },
     "Tool": {
       "albums": [
@@ -7876,13 +6121,9 @@
         "Undertow"
       ],
       "album_count": 6,
-      "scenes": [
-        "progressive-metal",
-        "alt-rock-90s"
-      ],
       "era": "1990-now",
-      "genre": "progressive metal",
-      "tagged": true
+      "tagged": true,
+      "category": "Metal"
     },
     "Tor": {
       "albums": [
@@ -7892,11 +6133,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "instrumental-hiphop"
-      ],
-      "genre": "instrumental hip-hop",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Turntablism & Beats"
     },
     "Tori Amos": {
       "albums": [
@@ -7904,23 +6142,17 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "art-rock-canon"
-      ],
-      "note": "sole canon — passes"
+      "note": "sole canon — passes",
+      "category": "Classic Rock"
     },
     "Toshinori Kondo & DJ Krush": {
       "albums": [
         "Ki-Oku"
       ],
       "album_count": 1,
-      "scenes": [
-        "mo-wax",
-        "jazz-electronic"
-      ],
       "era": "1990s",
-      "genre": "jazz/electronic crossover",
-      "tagged": true
+      "tagged": true,
+      "category": "Turntablism & Beats"
     },
     "Tracy Chapman": {
       "albums": [
@@ -7928,12 +6160,9 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "folk-pop"
-      ],
       "era": "1988-now",
-      "genre": "folk",
-      "note": " (lane confirmed by Chris)"
+      "note": " (lane confirmed by Chris)",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Trey Anastasio": {
       "albums": [
@@ -7942,11 +6171,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "jam"
-      ],
-      "genre": "jam",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Jam"
     },
     "Trey Anastasio Band": {
       "albums": [
@@ -7956,11 +6182,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "jam"
-      ],
-      "genre": "jam",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Jam"
     },
     "Trombone Shorty": {
       "albums": [
@@ -7968,12 +6191,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "nola",
-        "brass-band"
-      ],
-      "genre": "New Orleans funk",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "New Orleans"
     },
     "Two Ton Shoe": {
       "albums": [
@@ -8009,12 +6228,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "ambient",
-        "shoegaze-electronic"
-      ],
-      "genre": "ambient electronic",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Electronic"
     },
     "Umphrey's McGee": {
       "albums": [
@@ -8024,12 +6239,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "jam",
-        "progressive-rock"
-      ],
-      "genre": "prog jam",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Jam"
     },
     "Un Solo Pueblo": {
       "albums": [
@@ -8058,11 +6269,8 @@
       ],
       "album_count": 4,
       "tagged": true,
-      "scenes": [
-        "rap-rock"
-      ],
-      "genre": "rap rock",
-      "era": "1990s"
+      "era": "1990s",
+      "category": "Hip-Hop"
     },
     "Van Morrison": {
       "albums": [
@@ -8076,12 +6284,8 @@
       ],
       "album_count": 7,
       "tagged": true,
-      "scenes": [
-        "singer-songwriter-canon",
-        "blue-eyed-soul"
-      ],
-      "genre": "celtic soul",
-      "era": "1960s-now"
+      "era": "1960s-now",
+      "category": "Soul, Funk & R&B"
     },
     "Various": {
       "albums": [
@@ -8098,12 +6302,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "defjux",
-        "underground-hiphop"
-      ],
-      "genre": "underground hip-hop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Def Jux"
     },
     "Vince Guaraldi": {
       "albums": [
@@ -8111,12 +6311,9 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "jazz-piano-canon"
-      ],
       "era": "1955-1976",
-      "genre": "jazz piano",
-      "note": "foundational jazz piano — fits Mehldau/Goldberg/Aaron Goldberg lane"
+      "note": "foundational jazz piano — fits Mehldau/Goldberg/Aaron Goldberg lane",
+      "category": "Jazz"
     },
     "Vishwa Mohan Bhatt With Bela Fleck and J": {
       "albums": [
@@ -8124,12 +6321,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "world",
-        "indo-american"
-      ],
-      "genre": "world fusion",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "World"
     },
     "Vishwa Mohan Bhatt With Bela Fleck and Jie Bing Chen": {
       "albums": [
@@ -8137,25 +6330,17 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "world",
-        "indo-american"
-      ],
-      "genre": "world fusion",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "World"
     },
     "Vishwa Mohan Bhatt-Jerry Douglas": {
       "albums": [
         "Bourbon & Rosewater"
       ],
       "album_count": 1,
-      "scenes": [
-        "world",
-        "indo-american"
-      ],
       "era": "2000s",
-      "genre": "world / fusion",
-      "tagged": true
+      "tagged": true,
+      "category": "World"
     },
     "Visionaries": {
       "albums": [
@@ -8163,12 +6348,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "project-blowed",
-        "underground-hiphop"
-      ],
-      "genre": "underground hip-hop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Underground Hip-Hop"
     },
     "Volbeat": {
       "albums": [
@@ -8176,12 +6357,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "heavy-metal",
-        "rockabilly"
-      ],
-      "genre": "metal / rockabilly",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Metal"
     },
     "WEATHERMEN": {
       "albums": [
@@ -8190,12 +6367,8 @@
       ],
       "album_count": 2,
       "tagged": true,
-      "scenes": [
-        "underground-hiphop",
-        "defjux"
-      ],
-      "genre": "underground hip-hop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Def Jux"
     },
     "Warren Zevon - I'll Sleep When I'm Dead (An Anthology)": {
       "albums": [
@@ -8205,11 +6378,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "singer-songwriter"
-      ],
-      "genre": "singer-songwriter",
-      "era": "1970s-2000s"
+      "era": "1970s-2000s",
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Waylon Jennings": {
       "albums": [
@@ -8217,12 +6387,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "outlaw-country",
-        "country-canon"
-      ],
-      "genre": "outlaw country",
-      "era": "1970s-80s"
+      "era": "1970s-80s",
+      "category": "Country & Americana"
     },
     "Weather Report": {
       "albums": [
@@ -8230,11 +6396,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "jazz-fusion"
-      ],
-      "genre": "jazz fusion",
-      "era": "1970s-80s"
+      "era": "1970s-80s",
+      "category": "Jazz"
     },
     "Ween": {
       "albums": [
@@ -8242,12 +6405,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "alt-rock-90s",
-        "experimental-rock"
-      ],
-      "genre": "experimental rock",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Art-Pop & New Wave"
     },
     "Weird Little Boy": {
       "albums": [
@@ -8264,12 +6423,9 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "industrial-metal"
-      ],
       "era": "1985-1996",
-      "genre": "industrial metal",
-      "note": " (lane confirmed by Chris)"
+      "note": " (lane confirmed by Chris)",
+      "category": "Industrial & EBM"
     },
     "Widespread Panic": {
       "albums": [
@@ -8279,12 +6435,8 @@
       ],
       "album_count": 3,
       "tagged": true,
-      "scenes": [
-        "jam",
-        "southern-rock"
-      ],
-      "genre": "jam",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Jam"
     },
     "Wilco": {
       "albums": [
@@ -8295,12 +6447,8 @@
       ],
       "album_count": 4,
       "tagged": true,
-      "scenes": [
-        "alt-country",
-        "indie-rock"
-      ],
-      "genre": "alt-country / indie",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Country & Americana"
     },
     "William Orbit": {
       "albums": [
@@ -8317,36 +6465,27 @@
         "Spare Ass Annie and Other Tales"
       ],
       "album_count": 2,
-      "scenes": [
-        "beat-spoken-word"
-      ],
       "era": "1960s-1990s",
-      "genre": "spoken word / beat",
-      "tagged": true
+      "tagged": true,
+      "category": "Art-Pop & New Wave"
     },
     "Willie Nelson": {
       "albums": [
         "Stardust"
       ],
       "album_count": 1,
-      "scenes": [
-        "outlaw-country"
-      ],
       "era": "1962-now",
-      "genre": "country",
-      "tagged": true
+      "tagged": true,
+      "category": "Country & Americana"
     },
     "Willie Nelson-Waylon Jennings": {
       "albums": [
         "Original Outlaws"
       ],
       "album_count": 1,
-      "scenes": [
-        "outlaw-country"
-      ],
       "era": "1976-now",
-      "genre": "country",
-      "tagged": true
+      "tagged": true,
+      "category": "Country & Americana"
     },
     "Willy Porter": {
       "albums": [
@@ -8355,12 +6494,9 @@
         "Willy Porter Live"
       ],
       "album_count": 3,
-      "scenes": [
-        "singer-songwriter"
-      ],
       "era": "1990s-now",
-      "genre": "acoustic singer-songwriter",
-      "tagged": true
+      "tagged": true,
+      "category": "Indie Folk & Singer-Songwriter"
     },
     "Wovenhand": {
       "albums": [
@@ -8371,98 +6507,70 @@
         "Woven Hand"
       ],
       "album_count": 5,
-      "scenes": [
-        "gothic-americana",
-        "16hp-orbit"
-      ],
       "era": "2002-now",
-      "genre": "gothic americana",
-      "tagged": true
+      "tagged": true,
+      "category": "Gothic Americana"
     },
     "Wrecking Crew": {
       "albums": [
         "Balance of Terror"
       ],
       "album_count": 1,
-      "scenes": [
-        "session-musicians"
-      ],
       "era": "1960s",
-      "genre": "session musicians",
-      "tagged": true
+      "tagged": true,
+      "category": "Pop"
     },
     "XTC": {
       "albums": [
         "Nonsuch"
       ],
       "album_count": 1,
-      "scenes": [
-        "british-new-wave"
-      ],
       "era": "1977-2005",
-      "genre": "art rock / new wave",
-      "tagged": true
+      "tagged": true,
+      "category": "Art-Pop & New Wave"
     },
     "Xx": {
       "albums": [
         "The XX"
       ],
       "album_count": 1,
-      "scenes": [
-        "minimal-indie"
-      ],
       "era": "2009-now",
-      "genre": "indie / dream pop",
-      "tagged": true
+      "tagged": true,
+      "category": "Indie Rock"
     },
     "Xzibit": {
       "albums": [
         "Restless"
       ],
       "album_count": 1,
-      "scenes": [
-        "west-coast-hiphop"
-      ],
       "era": "1990s-2000s",
-      "genre": "hip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Underground Hip-Hop"
     },
     "Yael Naïm": {
       "albums": [
         "Yael Naïm"
       ],
       "album_count": 1,
-      "scenes": [
-        "french-israeli",
-        "folk-pop"
-      ],
       "era": "2007-now",
-      "genre": "folk pop",
-      "tagged": true
+      "tagged": true,
+      "category": "Downtown Avant-Garde"
     },
     "Yerba Buena": {
       "albums": [
         "President Alien"
       ],
       "album_count": 1,
-      "scenes": [
-        "nu-latin",
-        "world"
-      ],
       "era": "2003-now",
-      "genre": "latin / world",
-      "tagged": true
+      "tagged": true,
+      "category": "Latin"
     },
     "Yes": {
       "albums": [
         "Big Generator"
       ],
       "album_count": 1,
-      "scenes": [
-        "prog-rock"
-      ],
       "era": "1968-now",
-      "genre": "prog rock",
       "tagged": true,
       "discard": true,
       "discard_reason": "confirmed by Chris (round 1)"
@@ -8472,49 +6580,36 @@
         "Obrigado Brazil"
       ],
       "album_count": 1,
-      "scenes": [
-        "classical-crossover"
-      ],
       "era": "1979-now",
-      "genre": "classical / crossover",
-      "tagged": true
+      "tagged": true,
+      "category": "Classical"
     },
     "Yo-Yo Ma-Edgar Meyer-Mark O'Connor": {
       "albums": [
         "Appalachian Journey"
       ],
       "album_count": 1,
-      "scenes": [
-        "classical-crossover",
-        "appalachian"
-      ],
       "era": "2000s",
-      "genre": "classical / appalachian",
-      "tagged": true
+      "tagged": true,
+      "category": "Bluegrass"
     },
     "Young The Giant": {
       "albums": [
         "Young The Giant (Special Edition)"
       ],
       "album_count": 1,
-      "scenes": [
-        "indie-rock-2010s"
-      ],
       "era": "2009-now",
-      "genre": "indie rock",
-      "tagged": true
+      "tagged": true,
+      "category": "Indie Rock"
     },
     "Z-Trip": {
       "albums": [
         "All Pro"
       ],
       "album_count": 1,
-      "scenes": [
-        "turntablism"
-      ],
       "era": "2000s",
-      "genre": "turntablism",
-      "tagged": true
+      "tagged": true,
+      "category": "Turntablism & Beats"
     },
     "Zap Mama": {
       "albums": [
@@ -8522,13 +6617,9 @@
         "Ancestry in Progress bonus CD"
       ],
       "album_count": 2,
-      "scenes": [
-        "afro-european",
-        "world"
-      ],
       "era": "1991-now",
-      "genre": "afro-pop / a cappella",
-      "tagged": true
+      "tagged": true,
+      "category": "World"
     },
     "Zero 7": {
       "albums": [
@@ -8538,13 +6629,9 @@
         "Yeah Ghost"
       ],
       "album_count": 4,
-      "scenes": [
-        "trip-hop",
-        "downtempo"
-      ],
       "era": "2001-now",
-      "genre": "downtempo / trip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Trip-Hop & Downtempo"
     },
     "cEvin Key_Ken Marshall": {
       "albums": [
@@ -8552,11 +6639,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "industrial"
-      ],
-      "genre": "industrial",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Industrial & EBM"
     },
     "cLOUDDEAD": {
       "albums": [
@@ -8564,13 +6648,9 @@
         "ten"
       ],
       "album_count": 2,
-      "scenes": [
-        "anticon",
-        "underground-hiphop"
-      ],
       "era": "2001-2004",
-      "genre": "experimental hip-hop",
-      "tagged": true
+      "tagged": true,
+      "category": "Anticon"
     },
     "dangerdoom": {
       "albums": [
@@ -8578,12 +6658,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "underground-hiphop",
-        "stones-throw"
-      ],
-      "genre": "underground hip-hop",
-      "era": "2000s"
+      "era": "2000s",
+      "category": "Stones Throw"
     },
     "dirty projectors": {
       "albums": [
@@ -8591,12 +6667,8 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "indie-rock",
-        "experimental-rock"
-      ],
-      "genre": "experimental indie",
-      "era": "2000s-now"
+      "era": "2000s-now",
+      "category": "Art-Pop & New Wave"
     },
     "moe_": {
       "albums": [
@@ -8604,25 +6676,18 @@
       ],
       "album_count": 1,
       "tagged": true,
-      "scenes": [
-        "jam"
-      ],
-      "genre": "jam",
-      "era": "1990s-now"
+      "era": "1990s-now",
+      "category": "Jam"
     },
     "The A-Team": {
       "albums": [
         "Who Framed the A-Team-"
       ],
       "album_count": 1,
-      "scenes": [
-        "project-blowed",
-        "underground-hiphop"
-      ],
       "era": "2010s",
-      "genre": "underground hip-hop",
       "tagged": true,
-      "note": "Aceyalone & Abstract Rude duo — corrected by Chris"
+      "note": "Aceyalone & Abstract Rude duo — corrected by Chris",
+      "category": "Underground Hip-Hop"
     }
   },
   "compilations": {

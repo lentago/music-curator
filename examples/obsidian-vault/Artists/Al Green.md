@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["soul-canon", "memphis-soul"]
-genre: "soul"
+category: "Soul, Funk & R&B"
 era: "1967-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "soul-funk-r-b"]
 ---
 
 # Al Green
 
-**Scenes / genre:** [[soul-canon|Soul Canon]] · [[memphis-soul|Memphis Soul]] · [[soul (2)|soul]]
+**Category:** [[Soul, Funk & R&B]]
 
 ## Albums (1)
 - Al Green's Greatest Hits

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["tzadik", "jazz-canon"]
-genre: "jazz"
+category: "Downtown Avant-Garde"
 era: "1970s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "downtown-avant-garde"]
 ---
 
 # Pat Metheny
 
-**Scenes / genre:** [[tzadik|Tzadik]] · [[jazz-canon|Jazz Canon]] · [[jazz]]
+**Category:** [[Downtown Avant-Garde]]
 
 ## Albums (1)
 - Tap The Book of Angels Volume 20

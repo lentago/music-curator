@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["power-pop", "jangle-pop"]
-genre: "power pop"
+category: "Indie Pop & Synth-Pop"
 era: "1980s-90s"
 album_count: 4
-tags: ["artist"]
+tags: ["artist", "indie-pop-synth-pop"]
 ---
 
 # The Smithereens
 
-**Scenes / genre:** [[power-pop|Power Pop]] · [[jangle-pop|Jangle Pop]] · [[power pop]]
+**Category:** [[Indie Pop & Synth-Pop]]
 
 ## Albums (4)
 - Anthology From Jersey It Came

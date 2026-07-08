@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["post-hardcore", "alt-rock-90s"]
-genre: "post-hardcore"
+category: "Punk & Hardcore"
 era: "1990s-2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "punk-hardcore"]
 ---
 
 # At The Drive-In
 
-**Scenes / genre:** [[post-hardcore|Post Hardcore]] · [[alt-rock-90s|Alt Rock 90S]] · [[post-hardcore (2)|post-hardcore]]
+**Category:** [[Punk & Hardcore]]
 
 ## Albums (1)
 - Relationship Of Command

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["vocal-jazz"]
-genre: "vocal jazz"
+category: "Jazz"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "jazz"]
 ---
 
 # Curtis Stigers
 
-**Scenes / genre:** [[vocal-jazz|Vocal Jazz]] · [[vocal jazz]]
+**Category:** [[Jazz]]
 
 ## Albums (1)
 - I Wonder Why

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["funk-electronic", "breakbeat"]
-genre: "funk breaks"
+category: "Electronic"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "electronic"]
 ---
 
 # Fort Knox Five
 
-**Scenes / genre:** [[funk-electronic|Funk Electronic]] · [[breakbeat|Breakbeat]] · [[funk breaks]]
+**Category:** [[Electronic]]
 
 ## Albums (1)
 - The New Gold Standard

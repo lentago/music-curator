@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["alt-rock-90s"]
-genre: "low rock / noir"
+category: "Indie Rock"
 era: "1990s"
 album_count: 4
-tags: ["artist"]
+tags: ["artist", "indie-rock"]
 ---
 
 # Morphine
 
-**Scenes / genre:** [[alt-rock-90s|Alt Rock 90S]] · [[low rock]] · [[noir]]
+**Category:** [[Indie Rock]]
 
 ## Albums (4)
 - Cure for Pain

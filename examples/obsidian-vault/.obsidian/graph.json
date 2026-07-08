@@ -8,38 +8,227 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#scene",
+      "query": "tag:#anticon",
       "color": {
         "a": 1,
-        "rgb": 4886745
+        "rgb": 13917790
       }
     },
     {
-      "query": "tag:#genre",
+      "query": "tag:#art-pop-new-wave",
       "color": {
         "a": 1,
-        "rgb": 15243066
+        "rgb": 6193364
       }
     },
     {
-      "query": "tag:#reservoir",
+      "query": "tag:#bluegrass",
       "color": {
         "a": 1,
-        "rgb": 7240587
+        "rgb": 10736734
       }
     },
     {
-      "query": "tag:#moc -tag:#reservoir",
+      "query": "tag:#blues",
       "color": {
         "a": 1,
-        "rgb": 5595248
+        "rgb": 13917893
       }
     },
     {
-      "query": "tag:#artist -tag:#reservoir",
+      "query": "tag:#classic-rock",
       "color": {
         "a": 1,
-        "rgb": 13225426
+        "rgb": 6214848
+      }
+    },
+    {
+      "query": "tag:#classical",
+      "color": {
+        "a": 1,
+        "rgb": 13934174
+      }
+    },
+    {
+      "query": "tag:#country-americana",
+      "color": {
+        "a": 1,
+        "rgb": 8085204
+      }
+    },
+    {
+      "query": "tag:#def-jux",
+      "color": {
+        "a": 1,
+        "rgb": 6542430
+      }
+    },
+    {
+      "query": "tag:#downtown-avant-garde",
+      "color": {
+        "a": 1,
+        "rgb": 13917829
+      }
+    },
+    {
+      "query": "tag:#electronic",
+      "color": {
+        "a": 1,
+        "rgb": 6203604
+      }
+    },
+    {
+      "query": "tag:#gothic-americana",
+      "color": {
+        "a": 1,
+        "rgb": 13292638
+      }
+    },
+    {
+      "query": "tag:#hip-hop",
+      "color": {
+        "a": 1,
+        "rgb": 12279508
+      }
+    },
+    {
+      "query": "tag:#indie-folk-singer-songwriter",
+      "color": {
+        "a": 1,
+        "rgb": 6214809
+      }
+    },
+    {
+      "query": "tag:#indie-pop-synth-pop",
+      "color": {
+        "a": 1,
+        "rgb": 13923934
+      }
+    },
+    {
+      "query": "tag:#indie-rock",
+      "color": {
+        "a": 1,
+        "rgb": 6187220
+      }
+    },
+    {
+      "query": "tag:#industrial-ebm",
+      "color": {
+        "a": 1,
+        "rgb": 9098334
+      }
+    },
+    {
+      "query": "tag:#jam",
+      "color": {
+        "a": 1,
+        "rgb": 13917869
+      }
+    },
+    {
+      "query": "tag:#jazz",
+      "color": {
+        "a": 1,
+        "rgb": 6213588
+      }
+    },
+    {
+      "query": "tag:#latin",
+      "color": {
+        "a": 1,
+        "rgb": 13940318
+      }
+    },
+    {
+      "query": "tag:#metal",
+      "color": {
+        "a": 1,
+        "rgb": 9723604
+      }
+    },
+    {
+      "query": "tag:#new-orleans",
+      "color": {
+        "a": 1,
+        "rgb": 6214769
+      }
+    },
+    {
+      "query": "tag:#newgrass",
+      "color": {
+        "a": 1,
+        "rgb": 13917805
+      }
+    },
+    {
+      "query": "tag:#patton-orbit",
+      "color": {
+        "a": 1,
+        "rgb": 6197204
+      }
+    },
+    {
+      "query": "tag:#pop",
+      "color": {
+        "a": 1,
+        "rgb": 11719774
+      }
+    },
+    {
+      "query": "tag:#post-rock",
+      "color": {
+        "a": 1,
+        "rgb": 13917908
+      }
+    },
+    {
+      "query": "tag:#punk-hardcore",
+      "color": {
+        "a": 1,
+        "rgb": 6214833
+      }
+    },
+    {
+      "query": "tag:#soul-funk-r-b",
+      "color": {
+        "a": 1,
+        "rgb": 13930334
+      }
+    },
+    {
+      "query": "tag:#stones-throw",
+      "color": {
+        "a": 1,
+        "rgb": 7102164
+      }
+    },
+    {
+      "query": "tag:#trip-hop-downtempo",
+      "color": {
+        "a": 1,
+        "rgb": 7525470
+      }
+    },
+    {
+      "query": "tag:#turntablism-beats",
+      "color": {
+        "a": 1,
+        "rgb": 13917845
+      }
+    },
+    {
+      "query": "tag:#underground-hip-hop",
+      "color": {
+        "a": 1,
+        "rgb": 6207444
+      }
+    },
+    {
+      "query": "tag:#world",
+      "color": {
+        "a": 1,
+        "rgb": 13946718
       }
     }
   ],
@@ -53,6 +242,6 @@
   "repelStrength": 12,
   "linkStrength": 1,
   "linkDistance": 220,
-  "scale": 0.5,
+  "scale": 0.10147157126555229,
   "close": true
 }

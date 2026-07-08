@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["avant-metal", "patton-orbit"]
-genre: "experimental metal"
+category: "Patton Orbit"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "patton-orbit"]
 ---
 
 # Fantômas
 
-**Scenes / genre:** [[avant-metal|Avant Metal]] · [[patton-orbit|Patton Orbit]] · [[experimental metal]]
+**Category:** [[Patton Orbit]]
 
 ## Albums (1)
 - The Director's Cut

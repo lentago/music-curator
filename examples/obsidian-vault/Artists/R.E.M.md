@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["college-rock", "jangle-pop"]
-genre: "alt rock"
+category: "Indie Rock"
 era: "1980-2011"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "indie-rock"]
 ---
 
 # R.E.M
 
-**Scenes / genre:** [[college-rock|College Rock]] · [[jangle-pop|Jangle Pop]] · [[alt rock]]
+**Category:** [[Indie Rock]]
 
 ## Albums (2)
 - Document

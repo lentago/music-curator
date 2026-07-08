@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-rock", "lo-fi"]
-genre: "indie rock"
+category: "Indie Rock"
 era: "1990s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "indie-rock"]
 ---
 
 # Liz Phair
 
-**Scenes / genre:** [[indie-rock|Indie Rock]] · [[lo-fi|Lo Fi]] · [[indie rock]]
+**Category:** [[Indie Rock]]
 
 ## Albums (3)
 - Exile in Guyville

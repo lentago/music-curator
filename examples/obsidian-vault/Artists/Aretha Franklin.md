@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["soul-canon"]
-genre: "soul"
+category: "Soul, Funk & R&B"
 era: "1960s-2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "soul-funk-r-b"]
 ---
 
 # Aretha Franklin
 
-**Scenes / genre:** [[soul-canon|Soul Canon]] · [[soul (2)|soul]]
+**Category:** [[Soul, Funk & R&B]]
 
 > sole comp acceptable for canonical soul figure
 

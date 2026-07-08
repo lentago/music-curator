@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["progressive-rock", "classic-rock"]
-genre: "progressive rock"
+category: "Classic Rock"
 era: "1970s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "classic-rock"]
 ---
 
 # Rush
 
-**Scenes / genre:** [[progressive-rock|Progressive Rock]] · [[classic-rock|Classic Rock]] · [[progressive rock]]
+**Category:** [[Classic Rock]]
 
 ## Albums (2)
 - 2112

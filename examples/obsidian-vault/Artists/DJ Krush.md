@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["mo-wax", "instrumental-hiphop"]
-genre: "instrumental hip-hop / turntablism"
+category: "Turntablism & Beats"
 era: "1990s-now"
 album_count: 8
-tags: ["artist"]
+tags: ["artist", "turntablism-beats"]
 ---
 
 # DJ Krush
 
-**Scenes / genre:** [[mo-wax|Mo Wax]] · [[instrumental-hiphop|Instrumental Hiphop]] · [[instrumental hip-hop]] · [[turntablism (2)|turntablism]]
+**Category:** [[Turntablism & Beats]]
 
 ## Albums (8)
 - Code 4109

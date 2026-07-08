@@ -1,16 +1,15 @@
 ---
 type: "artist"
-scenes: ["world", "indo-american"]
-genre: "world / fusion"
+category: "World"
 era: "2000s"
 album_count: 1
 collaborators: ["Jerry Douglas"]
-tags: ["artist"]
+tags: ["artist", "world"]
 ---
 
 # Vishwa Mohan Bhatt-Jerry Douglas
 
-**Scenes / genre:** [[world|World]] · [[indo-american|Indo American]] · [[world (2)|world]] · [[fusion]]
+**Category:** [[World]]
 
 **With:** [[Jerry Douglas]]
 

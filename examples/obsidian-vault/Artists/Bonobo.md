@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["ninja-tune", "downtempo"]
-genre: "downtempo"
+category: "Turntablism & Beats"
 era: "2000s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "turntablism-beats"]
 ---
 
 # Bonobo
 
-**Scenes / genre:** [[ninja-tune|Ninja Tune]] · [[downtempo|Downtempo]] · [[downtempo (2)|downtempo]]
+**Category:** [[Turntablism & Beats]]
 
 ## Albums (1)
 - Black Sands

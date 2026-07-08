@@ -1,16 +1,15 @@
 ---
 type: "artist"
-scenes: ["classic-rock", "roots-rock"]
-genre: "roots rock"
+category: "Country & Americana"
 era: "1980s-now"
 album_count: 1
 collaborators: ["Mark Knopfler"]
-tags: ["artist"]
+tags: ["artist", "country-americana"]
 ---
 
 # Dire Straits & Mark Knopfler
 
-**Scenes / genre:** [[classic-rock|Classic Rock]] · [[roots-rock|Roots Rock]] · [[roots rock]]
+**Category:** [[Country & Americana]]
 
 **With:** [[Mark Knopfler]]
 

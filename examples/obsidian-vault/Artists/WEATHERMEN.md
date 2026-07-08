@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["underground-hiphop", "defjux"]
-genre: "underground hip-hop"
+category: "Def Jux"
 era: "2000s"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "def-jux"]
 ---
 
 # WEATHERMEN
 
-**Scenes / genre:** [[underground-hiphop|Underground Hiphop]] · [[defjux|Defjux]] · [[underground hip-hop]]
+**Category:** [[Def Jux]]
 
 ## Albums (2)
 - Torrent downloaded from Demonoid.com.txt

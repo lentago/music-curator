@@ -1,13 +1,13 @@
 ---
 type: "artist"
-scenes: ["80s-novelty-rock"]
+category: "Pop"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "pop"]
 ---
 
 # The Fools
 
-**Scenes / genre:** [[80s-novelty-rock|80S Novelty Rock]]
+**Category:** [[Pop]]
 
 > authentic novelty/comedy-rock lane
 

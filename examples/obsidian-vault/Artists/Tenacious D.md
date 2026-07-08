@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["comedy-rock", "hard-rock"]
-genre: "comedy rock"
+category: "Classic Rock"
 era: "2000s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "classic-rock"]
 ---
 
 # Tenacious D
 
-**Scenes / genre:** [[comedy-rock|Comedy Rock]] · [[hard-rock|Hard Rock]] · [[comedy rock]]
+**Category:** [[Classic Rock]]
 
 ## Albums (1)
 - Tenacious D

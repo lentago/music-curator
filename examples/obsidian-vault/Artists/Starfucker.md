@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-pop", "synth-pop"]
-genre: "indie pop"
+category: "Indie Pop & Synth-Pop"
 era: "2000s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "indie-pop-synth-pop"]
 ---
 
 # Starfucker
 
-**Scenes / genre:** [[indie-pop|Indie Pop]] · [[synth-pop|Synth Pop]] · [[indie pop]]
+**Category:** [[Indie Pop & Synth-Pop]]
 
 ## Albums (1)
 - Reptilians

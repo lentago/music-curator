@@ -1,16 +1,15 @@
 ---
 type: "artist"
-scenes: ["blues-rock", "americana", "duet"]
-genre: "blues-rock / americana"
+category: "Blues"
 era: "2006"
 album_count: 1
 collaborators: ["Mark Knopfler", "Emmylou Harris"]
-tags: ["artist"]
+tags: ["artist", "blues"]
 ---
 
 # Mark Knopfler And Emmylou Harris
 
-**Scenes / genre:** [[blues-rock|Blues Rock]] · [[americana|Americana]] · [[duet|Duet]] · [[blues-rock (2)|blues-rock]] · [[americana (3)|americana]]
+**Category:** [[Blues]]
 
 **With:** [[Mark Knopfler]] · [[Emmylou Harris]]
 

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["bachata", "latin-american"]
-genre: "bachata / merengue"
+category: "Latin"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "latin"]
 ---
 
 # Juan Luis Guerra 440
 
-**Scenes / genre:** [[bachata|Bachata]] · [[latin-american|Latin American]] · [[bachata (2)|bachata]] · [[merengue]]
+**Category:** [[Latin]]
 
 ## Albums (1)
 - Bachata Rosa

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["instrumental-hiphop", "trip-hop"]
-genre: "hip-hop production"
+category: "Turntablism & Beats"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "turntablism-beats"]
 ---
 
 # Dan the Automator
 
-**Scenes / genre:** [[instrumental-hiphop|Instrumental Hiphop]] · [[trip-hop|Trip Hop]] · [[hip-hop production]]
+**Category:** [[Turntablism & Beats]]
 
 ## Albums (1)
 - Wanna Buy a Monkey-- A Mixtape Session

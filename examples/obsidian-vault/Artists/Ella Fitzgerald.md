@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jazz-canon", "vocal-jazz"]
-genre: "vocal jazz"
+category: "Jazz"
 era: "1934-1996"
 album_count: 9
-tags: ["artist"]
+tags: ["artist", "jazz"]
 ---
 
 # Ella Fitzgerald
 
-**Scenes / genre:** [[jazz-canon|Jazz Canon]] · [[vocal-jazz|Vocal Jazz]] · [[vocal jazz]]
+**Category:** [[Jazz]]
 
 ## Albums (9)
 - Ella in Rome- The Birthday Concert

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jam"]
-genre: "jam"
+category: "Jam"
 era: "2000s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "jam"]
 ---
 
 # Trey Anastasio Band
 
-**Scenes / genre:** [[jam|Jam]] · [[jam (2)|jam]]
+**Category:** [[Jam]]
 
 ## Albums (3)
 - 5.31.03 The Warfield. San Fran, CA

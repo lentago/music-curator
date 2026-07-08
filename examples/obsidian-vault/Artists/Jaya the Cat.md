@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["ska-punk", "reggae"]
-genre: "reggae punk"
+category: "Punk & Hardcore"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "punk-hardcore"]
 ---
 
 # Jaya the Cat
 
-**Scenes / genre:** [[ska-punk|Ska Punk]] · [[reggae|Reggae]] · [[reggae punk]]
+**Category:** [[Punk & Hardcore]]
 
 ## Albums (1)
 - Basement Style

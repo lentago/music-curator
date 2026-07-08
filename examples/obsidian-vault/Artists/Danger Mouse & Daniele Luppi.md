@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["cinematic-pop"]
-genre: "cinematic pop"
+category: "Indie Pop & Synth-Pop"
 era: "2010s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "indie-pop-synth-pop"]
 ---
 
 # Danger Mouse & Daniele Luppi
 
-**Scenes / genre:** [[cinematic-pop|Cinematic Pop]] · [[cinematic pop]]
+**Category:** [[Indie Pop & Synth-Pop]]
 
 ## Albums (1)
 - Rome

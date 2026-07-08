@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["blues", "blues-canon"]
-genre: "blues"
+category: "Blues"
 era: "1950s-70s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "blues"]
 ---
 
 # Muddy Waters
 
-**Scenes / genre:** [[blues|Blues]] · [[blues-canon|Blues Canon]] · [[blues (2)|blues]]
+**Category:** [[Blues]]
 
 ## Albums (1)
 - King of the Electric Blues

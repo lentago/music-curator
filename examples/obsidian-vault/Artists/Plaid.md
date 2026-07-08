@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["idm", "warp"]
-genre: "IDM"
+category: "Electronic"
 era: "1990s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "electronic"]
 ---
 
 # Plaid
 
-**Scenes / genre:** [[idm|Idm]] · [[warp|Warp]] · [[IDM (2)|IDM]]
+**Category:** [[Electronic]]
 
 ## Albums (3)
 - Not For Threes

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["dream-pop", "indie-rock"]
-genre: "dream pop"
+category: "Indie Rock"
 era: "2000s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "indie-rock"]
 ---
 
 # Mew
 
-**Scenes / genre:** [[dream-pop|Dream Pop]] · [[indie-rock|Indie Rock]] · [[dream pop]]
+**Category:** [[Indie Rock]]
 
 ## Albums (3)
 - A Triumph For Man

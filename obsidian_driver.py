@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """
 Render a music-inventory JSON file into an Obsidian vault whose graph view
-clusters artists by scene and genre.
+clusters artists by category.
 
-Each active artist becomes a note that wikilinks to its scene(s) and genre;
-those scene/genre notes are the hub nodes the graph clusters around. Untagged
-artists hang off a single Reservoir hub, and the whole thing opens in Obsidian
-with a pre-styled graph (color-grouped by note type) and no plugins required.
-No artist is pre-designated as more important than another — Obsidian sizes
-nodes by degree, so the real hubs surface from the connectivity itself.
+Each active artist becomes a note that wikilinks to its single category hub;
+those category notes are the ~30 hubs the graph clusters around, each rendered
+in its own color. Untagged artists hang off a single Reservoir hub, and the
+whole thing opens in Obsidian with a pre-styled, category-colored graph and no
+plugins required. No artist is pre-designated as more important than another —
+Obsidian sizes nodes by degree, so the real hubs surface from the connectivity.
 
 Usage:
     python obsidian_driver.py [path/to/music-inventory.json] [--out DIR]
@@ -89,26 +89,18 @@ class BasenameAllocator:
         return candidate
 
 
-def prettify_scene(slug):
-    """`radical-jewish-culture` -> `Radical Jewish Culture` for display."""
-    return slug.replace("-", " ").replace("_", " ").title()
+def category_slug(name):
+    """A #tag-safe slug for a category name, used to color its cluster.
+
+    `Soul, Funk & R&B` -> `soul-funk-r-b`; `Trip-Hop & Downtempo` ->
+    `trip-hop-downtempo`. Obsidian tags allow only letters, digits, and hyphens.
+    """
+    return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
 
 
 def prettify_album(name):
     """Gentle read-friendly cleanup of slug-style folder names."""
     return re.sub(r"\s+", " ", name.replace("_", " ")).strip()
-
-
-def genre_components(genre):
-    """Split a compound genre string on '/' into its component hub names.
-
-    `jazz rap / hip-hop` -> ['jazz rap', 'hip-hop'], so two artists that share
-    only the `hip-hop` component still cluster together. A simple genre with no
-    '/' is returned as a single-element list.
-    """
-    if not genre:
-        return []
-    return [part.strip() for part in re.split(r"\s*/\s*", genre) if part.strip()]
 
 
 # Delimiters inside an artist key that suggest a collaboration of separately
@@ -199,8 +191,8 @@ def write_note(out_dir, subfolder, basename, body):
 
 
 def is_reservoir(record):
-    """An artist with neither scene tags nor a genre is exploration inventory."""
-    return not record.get("scenes") and not record.get("genre")
+    """An artist with no category assigned is untagged exploration inventory."""
+    return not record.get("category")
 
 
 def prepare_output_dir(out_dir):
@@ -233,47 +225,45 @@ def build_vault(inventory, out_dir, include_discarded=False):
     # Case-insensitive lookup used to resolve collaboration constituents.
     name_lookup = {name.lower(): name for name in active}
 
-    # Collect scene and genre hub nodes and their members.
-    scene_members = {}     # scene slug      -> [artist display names]
-    genre_members = {}     # genre component -> [artist display names]
+    # Collect one hub per category and its members.
+    category_members = {}   # category display name -> [artist names]
     reservoir_members = []
-    collab_map = {}        # artist name -> [constituent artist names that are nodes]
+    collab_map = {}         # artist name -> [constituent artist names that are nodes]
 
     for name, rec in active.items():
-        if is_reservoir(rec):
+        cat = rec.get("category")
+        if cat:
+            category_members.setdefault(cat, []).append(name)
+        else:
             reservoir_members.append(name)
-        for scene in rec.get("scenes", []) or []:
-            scene_members.setdefault(scene, []).append(name)
-        for component in genre_components(rec.get("genre")):
-            genre_members.setdefault(component, []).append(name)
         constituents = parse_collaborators(name, name_lookup)
         if constituents:
             collab_map[name] = constituents
 
     # Allocate globally-unique basenames. Reserve the MOC names first so they
-    # keep clean titles, then artists, then hubs.
+    # keep clean titles, then artists, then the category hubs.
     alloc = BasenameAllocator()
     fixed = {n: alloc.take(n) for n in (HOME_MOC, RESERVOIR_HUB, ABOUT_NOTE)}
     artist_base = {name: alloc.take(name) for name in active}
-    scene_base = {scene: alloc.take(scene) for scene in sorted(scene_members)}
-    genre_base = {genre: alloc.take(genre) for genre in sorted(genre_members)}
+    cat_base = {cat: alloc.take(cat) for cat in sorted(category_members)}
 
     prepare_output_dir(out_dir)
 
     # --- Artist notes ---------------------------------------------------------
     for name, rec in active.items():
+        cat = rec.get("category")
         tags = ["artist"]
         if rec.get("discard"):
             tags.append("discarded")
-        reservoir = is_reservoir(rec)
-        if reservoir:
+        if cat:
+            tags.append(category_slug(cat))   # colors the artist with its cluster
+        else:
             tags.append("reservoir")
 
         fm = frontmatter([
             ("aliases", [name] if artist_base[name] != name else None),
             ("type", "artist"),
-            ("scenes", rec.get("scenes")),
-            ("genre", rec.get("genre")),
+            ("category", cat),
             ("era", rec.get("era")),
             ("album_count", rec.get("album_count")),
             ("discarded", True if rec.get("discard") else None),
@@ -283,18 +273,12 @@ def build_vault(inventory, out_dir, include_discarded=False):
 
         parts = [fm, "", f"# {name}", ""]
 
-        # Edge links: scenes, then each genre component, then Reservoir.
-        edges = []
-        for scene in rec.get("scenes", []) or []:
-            edges.append(link(scene_base[scene], prettify_scene(scene)))
-        for component in genre_components(rec.get("genre")):
-            edges.append(link(genre_base[component], component))
-        if reservoir:
-            edges.append(link(fixed[RESERVOIR_HUB]))
-        if edges:
-            label = "Scenes / genre" if not reservoir else "Filed under"
-            parts.append(f"**{label}:** " + " · ".join(edges))
-            parts.append("")
+        # The single category link is the artist's edge into its cluster.
+        if cat:
+            parts.append(f"**Category:** {link(cat_base[cat], cat)}")
+        else:
+            parts.append(f"**Filed under:** {link(fixed[RESERVOIR_HUB])}")
+        parts.append("")
 
         # Collaboration edges: direct artist-to-artist links parsed from the
         # combo key, drawn only to constituents that are themselves nodes.
@@ -319,50 +303,32 @@ def build_vault(inventory, out_dir, include_discarded=False):
 
         write_note(out_dir, "Artists", artist_base[name], "\n".join(parts))
 
-    # --- Scene hub notes ------------------------------------------------------
-    for scene, members in sorted(scene_members.items()):
+    # --- Category hub notes ---------------------------------------------------
+    for cat, members in sorted(category_members.items()):
         fm = frontmatter([
-            ("aliases", [scene] if scene_base[scene] != scene else None),
-            ("type", "scene"),
+            ("aliases", [cat] if cat_base[cat] != cat else None),
+            ("type", "category"),
             ("member_count", len(members)),
-            ("tags", ["scene"]),
+            ("tags", ["category", category_slug(cat)]),
         ])
         body = [
-            fm, "", f"# {prettify_scene(scene)}", "",
-            f"*Scene — {len(members)} artist(s) in the collection.*", "",
+            fm, "", f"# {cat}", "",
+            f"*Category — {len(members)} artists in the collection.*", "",
             "## Artists",
         ]
         body.extend(
             f"- {link(artist_base[m], m)}" for m in sorted(members, key=str.lower)
         )
-        write_note(out_dir, "Scenes", scene_base[scene], "\n".join(body))
-
-    # --- Genre hub notes ------------------------------------------------------
-    for genre, members in sorted(genre_members.items()):
-        fm = frontmatter([
-            ("aliases", [genre] if genre_base[genre] != genre else None),
-            ("type", "genre"),
-            ("member_count", len(members)),
-            ("tags", ["genre"]),
-        ])
-        body = [
-            fm, "", f"# {genre}", "",
-            f"*Genre — {len(members)} artist(s) in the collection.*", "",
-            "## Artists",
-        ]
-        body.extend(
-            f"- {link(artist_base[m], m)}" for m in sorted(members, key=str.lower)
-        )
-        write_note(out_dir, "Genres", genre_base[genre], "\n".join(body))
+        write_note(out_dir, "Categories", cat_base[cat], "\n".join(body))
 
     # --- Reservoir hub --------------------------------------------------------
     reservoir_body = [
         frontmatter([("type", "moc"), ("tags", ["moc", "reservoir"])]), "",
         f"# {RESERVOIR_HUB}", "",
         f"The untagged reservoir — {len(reservoir_members)} artists kept in the "
-        "collection but not yet scene-tagged. These are exploration inventory, "
-        "not confident taste signal: mine them before reaching for external "
-        "recommendations. Tag one with a scene/genre and it graduates into the "
+        "collection but not yet assigned a category. These are exploration "
+        "inventory, not confident taste signal: mine them before reaching for "
+        "external recommendations. Give one a category and it graduates into the "
         "graph proper.", "",
         "## Artists",
     ]
@@ -372,21 +338,19 @@ def build_vault(inventory, out_dir, include_discarded=False):
     write_note(out_dir, "", fixed[RESERVOIR_HUB], "\n".join(reservoir_body))
 
     # --- Home MOC -------------------------------------------------------------
-    bridges = sum(1 for r in active.values() if len(r.get("scenes", []) or []) > 1)
     collab_edges = sum(len(v) for v in collab_map.values())
-    top_scenes = sorted(scene_members.items(), key=lambda kv: (-len(kv[1]), kv[0]))
+    by_size = sorted(category_members.items(), key=lambda kv: (-len(kv[1]), kv[0]))
     home = [
         frontmatter([("type", "moc"), ("tags", ["moc"])]), "",
         f"# {HOME_MOC}", "",
-        "A taste map of the collection. Open the **graph view** (Ctrl/Cmd-G) to "
-        "see artists cluster around the scene and genre hubs they link to; "
-        "multi-scene artists bridge the clusters, and combo acts link straight "
-        "to the members they share. Nothing is pre-weighted — the densest nodes "
-        "are whatever the connectivity makes them.", "",
+        "A taste map of the collection. Open the **graph view** (Ctrl/Cmd-G): "
+        "every artist sits in exactly one **category** hub, each category is its "
+        "own color, and combo acts link straight to the members they share. "
+        "Nothing is pre-weighted — the densest nodes are whatever the "
+        "connectivity makes them.", "",
         "## By the numbers", "",
         f"- **{len(active)}** artists",
-        f"- **{len(scene_members)}** scenes · **{len(genre_members)}** genre components",
-        f"- **{bridges}** multi-scene bridge artists",
+        f"- **{len(category_members)}** categories",
         f"- **{collab_edges}** direct artist-to-artist collaboration edges",
         f"- **{len(reservoir_members)}** in the untagged {link(fixed[RESERVOIR_HUB])}",
         "",
@@ -394,10 +358,10 @@ def build_vault(inventory, out_dir, include_discarded=False):
         f"- {link(fixed[RESERVOIR_HUB])} — exploration inventory",
         f"- {link(fixed[ABOUT_NOTE])} — how to read this vault",
         "",
-        "## Largest scenes", "",
+        "## Categories", "",
     ]
-    for scene, members in top_scenes[:15]:
-        home.append(f"- {link(scene_base[scene], prettify_scene(scene))} ({len(members)})")
+    for cat, members in by_size:
+        home.append(f"- {link(cat_base[cat], cat)} ({len(members)})")
     write_note(out_dir, "", fixed[HOME_MOC], "\n".join(home))
 
     # --- About note -----------------------------------------------------------
@@ -409,54 +373,70 @@ def build_vault(inventory, out_dir, include_discarded=False):
         "(https://github.com/lentago/music-curator) repo. Don't hand-edit the "
         "notes — regenerate instead; edits are overwritten.", "",
         "## Reading the graph", "",
-        "- **Artist** notes link to the **scene** and **genre** hubs they "
-        "belong to — those links are the graph edges. Compound genres are split "
-        "on `/` so artists sharing just one component (e.g. `hip-hop`) still "
-        "connect.",
+        "- Every **artist** links to exactly one **category** hub — that link is "
+        "the graph edge, and each category is a distinct color, so the clusters "
+        "read at a glance.",
         "- **Combo acts link directly to their members** (`El-P & Cannibal Ox` "
-        "→ El-P + Cannibal Ox), so the graph shows the collaboration social "
-        "graph, not just hub membership. See a note's **With:** line.",
-        "- Color groups are pre-set by node type: **scene** hubs blue, **genre** "
-        "hubs orange, artists light grey. No artist is singled out — node size "
-        "follows degree, so importance emerges from the graph, not a prior.",
-        "- Multi-scene artists are the bridges between clusters — follow them to "
-        "find cross-pollination (a jazz guitarist who is also in the klezmer and "
-        "Tom Waits orbits, say).",
-        "- The graph opens **filtered** (`-tag:#moc`, orphans hidden) so the "
-        "meta notes (this one, Music Collection, Reservoir) and the untagged "
-        "reservoir don't clutter the taste map. Clear the filter and enable "
-        "*Show orphans* to browse the whole collection, including the grey "
-        "reservoir inventory.", "",
+        "→ El-P + Cannibal Ox), so the graph also shows the collaboration social "
+        "graph, not just category membership. See a note's **With:** line.",
+        "- No artist is singled out — node size follows degree, so importance "
+        "emerges from the graph, not a prior.",
+        "- The graph opens **filtered** (`-tag:#moc`, orphans hidden) so the meta "
+        "notes (this one, Music Collection, Reservoir) and the untagged reservoir "
+        "don't clutter the taste map. Clear the filter and enable *Show orphans* "
+        "to browse the whole collection, including the reservoir.", "",
         f"Start at {link(fixed[HOME_MOC])}.",
     ]
     write_note(out_dir, "", fixed[ABOUT_NOTE], "\n".join(about))
 
     # --- Pre-styled graph config + vault .gitignore --------------------------
-    write_graph_config(out_dir)
+    write_graph_config(out_dir, sorted(category_members))
     write_gitignore(out_dir)
 
     return {
         "artists": len(active),
-        "scenes": len(scene_members),
-        "genres": len(genre_members),
-        "bridges": bridges,
+        "categories": len(category_members),
         "collab_edges": collab_edges,
         "reservoir": len(reservoir_members),
         "meta_total": meta.get("total_unique_artists"),
     }
 
 
-def write_graph_config(out_dir):
-    """Drop a .obsidian/graph.json so the graph opens filtered and colored by type.
+def _hsl_to_rgb_int(h, s, l):
+    """HSL (each in [0, 1]) -> 0xRRGGBB integer, the form Obsidian graph.json wants."""
+    def channel(n):
+        k = (n + h * 12) % 12
+        a = s * min(l, 1 - l)
+        return l - a * max(-1, min(k - 3, 9 - k, 1))
+    r, g, b = channel(0), channel(8), channel(4)
+    return (round(r * 255) << 16) | (round(g * 255) << 8) | round(b * 255)
+
+
+def category_palette(categories):
+    """One well-separated color per category, as graph.json color groups.
+
+    Hues are spaced by the golden ratio so adjacent categories stay visually
+    distinct regardless of list order; each color group matches the category's
+    slug tag, which is carried by both the hub and its artists so the whole
+    cluster shares a color.
+    """
+    groups = []
+    for i, cat in enumerate(categories):
+        hue = (i * 0.6180339887) % 1.0
+        rgb = _hsl_to_rgb_int(hue, 0.58, 0.60)
+        groups.append({"query": f"tag:#{category_slug(cat)}", "color": {"a": 1, "rgb": rgb}})
+    return groups
+
+
+def write_graph_config(out_dir, categories):
+    """Drop a .obsidian/graph.json so the graph opens filtered and colored by category.
 
     The meta / navigation notes (Music Collection, About, Reservoir) are all
     tagged #moc, so `-tag:#moc` hides them from the graph while they remain in
     the vault for reading. With the Reservoir hub hidden, the untagged artists
     that only linked to it become orphans, so showOrphans is off — leaving a
-    clean, connected taste-structure graph of artists + scene/genre hubs.
-
-    Color-group queries are mutually exclusive so a node's type color never
-    depends on color-group ordering.
+    clean, connected taste map of artists clustered around their category hubs,
+    each category its own color.
     """
     graph = {
         "collapse-filter": True,
@@ -466,13 +446,7 @@ def write_graph_config(out_dir):
         "hideUnresolved": False,
         "showOrphans": False,
         "collapse-color-groups": False,
-        "colorGroups": [
-            {"query": "tag:#scene", "color": {"a": 1, "rgb": 4886745}},               # blue   #4A90D9
-            {"query": "tag:#genre", "color": {"a": 1, "rgb": 15243066}},              # orange #E8973A
-            {"query": "tag:#reservoir", "color": {"a": 1, "rgb": 7240587}},           # slate grey #6E7B8B
-            {"query": "tag:#moc -tag:#reservoir", "color": {"a": 1, "rgb": 5595248}}, # dim slate  #556070
-            {"query": "tag:#artist -tag:#reservoir", "color": {"a": 1, "rgb": 13225426}},  # light grey #C9CDD2
-        ],
+        "colorGroups": category_palette(categories),
         "collapse-display": False,
         "showArrow": False,
         "textFadeMultiplier": -0.5,
@@ -520,11 +494,10 @@ def main():
     stats = build_vault(inventory, args.out, include_discarded=args.include_discarded)
 
     print(f"Wrote vault to: {args.out}")
-    print(f"  artists:   {stats['artists']}")
-    print(f"  scenes:    {stats['scenes']}  genre components: {stats['genres']}")
-    print(f"  bridges:   {stats['bridges']}")
+    print(f"  artists:    {stats['artists']}")
+    print(f"  categories: {stats['categories']}")
     print(f"  collab edges: {stats['collab_edges']}")
-    print(f"  reservoir: {stats['reservoir']}")
+    print(f"  reservoir:  {stats['reservoir']}")
 
 
 if __name__ == "__main__":

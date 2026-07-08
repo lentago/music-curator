@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jam", "progressive-rock"]
-genre: "prog jam"
+category: "Jam"
 era: "2000s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "jam"]
 ---
 
 # Umphrey's McGee
 
-**Scenes / genre:** [[jam|Jam]] · [[progressive-rock|Progressive Rock]] · [[prog jam]]
+**Category:** [[Jam]]
 
 ## Albums (3)
 - 2004-06-11 Bonnaroo

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["stoner-rock", "hard-rock"]
-genre: "stoner rock"
+category: "Metal"
 era: "2000s"
 album_count: 4
-tags: ["artist"]
+tags: ["artist", "metal"]
 ---
 
 # The Company Band
 
-**Scenes / genre:** [[stoner-rock|Stoner Rock]] · [[hard-rock|Hard Rock]] · [[stoner rock]]
+**Category:** [[Metal]]
 
 ## Albums (4)
 - Its a Confusing World Not Fragile

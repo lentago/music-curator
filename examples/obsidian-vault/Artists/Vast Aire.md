@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["defjux", "underground-hiphop"]
-genre: "underground hip-hop"
+category: "Def Jux"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "def-jux"]
 ---
 
 # Vast Aire
 
-**Scenes / genre:** [[defjux|Defjux]] · [[underground-hiphop|Underground Hiphop]] · [[underground hip-hop]]
+**Category:** [[Def Jux]]
 
 ## Albums (1)
 - Look Mom... No Hands

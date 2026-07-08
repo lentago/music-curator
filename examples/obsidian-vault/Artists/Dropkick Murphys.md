@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["celtic-punk"]
-genre: "celtic punk"
+category: "Punk & Hardcore"
 era: "1990s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "punk-hardcore"]
 ---
 
 # Dropkick Murphys
 
-**Scenes / genre:** [[celtic-punk|Celtic Punk]] · [[celtic punk]]
+**Category:** [[Punk & Hardcore]]
 
 ## Albums (2)
 - Sing Loud, Sing Proud

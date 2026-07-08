@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["underground-hiphop", "defjux", "rawkus"]
-genre: "underground hip-hop"
+category: "Def Jux"
 era: "1990s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "def-jux"]
 ---
 
 # Company Flow
 
-**Scenes / genre:** [[underground-hiphop|Underground Hiphop]] · [[defjux|Defjux]] · [[rawkus|Rawkus]] · [[underground hip-hop]]
+**Category:** [[Def Jux]]
 
 ## Albums (1)
 - Funcrusher Plus

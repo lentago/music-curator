@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["west-coast-hiphop", "alt-hiphop"]
-genre: "alternative hip-hop"
+category: "Underground Hip-Hop"
 era: "1990s"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # The Pharcyde
 
-**Scenes / genre:** [[west-coast-hiphop|West Coast Hiphop]] · [[alt-hiphop|Alt Hiphop]] · [[alternative hip-hop]]
+**Category:** [[Underground Hip-Hop]]
 
 ## Albums (2)
 - Bizarre Ride II the Pharcyde

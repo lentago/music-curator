@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-folk", "swing-revival"]
-genre: "swing / indie folk"
+category: "Indie Folk & Singer-Songwriter"
 era: "1998-2003"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # Andrew Bird's Bowl Of Fire
 
-**Scenes / genre:** [[indie-folk|Indie Folk]] · [[swing-revival|Swing Revival]] · [[swing]] · [[indie folk]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 ## Albums (3)
 - Weather Systems

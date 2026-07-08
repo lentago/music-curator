@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["icelandic", "folktronica"]
-genre: "electronic / folktronica"
+category: "Post-Rock"
 era: "2000s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "post-rock"]
 ---
 
 # Múm
 
-**Scenes / genre:** [[icelandic|Icelandic]] · [[folktronica|Folktronica]] · [[electronic (2)|electronic]] · [[folktronica (2)|folktronica]]
+**Category:** [[Post-Rock]]
 
 ## Albums (3)
 - Finally We Are No One

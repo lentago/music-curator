@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-rock", "southern-rock"]
-genre: "rock"
+category: "Classic Rock"
 era: "2000s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "classic-rock"]
 ---
 
 # Kings Of Leon
 
-**Scenes / genre:** [[indie-rock|Indie Rock]] · [[southern-rock|Southern Rock]] · [[rock]]
+**Category:** [[Classic Rock]]
 
 ## Albums (2)
 - Because Of The Times

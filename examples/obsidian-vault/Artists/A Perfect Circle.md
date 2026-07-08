@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["alt-metal", "progressive-metal"]
-genre: "alternative metal"
+category: "Metal"
 era: "2000s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "metal"]
 ---
 
 # A Perfect Circle
 
-**Scenes / genre:** [[alt-metal|Alt Metal]] · [[progressive-metal|Progressive Metal]] · [[alternative metal]]
+**Category:** [[Metal]]
 
 ## Albums (3)
 - emotive

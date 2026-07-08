@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["funk-metal", "alt-funk-rock-90s"]
-genre: "funk metal"
+category: "Metal"
 era: "1980s-90s"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "metal"]
 ---
 
 # Living Colour
 
-**Scenes / genre:** [[funk-metal|Funk Metal]] · [[alt-funk-rock-90s|Alt Funk Rock 90S]] · [[funk metal]]
+**Category:** [[Metal]]
 
 ## Albums (2)
 - Time's Up

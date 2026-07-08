@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["alt-rock-90s", "experimental-rock"]
-genre: "experimental rock"
+category: "Art-Pop & New Wave"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "art-pop-new-wave"]
 ---
 
 # Ween
 
-**Scenes / genre:** [[alt-rock-90s|Alt Rock 90S]] · [[experimental-rock|Experimental Rock]] · [[experimental rock]]
+**Category:** [[Art-Pop & New Wave]]
 
 ## Albums (1)
 - 12 Golden Country Greats

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["funk-punk", "ska-punk"]
-genre: "funk punk"
+category: "Punk & Hardcore"
 era: "1980s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "punk-hardcore"]
 ---
 
 # Fishbone
 
-**Scenes / genre:** [[funk-punk|Funk Punk]] · [[ska-punk|Ska Punk]] · [[funk punk]]
+**Category:** [[Punk & Hardcore]]
 
 ## Albums (3)
 - In Your Face

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["alt-hiphop"]
-genre: "alternative hip-hop"
+category: "Underground Hip-Hop"
 era: "1990s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # Basehead
 
-**Scenes / genre:** [[alt-hiphop|Alt Hiphop]] · [[alternative hip-hop]]
+**Category:** [[Underground Hip-Hop]]
 
 ## Albums (1)
 - Play With Toys

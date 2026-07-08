@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-folk", "folktronica"]
-genre: "folktronica"
+category: "Indie Folk & Singer-Songwriter"
 era: "1996-now"
 album_count: 8
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # Beth Orton
 
-**Scenes / genre:** [[indie-folk|Indie Folk]] · [[folktronica|Folktronica]] · [[folktronica (2)|folktronica]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 ## Albums (8)
 - Central Reservation

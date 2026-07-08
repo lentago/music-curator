@@ -1,16 +1,15 @@
 ---
 type: "artist"
-scenes: ["outlaw-country"]
-genre: "country"
+category: "Country & Americana"
 era: "1976-now"
 album_count: 1
 collaborators: ["Willie Nelson", "Waylon Jennings"]
-tags: ["artist"]
+tags: ["artist", "country-americana"]
 ---
 
 # Willie Nelson-Waylon Jennings
 
-**Scenes / genre:** [[outlaw-country|Outlaw Country]] · [[country (2)|country]]
+**Category:** [[Country & Americana]]
 
 **With:** [[Willie Nelson]] · [[Waylon Jennings]]
 

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["singer-songwriter"]
-genre: "singer-songwriter"
+category: "Indie Folk & Singer-Songwriter"
 era: "1970s-2000s"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # Warren Zevon - I'll Sleep When I'm Dead (An Anthology)
 
-**Scenes / genre:** [[singer-songwriter|Singer Songwriter]] · [[singer-songwriter (2)|singer-songwriter]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 ## Albums (3)
 - Disc 1

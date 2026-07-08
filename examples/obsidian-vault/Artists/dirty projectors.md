@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-rock", "experimental-rock"]
-genre: "experimental indie"
+category: "Art-Pop & New Wave"
 era: "2000s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "art-pop-new-wave"]
 ---
 
 # dirty projectors
 
-**Scenes / genre:** [[indie-rock|Indie Rock]] · [[experimental-rock|Experimental Rock]] · [[experimental indie]]
+**Category:** [[Art-Pop & New Wave]]
 
 ## Albums (1)
 - Bitte Orca

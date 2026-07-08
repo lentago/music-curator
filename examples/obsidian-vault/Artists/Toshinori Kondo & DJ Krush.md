@@ -1,16 +1,15 @@
 ---
 type: "artist"
-scenes: ["mo-wax", "jazz-electronic"]
-genre: "jazz/electronic crossover"
+category: "Turntablism & Beats"
 era: "1990s"
 album_count: 1
 collaborators: ["DJ Krush"]
-tags: ["artist"]
+tags: ["artist", "turntablism-beats"]
 ---
 
 # Toshinori Kondo & DJ Krush
 
-**Scenes / genre:** [[mo-wax|Mo Wax]] · [[jazz-electronic|Jazz Electronic]] · [[jazz]] · [[electronic crossover]]
+**Category:** [[Turntablism & Beats]]
 
 **With:** [[DJ Krush]]
 

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["flamenco", "world"]
-genre: "flamenco / rumba"
+category: "World"
 era: "1980s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "world"]
 ---
 
 # Gipsy Kings
 
-**Scenes / genre:** [[flamenco|Flamenco]] · [[world|World]] · [[flamenco (2)|flamenco]] · [[rumba]]
+**Category:** [[World]]
 
 ## Albums (2)
 - Gipsy Kings

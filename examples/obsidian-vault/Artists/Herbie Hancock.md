@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jazz-canon", "jazz-fusion"]
-genre: "jazz / funk"
+category: "Jazz"
 era: "1960s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "jazz"]
 ---
 
 # Herbie Hancock
 
-**Scenes / genre:** [[jazz-canon|Jazz Canon]] · [[jazz-fusion|Jazz Fusion]] · [[jazz]] · [[funk (2)|funk]]
+**Category:** [[Jazz]]
 
 ## Albums (2)
 - Head Hunters

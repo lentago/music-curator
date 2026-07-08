@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["art-pop", "new-wave"]
-genre: "art pop"
+category: "Art-Pop & New Wave"
 era: "1980s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "art-pop-new-wave"]
 ---
 
 # David Byrne
 
-**Scenes / genre:** [[art-pop|Art Pop]] · [[new-wave|New Wave]] · [[art pop]]
+**Category:** [[Art-Pop & New Wave]]
 
 ## Albums (2)
 - Feelings

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["east-coast-hiphop"]
-genre: "hip-hop"
+category: "Hip-Hop"
 era: "1990s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "hip-hop"]
 ---
 
 # Das EFX
 
-**Scenes / genre:** [[east-coast-hiphop|East Coast Hiphop]] · [[hip-hop]]
+**Category:** [[Hip-Hop]]
 
 ## Albums (1)
 - Dead Serious

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["experimental-hiphop", "krautrock"]
-genre: "experimental hip-hop"
+category: "Underground Hip-Hop"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # Faust vs. Dälek
 
-**Scenes / genre:** [[experimental-hiphop|Experimental Hiphop]] · [[krautrock|Krautrock]] · [[experimental hip-hop]]
+**Category:** [[Underground Hip-Hop]]
 
 ## Albums (1)
 - Derbe Respect, Alder

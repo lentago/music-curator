@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-folk"]
-genre: "indie folk"
+category: "Indie Folk & Singer-Songwriter"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # Monsters Of Folk
 
-**Scenes / genre:** [[indie-folk|Indie Folk]] · [[indie folk]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 ## Albums (1)
 - Monsters of Folk

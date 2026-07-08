@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["blues", "blues-canon"]
-genre: "blues"
+category: "Blues"
 era: "1980s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "blues"]
 ---
 
 # Sonny Terry with Johnny Winter& Willie D
 
-**Scenes / genre:** [[blues|Blues]] · [[blues-canon|Blues Canon]] · [[blues (2)|blues]]
+**Category:** [[Blues]]
 
 ## Albums (1)
 - Whoopin'

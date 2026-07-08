@@ -1,13 +1,13 @@
 ---
 type: "artist"
-scenes: ["art-rock-canon"]
+category: "Classic Rock"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "classic-rock"]
 ---
 
 # Tori Amos
 
-**Scenes / genre:** [[art-rock-canon|Art Rock Canon]]
+**Category:** [[Classic Rock]]
 
 > sole canon — passes
 

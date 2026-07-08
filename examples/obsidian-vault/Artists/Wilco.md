@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["alt-country", "indie-rock"]
-genre: "alt-country / indie"
+category: "Country & Americana"
 era: "1990s-now"
 album_count: 4
-tags: ["artist"]
+tags: ["artist", "country-americana"]
 ---
 
 # Wilco
 
-**Scenes / genre:** [[alt-country|Alt Country]] · [[indie-rock|Indie Rock]] · [[alt-country (2)|alt-country]] · [[indie]]
+**Category:** [[Country & Americana]]
 
 ## Albums (4)
 - Summerteeth

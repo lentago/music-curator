@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["defjux", "underground-hiphop"]
-genre: "underground hip-hop"
+category: "Def Jux"
 era: "1999-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "def-jux"]
 ---
 
 # Mr. Lif
 
-**Scenes / genre:** [[defjux|Defjux]] · [[underground-hiphop|Underground Hiphop]] · [[underground hip-hop]]
+**Category:** [[Def Jux]]
 
 ## Albums (1)
 - Emergency Rations

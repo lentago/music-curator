@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["hard-rock", "classic-rock"]
-genre: "hard rock"
+category: "Classic Rock"
 era: "1960s-70s"
 album_count: 7
-tags: ["artist"]
+tags: ["artist", "classic-rock"]
 ---
 
 # Led Zeppelin
 
-**Scenes / genre:** [[hard-rock|Hard Rock]] · [[classic-rock|Classic Rock]] · [[hard rock]]
+**Category:** [[Classic Rock]]
 
 ## Albums (7)
 - II

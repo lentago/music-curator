@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["afro-european", "world"]
-genre: "afro-pop / a cappella"
+category: "World"
 era: "1991-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "world"]
 ---
 
 # Zap Mama
 
-**Scenes / genre:** [[afro-european|Afro European]] · [[world|World]] · [[afro-pop]] · [[a cappella]]
+**Category:** [[World]]
 
 ## Albums (2)
 - Ancestry in Progress

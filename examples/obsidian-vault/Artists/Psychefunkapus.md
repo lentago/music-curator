@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["alt-funk-rock-90s"]
-genre: "alt funk-rock"
+category: "Indie Rock"
 era: "1990s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "indie-rock"]
 ---
 
 # Psychefunkapus
 
-**Scenes / genre:** [[alt-funk-rock-90s|Alt Funk Rock 90S]] · [[alt funk-rock]]
+**Category:** [[Indie Rock]]
 
 >  (lane confirmed by Chris)
 

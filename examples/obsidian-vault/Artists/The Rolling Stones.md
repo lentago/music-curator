@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["classic-rock"]
-genre: "rock"
+category: "Classic Rock"
 era: "1962-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "classic-rock"]
 ---
 
 # The Rolling Stones
 
-**Scenes / genre:** [[classic-rock|Classic Rock]] · [[rock]]
+**Category:** [[Classic Rock]]
 
 ## Albums (2)
 - L A Forum (Live 1975)

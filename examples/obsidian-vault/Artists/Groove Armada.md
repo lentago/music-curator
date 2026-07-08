@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["downtempo", "big-beat"]
-genre: "electronic"
+category: "Trip-Hop & Downtempo"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "trip-hop-downtempo"]
 ---
 
 # Groove Armada
 
-**Scenes / genre:** [[downtempo|Downtempo]] · [[big-beat|Big Beat]] · [[electronic (2)|electronic]]
+**Category:** [[Trip-Hop & Downtempo]]
 
 ## Albums (1)
 - Back to Mine

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["alt-country", "country"]
-genre: "cosmic country"
+category: "Country & Americana"
 era: "1970s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "country-americana"]
 ---
 
 # Gram Parsons
 
-**Scenes / genre:** [[alt-country|Alt Country]] · [[country|Country]] · [[cosmic country]]
+**Category:** [[Country & Americana]]
 
 ## Albums (1)
 - G.P.-Grievous Angel

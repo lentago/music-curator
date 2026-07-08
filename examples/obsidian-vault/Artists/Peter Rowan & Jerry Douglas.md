@@ -1,14 +1,14 @@
 ---
 type: "artist"
-scenes: ["bluegrass"]
+category: "Bluegrass"
 album_count: 1
 collaborators: ["Jerry Douglas"]
-tags: ["artist"]
+tags: ["artist", "bluegrass"]
 ---
 
 # Peter Rowan & Jerry Douglas
 
-**Scenes / genre:** [[bluegrass|Bluegrass]]
+**Category:** [[Bluegrass]]
 
 **With:** [[Jerry Douglas]]
 

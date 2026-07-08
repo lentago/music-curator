@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["folk-pop"]
-genre: "folk"
+category: "Indie Folk & Singer-Songwriter"
 era: "1988-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # Tracy Chapman
 
-**Scenes / genre:** [[folk-pop|Folk Pop]] · [[folk (2)|folk]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 >  (lane confirmed by Chris)
 

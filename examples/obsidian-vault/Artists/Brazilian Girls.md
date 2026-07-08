@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["electronic", "art-pop"]
-genre: "electronic pop"
+category: "Art-Pop & New Wave"
 era: "2000s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "art-pop-new-wave"]
 ---
 
 # Brazilian Girls
 
-**Scenes / genre:** [[electronic|Electronic]] · [[art-pop|Art Pop]] · [[electronic pop]]
+**Category:** [[Art-Pop & New Wave]]
 
 ## Albums (1)
 - Brazilian Girls

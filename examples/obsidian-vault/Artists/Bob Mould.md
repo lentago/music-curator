@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["alt-rock-90s", "post-hardcore"]
-genre: "alternative rock"
+category: "Punk & Hardcore"
 era: "1980s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "punk-hardcore"]
 ---
 
 # Bob Mould
 
-**Scenes / genre:** [[alt-rock-90s|Alt Rock 90S]] · [[post-hardcore|Post Hardcore]] · [[alternative rock]]
+**Category:** [[Punk & Hardcore]]
 
 ## Albums (2)
 - Life And Times

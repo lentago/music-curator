@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["world"]
-genre: "Brazilian jazz"
+category: "World"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "world"]
 ---
 
 # Luciana Souza_Romero Lubambo
 
-**Scenes / genre:** [[world|World]] · [[Brazilian jazz]]
+**Category:** [[World]]
 
 ## Albums (1)
 - Duos II

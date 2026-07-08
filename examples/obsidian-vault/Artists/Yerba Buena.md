@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["nu-latin", "world"]
-genre: "latin / world"
+category: "Latin"
 era: "2003-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "latin"]
 ---
 
 # Yerba Buena
 
-**Scenes / genre:** [[nu-latin|Nu Latin]] · [[world|World]] · [[latin]] · [[world (2)|world]]
+**Category:** [[Latin]]
 
 ## Albums (1)
 - President Alien

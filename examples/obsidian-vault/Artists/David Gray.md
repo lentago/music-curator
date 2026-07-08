@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["singer-songwriter"]
-genre: "singer-songwriter"
+category: "Indie Folk & Singer-Songwriter"
 era: "2000s"
 album_count: 4
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # David Gray
 
-**Scenes / genre:** [[singer-songwriter|Singer Songwriter]] · [[singer-songwriter (2)|singer-songwriter]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 ## Albums (4)
 - A Century Ends

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["downtempo", "warp"]
-genre: "downtempo"
+category: "Trip-Hop & Downtempo"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "trip-hop-downtempo"]
 ---
 
 # Nightmares on Wax
 
-**Scenes / genre:** [[downtempo|Downtempo]] · [[warp|Warp]] · [[downtempo (2)|downtempo]]
+**Category:** [[Trip-Hop & Downtempo]]
 
 ## Albums (1)
 - DJ-Kicks

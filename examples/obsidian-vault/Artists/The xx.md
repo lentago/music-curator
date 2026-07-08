@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["minimal-indie", "dream-pop"]
-genre: "minimal indie"
+category: "Indie Rock"
 era: "2000s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "indie-rock"]
 ---
 
 # The xx
 
-**Scenes / genre:** [[minimal-indie|Minimal Indie]] · [[dream-pop|Dream Pop]] · [[minimal indie]]
+**Category:** [[Indie Rock]]
 
 ## Albums (1)
 - Coexist

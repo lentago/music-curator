@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["world-electronic"]
-genre: "world electronic"
+category: "World"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "world"]
 ---
 
 # Nitin Sawhney
 
-**Scenes / genre:** [[world-electronic|World Electronic]] · [[world electronic]]
+**Category:** [[World]]
 
 ## Albums (1)
 - Human

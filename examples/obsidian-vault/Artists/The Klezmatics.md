@@ -1,13 +1,13 @@
 ---
 type: "artist"
-scenes: ["klezmer", "jewish-roots"]
+category: "Downtown Avant-Garde"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "downtown-avant-garde"]
 ---
 
 # The Klezmatics
 
-**Scenes / genre:** [[klezmer|Klezmer]] · [[jewish-roots|Jewish Roots]]
+**Category:** [[Downtown Avant-Garde]]
 
 > lane confirmed by Chris ("Balkan and klezmer")
 

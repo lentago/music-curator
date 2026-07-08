@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["nola", "blues"]
-genre: "New Orleans blues"
+category: "New Orleans"
 era: "2000s"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "new-orleans"]
 ---
 
 # Big Al Carson and the Blues Masters
 
-**Scenes / genre:** [[nola|Nola]] · [[blues|Blues]] · [[New Orleans blues]]
+**Category:** [[New Orleans]]
 
 ## Albums (2)
 - FUNKY PIRATE

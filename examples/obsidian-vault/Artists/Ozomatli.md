@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["latin-american", "latin-rock"]
-genre: "Latin fusion"
+category: "Latin"
 era: "2000s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "latin"]
 ---
 
 # Ozomatli
 
-**Scenes / genre:** [[latin-american|Latin American]] · [[latin-rock|Latin Rock]] · [[Latin fusion]]
+**Category:** [[Latin]]
 
 ## Albums (3)
 - Don't Mess with the Dragon

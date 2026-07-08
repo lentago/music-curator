@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["folk-rock-canon"]
-genre: "folk rock"
+category: "Indie Folk & Singer-Songwriter"
 era: "1960s-70s"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # Simon & Garfunkel
 
-**Scenes / genre:** [[folk-rock-canon|Folk Rock Canon]] · [[folk rock]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 ## Albums (3)
 - The Concert In Central Park

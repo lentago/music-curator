@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["acid-jazz", "funk-electronic"]
-genre: "acid jazz / funk"
+category: "Jazz"
 era: "1992-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "jazz"]
 ---
 
 # Jamiroquai
 
-**Scenes / genre:** [[acid-jazz|Acid Jazz]] · [[funk-electronic|Funk Electronic]] · [[acid jazz]] · [[funk (2)|funk]]
+**Category:** [[Jazz]]
 
 ## Albums (1)
 - High Times Singles 1992-2006

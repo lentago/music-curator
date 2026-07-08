@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["latin-american"]
-genre: "bolero / latin"
+category: "Latin"
 era: "2000s"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "latin"]
 ---
 
 # Francisco Cespedes
 
-**Scenes / genre:** [[latin-american|Latin American]] · [[bolero]] · [[latin]]
+**Category:** [[Latin]]
 
 ## Albums (2)
 - Donde Esta la Vida

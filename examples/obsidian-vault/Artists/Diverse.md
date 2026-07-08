@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["underground-hiphop"]
-genre: "underground hip-hop"
+category: "Underground Hip-Hop"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # Diverse
 
-**Scenes / genre:** [[underground-hiphop|Underground Hiphop]] · [[underground hip-hop]]
+**Category:** [[Underground Hip-Hop]]
 
 ## Albums (1)
 - One A.M. [Bonus Track]

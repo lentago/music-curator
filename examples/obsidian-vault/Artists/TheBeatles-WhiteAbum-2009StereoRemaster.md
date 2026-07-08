@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["classic-rock", "british-invasion"]
-genre: "rock"
+category: "Classic Rock"
 era: "1960s-70s"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "classic-rock"]
 ---
 
 # TheBeatles-WhiteAbum-2009StereoRemaster
 
-**Scenes / genre:** [[classic-rock|Classic Rock]] · [[british-invasion|British Invasion]] · [[rock]]
+**Category:** [[Classic Rock]]
 
 ## Albums (2)
 - Disc 1

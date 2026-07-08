@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["gypsy-jazz"]
-genre: "gypsy jazz"
+category: "Jazz"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "jazz"]
 ---
 
 # Hot Club of San Francisco
 
-**Scenes / genre:** [[gypsy-jazz|Gypsy Jazz]] · [[gypsy jazz]]
+**Category:** [[Jazz]]
 
 ## Albums (1)
 - Hot Club Of San Francisco Bohemian Maestro - Django Reinhardt and the Imp

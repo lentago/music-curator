@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jamgrass", "jam"]
-genre: "jamgrass"
+category: "Bluegrass"
 era: "1990s-2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "bluegrass"]
 ---
 
 # Blueground Undergrass
 
-**Scenes / genre:** [[jamgrass|Jamgrass]] · [[jam|Jam]] · [[jamgrass (2)|jamgrass]]
+**Category:** [[Bluegrass]]
 
 ## Albums (1)
 - Live at the Variety Playhouse 7.10.99

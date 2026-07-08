@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["hard-rock", "stoner-rock"]
-genre: "hard rock"
+category: "Metal"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "metal"]
 ---
 
 # Them Crooked Vultures
 
-**Scenes / genre:** [[hard-rock|Hard Rock]] · [[stoner-rock|Stoner Rock]] · [[hard rock]]
+**Category:** [[Metal]]
 
 ## Albums (1)
 - Them Crooked Vultures

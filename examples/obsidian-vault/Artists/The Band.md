@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["roots-rock", "americana"]
-genre: "roots rock"
+category: "Country & Americana"
 era: "1960s-70s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "country-americana"]
 ---
 
 # The Band
 
-**Scenes / genre:** [[roots-rock|Roots Rock]] · [[americana|Americana]] · [[roots rock]]
+**Category:** [[Country & Americana]]
 
 ## Albums (1)
 - The Last Waltz

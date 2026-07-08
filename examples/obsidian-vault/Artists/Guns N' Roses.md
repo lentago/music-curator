@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["hard-rock", "classic-rock"]
-genre: "hard rock"
+category: "Classic Rock"
 era: "1985-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "classic-rock"]
 ---
 
 # Guns N' Roses
 
-**Scenes / genre:** [[hard-rock|Hard Rock]] · [[classic-rock|Classic Rock]] · [[hard rock]]
+**Category:** [[Classic Rock]]
 
 ## Albums (1)
 - Appetite for Destruction

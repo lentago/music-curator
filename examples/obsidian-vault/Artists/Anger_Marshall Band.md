@@ -1,13 +1,13 @@
 ---
 type: "artist"
-scenes: ["newgrass"]
+category: "Newgrass"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "newgrass"]
 ---
 
 # Anger_Marshall Band
 
-**Scenes / genre:** [[newgrass|Newgrass]]
+**Category:** [[Newgrass]]
 
 > Darol Anger + Mike Marshall newgrass collab
 

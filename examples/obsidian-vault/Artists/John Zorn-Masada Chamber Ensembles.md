@@ -1,16 +1,15 @@
 ---
 type: "artist"
-scenes: ["downtown-ny", "tzadik", "radical-jewish-culture"]
-genre: "avant-garde / chamber"
+category: "Downtown Avant-Garde"
 era: "2000s"
 album_count: 2
 collaborators: ["John Zorn"]
-tags: ["artist"]
+tags: ["artist", "downtown-avant-garde"]
 ---
 
 # John Zorn-Masada Chamber Ensembles
 
-**Scenes / genre:** [[downtown-ny|Downtown Ny]] · [[tzadik|Tzadik]] · [[radical-jewish-culture|Radical Jewish Culture]] · [[avant-garde]] · [[chamber]]
+**Category:** [[Downtown Avant-Garde]]
 
 **With:** [[John Zorn]]
 

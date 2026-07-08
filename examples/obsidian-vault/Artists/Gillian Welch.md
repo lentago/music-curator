@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["americana", "appalachian"]
-genre: "Americana / old-time"
+category: "Bluegrass"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "bluegrass"]
 ---
 
 # Gillian Welch
 
-**Scenes / genre:** [[americana|Americana]] · [[appalachian|Appalachian]] · [[Americana (2)|Americana]] · [[old-time]]
+**Category:** [[Bluegrass]]
 
 ## Albums (1)
 - Hell Among The Yearlings

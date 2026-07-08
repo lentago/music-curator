@@ -1,16 +1,15 @@
 ---
 type: "artist"
-scenes: ["alt-country"]
-genre: "alt-country"
+category: "Country & Americana"
 era: "1990s-2000s"
 album_count: 1
 collaborators: ["Neko Case"]
-tags: ["artist"]
+tags: ["artist", "country-americana"]
 ---
 
 # Neko Case And Her Boyfriends
 
-**Scenes / genre:** [[alt-country|Alt Country]] · [[alt-country (2)|alt-country]]
+**Category:** [[Country & Americana]]
 
 **With:** [[Neko Case]]
 

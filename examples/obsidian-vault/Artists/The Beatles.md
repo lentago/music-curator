@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["classic-rock", "british-invasion"]
-genre: "rock"
+category: "Classic Rock"
 era: "1960s-70s"
 album_count: 4
-tags: ["artist"]
+tags: ["artist", "classic-rock"]
 ---
 
 # The Beatles
 
-**Scenes / genre:** [[classic-rock|Classic Rock]] · [[british-invasion|British Invasion]] · [[rock]]
+**Category:** [[Classic Rock]]
 
 ## Albums (4)
 - Abbey Road (2009 Stereo Remast

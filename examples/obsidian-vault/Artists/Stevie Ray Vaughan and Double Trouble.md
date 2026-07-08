@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["blues-rock", "texas-blues"]
-genre: "blues rock"
+category: "Blues"
 era: "1980s"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "blues"]
 ---
 
 # Stevie Ray Vaughan and Double Trouble
 
-**Scenes / genre:** [[blues-rock|Blues Rock]] · [[texas-blues|Texas Blues]] · [[blues rock]]
+**Category:** [[Blues]]
 
 ## Albums (2)
 - Live Alive

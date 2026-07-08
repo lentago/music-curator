@@ -1,13 +1,13 @@
 ---
 type: "artist"
-scenes: ["bluegrass"]
+category: "Bluegrass"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "bluegrass"]
 ---
 
 # Tarbox Ramblers
 
-**Scenes / genre:** [[bluegrass|Bluegrass]]
+**Category:** [[Bluegrass]]
 
 ## Albums (1)
 - A Fix Back East

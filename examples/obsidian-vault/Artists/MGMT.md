@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["psych-pop", "indie-pop"]
-genre: "psychedelic pop"
+category: "Indie Pop & Synth-Pop"
 era: "2000s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "indie-pop-synth-pop"]
 ---
 
 # MGMT
 
-**Scenes / genre:** [[psych-pop|Psych Pop]] · [[indie-pop|Indie Pop]] · [[psychedelic pop]]
+**Category:** [[Indie Pop & Synth-Pop]]
 
 ## Albums (2)
 - Oracular Spectacular

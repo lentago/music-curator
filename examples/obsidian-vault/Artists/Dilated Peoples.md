@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["underground-hiphop", "west-coast-hiphop"]
-genre: "underground hip-hop"
+category: "Underground Hip-Hop"
 era: "2000s"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "underground-hip-hop"]
 ---
 
 # Dilated Peoples
 
-**Scenes / genre:** [[underground-hiphop|Underground Hiphop]] · [[west-coast-hiphop|West Coast Hiphop]] · [[underground hip-hop]]
+**Category:** [[Underground Hip-Hop]]
 
 ## Albums (2)
 - Expansion Team

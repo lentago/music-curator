@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jazz-canon", "early-jazz"]
-genre: "jazz / vocal"
+category: "Jazz"
 era: "1920s-60s"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "jazz"]
 ---
 
 # Louis Armstrong
 
-**Scenes / genre:** [[jazz-canon|Jazz Canon]] · [[early-jazz|Early Jazz]] · [[jazz]] · [[vocal]]
+**Category:** [[Jazz]]
 
 ## Albums (3)
 - 01 Louis Armstrong - La Vie En Rose

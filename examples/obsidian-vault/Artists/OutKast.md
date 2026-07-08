@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["southern-hiphop"]
-genre: "hip-hop"
+category: "Hip-Hop"
 era: "1990s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "hip-hop"]
 ---
 
 # OutKast
 
-**Scenes / genre:** [[southern-hiphop|Southern Hiphop]] · [[hip-hop]]
+**Category:** [[Hip-Hop]]
 
 ## Albums (3)
 - Aquemini

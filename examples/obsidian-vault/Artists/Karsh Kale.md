@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["world-electronic", "indo-american"]
-genre: "world electronic"
+category: "World"
 era: "2000s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "world"]
 ---
 
 # Karsh Kale
 
-**Scenes / genre:** [[world-electronic|World Electronic]] · [[indo-american|Indo American]] · [[world electronic]]
+**Category:** [[World]]
 
 ## Albums (1)
 - Realize

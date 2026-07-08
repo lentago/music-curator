@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["french-electronic", "french-house"]
-genre: "electronic / house"
+category: "Electronic"
 era: "1990s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "electronic"]
 ---
 
 # Daft Punk
 
-**Scenes / genre:** [[french-electronic|French Electronic]] · [[french-house|French House]] · [[electronic (2)|electronic]] · [[house]]
+**Category:** [[Electronic]]
 
 ## Albums (3)
 - Discovery

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jam", "jazz-funk", "downtown-ny"]
-genre: "jazz / groove"
+category: "Downtown Avant-Garde"
 era: "1990s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "downtown-avant-garde"]
 ---
 
 # Medeski, Martin & Wood
 
-**Scenes / genre:** [[jam|Jam]] · [[jazz-funk|Jazz Funk]] · [[downtown-ny|Downtown Ny]] · [[jazz]] · [[groove]]
+**Category:** [[Downtown Avant-Garde]]
 
 ## Albums (3)
 - Last Chance to Dance Trance (perhaps) B

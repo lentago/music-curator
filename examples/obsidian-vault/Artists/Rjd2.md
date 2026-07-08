@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["definitive-jux-adjacent", "instrumental-hiphop"]
-genre: "instrumental hip-hop"
+category: "Def Jux"
 era: "2002-now"
 album_count: 5
-tags: ["artist"]
+tags: ["artist", "def-jux"]
 ---
 
 # Rjd2
 
-**Scenes / genre:** [[definitive-jux-adjacent|Definitive Jux Adjacent]] · [[instrumental-hiphop|Instrumental Hiphop]] · [[instrumental hip-hop]]
+**Category:** [[Def Jux]]
 
 ## Albums (5)
 - Dead Ringer

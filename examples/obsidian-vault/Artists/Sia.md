@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-pop", "downtempo"]
-genre: "pop"
+category: "Trip-Hop & Downtempo"
 era: "2000s-now"
 album_count: 3
-tags: ["artist"]
+tags: ["artist", "trip-hop-downtempo"]
 ---
 
 # Sia
 
-**Scenes / genre:** [[indie-pop|Indie Pop]] · [[downtempo|Downtempo]] · [[pop (2)|pop]]
+**Category:** [[Trip-Hop & Downtempo]]
 
 ## Albums (3)
 - Colour The Small One

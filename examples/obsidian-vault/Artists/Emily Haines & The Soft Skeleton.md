@@ -1,16 +1,15 @@
 ---
 type: "artist"
-scenes: ["indie-rock"]
-genre: "indie / chamber pop"
+category: "Indie Rock"
 era: "2000s"
 album_count: 1
 collaborators: ["Emily Haines"]
-tags: ["artist"]
+tags: ["artist", "indie-rock"]
 ---
 
 # Emily Haines & The Soft Skeleton
 
-**Scenes / genre:** [[indie-rock|Indie Rock]] · [[indie]] · [[chamber pop]]
+**Category:** [[Indie Rock]]
 
 **With:** [[Emily Haines]]
 

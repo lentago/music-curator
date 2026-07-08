@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-folk"]
-genre: "indie folk"
+category: "Indie Folk & Singer-Songwriter"
 era: "2002-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # Damien Rice
 
-**Scenes / genre:** [[indie-folk|Indie Folk]] · [[indie folk]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 ## Albums (1)
 - O

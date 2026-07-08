@@ -1,16 +1,15 @@
 ---
 type: "artist"
-scenes: ["alt-country", "bluegrass"]
-genre: "bluegrass / country"
+category: "Bluegrass"
 era: "1999"
 album_count: 1
 collaborators: ["Steve Earle"]
-tags: ["artist"]
+tags: ["artist", "bluegrass"]
 ---
 
 # Steve Earle-The Del McCoury Band
 
-**Scenes / genre:** [[alt-country|Alt Country]] · [[bluegrass|Bluegrass]] · [[bluegrass (2)|bluegrass]] · [[country (2)|country]]
+**Category:** [[Bluegrass]]
 
 **With:** [[Steve Earle]]
 

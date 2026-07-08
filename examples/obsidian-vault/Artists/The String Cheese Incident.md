@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jam", "jamgrass"]
-genre: "jam"
+category: "Bluegrass"
 era: "1990s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "bluegrass"]
 ---
 
 # The String Cheese Incident
 
-**Scenes / genre:** [[jam|Jam]] · [[jamgrass|Jamgrass]] · [[jam (2)|jam]]
+**Category:** [[Bluegrass]]
 
 ## Albums (2)
 - A String Cheese Incident Live

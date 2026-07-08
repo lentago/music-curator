@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["bluegrass"]
-genre: "bluegrass"
+category: "Bluegrass"
 era: "2000s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "bluegrass"]
 ---
 
 # The Steeldrivers
 
-**Scenes / genre:** [[bluegrass|Bluegrass]] · [[bluegrass (2)|bluegrass]]
+**Category:** [[Bluegrass]]
 
 ## Albums (2)
 - Live 11-08-2006

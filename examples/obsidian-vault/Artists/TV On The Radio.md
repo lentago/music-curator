@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-rock", "art-rock"]
-genre: "art rock"
+category: "Art-Pop & New Wave"
 era: "2000s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "art-pop-new-wave"]
 ---
 
 # TV On The Radio
 
-**Scenes / genre:** [[indie-rock|Indie Rock]] · [[art-rock|Art Rock]] · [[art rock]]
+**Category:** [[Art-Pop & New Wave]]
 
 ## Albums (2)
 - Dear Science

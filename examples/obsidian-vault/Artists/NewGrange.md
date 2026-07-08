@@ -1,13 +1,13 @@
 ---
 type: "artist"
-scenes: ["bluegrass", "newgrass"]
+category: "Newgrass"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "newgrass"]
 ---
 
 # NewGrange
 
-**Scenes / genre:** [[bluegrass|Bluegrass]] · [[newgrass|Newgrass]]
+**Category:** [[Newgrass]]
 
 ## Albums (1)
 - NewGrange

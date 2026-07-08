@@ -1,13 +1,13 @@
 ---
 type: "artist"
-scenes: ["balkan-folk", "indie-folk"]
+category: "Indie Folk & Singer-Songwriter"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "indie-folk-singer-songwriter"]
 ---
 
 # Beirut
 
-**Scenes / genre:** [[balkan-folk|Balkan Folk]] · [[indie-folk|Indie Folk]]
+**Category:** [[Indie Folk & Singer-Songwriter]]
 
 > lane confirmed by Chris ("Balkan and klezmer")
 

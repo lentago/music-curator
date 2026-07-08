@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-rock", "southern-rock"]
-genre: "indie rock"
+category: "Classic Rock"
 era: "2000s-now"
 album_count: 5
-tags: ["artist"]
+tags: ["artist", "classic-rock"]
 ---
 
 # My Morning Jacket
 
-**Scenes / genre:** [[indie-rock|Indie Rock]] · [[southern-rock|Southern Rock]] · [[indie rock]]
+**Category:** [[Classic Rock]]
 
 ## Albums (5)
 - At Dawn

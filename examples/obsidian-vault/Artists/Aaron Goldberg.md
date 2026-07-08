@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["contemporary-jazz"]
-genre: "jazz piano"
+category: "Jazz"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "jazz"]
 ---
 
 # Aaron Goldberg
 
-**Scenes / genre:** [[contemporary-jazz|Contemporary Jazz]] · [[jazz piano]]
+**Category:** [[Jazz]]
 
 ## Albums (1)
 - Worlds

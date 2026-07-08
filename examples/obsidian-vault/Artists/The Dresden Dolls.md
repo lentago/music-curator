@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["dark-cabaret"]
-genre: "dark cabaret"
+category: "Art-Pop & New Wave"
 era: "2000s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "art-pop-new-wave"]
 ---
 
 # The Dresden Dolls
 
-**Scenes / genre:** [[dark-cabaret|Dark Cabaret]] · [[dark cabaret]]
+**Category:** [[Art-Pop & New Wave]]
 
 ## Albums (1)
 - Dresden Dolls

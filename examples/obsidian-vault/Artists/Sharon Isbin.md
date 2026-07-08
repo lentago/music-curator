@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["classical"]
-genre: "classical guitar"
+category: "Classical"
 era: "1990s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "classical"]
 ---
 
 # Sharon Isbin
 
-**Scenes / genre:** [[classical|Classical]] · [[classical guitar]]
+**Category:** [[Classical]]
 
 ## Albums (1)
 - Sharon Isbin

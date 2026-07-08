@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["electronic-tango", "remix-project"]
-genre: "electronic tango"
+category: "Latin"
 era: "1999-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "latin"]
 ---
 
 # Gotan Project
 
-**Scenes / genre:** [[electronic-tango|Electronic Tango]] · [[remix-project|Remix Project]] · [[electronic tango]]
+**Category:** [[Latin]]
 
 > canonical owner of Inspiración-Espiración comp; the 7 fragment artists are guest tracks
 

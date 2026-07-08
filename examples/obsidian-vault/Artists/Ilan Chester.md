@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["latin-american"]
-genre: "Venezuelan"
+category: "Latin"
 era: "1990s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "latin"]
 ---
 
 # Ilan Chester
 
-**Scenes / genre:** [[latin-american|Latin American]] · [[Venezuelan]]
+**Category:** [[Latin]]
 
 ## Albums (2)
 - Lo mejor de Ilan Chester

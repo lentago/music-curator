@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["jam-electronic"]
-genre: "jam electronic"
+category: "Jam"
 era: "2000s"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "jam"]
 ---
 
 # DJ Harry
 
-**Scenes / genre:** [[jam-electronic|Jam Electronic]] · [[jam electronic]]
+**Category:** [[Jam]]
 
 ## Albums (2)
 - Aquarium Man

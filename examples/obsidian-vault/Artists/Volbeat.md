@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["heavy-metal", "rockabilly"]
-genre: "metal / rockabilly"
+category: "Metal"
 era: "2000s-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "metal"]
 ---
 
 # Volbeat
 
-**Scenes / genre:** [[heavy-metal|Heavy Metal]] · [[rockabilly|Rockabilly]] · [[metal]] · [[rockabilly (2)|rockabilly]]
+**Category:** [[Metal]]
 
 ## Albums (1)
 - Outlaw Gentlemen & Shady Ladies

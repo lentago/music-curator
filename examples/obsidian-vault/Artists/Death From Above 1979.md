@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["dance-punk"]
-genre: "dance punk"
+category: "Punk & Hardcore"
 era: "2000s-now"
 album_count: 6
-tags: ["artist"]
+tags: ["artist", "punk-hardcore"]
 ---
 
 # Death From Above 1979
 
-**Scenes / genre:** [[dance-punk|Dance Punk]] · [[dance punk]]
+**Category:** [[Punk & Hardcore]]
 
 ## Albums (6)
 - Heads Up!

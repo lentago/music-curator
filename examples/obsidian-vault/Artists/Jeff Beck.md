@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["guitar-god", "jazz-fusion"]
-genre: "rock / fusion"
+category: "Jazz"
 era: "1960s-now"
 album_count: 2
-tags: ["artist"]
+tags: ["artist", "jazz"]
 ---
 
 # Jeff Beck
 
-**Scenes / genre:** [[guitar-god|Guitar God]] · [[jazz-fusion|Jazz Fusion]] · [[rock]] · [[fusion]]
+**Category:** [[Jazz]]
 
 ## Albums (2)
 - Blow by Blow

@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["downtown-ny", "outsider"]
-genre: "outsider / blues"
+category: "Downtown Avant-Garde"
 era: "1990s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "downtown-avant-garde"]
 ---
 
 # Marvin Pontiac
 
-**Scenes / genre:** [[downtown-ny|Downtown Ny]] · [[outsider|Outsider]] · [[outsider (2)|outsider]] · [[blues (2)|blues]]
+**Category:** [[Downtown Avant-Garde]]
 
 ## Albums (1)
 - The Legendary Marvin Pontiac - Greatest Hits

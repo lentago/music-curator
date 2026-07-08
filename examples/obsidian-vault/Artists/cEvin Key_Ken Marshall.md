@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["industrial"]
-genre: "industrial"
+category: "Industrial & EBM"
 era: "2000s"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "industrial-ebm"]
 ---
 
 # cEvin Key_Ken Marshall
 
-**Scenes / genre:** [[industrial|Industrial]] · [[industrial (2)|industrial]]
+**Category:** [[Industrial & EBM]]
 
 ## Albums (1)
 - The Dragon Experience

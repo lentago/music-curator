@@ -1,15 +1,14 @@
 ---
 type: "artist"
-scenes: ["indie-rock-2010s"]
-genre: "indie rock"
+category: "Indie Rock"
 era: "2009-now"
 album_count: 1
-tags: ["artist"]
+tags: ["artist", "indie-rock"]
 ---
 
 # Young The Giant
 
-**Scenes / genre:** [[indie-rock-2010s|Indie Rock 2010S]] · [[indie rock]]
+**Category:** [[Indie Rock]]
 
 ## Albums (1)
 - Young The Giant (Special Edition)
