@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#anchor",
-      "color": {
-        "a": 1,
-        "rgb": 16755763
-      }
-    },
-    {
       "query": "tag:#scene",
       "color": {
         "a": 1,

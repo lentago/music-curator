@@ -44,11 +44,13 @@ The heuristics that drive Phase 4 — high-confidence discard tells, a **canon-t
 ## Obsidian graph vault
 
 The cleaned inventory is already a graph: artists carry `scenes[]` and `genre`
-tags, and a handful are marked as `anchor`s. `obsidian_driver.py` renders those
-relationships into a self-contained [Obsidian](https://obsidian.md) vault where
-each artist note wikilinks to its scene and genre hubs — and those links are the
-graph edges. Open the folder in Obsidian and the graph view clusters artists by
-scene out of the box (color-grouped, no plugins).
+tags. `obsidian_driver.py` renders those relationships into a self-contained
+[Obsidian](https://obsidian.md) vault where each artist note wikilinks to its
+scene and genre hubs — and those links are the graph edges. Open the folder in
+Obsidian and the graph view clusters artists by scene out of the box
+(color-grouped, no plugins). No artist is pre-weighted as an "anchor"; the
+important nodes surface from the connectivity itself, since Obsidian sizes
+nodes by degree.
 
 ```bash
 python obsidian_driver.py            # → examples/obsidian-vault/
@@ -60,7 +62,6 @@ What comes out (from the worked example's 554 active artists):
   (`bluegrass`, `defjux`, `tzadik`, `gothic-americana`, …) are the clusters.
   Compound genres are split on `/`, so two artists sharing only a `hip-hop` or
   `soul` component still connect.
-- **Anchors** (Cash, Zorn, Waits, Byrne/Eno) become the highest-degree hubs.
 - **Multi-scene "bridge" artists** — 84 of them — connect otherwise-separate
   clusters, surfacing the cross-pollination the flat profile only hints at.
 - **Collaboration edges** link combo acts straight to the members they share —

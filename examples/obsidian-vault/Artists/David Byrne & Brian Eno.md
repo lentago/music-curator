@@ -1,9 +1,8 @@
 ---
 type: "artist"
 album_count: 2
-anchor: true
 collaborators: ["David Byrne"]
-tags: ["artist", "anchor", "reservoir"]
+tags: ["artist", "reservoir"]
 ---
 
 # David Byrne & Brian Eno
@@ -11,8 +10,6 @@ tags: ["artist", "anchor", "reservoir"]
 **Filed under:** [[Reservoir]]
 
 **With:** [[David Byrne]]
-
-> **Anchor.** Foundational anchor — David Byrne / Talking Heads / Eno collaborations
 
 ## Albums (2)
 - Everything That Happens Will Happen Today
