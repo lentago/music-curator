@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["jazz-canon", "hard-bop"]
+genre: "hard bop"
+era: "1950s-now"
 album_count: 4
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Jackie McLean
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[jazz-canon|Jazz Canon]] · [[hard-bop|Hard Bop]] · [[hard bop]]
 
 ## Albums (4)
 - A Long Drink of the Blues

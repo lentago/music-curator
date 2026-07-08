@@ -1,13 +1,16 @@
 ---
 type: "artist"
+scenes: ["southern-soul", "swamp-funk"]
+genre: "southern soul / funk"
+era: "2000s-now"
 album_count: 2
 collaborators: ["Mofro"]
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # JJ Grey & Mofro
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[southern-soul|Southern Soul]] · [[swamp-funk|Swamp Funk]] · [[southern soul]] · [[funk (2)|funk]]
 
 **With:** [[Mofro]]
 

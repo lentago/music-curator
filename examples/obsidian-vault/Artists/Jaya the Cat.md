@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["ska-punk", "reggae"]
+genre: "reggae punk"
+era: "2000s"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Jaya the Cat
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[ska-punk|Ska Punk]] · [[reggae|Reggae]] · [[reggae punk]]
 
 ## Albums (1)
 - Basement Style

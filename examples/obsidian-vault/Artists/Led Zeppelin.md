@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["hard-rock", "classic-rock"]
+genre: "hard rock"
+era: "1960s-70s"
 album_count: 7
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Led Zeppelin
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[hard-rock|Hard Rock]] · [[classic-rock|Classic Rock]] · [[hard rock]]
 
 ## Albums (7)
 - II

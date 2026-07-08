@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["pop-canon"]
+genre: "pop / R&B"
+era: "1980s-now"
 album_count: 3
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Michael Jackson
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[pop-canon|Pop Canon]] · [[pop (2)|pop]] · [[R&B]]
 
 ## Albums (3)
 - Dangerous

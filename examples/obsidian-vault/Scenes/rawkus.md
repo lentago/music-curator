@@ -1,14 +1,15 @@
 ---
 type: "scene"
-member_count: 4
+member_count: 5
 tags: ["scene"]
 ---
 
 # Rawkus
 
-*Scene — 4 artist(s) in the collection.*
+*Scene — 5 artist(s) in the collection.*
 
 ## Artists
+- [[Company Flow]]
 - [[Mos Def]]
 - [[Mos Def & Talib Kweli]]
 - [[Talib Kweli]]

@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["post-rock", "icelandic"]
+genre: "post-rock"
+era: "1990s-now"
 album_count: 3
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Sigur Ros
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[post-rock|Post Rock]] · [[icelandic|Icelandic]] · [[post-rock (2)|post-rock]]
 
 ## Albums (3)
 - Hvarf - Heim

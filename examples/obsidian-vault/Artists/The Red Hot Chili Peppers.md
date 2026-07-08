@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["funk-rock", "alt-rock-90s"]
+genre: "funk rock"
+era: "1980s-now"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # The Red Hot Chili Peppers
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[funk-rock|Funk Rock]] · [[alt-rock-90s|Alt Rock 90S]] · [[funk rock]]
 
 ## Albums (1)
 - Freaky Styley

@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["jam"]
+genre: "jam"
+era: "1990s-now"
 album_count: 6
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Phil & Phriends
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[jam|Jam]] · [[jam (2)|jam]]
 
 ## Albums (6)
 - 1999 04 15 II The Warfield

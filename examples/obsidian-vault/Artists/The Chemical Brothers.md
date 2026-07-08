@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["big-beat", "electronic"]
+genre: "electronic / big beat"
+era: "1990s-now"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # The Chemical Brothers
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[big-beat|Big Beat]] · [[electronic|Electronic]] · [[electronic (2)|electronic]] · [[big beat]]
 
 ## Albums (1)
 - Exit Planet Dust

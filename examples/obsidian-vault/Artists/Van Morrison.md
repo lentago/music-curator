@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["singer-songwriter-canon", "blue-eyed-soul"]
+genre: "celtic soul"
+era: "1960s-now"
 album_count: 7
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Van Morrison
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[singer-songwriter-canon|Singer Songwriter Canon]] · [[blue-eyed-soul|Blue Eyed Soul]] · [[celtic soul]]
 
 ## Albums (7)
 - Astral Weeks

@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["celtic-punk"]
+genre: "celtic punk"
+era: "1980s-now"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # The Pogues
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[celtic-punk|Celtic Punk]] · [[celtic punk]]
 
 ## Albums (2)
 - If I Should Fall From Grace With God [Ex

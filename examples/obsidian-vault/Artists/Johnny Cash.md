@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Johnny Cash
 
-**Scenes / genre:** [[country-canon|Country Canon]] · [[country]]
+**Scenes / genre:** [[country-canon|Country Canon]] · [[country (2)|country]]
 
 ## Albums (8)
 - American III Solitary Man

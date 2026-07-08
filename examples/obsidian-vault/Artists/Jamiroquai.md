@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Jamiroquai
 
-**Scenes / genre:** [[acid-jazz|Acid Jazz]] · [[funk-electronic|Funk Electronic]] · [[acid jazz]] · [[funk]]
+**Scenes / genre:** [[acid-jazz|Acid Jazz]] · [[funk-electronic|Funk Electronic]] · [[acid jazz]] · [[funk (2)|funk]]
 
 ## Albums (1)
 - High Times Singles 1992-2006

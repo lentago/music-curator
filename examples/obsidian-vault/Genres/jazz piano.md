@@ -1,13 +1,14 @@
 ---
 type: "genre"
-member_count: 2
+member_count: 3
 tags: ["genre"]
 ---
 
 # jazz piano
 
-*Genre — 2 artist(s) in the collection.*
+*Genre — 3 artist(s) in the collection.*
 
 ## Artists
 - [[Aaron Goldberg]]
+- [[Diana Krall]]
 - [[Vince Guaraldi]]

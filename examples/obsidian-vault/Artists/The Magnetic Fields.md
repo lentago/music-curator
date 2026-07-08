@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["indie-pop", "chamber-pop"]
+genre: "indie pop"
+era: "1990s-now"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # The Magnetic Fields
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[indie-pop|Indie Pop]] · [[chamber-pop|Chamber Pop]] · [[indie pop]]
 
 ## Albums (2)
 - Get Lost

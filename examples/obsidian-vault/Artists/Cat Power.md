@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["indie-rock", "indie-folk"]
+genre: "indie rock"
+era: "1990s-now"
 album_count: 5
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Cat Power
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[indie-rock|Indie Rock]] · [[indie-folk|Indie Folk]] · [[indie rock]]
 
 ## Albums (5)
 - Moon Pix

@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["alt-rock-2000s"]
+genre: "alternative rock"
+era: "2000s-now"
 album_count: 3
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # MuteMath
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[alt-rock-2000s|Alt Rock 2000S]] · [[alternative rock]]
 
 ## Albums (3)
 - Armistice

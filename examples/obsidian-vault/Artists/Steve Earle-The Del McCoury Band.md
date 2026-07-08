@@ -10,7 +10,7 @@ tags: ["artist"]
 
 # Steve Earle-The Del McCoury Band
 
-**Scenes / genre:** [[alt-country|Alt Country]] · [[bluegrass|Bluegrass]] · [[bluegrass (2)|bluegrass]] · [[country]]
+**Scenes / genre:** [[alt-country|Alt Country]] · [[bluegrass|Bluegrass]] · [[bluegrass (2)|bluegrass]] · [[country (2)|country]]
 
 **With:** [[Steve Earle]]
 

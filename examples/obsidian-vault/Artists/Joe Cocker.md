@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["blue-eyed-soul", "classic-rock"]
+genre: "rock / soul"
+era: "1970s"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Joe Cocker
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[blue-eyed-soul|Blue Eyed Soul]] · [[classic-rock|Classic Rock]] · [[rock]] · [[soul (2)|soul]]
 
 ## Albums (1)
 - Classics, Vol. 4

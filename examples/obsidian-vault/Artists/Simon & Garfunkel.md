@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["folk-rock-canon"]
+genre: "folk rock"
+era: "1960s-70s"
 album_count: 3
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Simon & Garfunkel
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[folk-rock-canon|Folk Rock Canon]] · [[folk rock]]
 
 ## Albums (3)
 - The Concert In Central Park

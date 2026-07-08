@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["classic-rock", "british-invasion"]
+genre: "rock"
+era: "1960s-70s"
 album_count: 4
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # The Beatles
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[classic-rock|Classic Rock]] · [[british-invasion|British Invasion]] · [[rock]]
 
 ## Albums (4)
 - Abbey Road (2009 Stereo Remast

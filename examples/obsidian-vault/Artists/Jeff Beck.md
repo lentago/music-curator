@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["guitar-god", "jazz-fusion"]
+genre: "rock / fusion"
+era: "1960s-now"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Jeff Beck
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[guitar-god|Guitar God]] · [[jazz-fusion|Jazz Fusion]] · [[rock]] · [[fusion]]
 
 ## Albums (2)
 - Blow by Blow

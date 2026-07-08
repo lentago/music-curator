@@ -1,13 +1,15 @@
 ---
 type: "genre"
-member_count: 2
+member_count: 4
 tags: ["genre"]
 ---
 
 # hard rock
 
-*Genre — 2 artist(s) in the collection.*
+*Genre — 4 artist(s) in the collection.*
 
 ## Artists
 - [[AC-DC]]
 - [[Guns N' Roses]]
+- [[Led Zeppelin]]
+- [[Them Crooked Vultures]]

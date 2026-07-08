@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["stoner-rock", "hard-rock"]
+genre: "stoner rock"
+era: "2000s"
 album_count: 4
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # The Company Band
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[stoner-rock|Stoner Rock]] · [[hard-rock|Hard Rock]] · [[stoner rock]]
 
 ## Albums (4)
 - Its a Confusing World Not Fragile

@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["classical"]
+genre: "classical"
+era: "2000s"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Kremerata Baltica_Gidon Kremer
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[classical|Classical]] · [[classical (2)|classical]]
 
 ## Albums (1)
 - Happy Birthday

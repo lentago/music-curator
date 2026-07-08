@@ -1,14 +1,17 @@
 ---
 type: "scene"
-member_count: 3
+member_count: 6
 tags: ["scene"]
 ---
 
 # Industrial
 
-*Scene — 3 artist(s) in the collection.*
+*Scene — 6 artist(s) in the collection.*
 
 ## Artists
+- [[cEvin Key_Ken Marshall]]
+- [[IAMX]]
 - [[Ministry]]
+- [[Nine Inch Nails]]
 - [[Pop Will Eat Itself]]
 - [[Skinny Puppy]]

@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["southern-hiphop"]
+genre: "hip-hop"
+era: "1990s-now"
 album_count: 3
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # OutKast
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[southern-hiphop|Southern Hiphop]] · [[hip-hop]]
 
 ## Albums (3)
 - Aquemini

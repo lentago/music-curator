@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["bluegrass", "newgrass"]
+genre: "bluegrass guitar"
+era: "1980s-now"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Tony Rice Unit
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[bluegrass|Bluegrass]] · [[newgrass|Newgrass]] · [[bluegrass guitar]]
 
 ## Albums (2)
 - Backwaters

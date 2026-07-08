@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["folk-punk", "singer-songwriter"]
+genre: "folk / political"
+era: "1980s-now"
 album_count: 7
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Billy Bragg
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[folk-punk|Folk Punk]] · [[singer-songwriter|Singer Songwriter]] · [[folk (2)|folk]] · [[political]]
 
 ## Albums (7)
 - Back to Basics

@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Neil Young
 
-**Scenes / genre:** [[folk-rock-canon|Folk Rock Canon]] · [[singer-songwriter-canon|Singer Songwriter Canon]] · [[folk-rock]]
+**Scenes / genre:** [[folk-rock-canon|Folk Rock Canon]] · [[singer-songwriter-canon|Singer Songwriter Canon]] · [[folk-rock (2)|folk-rock]]
 
 > sole comp acceptable for canonical figure (Aretha/JB/Cole/Guaraldi rule)
 

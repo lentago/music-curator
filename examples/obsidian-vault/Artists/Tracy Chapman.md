@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Tracy Chapman
 
-**Scenes / genre:** [[folk-pop|Folk Pop]] · [[folk]]
+**Scenes / genre:** [[folk-pop|Folk Pop]] · [[folk (2)|folk]]
 
 >  (lane confirmed by Chris)
 

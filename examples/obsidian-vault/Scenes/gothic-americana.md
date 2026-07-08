@@ -1,14 +1,16 @@
 ---
 type: "scene"
-member_count: 3
+member_count: 5
 tags: ["scene"]
 ---
 
 # Gothic Americana
 
-*Scene — 3 artist(s) in the collection.*
+*Scene — 5 artist(s) in the collection.*
 
 ## Artists
 - [[16 Horsepower]]
+- [[Beat Circus]]
 - [[Sixteen Horsepower]]
+- [[The Handsome Family]]
 - [[Wovenhand]]

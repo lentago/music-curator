@@ -1,13 +1,16 @@
 ---
 type: "artist"
+scenes: ["indie-pop"]
+genre: "indie pop"
+era: "2000s-now"
 album_count: 1
 collaborators: ["Sondre Lerche"]
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Sondre Lerche and the Faces Down
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[indie-pop|Indie Pop]] · [[indie pop]]
 
 **With:** [[Sondre Lerche]]
 

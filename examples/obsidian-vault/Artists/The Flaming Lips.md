@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["psychedelic-rock", "art-rock"]
+genre: "psychedelic rock"
+era: "1990s-now"
 album_count: 4
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # The Flaming Lips
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[psychedelic-rock|Psychedelic Rock]] · [[art-rock|Art Rock]] · [[psychedelic rock]]
 
 ## Albums (4)
 - At War With The Mystics

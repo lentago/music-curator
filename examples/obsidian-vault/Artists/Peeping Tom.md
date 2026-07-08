@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["patton-orbit"]
+genre: "experimental pop"
+era: "2000s"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Peeping Tom
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[patton-orbit|Patton Orbit]] · [[experimental pop]]
 
 ## Albums (1)
 - Peeping Tom

@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["indie-rock", "southern-rock"]
+genre: "indie rock"
+era: "2000s-now"
 album_count: 5
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # My Morning Jacket
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[indie-rock|Indie Rock]] · [[southern-rock|Southern Rock]] · [[indie rock]]
 
 ## Albums (5)
 - At Dawn

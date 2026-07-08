@@ -1,13 +1,14 @@
 ---
 type: "scene"
-member_count: 2
+member_count: 3
 tags: ["scene"]
 ---
 
 # Folktronica
 
-*Scene — 2 artist(s) in the collection.*
+*Scene — 3 artist(s) in the collection.*
 
 ## Artists
 - [[Beth Orton]]
+- [[Múm]]
 - [[The Beta Band]]

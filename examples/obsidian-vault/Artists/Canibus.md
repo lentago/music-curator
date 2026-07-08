@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["underground-hiphop"]
+genre: "underground hip-hop"
+era: "1990s-now"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Canibus
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[underground-hiphop|Underground Hiphop]] · [[underground hip-hop]]
 
 ## Albums (1)
 - Rip the Jacker

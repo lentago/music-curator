@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["psychedelic-rock", "blues-rock", "classic-rock"]
+genre: "psychedelic rock"
+era: "1960s-70s"
 album_count: 4
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Jimi Hendrix
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[psychedelic-rock|Psychedelic Rock]] · [[blues-rock|Blues Rock]] · [[classic-rock|Classic Rock]] · [[psychedelic rock]]
 
 ## Albums (4)
 - Band Of Gypsys (Live)

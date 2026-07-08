@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["indie-electronic"]
+genre: "indie electronic"
+era: "2000s"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # The Postal Service
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[indie-electronic|Indie Electronic]] · [[indie electronic]]
 
 ## Albums (1)
 - Give Up

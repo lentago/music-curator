@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["underground-hiphop", "defjux", "rawkus"]
+genre: "underground hip-hop"
+era: "1990s"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Company Flow
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[underground-hiphop|Underground Hiphop]] · [[defjux|Defjux]] · [[rawkus|Rawkus]] · [[underground hip-hop]]
 
 ## Albums (1)
 - Funcrusher Plus

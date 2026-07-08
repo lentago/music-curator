@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["retro-soul"]
+genre: "retro soul / funk"
+era: "2000s-now"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Sharon Jones & The Dap-Kings
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[retro-soul|Retro Soul]] · [[retro soul]] · [[funk (2)|funk]]
 
 ## Albums (2)
 - 100 Days, 100 Nights

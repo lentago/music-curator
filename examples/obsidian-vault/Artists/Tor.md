@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["instrumental-hiphop"]
+genre: "instrumental hip-hop"
+era: "2000s-now"
 album_count: 3
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Tor
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[instrumental-hiphop|Instrumental Hiphop]] · [[instrumental hip-hop]]
 
 ## Albums (3)
 - cn tower mp3

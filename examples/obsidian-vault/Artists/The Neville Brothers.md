@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["nola", "funk"]
+genre: "New Orleans R&B"
+era: "1970s-now"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # The Neville Brothers
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[nola|Nola]] · [[funk|Funk]] · [[New Orleans R&B]]
 
 ## Albums (1)
 - Uptown Rulin' The Best of the Neville B

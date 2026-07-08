@@ -10,10 +10,10 @@ A taste map of the collection. Open the **graph view** (Ctrl/Cmd-G) to see artis
 ## By the numbers
 
 - **554** artists
-- **123** scenes · **89** genre components
-- **84** multi-scene bridge artists
+- **242** scenes · **231** genre components
+- **335** multi-scene bridge artists
 - **40** direct artist-to-artist collaboration edges
-- **403** in the untagged [[Reservoir]]
+- **27** in the untagged [[Reservoir]]
 
 ## Start here
 
@@ -22,18 +22,18 @@ A taste map of the collection. Open the **graph view** (Ctrl/Cmd-G) to see artis
 
 ## Largest scenes
 
-- [[bluegrass|Bluegrass]] (21)
-- [[underground-hiphop|Underground Hiphop]] (15)
-- [[newgrass|Newgrass]] (10)
-- [[indie-folk|Indie Folk]] (6)
-- [[instrumental-hiphop|Instrumental Hiphop]] (6)
-- [[defjux|Defjux]] (5)
-- [[soul-canon|Soul Canon]] (5)
-- [[conscious-hiphop|Conscious Hiphop]] (4)
-- [[downtown-ny|Downtown Ny]] (4)
-- [[outlaw-country|Outlaw Country]] (4)
-- [[radical-jewish-culture|Radical Jewish Culture]] (4)
-- [[rawkus|Rawkus]] (4)
-- [[turntablism|Turntablism]] (4)
-- [[tzadik|Tzadik]] (4)
-- [[world|World]] (4)
+- [[underground-hiphop|Underground Hiphop]] (40)
+- [[bluegrass|Bluegrass]] (28)
+- [[indie-rock|Indie Rock]] (23)
+- [[jam|Jam]] (22)
+- [[newgrass|Newgrass]] (21)
+- [[indie-folk|Indie Folk]] (20)
+- [[classic-rock|Classic Rock]] (18)
+- [[soul-canon|Soul Canon]] (17)
+- [[downtempo|Downtempo]] (15)
+- [[alt-country|Alt Country]] (14)
+- [[downtown-ny|Downtown Ny]] (13)
+- [[electronic|Electronic]] (13)
+- [[alt-rock-90s|Alt Rock 90S]] (12)
+- [[instrumental-hiphop|Instrumental Hiphop]] (12)
+- [[world|World]] (12)

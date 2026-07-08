@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["post-rock"]
+genre: "post-rock"
+era: "2000s-now"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Explosions In The Sky
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[post-rock|Post Rock]] · [[post-rock (2)|post-rock]]
 
 ## Albums (1)
 - Those Who Tell the Truth Shall Die, Thos

@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["alt-metal", "funk-rock"]
+genre: "alternative rock"
+era: "1990s-now"
 album_count: 3
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Incubus
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[alt-metal|Alt Metal]] · [[funk-rock|Funk Rock]] · [[alternative rock]]
 
 ## Albums (3)
 - Fungus Amongus

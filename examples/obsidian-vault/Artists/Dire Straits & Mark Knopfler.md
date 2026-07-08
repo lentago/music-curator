@@ -1,13 +1,16 @@
 ---
 type: "artist"
+scenes: ["classic-rock", "roots-rock"]
+genre: "roots rock"
+era: "1980s-now"
 album_count: 1
 collaborators: ["Mark Knopfler"]
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Dire Straits & Mark Knopfler
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[classic-rock|Classic Rock]] · [[roots-rock|Roots Rock]] · [[roots rock]]
 
 **With:** [[Mark Knopfler]]
 

@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["pop-rock", "sophisti-pop"]
+genre: "pop rock"
+era: "1980s-now"
 album_count: 7
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Sting
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[pop-rock|Pop Rock]] · [[sophisti-pop|Sophisti Pop]] · [[pop rock]]
 
 ## Albums (7)
 - At the Movies

@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["indie-rock", "baroque-pop"]
+genre: "indie rock"
+era: "2000s-now"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Arcade Fire
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[indie-rock|Indie Rock]] · [[baroque-pop|Baroque Pop]] · [[indie rock]]
 
 ## Albums (2)
 - Funeral

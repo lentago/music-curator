@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["singer-songwriter"]
+genre: "singer-songwriter"
+era: "1970s-2000s"
 album_count: 3
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Warren Zevon - I'll Sleep When I'm Dead (An Anthology)
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[singer-songwriter|Singer Songwriter]] · [[singer-songwriter (2)|singer-songwriter]]
 
 ## Albums (3)
 - Disc 1

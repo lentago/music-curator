@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Tom Waits
 
-**Scenes / genre:** [[art-pop|Art Pop]] · [[americana|Americana]] · [[outsider|Outsider]] · [[art-rock]] · [[americana (2)|americana]]
+**Scenes / genre:** [[art-pop|Art Pop]] · [[americana|Americana]] · [[outsider|Outsider]] · [[art-rock (2)|art-rock]] · [[americana (3)|americana]]
 
 ## Albums (20)
 - alice

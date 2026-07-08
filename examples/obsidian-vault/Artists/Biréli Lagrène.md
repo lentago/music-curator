@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["gypsy-jazz"]
+genre: "gypsy jazz"
+era: "1980s-now"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Biréli Lagrène
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[gypsy-jazz|Gypsy Jazz]] · [[gypsy jazz]]
 
 ## Albums (1)
 - Gipsy Project & Friends

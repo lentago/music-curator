@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["blues", "blues-canon"]
+genre: "blues"
+era: "1950s-now"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # John Lee Hooker
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[blues|Blues]] · [[blues-canon|Blues Canon]] · [[blues (2)|blues]]
 
 ## Albums (1)
 - The Best of John Lee Hooker [GNP]

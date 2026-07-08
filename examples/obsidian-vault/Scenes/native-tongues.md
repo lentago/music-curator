@@ -1,13 +1,14 @@
 ---
 type: "scene"
-member_count: 2
+member_count: 3
 tags: ["scene"]
 ---
 
 # Native Tongues
 
-*Scene — 2 artist(s) in the collection.*
+*Scene — 3 artist(s) in the collection.*
 
 ## Artists
 - [[A Tribe Called Quest]]
 - [[De La Soul]]
+- [[Prince Paul]]

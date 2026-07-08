@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["funk-punk", "ska-punk"]
+genre: "funk punk"
+era: "1980s-now"
 album_count: 3
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Fishbone
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[funk-punk|Funk Punk]] · [[ska-punk|Ska Punk]] · [[funk punk]]
 
 ## Albums (3)
 - In Your Face

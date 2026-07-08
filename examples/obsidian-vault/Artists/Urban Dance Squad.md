@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["rap-rock"]
+genre: "rap rock"
+era: "1990s"
 album_count: 4
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Urban Dance Squad
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[rap-rock|Rap Rock]] · [[rap rock]]
 
 ## Albums (4)
 - Life 'n Perspective of a Genuine Crossov

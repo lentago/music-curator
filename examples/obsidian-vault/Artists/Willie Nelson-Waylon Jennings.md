@@ -10,7 +10,7 @@ tags: ["artist"]
 
 # Willie Nelson-Waylon Jennings
 
-**Scenes / genre:** [[outlaw-country|Outlaw Country]] · [[country]]
+**Scenes / genre:** [[outlaw-country|Outlaw Country]] · [[country (2)|country]]
 
 **With:** [[Willie Nelson]] · [[Waylon Jennings]]
 

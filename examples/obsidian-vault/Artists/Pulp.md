@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["britpop"]
+genre: "britpop"
+era: "1990s"
 album_count: 3
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Pulp
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[britpop|Britpop]] · [[britpop (2)|britpop]]
 
 ## Albums (3)
 - Different Class

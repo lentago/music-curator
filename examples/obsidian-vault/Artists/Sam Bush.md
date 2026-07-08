@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["newgrass", "bluegrass"]
+genre: "newgrass"
+era: "1990s-now"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Sam Bush
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[newgrass|Newgrass]] · [[bluegrass|Bluegrass]] · [[newgrass (2)|newgrass]]
 
 ## Albums (2)
 - Howlin' at the Moon

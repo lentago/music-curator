@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["world", "west-african", "blues"]
+genre: "world fusion"
+era: "2000s"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Taj Mahal & Toumani Diabate
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[world|World]] · [[west-african|West African]] · [[blues|Blues]] · [[world fusion]]
 
 ## Albums (1)
 - Kulanjan

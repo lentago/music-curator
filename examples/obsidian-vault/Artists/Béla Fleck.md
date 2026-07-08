@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["newgrass", "bluegrass"]
+genre: "newgrass / banjo"
+era: "1980s-now"
 album_count: 7
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Béla Fleck
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[newgrass|Newgrass]] · [[bluegrass|Bluegrass]] · [[newgrass (2)|newgrass]] · [[banjo]]
 
 ## Albums (7)
 - Drive

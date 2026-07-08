@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["new-age"]
+genre: "new age"
+era: "1970s-now"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Deuter
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[new-age|New Age]] · [[new age]]
 
 ## Albums (1)
 - Reiki- Hands of Light

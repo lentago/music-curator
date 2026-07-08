@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["indie-rock", "indie-pop"]
+genre: "indie pop"
+era: "2010s"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Broken Bells
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[indie-rock|Indie Rock]] · [[indie-pop|Indie Pop]] · [[indie pop]]
 
 ## Albums (1)
 - Broken Bells [+Video]

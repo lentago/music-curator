@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["classic-rock"]
+genre: "rock"
+era: "1980s-now"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Robert Plant
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[classic-rock|Classic Rock]] · [[rock]]
 
 ## Albums (2)
 - Now & Zen

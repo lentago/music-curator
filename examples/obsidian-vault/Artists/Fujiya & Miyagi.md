@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["electronic", "krautrock"]
+genre: "electronic"
+era: "2000s"
 album_count: 1
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Fujiya & Miyagi
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[electronic|Electronic]] · [[krautrock|Krautrock]] · [[electronic (2)|electronic]]
 
 ## Albums (1)
 - Lightbulbs

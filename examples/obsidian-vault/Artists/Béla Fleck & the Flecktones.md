@@ -1,13 +1,16 @@
 ---
 type: "artist"
+scenes: ["newgrass", "jazz-fusion"]
+genre: "newgrass / fusion"
+era: "1990s-now"
 album_count: 5
 collaborators: ["Béla Fleck"]
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Béla Fleck & the Flecktones
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[newgrass|Newgrass]] · [[jazz-fusion|Jazz Fusion]] · [[newgrass (2)|newgrass]] · [[fusion]]
 
 **With:** [[Béla Fleck]]
 

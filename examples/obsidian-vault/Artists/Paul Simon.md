@@ -1,12 +1,15 @@
 ---
 type: "artist"
+scenes: ["worldbeat", "singer-songwriter-canon"]
+genre: "worldbeat"
+era: "1980s-now"
 album_count: 2
-tags: ["artist", "reservoir"]
+tags: ["artist"]
 ---
 
 # Paul Simon
 
-**Filed under:** [[Reservoir]]
+**Scenes / genre:** [[worldbeat|Worldbeat]] · [[singer-songwriter-canon|Singer Songwriter Canon]] · [[worldbeat (2)|worldbeat]]
 
 ## Albums (2)
 - Graceland
