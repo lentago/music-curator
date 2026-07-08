@@ -4,10 +4,11 @@ Render a music-inventory JSON file into an Obsidian vault whose graph view
 clusters artists by scene and genre.
 
 Each active artist becomes a note that wikilinks to its scene(s) and genre;
-those scene/genre notes are the hub nodes the graph clusters around. Anchors
-get an MOC, untagged artists hang off a single Reservoir hub, and the whole
-thing opens in Obsidian with a pre-styled graph (color-grouped by note type)
-and no plugins required.
+those scene/genre notes are the hub nodes the graph clusters around. Untagged
+artists hang off a single Reservoir hub, and the whole thing opens in Obsidian
+with a pre-styled graph (color-grouped by note type) and no plugins required.
+No artist is pre-designated as more important than another — Obsidian sizes
+nodes by degree, so the real hubs surface from the connectivity itself.
 
 Usage:
     python obsidian_driver.py [path/to/music-inventory.json] [--out DIR]
@@ -44,7 +45,6 @@ MARKER = ".generated-by-music-curator"
 _ILLEGAL = re.compile(r'[<>:"/\\|?*\x00-\x1f#^\[\]]')
 
 RESERVOIR_HUB = "Reservoir"
-ANCHORS_MOC = "Anchors"
 HOME_MOC = "Music Collection"
 ABOUT_NOTE = "About this vault"
 
@@ -237,7 +237,6 @@ def build_vault(inventory, out_dir, include_discarded=False):
     scene_members = {}     # scene slug      -> [artist display names]
     genre_members = {}     # genre component -> [artist display names]
     reservoir_members = []
-    anchors = []
     collab_map = {}        # artist name -> [constituent artist names that are nodes]
 
     for name, rec in active.items():
@@ -247,8 +246,6 @@ def build_vault(inventory, out_dir, include_discarded=False):
             scene_members.setdefault(scene, []).append(name)
         for component in genre_components(rec.get("genre")):
             genre_members.setdefault(component, []).append(name)
-        if rec.get("anchor"):
-            anchors.append(name)
         constituents = parse_collaborators(name, name_lookup)
         if constituents:
             collab_map[name] = constituents
@@ -256,7 +253,7 @@ def build_vault(inventory, out_dir, include_discarded=False):
     # Allocate globally-unique basenames. Reserve the MOC names first so they
     # keep clean titles, then artists, then hubs.
     alloc = BasenameAllocator()
-    fixed = {n: alloc.take(n) for n in (HOME_MOC, ANCHORS_MOC, RESERVOIR_HUB, ABOUT_NOTE)}
+    fixed = {n: alloc.take(n) for n in (HOME_MOC, RESERVOIR_HUB, ABOUT_NOTE)}
     artist_base = {name: alloc.take(name) for name in active}
     scene_base = {scene: alloc.take(scene) for scene in sorted(scene_members)}
     genre_base = {genre: alloc.take(genre) for genre in sorted(genre_members)}
@@ -266,8 +263,6 @@ def build_vault(inventory, out_dir, include_discarded=False):
     # --- Artist notes ---------------------------------------------------------
     for name, rec in active.items():
         tags = ["artist"]
-        if rec.get("anchor"):
-            tags.append("anchor")
         if rec.get("discard"):
             tags.append("discarded")
         reservoir = is_reservoir(rec)
@@ -281,7 +276,6 @@ def build_vault(inventory, out_dir, include_discarded=False):
             ("genre", rec.get("genre")),
             ("era", rec.get("era")),
             ("album_count", rec.get("album_count")),
-            ("anchor", True if rec.get("anchor") else None),
             ("discarded", True if rec.get("discard") else None),
             ("collaborators", collab_map.get(name) or None),
             ("tags", tags),
@@ -311,9 +305,6 @@ def build_vault(inventory, out_dir, include_discarded=False):
             )
             parts.append("")
 
-        if rec.get("anchor") and rec.get("anchor_note"):
-            parts.append(f"> **Anchor.** {rec['anchor_note']}")
-            parts.append("")
         if rec.get("note"):
             parts.append(f"> {rec['note']}")
             parts.append("")
@@ -364,18 +355,6 @@ def build_vault(inventory, out_dir, include_discarded=False):
         )
         write_note(out_dir, "Genres", genre_base[genre], "\n".join(body))
 
-    # --- Anchors MOC ----------------------------------------------------------
-    anchor_body = [
-        frontmatter([("type", "moc"), ("tags", ["moc"])]), "",
-        f"# {ANCHORS_MOC}", "",
-        "The foundational artists everything else routes through — the "
-        "highest-degree hubs in the graph.", "",
-    ]
-    for name in sorted(anchors, key=str.lower):
-        note = active[name].get("anchor_note", "")
-        anchor_body.append(f"- {link(artist_base[name], name)}" + (f" — {note}" if note else ""))
-    write_note(out_dir, "", fixed[ANCHORS_MOC], "\n".join(anchor_body))
-
     # --- Reservoir hub --------------------------------------------------------
     reservoir_body = [
         frontmatter([("type", "moc"), ("tags", ["moc", "reservoir"])]), "",
@@ -400,18 +379,18 @@ def build_vault(inventory, out_dir, include_discarded=False):
         frontmatter([("type", "moc"), ("tags", ["moc"])]), "",
         f"# {HOME_MOC}", "",
         "A taste map of the collection. Open the **graph view** (Ctrl/Cmd-G) to "
-        "see artists cluster around the scene and genre hubs they link to; the "
-        "four anchors sit at the densest nodes, multi-scene artists bridge the "
-        "clusters, and combo acts link straight to the members they share.", "",
+        "see artists cluster around the scene and genre hubs they link to; "
+        "multi-scene artists bridge the clusters, and combo acts link straight "
+        "to the members they share. Nothing is pre-weighted — the densest nodes "
+        "are whatever the connectivity makes them.", "",
         "## By the numbers", "",
         f"- **{len(active)}** artists",
         f"- **{len(scene_members)}** scenes · **{len(genre_members)}** genre components",
-        f"- **{len(anchors)}** anchors · **{bridges}** multi-scene bridge artists",
+        f"- **{bridges}** multi-scene bridge artists",
         f"- **{collab_edges}** direct artist-to-artist collaboration edges",
         f"- **{len(reservoir_members)}** in the untagged {link(fixed[RESERVOIR_HUB])}",
         "",
         "## Start here", "",
-        f"- {link(fixed[ANCHORS_MOC])} — the foundational hubs",
         f"- {link(fixed[RESERVOIR_HUB])} — exploration inventory",
         f"- {link(fixed[ABOUT_NOTE])} — how to read this vault",
         "",
@@ -437,8 +416,9 @@ def build_vault(inventory, out_dir, include_discarded=False):
         "- **Combo acts link directly to their members** (`El-P & Cannibal Ox` "
         "→ El-P + Cannibal Ox), so the graph shows the collaboration social "
         "graph, not just hub membership. See a note's **With:** line.",
-        "- Color groups are pre-set: anchors gold, scenes blue, genres green, "
-        "the reservoir grey, ordinary artists light.",
+        "- Color groups are pre-set by node type: scenes blue, genres green, "
+        "the reservoir grey, artists light. No artist is singled out — node size "
+        "follows degree, so importance emerges from the graph, not a prior.",
         "- Multi-scene artists are the bridges between clusters — follow them to "
         "find cross-pollination (a jazz guitarist who is also in the klezmer and "
         "Tom Waits orbits, say).",
@@ -456,7 +436,6 @@ def build_vault(inventory, out_dir, include_discarded=False):
         "artists": len(active),
         "scenes": len(scene_members),
         "genres": len(genre_members),
-        "anchors": len(anchors),
         "bridges": bridges,
         "collab_edges": collab_edges,
         "reservoir": len(reservoir_members),
@@ -475,7 +454,6 @@ def write_graph_config(out_dir):
         "showOrphans": True,
         "collapse-color-groups": False,
         "colorGroups": [
-            {"query": "tag:#anchor", "color": {"a": 1, "rgb": 16755763}},     # gold
             {"query": "tag:#scene", "color": {"a": 1, "rgb": 4827094}},       # blue
             {"query": "tag:#genre", "color": {"a": 1, "rgb": 6605645}},       # green
             {"query": "tag:#reservoir", "color": {"a": 1, "rgb": 8355711}},   # grey
@@ -530,7 +508,7 @@ def main():
     print(f"Wrote vault to: {args.out}")
     print(f"  artists:   {stats['artists']}")
     print(f"  scenes:    {stats['scenes']}  genre components: {stats['genres']}")
-    print(f"  anchors:   {stats['anchors']}  bridges: {stats['bridges']}")
+    print(f"  bridges:   {stats['bridges']}")
     print(f"  collab edges: {stats['collab_edges']}")
     print(f"  reservoir: {stats['reservoir']}")
 

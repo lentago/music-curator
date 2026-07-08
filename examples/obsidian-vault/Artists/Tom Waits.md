@@ -4,15 +4,12 @@ scenes: ["art-pop", "americana", "outsider"]
 genre: "art-rock / americana"
 era: "1973-now"
 album_count: 20
-anchor: true
-tags: ["artist", "anchor"]
+tags: ["artist"]
 ---
 
 # Tom Waits
 
 **Scenes / genre:** [[art-pop|Art Pop]] · [[americana|Americana]] · [[outsider|Outsider]] · [[art-rock]] · [[americana (2)|americana]]
-
-> **Anchor.** Foundational anchor — art-rock/Americana/outsider centerpiece
 
 ## Albums (20)
 - alice

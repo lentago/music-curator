@@ -15,7 +15,8 @@ speculative feature-padding.
   every change to the inventory, schema, or validator itself (`.github/workflows/validate.yml`).
 - Obsidian graph vault — `obsidian_driver.py` renders the inventory into an
   Obsidian vault (`examples/obsidian-vault/`) whose graph view clusters artists
-  by scene/genre around anchor hubs (see below).
+  around scene/genre hubs, letting the important nodes surface from the
+  connectivity rather than a prior (see below).
 
 ---
 
@@ -119,9 +120,10 @@ Anticon→doseone→Backwoodz social-graph bridge).
 **What it adds:** Turns the inventory into a browsable, visual **artist graph**.
 `obsidian_driver.py` renders one note per active artist that wikilinks to its
 scene and genre hubs; opened in Obsidian, the graph view clusters artists by
-scene, sizes anchors as the densest hubs, and exposes the ~84 multi-scene
-"bridge" artists that connect clusters — the cross-pollination the flat profile
-only describes in prose.
+scene and exposes the ~84 multi-scene "bridge" artists that connect clusters —
+the cross-pollination the flat profile only describes in prose. No artist is
+pre-designated as important; node size follows degree, so the hubs emerge from
+the graph rather than from a prior imposed on it.
 
 **Implemented as:** a stdlib-only driver (sibling to `validate.py`), a committed
 worked-example vault at `examples/obsidian-vault/`, and a pre-styled
@@ -147,7 +149,7 @@ existing inventory with no schema change:
   bridge). Those live in the profile prose; a curated `members`/`collaborators`
   schema field would let the driver draw them too.
 - **Thread MOCs from the profile.** Generate a note per queued exploration
-  thread (Tzadik deep dive, bluegrass extension, …) linking its anchors and
+  thread (Tzadik deep dive, bluegrass extension, …) linking its key artists and
   expansion candidates, so the profile's editorial threads become navigable.
 - **Era/decade lens.** An optional era-bucket edge set for a temporal view.
 
