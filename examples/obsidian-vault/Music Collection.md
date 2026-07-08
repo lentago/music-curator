@@ -5,13 +5,14 @@ tags: ["moc"]
 
 # Music Collection
 
-A taste map of the collection. Open the **graph view** (Ctrl/Cmd-G) to see artists cluster around the scene and genre hubs they link to; the four anchors sit at the densest nodes, and multi-scene artists bridge the clusters.
+A taste map of the collection. Open the **graph view** (Ctrl/Cmd-G) to see artists cluster around the scene and genre hubs they link to; the four anchors sit at the densest nodes, multi-scene artists bridge the clusters, and combo acts link straight to the members they share.
 
 ## By the numbers
 
 - **554** artists
-- **123** scenes · **88** genres
+- **123** scenes · **89** genre components
 - **4** anchors · **84** multi-scene bridge artists
+- **40** direct artist-to-artist collaboration edges
 - **403** in the untagged [[Reservoir]]
 
 ## Start here

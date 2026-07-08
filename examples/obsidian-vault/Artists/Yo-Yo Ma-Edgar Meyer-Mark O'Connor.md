@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Yo-Yo Ma-Edgar Meyer-Mark O'Connor
 
-**Scenes / genre:** [[classical-crossover|Classical Crossover]] · [[appalachian|Appalachian]] · [[classical appalachian|classical / appalachian]]
+**Scenes / genre:** [[classical-crossover|Classical Crossover]] · [[appalachian|Appalachian]] · [[classical]] · [[appalachian (2)|appalachian]]
 
 ## Albums (1)
 - Appalachian Journey

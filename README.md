@@ -58,9 +58,15 @@ What comes out (from the worked example's 554 active artists):
 
 - **Artist notes** link to their **scene** and **genre** hubs; the scene hubs
   (`bluegrass`, `defjux`, `tzadik`, `gothic-americana`, …) are the clusters.
+  Compound genres are split on `/`, so two artists sharing only a `hip-hop` or
+  `soul` component still connect.
 - **Anchors** (Cash, Zorn, Waits, Byrne/Eno) become the highest-degree hubs.
 - **Multi-scene "bridge" artists** — 84 of them — connect otherwise-separate
   clusters, surfacing the cross-pollination the flat profile only hints at.
+- **Collaboration edges** link combo acts straight to the members they share —
+  `El-P & Cannibal Ox` → El-P + Cannibal Ox, `Mos Def & Talib Kweli` → both —
+  parsed from the artist keys, drawn only to members that are themselves in the
+  collection. The graph shows the social graph, not just hub membership.
 - **Untagged reservoir** artists hang off a single `Reservoir` hub (grey,
   filterable) so the taste map stays legible.
 

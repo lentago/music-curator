@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Skinny Puppy
 
-**Scenes / genre:** [[industrial|Industrial]] · [[ebm|Ebm]] · [[wax-trax|Wax Trax]] · [[industrial EBM|industrial / EBM]]
+**Scenes / genre:** [[industrial|Industrial]] · [[ebm|Ebm]] · [[wax-trax|Wax Trax]] · [[industrial (2)|industrial]] · [[EBM (2)|EBM]]
 
 >  (lane confirmed by Chris)
 

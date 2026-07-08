@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # DJ Logic
 
-**Scenes / genre:** [[turntablism|Turntablism]] · [[jazz-electronic|Jazz Electronic]] · [[turntablism jazz|turntablism / jazz]]
+**Scenes / genre:** [[turntablism|Turntablism]] · [[jazz-electronic|Jazz Electronic]] · [[turntablism (2)|turntablism]] · [[jazz]]
 
 ## Albums (1)
 - The Anomaly

@@ -1,0 +1,8 @@
+# Obsidian editor state if the repo root is opened as a vault. The committed
+# worked-example vault under examples/obsidian-vault/ is intentional and keeps
+# its own .gitignore, so scope this to the repo root only (leading slash).
+/.obsidian/
+
+# Python
+__pycache__/
+*.pyc

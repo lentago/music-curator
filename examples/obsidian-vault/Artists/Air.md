@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # Air
 
-**Scenes / genre:** [[french-electronic|French Electronic]] · [[downtempo|Downtempo]] · [[electronic downtempo|electronic / downtempo]]
+**Scenes / genre:** [[french-electronic|French Electronic]] · [[downtempo|Downtempo]] · [[electronic (2)|electronic]] · [[downtempo (2)|downtempo]]
 
 ## Albums (1)
 - Love 2

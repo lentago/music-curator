@@ -2,12 +2,15 @@
 type: "artist"
 album_count: 2
 anchor: true
+collaborators: ["David Byrne"]
 tags: ["artist", "anchor", "reservoir"]
 ---
 
 # David Byrne & Brian Eno
 
 **Filed under:** [[Reservoir]]
+
+**With:** [[David Byrne]]
 
 > **Anchor.** Foundational anchor — David Byrne / Talking Heads / Eno collaborations
 

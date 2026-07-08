@@ -9,7 +9,7 @@ tags: ["artist"]
 
 # James Brown
 
-**Scenes / genre:** [[soul-canon|Soul Canon]] · [[funk-canon|Funk Canon]] · [[soul funk|soul / funk]]
+**Scenes / genre:** [[soul-canon|Soul Canon]] · [[funk-canon|Funk Canon]] · [[soul (2)|soul]] · [[funk]]
 
 > sole comp acceptable for canonical figure
 
