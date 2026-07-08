@@ -1,0 +1,938 @@
+{
+  "chunk": "chunk-09",
+  "web_tools_available": true,
+  "artists": {
+    "Andrew Bird": {
+      "Andrew Bird & the Mysterious Production": {
+        "status": "verified",
+        "notes": "Truncated key; identical to 'Andrew Bird & the Mysterious Production of Eggs'",
+        "personnel": [
+          {"name": "Andrew Bird", "role": "vocals, violin, guitar, whistling, glockenspiel", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Kevin O'Donnell", "role": "drums", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Nora O'Connor", "role": "backing vocals", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "Andrew Bird & the Mysterious Production of Eggs": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Andrew Bird", "role": "vocals, violin, guitar, whistling, glockenspiel (producer)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Kevin O'Donnell", "role": "drums", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Nora O'Connor", "role": "backing vocals", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "Armchair Apocrypha": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Andrew Bird", "role": "vocals, violin, guitar, whistling, glockenspiel (producer)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Ben Durrant", "role": "co-producer, mixing", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Dosh", "role": "drums, Rhodes, Wurlitzer", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "Break It Yourself": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Andrew Bird", "role": "vocals, violin, guitar, whistling (producer)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Martin Dosh", "role": "drums", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Jeremy Ylvisaker", "role": "guitar, keyboards", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Mike Lewis", "role": "bass, tenor saxophone", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Annie Clark (St. Vincent)", "role": "guest vocals on 'Lusitania'", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "Daytrotter Session - 10_29_2007": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Fitz and the dizzyspells (EP)": {
+        "status": "unverified",
+        "personnel": []
+      },
+      "Hands of Glory": {
+        "status": "unverified",
+        "personnel": [
+          {"name": "Andrew Bird", "role": "vocals, violin, guitar, whistling (producer)", "confidence": "medium", "source": "knowledge", "in_collection": false},
+          {"name": "Martin Dosh", "role": "drums", "confidence": "medium", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Music of Hair": {
+        "status": "unverified",
+        "personnel": []
+      },
+      "Noble Beast": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Andrew Bird", "role": "vocals, violin, guitar, whistling (producer)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Martin Dosh", "role": "percussion, looping, keys", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Jeremy Ylvisaker", "role": "guitar, bass, organ", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Todd Sickafoose", "role": "double bass", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Illogic": {
+      "Illogic and Blockhead - Capture The Sun (2013)": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Illogic", "role": "MC, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Blockhead", "role": "producer (Tony Simon)", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Blockhead"},
+          {"name": "Slug (Atmosphere)", "role": "guest vocalist", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Atmosphere"},
+          {"name": "Blueprint", "role": "guest vocalist", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Soul Position"}
+        ]
+      },
+      "Illogic & Blockhead - Preparing For Capture 1 EP (2012)": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Illogic", "role": "MC, vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Blockhead", "role": "producer (Tony Simon)", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Blockhead"}
+        ]
+      },
+      "Illogic & Blockhead - Preparing For Capture 2 EP (2012)": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Illogic", "role": "MC, vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Blockhead", "role": "producer (Tony Simon)", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Blockhead"},
+          {"name": "Open Mike Eagle", "role": "guest vocalist", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Has-Lo", "role": "guest vocalist", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Illogic - Celestial Clockwork (2004)": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Illogic", "role": "MC, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Blueprint", "role": "producer (entire album)", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Soul Position"},
+          {"name": "Aesop Rock", "role": "guest vocalist", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Aesop Rock"},
+          {"name": "Vast Aire", "role": "guest vocalist", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Vast Aire"},
+          {"name": "Slug (Atmosphere)", "role": "guest vocalist", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Atmosphere"}
+        ]
+      },
+      "Illogic - Diabolical Fun (2009)": {
+        "status": "unverified",
+        "personnel": [
+          {"name": "Illogic", "role": "MC, vocals", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Illogic - Got Lyrics (2001)": {
+        "status": "unverified",
+        "personnel": [
+          {"name": "Illogic", "role": "MC, vocals", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Illogic - One Bar Left EP (2008)": {
+        "status": "unverified",
+        "personnel": [
+          {"name": "Illogic", "role": "MC, vocals", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Illogic - Unforeseen Shadows (2000)": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Illogic", "role": "MC, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Blueprint", "role": "producer", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Soul Position"}
+        ]
+      },
+      "Illogic - Write To Death Vol 1 - My Hand Hurts EP (2003)": {
+        "status": "unverified",
+        "personnel": [
+          {"name": "Illogic", "role": "MC, vocals", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Michael Brooks-13 Things That Don't Make Sense": {
+      "Disc 1": {"status": "skipped", "personnel": []},
+      "Disc 2": {"status": "skipped", "personnel": []},
+      "Disc 3": {"status": "skipped", "personnel": []},
+      "Disc 4": {"status": "skipped", "personnel": []},
+      "Disc 5": {"status": "skipped", "personnel": []},
+      "Disc 6": {"status": "skipped", "personnel": []},
+      "Disc 7": {"status": "skipped", "personnel": []}
+    },
+    "Phil & Phriends": {
+      "1999_04_15 II The Warfield": {"status": "skipped", "personnel": []},
+      "1999_04_15 I The Warfield": {"status": "skipped", "personnel": []},
+      "1999_04_16 II The Warfield": {"status": "skipped", "personnel": []},
+      "1999_04_16 I The Warfield": {"status": "skipped", "personnel": []},
+      "1999_04_17 II The Warfield": {"status": "skipped", "personnel": []},
+      "1999_04_17 I The Warfield": {"status": "skipped", "personnel": []}
+    },
+    "David Gray": {
+      "A Century Ends": {
+        "status": "unverified",
+        "personnel": [
+          {"name": "David Gray", "role": "vocals, guitar (producer)", "confidence": "medium", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Draw the Line": {
+        "status": "unverified",
+        "personnel": [
+          {"name": "David Gray", "role": "vocals, guitar", "confidence": "medium", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Life In Slow Motion": {
+        "status": "verified",
+        "personnel": [
+          {"name": "David Gray", "role": "vocals, guitar", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Craig McClune", "role": "drums, percussion, co-producer", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Marius de Vries", "role": "co-producer, keyboards", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "White Ladder": {
+        "status": "verified",
+        "personnel": [
+          {"name": "David Gray", "role": "vocals, guitar, piano, keyboards (producer)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Craig McClune", "role": "drums, programming, bass, backing vocals, co-producer", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Tim Bradshaw", "role": "keyboards", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Morphine": {
+      "Cure for Pain": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Mark Sandman", "role": "bass, vocals, 2-string slide bass, producer (partial)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Dana Colley", "role": "baritone saxophone, tenor saxophone", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Jerome Deupree", "role": "drums", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Billy Conway", "role": "drums (some tracks)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Paul Q. Kolderie", "role": "producer (partial)", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "Like Swimming": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Mark Sandman", "role": "bass, vocals (co-producer)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Dana Colley", "role": "tenor and baritone saxophones", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Jerome Deupree", "role": "drums", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Paul Q. Kolderie", "role": "co-producer, engineer", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "The Best of Morphine_ 1992-1995": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "The Night": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Mark Sandman", "role": "vocals, bass, piano, organ, guitar (producer)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Dana Colley", "role": "baritone sax, tenor sax, bass sax, piano", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Billy Conway", "role": "drums, percussion, backing vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Jerome Deupree", "role": "drums (rejoined)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Jane Scarpantoni", "role": "cello", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Zero 7": {
+      "Simple Things": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Henry Binns", "role": "production, mixing, instruments", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Sam Hardaker", "role": "production, mixing, instruments", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Sia Furler", "role": "guest vocals (tracks 3, 7)", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Sia"},
+          {"name": "Sophie Barker", "role": "guest vocals (tracks 3, 8, 14)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Mozez", "role": "guest vocals", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "The Garden": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Henry Binns", "role": "production, instruments, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Sam Hardaker", "role": "production, instruments", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Sia Furler", "role": "guest vocals (tracks 2, 4, 5, 8, 10, 12)", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Sia"},
+          {"name": "José González", "role": "guest vocals (tracks 1, 6, 7, 11)", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "When It Falls": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Henry Binns", "role": "production, instruments", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Sam Hardaker", "role": "production, instruments", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Sia Furler", "role": "guest vocals ('Somersault', 'Speed Dial No.2')", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Sia"},
+          {"name": "Mozez", "role": "guest vocals ('Warm Sound', 'Over Our Heads', 'Morning Song')", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Sophie Barker", "role": "guest vocals ('Passing By', 'In Time')", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Tina Dico", "role": "guest vocals ('Home', 'The Space Between')", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "Yeah Ghost": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Henry Binns", "role": "production, instruments, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Sam Hardaker", "role": "production, instruments", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "ESKA", "role": "guest vocals (multiple tracks)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Binki Shapiro", "role": "guest vocals ('Swing', 'Ghost Symbol')", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Martha Tilston", "role": "guest vocals ('Pop Art Blue')", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "John Mayer": {
+      "Continuum": {
+        "status": "verified",
+        "personnel": [
+          {"name": "John Mayer", "role": "guitar, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Steve Jordan", "role": "drums, producer", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Pino Palladino", "role": "bass", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Roy Hargrove", "role": "trumpet", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Ricky Peterson", "role": "keyboards", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "Heavier Things": {
+        "status": "verified",
+        "personnel": [
+          {"name": "John Mayer", "role": "guitar, vocals (co-producer)", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Jack Joseph Puig", "role": "producer, mixing", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Room For Squares": {
+        "status": "verified",
+        "personnel": [
+          {"name": "John Mayer", "role": "guitar, vocals (co-producer)", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "John Alagia", "role": "producer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Mr. Bungle": {
+      "california": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Mike Patton", "role": "vocals, keyboards (co-producer)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Trey Spruance", "role": "guitar, engineer, production strategy", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Bär McKinnon (Clinton McKinnon)", "role": "saxophone, keyboards, French horn", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Trevor Dunn", "role": "bass guitar", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Danny Heifetz", "role": "drums, percussion, keyboards", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "William Winant", "role": "timpani, bass drum, mallets", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Carla Kihlstedt", "role": "violin, viola", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "Disco Volante": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Mike Patton", "role": "vocals, tape", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Trey Spruance", "role": "guitar, pipa, keyboards, organ, electronics (co-producer)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Bär McKinnon", "role": "tenor saxophone, clarinet", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Theobald Brooks Lengyel", "role": "alto saxophone, E-flat clarinet", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Trevor Dunn", "role": "bass guitar, viola", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Danny Heifetz", "role": "drums", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Billy Anderson", "role": "engineer, mixing", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "Mr. Bungle": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Mike Patton", "role": "vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Trey Spruance", "role": "guitar", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Bär McKinnon (Clinton McKinnon)", "role": "tenor saxophone, clarinet, bass clarinet", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Theobald Brooks Lengyel", "role": "alto saxophone, baritone saxophone", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Trevor Dunn", "role": "bass", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Danny Heifetz", "role": "drums", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "John Zorn", "role": "producer, alto saxophone cameo", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "John Zorn"},
+          {"name": "David Shea", "role": "turntables", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Ratatat": {
+      "Classics": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Mike Stroud", "role": "guitar, melodica, synthesizers, percussion (co-producer)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Evan Mast", "role": "bass, synthesizers, percussion (co-producer)", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "LP3": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Mike Stroud", "role": "guitar, synthesizers (co-producer)", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Evan Mast", "role": "bass, synthesizers (co-producer)", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Ratatat": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Mike Stroud", "role": "guitar, synthesizers (co-producer)", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Evan Mast", "role": "bass, synthesizers (co-producer)", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "The Herbaliser": {
+      "Something Wicked This Way Comes": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Jake Wherry", "role": "production, instruments", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Ollie Teeba", "role": "DJ, turntables", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "MF DOOM", "role": "guest vocalist", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Madvillain"},
+          {"name": "Rakaa Iriscience (Dilated Peoples)", "role": "guest vocalist", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Dilated Peoples"},
+          {"name": "LMNO", "role": "guest vocalist", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "LMNO"},
+          {"name": "Blade", "role": "guest vocalist", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Seaming To", "role": "guest vocalist", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Phi Life Cypher", "role": "guest vocalists", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "Take London": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Jake Wherry", "role": "production, instruments", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Ollie Teeba", "role": "DJ, turntables", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Jean Grae", "role": "guest vocalist", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Cappo", "role": "guest vocalist", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "Take London - Bonus Disc": {
+        "status": "verified",
+        "notes": "Bonus disc from the same Take London release; same core personnel",
+        "personnel": [
+          {"name": "Jake Wherry", "role": "production, instruments", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Ollie Teeba", "role": "DJ, turntables", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "10,000 Maniacs": {
+      "Blind Man's Zoo": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Natalie Merchant", "role": "lead vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "John Lombardo", "role": "guitar, vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Robert Buck", "role": "guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Dennis Drew", "role": "keyboards, co-producer", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Steven Gustafson", "role": "bass", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Jerome Augustyniak", "role": "drums", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Peter Asher", "role": "producer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "In My Tribe": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Natalie Merchant", "role": "lead vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "John Lombardo", "role": "guitar, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Robert Buck", "role": "guitar", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Dennis Drew", "role": "keyboards", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Steven Gustafson", "role": "bass", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Jerome Augustyniak", "role": "drums", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Peter Asher", "role": "producer", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Michael Stipe", "role": "guest vocals on 'A Campfire Song'", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "R.E.M"}
+        ]
+      }
+    },
+    "Annie Lennox": {
+      "Bare": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Annie Lennox", "role": "vocals, keyboards", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Stephen Lipson", "role": "producer, keyboards, guitar, programming", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Andy Wright", "role": "co-producer (one track)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Peter-John Vettese", "role": "keyboards, drums", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "Medusa": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Annie Lennox", "role": "vocals, keyboards, flute", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Stephen Lipson", "role": "producer, programming, guitar, keyboards, bass", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Marius De Vries", "role": "co-producer, keyboards, programming", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Blockhead": {
+      "Music By Cavelight": {
+        "status": "verified",
+        "notes": "Primarily instrumental album; no guest MCs",
+        "personnel": [
+          {"name": "Blockhead (Tony Simon)", "role": "producer, all instruments and programming", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "The Music Scene": {
+        "status": "verified",
+        "notes": "Instrumental album",
+        "personnel": [
+          {"name": "Blockhead (Tony Simon)", "role": "producer, all instruments and programming", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "David Byrne & Brian Eno": {
+      "Everything That Happens Will Happen Today": {
+        "status": "verified",
+        "personnel": [
+          {"name": "David Byrne", "role": "vocals, guitar (co-producer)", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "David Byrne"},
+          {"name": "Brian Eno", "role": "production, instruments, programming", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "My Life in the Bush of Ghosts": {
+        "status": "verified",
+        "personnel": [
+          {"name": "David Byrne", "role": "guitar, various instruments (co-producer)", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "David Byrne"},
+          {"name": "Brian Eno", "role": "synthesizers, treatments, co-producer", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Chris Frantz", "role": "drums (track 3)", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Talking Heads"},
+          {"name": "Bill Laswell", "role": "bass (track 1)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Busta Jones", "role": "bass (track 3)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "David van Tieghem", "role": "drums, percussion (tracks 1, 3)", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Dropkick Murphys": {
+      "Sing Loud, Sing Proud": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Al Barr", "role": "lead vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Ken Casey", "role": "bass, vocals, producer", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Marc Orrell", "role": "guitar, accordion, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "James Lynch", "role": "guitar, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Matt Kelly", "role": "drums, bodhran, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Ryan Foltz", "role": "mandolin, tin whistle, dulcimer", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "The Meanest of Times Limited Edition": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Al Barr", "role": "lead vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Ken Casey", "role": "bass, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Marc Orrell", "role": "guitar, accordion, banjo, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "James Lynch", "role": "guitar, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Tim Brennan", "role": "mandolin, accordion, banjo, tin whistle, acoustic guitar, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Matt Kelly", "role": "drums, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Spider Stacy (The Pogues)", "role": "guest performer", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "The Pogues"},
+          {"name": "Ronnie Drew (The Dubliners)", "role": "guest performer", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Gnarls Barkley": {
+      "St. Elsewhere": {
+        "status": "verified",
+        "personnel": [
+          {"name": "CeeLo Green", "role": "vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Danger Mouse (Brian Burton)", "role": "producer, all instrumentation", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Broken Bells"}
+        ]
+      },
+      "The Odd Couple": {
+        "status": "verified",
+        "personnel": [
+          {"name": "CeeLo Green", "role": "vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Danger Mouse (Brian Burton)", "role": "producer, all instrumentation", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Broken Bells"}
+        ]
+      }
+    },
+    "Jesse Rubenfeld": {
+      "Let It Go - EP": {
+        "status": "unverified",
+        "personnel": [
+          {"name": "Jesse Rubenfeld", "role": "vocals, piano, guitar", "confidence": "medium", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Silken Walls": {
+        "status": "unverified",
+        "personnel": [
+          {"name": "Jesse Rubenfeld", "role": "vocals, piano, guitar", "confidence": "medium", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Living Colour": {
+      "Time's Up": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Vernon Reid", "role": "guitar, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Corey Glover", "role": "lead vocals, rhythm guitar", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Muzz Skillings", "role": "bass, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Will Calhoun", "role": "drums, percussion, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Ed Stasium", "role": "producer, engineer", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Mick Jagger", "role": "background vocals", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "The Rolling Stones"},
+          {"name": "Maceo Parker", "role": "saxophone", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Don Byron", "role": "clarinet, baritone saxophone", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "Vivid": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Vernon Reid", "role": "guitar, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Corey Glover", "role": "lead vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Muzz Skillings", "role": "bass, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Will Calhoun", "role": "drums, percussion, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Ed Stasium", "role": "producer", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Mick Jagger", "role": "background vocals ('Glamour Boys'), harmonica ('Which Way To America'), co-producer (tracks 9, 11)", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "The Rolling Stones"}
+        ]
+      }
+    },
+    "Microphones": {
+      "The Glow, pt. 2": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Phil Elverum", "role": "vocals, all instruments, producer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      },
+      "Unknown Album": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "Old & In the Way": {
+      "Breakdown_ Live Recordings 1973": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Old & In the Way": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Jerry Garcia", "role": "banjo, vocals", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Grateful Dead"},
+          {"name": "David Grisman", "role": "mandolin, vocals", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "David Grisman"},
+          {"name": "Peter Rowan", "role": "guitar, lead vocals", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Peter Rowan & Jerry Douglas"},
+          {"name": "Vassar Clements", "role": "fiddle", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "John Kahn", "role": "bass", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Sarah Brightman": {
+      "A Whiter Shade of Pale_A Question of Hon": {
+        "status": "verified",
+        "notes": "Truncated key; same album as 'A Whiter Shade of Pale-A Question of Honour' (the 1995 'Fly' album)",
+        "personnel": [
+          {"name": "Sarah Brightman", "role": "vocals, soprano", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Frank Peterson", "role": "producer, co-writer", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Alex Christensen", "role": "producer, co-writer", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "A Whiter Shade of Pale-A Question of Honour": {
+        "status": "verified",
+        "notes": "Full key; same album as truncated variant above",
+        "personnel": [
+          {"name": "Sarah Brightman", "role": "vocals, soprano", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Frank Peterson", "role": "producer, co-writer", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Alex Christensen", "role": "producer, co-writer", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "The Departed Soundtrack": {
+      "Music From The Motion Picture The Depart": {
+        "status": "verified",
+        "notes": "Truncated key; same as 'Music From The Motion Picture The Departed'",
+        "personnel": [
+          {"name": "The Rolling Stones", "role": "artist ('Let It Loose')", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "The Rolling Stones"},
+          {"name": "The Allman Brothers Band", "role": "artist ('One Way Out')", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "The Allman Brothers Band"},
+          {"name": "Van Morrison", "role": "artist ('Comfortably Numb' performance)", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Van Morrison"},
+          {"name": "Roger Waters", "role": "artist ('Comfortably Numb' performance)", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Pink Floyd"},
+          {"name": "The Band", "role": "artist ('Comfortably Numb' backing)", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "The Band"},
+          {"name": "Dropkick Murphys", "role": "artist ('I'm Shipping Up to Boston')", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Dropkick Murphys"},
+          {"name": "Howard Shore", "role": "score composer", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "Music From The Motion Picture The Departed": {
+        "status": "verified",
+        "notes": "Full key; same album as truncated variant above",
+        "personnel": [
+          {"name": "The Rolling Stones", "role": "artist ('Let It Loose')", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "The Rolling Stones"},
+          {"name": "The Allman Brothers Band", "role": "artist ('One Way Out')", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "The Allman Brothers Band"},
+          {"name": "Van Morrison", "role": "artist ('Comfortably Numb' performance)", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Van Morrison"},
+          {"name": "Roger Waters", "role": "artist ('Comfortably Numb' performance)", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Pink Floyd"},
+          {"name": "The Band", "role": "artist ('Comfortably Numb' backing)", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "The Band"},
+          {"name": "Dropkick Murphys", "role": "artist ('I'm Shipping Up to Boston')", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Dropkick Murphys"},
+          {"name": "Howard Shore", "role": "score composer", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "The Steeldrivers": {
+      "Live 11-08-2006": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Reckless [+Digital Booklet]": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Chris Stapleton", "role": "guitar, lead vocals", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Chris Stapleton"},
+          {"name": "Tammy Rogers", "role": "fiddle", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Richard Bailey", "role": "banjo", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Mike Henderson", "role": "guitar, mandolin", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Kelvin Wooten", "role": "mandolin, guitar", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Luke Wooten", "role": "producer", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Ulrich Schnauss": {
+      "A Strangely Isolated Place": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Ulrich Schnauss", "role": "all instruments, producer", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      },
+      "Far Away Trains Passing By": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Ulrich Schnauss", "role": "all instruments, producer", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Anonymous 4": {
+      "Gloryland": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Marsha Genensky", "role": "vocalist (Anonymous 4)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Susan Hellauer", "role": "vocalist (Anonymous 4)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Jacqueline Horner", "role": "vocalist (Anonymous 4)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Johanna Maria Rose", "role": "vocalist (Anonymous 4)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Darol Anger", "role": "violin, mandolin", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Mike Marshall", "role": "guitar", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall"}
+        ]
+      }
+    },
+    "Beat Junkies": {
+      "The World Famous Beat Junkies, Vol. 3": {
+        "status": "verified",
+        "notes": "DJ compilation featuring Beat Junkies crew with various guest artists on tracks",
+        "personnel": [
+          {"name": "DJ Melo-D", "role": "featured DJ (Beat Junkies member)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Quasimoto (Madlib)", "role": "track artist", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Quasimoto"},
+          {"name": "LMNO", "role": "track artist", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "LMNO"},
+          {"name": "Defari", "role": "track artist", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Broken Bells": {
+      "Broken Bells [+Video]": {
+        "status": "verified",
+        "personnel": [
+          {"name": "James Mercer", "role": "vocals, guitar, bass", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Brian Burton (Danger Mouse)", "role": "producer, organ, drums, piano, synths, bass", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Daniele Luppi", "role": "string arrangements", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Danger Mouse & Daniele Luppi"}
+        ]
+      }
+    },
+    "Charlie Hunter Quintet": {
+      "Right Now Move": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Charlie Hunter", "role": "8-string guitar, pandeiro", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Derrek Phillips", "role": "drums", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "John Ellis", "role": "tenor saxophone, bass clarinet", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Curtis Fowlkes", "role": "trombone", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Grégoire Maret", "role": "chromatic harmonica", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Curtis Stigers": {
+      "I Wonder Why": {
+        "status": "verified",
+        "notes": "Inventory entry titled after the hit single; credits apply to the debut album (1992, Arista Records)",
+        "personnel": [
+          {"name": "Curtis Stigers", "role": "vocals, saxophone", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Glen Ballard", "role": "producer (main tracks)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Danny Kortchmar", "role": "producer (tracks 1, 4, 9, 11)", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Dave Matthews Band": {
+      "Under The Table And Dreaming": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Dave Matthews", "role": "guitar, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Carter Beauford", "role": "drums, percussion, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Stefan Lessard", "role": "bass", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "LeRoi Moore", "role": "alto, soprano, and tenor saxophone, flute, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Boyd Tinsley", "role": "violin, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Tim Reynolds", "role": "acoustic guitar", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Steve Lillywhite", "role": "producer", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Django Reinhardt": {
+      "The Ultimate Collection": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "El-P & Cannibal Ox": {
+      "El-P Presents Cannibal Oxtrumentals": {
+        "status": "verified",
+        "personnel": [
+          {"name": "El-P (Jaime Meline)", "role": "producer (all beats)", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "El-P"},
+          {"name": "Vast Aire", "role": "Cannibal Ox MC (source vocals on original album)", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Vast Aire"},
+          {"name": "Vordul Mega", "role": "Cannibal Ox MC (source vocals on original album)", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Cannibal Ox"}
+        ]
+      }
+    },
+    "Eskmo": {
+      "Exclusive Ninja Tune Mix": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "Fu-Schnickens": {
+      "F.U. Don't Take It Personal": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Chip FU (Corey Woods)", "role": "MC, vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "MC Poc FU", "role": "MC, vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Moc FU (Lennox Rogers)", "role": "MC, vocals", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "A Tribe Called Quest", "role": "producers (tracks 1, 5, 6)", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "A Tribe Called Quest"},
+          {"name": "Lyvio G", "role": "producer (tracks 3, 8)", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Grizzly Bear": {
+      "Veckatimest": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Daniel Rossen", "role": "vocals, guitar, keyboards", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Ed Droste", "role": "vocals, guitar, keyboards", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Chris Taylor", "role": "bass, woodwinds, backing vocals, producer", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Christopher Bear", "role": "drums, backing vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Nico Muhly", "role": "string and choral arrangements", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Ivory Joe Hunter": {
+      "SINCE I MET YOU BABY": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "Joe Cocker": {
+      "Classics, Vol. 4": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "Kate Bush": {
+      "Hounds of Love": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Kate Bush", "role": "vocals, keyboards, production (self-produced)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Del Palmer", "role": "bass, LinnDrum programming, handclaps, backing vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Stuart Elliott", "role": "drums", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Trio Bulgarka", "role": "guest vocals (The Ninth Wave)", "confidence": "medium", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Lootpack": {
+      "Soundpieces- Da Antidote!": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Madlib (Otis Jackson Jr.)", "role": "MC, production (all beats)", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Madlib"},
+          {"name": "Wildchild (William Lynch)", "role": "MC, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "DJ Romes", "role": "DJ, turntables", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Dilated Peoples", "role": "guest vocalists", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "Dilated Peoples"},
+          {"name": "Declaime (Dudley Perkins)", "role": "guest vocalist", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Defari", "role": "guest vocalist", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Mastodon": {
+      "The Hunter (Deluxe Version) [Explicit]": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Troy Sanders", "role": "bass, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Brent Hinds", "role": "guitar, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Bill Kelliher", "role": "guitar", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Brann Dailor", "role": "drums, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Mike Elizondo", "role": "producer", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Scott Kelly", "role": "guest lead vocals on 'Spectrelight'", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Muddy Waters": {
+      "King of the Electric Blues": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "New Orleans Jazz Vipers": {
+      "Live On Frenchmen Street": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Joe Braun", "role": "saxophone", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Craig Klein", "role": "trombone", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Molly Reeves", "role": "guitar", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Earl Bonie", "role": "clarinet", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Steve DeTroy", "role": "piano", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Mitchell Player", "role": "double bass", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Charlie Fardella", "role": "trumpet", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Pat Metheny": {
+      "Tap The Book of Angels Volume 20": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Pat Metheny", "role": "acoustic and electric guitars, baritone guitar, sitar guitar, piano, keyboards, bandoneon, electronics, flugelhorn, producer", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Antonio Sanchez", "role": "drums", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "John Zorn", "role": "compositions (Book of Angels songbook)", "confidence": "high", "source": "discogs", "in_collection": true, "collection_match": "John Zorn"}
+        ]
+      }
+    },
+    "Rage Against the Machine": {
+      "The Art of WAR": {
+        "status": "skipped",
+        "notes": "Title does not correspond to any official RATM release; likely unofficial compilation or mislabeled file",
+        "personnel": []
+      }
+    },
+    "Sharon Isbin": {
+      "Sharon Isbin": {
+        "status": "unverified",
+        "notes": "Could be her 1978 debut 'Sharon Isbin: Classical Guitar' or a later compilation; cannot confirm from available sources",
+        "personnel": [
+          {"name": "Sharon Isbin", "role": "classical guitar", "confidence": "medium", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Steely Dan": {
+      "A Decade of Steely Dan": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "Tea Leaf Green": {
+      "2005-03-11 - Mystic Theatre": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "The Dining Rooms": {
+      "Numero Deux": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Cesare Malfatti", "role": "production, instruments", "confidence": "medium", "source": "knowledge", "in_collection": false},
+          {"name": "Marco Savo", "role": "production, instruments", "confidence": "medium", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "The Microphones": {
+      "The Glow, pt. 2": {
+        "status": "verified",
+        "notes": "Same album as 'Microphones / The Glow, pt. 2' — two roster keys for the same Phil Elverum project",
+        "personnel": [
+          {"name": "Phil Elverum", "role": "vocals, all instruments, producer", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "The xx": {
+      "Coexist": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Romy Madley Croft", "role": "guitar, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Oliver Sim", "role": "bass, vocals", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "Jamie Smith (Jamie xx)", "role": "production, drums, programming", "confidence": "high", "source": "discogs", "in_collection": false}
+        ]
+      }
+    },
+    "Vishwa Mohan Bhatt With Bela Fleck and J": {
+      "Tabula Rasa": {
+        "status": "verified",
+        "personnel": [
+          {"name": "Vishwa Mohan Bhatt", "role": "mohan veena", "confidence": "high", "source": "knowledge", "in_collection": false},
+          {"name": "Béla Fleck", "role": "banjo", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Béla Fleck"},
+          {"name": "Jie-Bing Chen", "role": "erhu", "confidence": "high", "source": "knowledge", "in_collection": false}
+        ]
+      }
+    },
+    "Willie Nelson-Waylon Jennings": {
+      "Original Outlaws": {
+        "status": "verified",
+        "notes": "Compilation of classic recordings by the two outlaw country legends",
+        "personnel": [
+          {"name": "Willie Nelson", "role": "vocals, guitar", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Willie Nelson"},
+          {"name": "Waylon Jennings", "role": "vocals, guitar", "confidence": "high", "source": "knowledge", "in_collection": true, "collection_match": "Waylon Jennings"}
+        ]
+      }
+    },
+    "Z-Trip": {
+      "All Pro": {
+        "status": "verified",
+        "notes": "Titled 'All Pro Soundtrack' on Discogs; a DJ/production album",
+        "personnel": [
+          {"name": "Z-Trip (Zach Sciacca)", "role": "DJ, producer (most tracks)", "confidence": "high", "source": "discogs", "in_collection": false},
+          {"name": "DJ Faust", "role": "producer (track 3)", "confidence": "medium", "source": "discogs", "in_collection": false},
+          {"name": "Keno-1", "role": "producer (tracks 2, 9)", "confidence": "medium", "source": "discogs", "in_collection": false}
+        ]
+      }
+    }
+  }
+}
