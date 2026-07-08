@@ -38,7 +38,36 @@ The heuristics that drive Phase 4 — high-confidence discard tells, a **canon-t
   - [`chris-music-profile.md`](examples/chris-music-profile.md) — the distilled taste profile: foundational anchors, confirmed signal lanes, threads queued for exploration.
   - [`music-inventory.json`](examples/music-inventory.json) — the cleaned, tagged data source the profile is built from.
   - [`music-tree`](examples/music-tree) — the raw library tree that was fed in, kept as an input fixture so the before/after is visible.
+- **[`obsidian_driver.py`](obsidian_driver.py)** — a driver that renders the inventory into an Obsidian vault whose **graph view** turns the taste profile into a visual artist map. See below.
 - **[`roadmap/roadmap.md`](roadmap/roadmap.md)** — planned capabilities (periodic Spotify harvest, streaming + collection merge, packaging as a Claude skill), grounded in threads that surfaced during the original run.
+
+## Obsidian graph vault
+
+The cleaned inventory is already a graph: artists carry `scenes[]` and `genre`
+tags, and a handful are marked as `anchor`s. `obsidian_driver.py` renders those
+relationships into a self-contained [Obsidian](https://obsidian.md) vault where
+each artist note wikilinks to its scene and genre hubs — and those links are the
+graph edges. Open the folder in Obsidian and the graph view clusters artists by
+scene out of the box (color-grouped, no plugins).
+
+```bash
+python obsidian_driver.py            # → examples/obsidian-vault/
+```
+
+What comes out (from the worked example's 554 active artists):
+
+- **Artist notes** link to their **scene** and **genre** hubs; the scene hubs
+  (`bluegrass`, `defjux`, `tzadik`, `gothic-americana`, …) are the clusters.
+- **Anchors** (Cash, Zorn, Waits, Byrne/Eno) become the highest-degree hubs.
+- **Multi-scene "bridge" artists** — 84 of them — connect otherwise-separate
+  clusters, surfacing the cross-pollination the flat profile only hints at.
+- **Untagged reservoir** artists hang off a single `Reservoir` hub (grey,
+  filterable) so the taste map stays legible.
+
+A ready-made vault ships at [`examples/obsidian-vault/`](examples/obsidian-vault/)
+so the graph is browsable without running anything. It is fully generated —
+regenerate rather than hand-editing. Discarded artists are dropped by default;
+`--include-discarded` keeps them (tagged `#discarded`).
 
 ## Origin
 
