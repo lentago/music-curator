@@ -1,3 +1,4 @@
 # Obsidian runtime state — keep the generated graph config, ignore the rest.
 .obsidian/*
 !.obsidian/graph.json
+!.obsidian/graph-presets
