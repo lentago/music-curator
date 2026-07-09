@@ -13,7 +13,7 @@ Obsidian sizes nodes by degree, so the real hubs surface from the connectivity.
 Usage:
     python obsidian_driver.py [path/to/music-inventory.json] [--out DIR]
 
-    # defaults: reads examples/music-inventory.json, writes examples/obsidian-vault/
+    # defaults: reads data/music-inventory.json, writes vault/
     python obsidian_driver.py
     python obsidian_driver.py --out /tmp/my-vault --include-discarded
 
@@ -34,9 +34,9 @@ import shutil
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-DEFAULT_INVENTORY = os.path.join(HERE, "examples", "music-inventory.json")
-DEFAULT_CREDITS = os.path.join(HERE, "examples", "credits.json")
-DEFAULT_OUT = os.path.join(HERE, "examples", "obsidian-vault")
+DEFAULT_INVENTORY = os.path.join(HERE, "data", "music-inventory.json")
+DEFAULT_CREDITS = os.path.join(HERE, "data", "credits.json")
+DEFAULT_OUT = os.path.join(HERE, "vault")
 
 # Written to the output dir so a later run knows the dir is ours to wipe.
 MARKER = ".generated-by-music-curator"

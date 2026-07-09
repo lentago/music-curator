@@ -2,7 +2,7 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "music-inventory.schema.json",
   "title": "Music Inventory",
-  "description": "Schema for examples/music-inventory.json. Cross-field integrity checks (meta count reconciliation, album_count vs albums length, near-duplicate artist keys) are enforced by validate.py, not this schema.",
+  "description": "Schema for data/music-inventory.json. Cross-field integrity checks (meta count reconciliation, album_count vs albums length, near-duplicate artist keys) are enforced by validate.py, not this schema.",
   "type": "object",
   "required": ["meta", "artists", "compilations"],
   "additionalProperties": false,

@@ -32,8 +32,10 @@ jobs:
         This repository is a prompt-engineered methodology, not code. The
         product is a markdown spec (`music-curation-methodology.md`) that turns
         a low-effort music-collection dump into a clean, queryable taste
-        profile; `examples/` holds one real worked instance. Focus your review
-        on:
+        profile. The live instance is `data/` (inventory + credits) rendered
+        into `vault/` (the generated Obsidian wiki); `examples/` holds the
+        original run's distilled profile and raw input tree. Focus your
+        review on:
 
         1. **Spec coherence** — does the methodology stay internally consistent?
            Watch for phases, discard heuristics, or exit criteria that
@@ -43,7 +45,7 @@ jobs:
            (the `examples/` profile links back to the root methodology),
            companion-artifact references, and the `music-inventory.json` schema
            matching the "Outputs produced" section of the methodology.
-        3. **Data-privacy hygiene** — the `examples/` are personal taste data
+        3. **Data-privacy hygiene** — `data/`, `vault/`, and `examples/` are personal taste data
            published deliberately. Flag anything a PR introduces that goes
            beyond taste: credentials, API tokens, raw account exports, real
            personal identifiers, or absolute home-directory paths.

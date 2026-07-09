@@ -18,7 +18,7 @@ import os
 import sys
 
 SCHEMA_PATH = os.path.join(os.path.dirname(__file__), "schema", "music-inventory.schema.json")
-DEFAULT_INVENTORY = os.path.join(os.path.dirname(__file__), "examples", "music-inventory.json")
+DEFAULT_INVENTORY = os.path.join(os.path.dirname(__file__), "data", "music-inventory.json")
 
 # Similarity threshold for near-duplicate artist-key detection.
 # 0.85 catches obvious variants (The X / X, truncated names, & vs and)
