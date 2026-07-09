@@ -1,14 +1,14 @@
 ---
 type: "artist"
-category: "Indie Folk & Singer-Songwriter"
+category: "Folk & Singer-Songwriter"
 era: "1990s-now"
 album_count: 5
-tags: ["artist", "indie-folk-singer-songwriter"]
+tags: ["artist", "folk-singer-songwriter"]
 ---
 
 # Cat Power
 
-**Category:** [[Indie Folk & Singer-Songwriter]]
+**Category:** [[Folk & Singer-Songwriter]]
 
 **Session ties:** [[El-P]] · [[Nick Cave & the Bad Seeds]]
 

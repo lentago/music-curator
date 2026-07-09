@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Post-Rock"
+category: "Rock"
+subcategory: "Post-Rock"
 era: "2010s-now"
 album_count: 1
-tags: ["artist", "post-rock"]
+tags: ["artist", "rock"]
 ---
 
 # Jónsi
 
-**Category:** [[Post-Rock]]
+**Category:** Rock › [[Post-Rock]]
 
 **Session ties:** [[Sigur Ros]]
 

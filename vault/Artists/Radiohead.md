@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Art-Pop & New Wave"
+category: "Pop"
+subcategory: "Art-Pop & New Wave"
 era: "1993-now"
 album_count: 8
-tags: ["artist", "art-pop-new-wave"]
+tags: ["artist", "pop"]
 ---
 
 # Radiohead
 
-**Category:** [[Art-Pop & New Wave]]
+**Category:** Pop › [[Art-Pop & New Wave]]
 
 ## Albums (8)
 - hail to the thief

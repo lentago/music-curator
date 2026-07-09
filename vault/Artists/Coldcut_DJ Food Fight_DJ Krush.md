@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Turntablism & Beats"
+category: "Hip-Hop"
+subcategory: "Turntablism & Beats"
 era: "1990s"
 album_count: 2
-tags: ["artist", "turntablism-beats"]
+tags: ["artist", "hip-hop"]
 ---
 
 # Coldcut_DJ Food Fight_DJ Krush
 
-**Category:** [[Turntablism & Beats]]
+**Category:** Hip-Hop › [[Turntablism & Beats]]
 
 ## Albums (2)
 - Cold Krush Cuts Back in the Base Disc 1

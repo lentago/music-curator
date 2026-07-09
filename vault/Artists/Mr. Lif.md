@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Def Jux"
+category: "Hip-Hop"
+subcategory: "Underground"
 era: "1999-now"
 album_count: 1
-tags: ["artist", "def-jux"]
+tags: ["artist", "hip-hop"]
 ---
 
 # Mr. Lif
 
-**Category:** [[Def Jux]]
+**Category:** Hip-Hop › [[Underground]]
 
 **Session ties:** [[Aesop Rock]] · [[DJ Krush]] · [[El-P]] · [[Jedi Mind Tricks]] · [[Lovage]] · [[Prefuse 73]] · [[Thievery Corporation]]
 

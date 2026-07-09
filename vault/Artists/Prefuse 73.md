@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Turntablism & Beats"
+category: "Hip-Hop"
+subcategory: "Turntablism & Beats"
 era: "2000s"
 album_count: 2
-tags: ["artist", "turntablism-beats"]
+tags: ["artist", "hip-hop"]
 ---
 
 # Prefuse 73
 
-**Category:** [[Turntablism & Beats]]
+**Category:** Hip-Hop › [[Turntablism & Beats]]
 
 **Session ties:** [[Diverse]] · [[Mr. Lif]]
 

@@ -1,15 +1,15 @@
 ---
 type: "artist"
-category: "Downtown Avant-Garde"
+category: "Avant-Garde & Experimental"
 era: "2000s"
 album_count: 2
 collaborators: ["John Zorn"]
-tags: ["artist", "downtown-avant-garde"]
+tags: ["artist", "avant-garde-experimental"]
 ---
 
 # John Zorn-Masada Chamber Ensembles
 
-**Category:** [[Downtown Avant-Garde]]
+**Category:** [[Avant-Garde & Experimental]]
 
 **With:** [[John Zorn]]
 

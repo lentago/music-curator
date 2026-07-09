@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Punk & Hardcore"
+category: "Rock"
+subcategory: "Punk & Hardcore"
 era: "2000s-now"
 album_count: 6
-tags: ["artist", "punk-hardcore"]
+tags: ["artist", "rock"]
 ---
 
 # Death From Above 1979
 
-**Category:** [[Punk & Hardcore]]
+**Category:** Rock › [[Punk & Hardcore]]
 
 ## Albums (6)
 - Heads Up!

@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Post-Rock"
+category: "Rock"
+subcategory: "Post-Rock"
 era: "2000s-now"
 album_count: 1
-tags: ["artist", "post-rock"]
+tags: ["artist", "rock"]
 ---
 
 # Explosions In The Sky
 
-**Category:** [[Post-Rock]]
+**Category:** Rock › [[Post-Rock]]
 
 ## Albums (1)
 - Those Who Tell the Truth Shall Die, Thos

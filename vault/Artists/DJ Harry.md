@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Jam"
+category: "Rock"
+subcategory: "Jam"
 era: "2000s"
 album_count: 2
-tags: ["artist", "jam"]
+tags: ["artist", "rock"]
 ---
 
 # DJ Harry
 
-**Category:** [[Jam]]
+**Category:** Rock › [[Jam]]
 
 ## Albums (2)
 - Aquarium Man

@@ -1,13 +1,14 @@
 ---
 type: "artist"
-category: "Bluegrass"
+category: "Country & Americana"
+subcategory: "Bluegrass"
 album_count: 1
-tags: ["artist", "bluegrass"]
+tags: ["artist", "country-americana"]
 ---
 
 # Phillips, Grier & Flinner
 
-**Category:** [[Bluegrass]]
+**Category:** Country & Americana › [[Bluegrass]]
 
 ## Albums (1)
 - Phillips, Grier & Flinner

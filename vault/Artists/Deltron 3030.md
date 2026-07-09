@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Underground Hip-Hop"
+category: "Hip-Hop"
+subcategory: "Underground"
 era: "2000s"
 album_count: 1
-tags: ["artist", "underground-hip-hop"]
+tags: ["artist", "hip-hop"]
 ---
 
 # Deltron 3030
 
-**Category:** [[Underground Hip-Hop]]
+**Category:** Hip-Hop › [[Underground]]
 
 **Session ties:** [[Dan the Automator]] · [[Handsome Boy Modeling School]]
 

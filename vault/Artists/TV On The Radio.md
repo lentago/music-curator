@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Art-Pop & New Wave"
+category: "Pop"
+subcategory: "Art-Pop & New Wave"
 era: "2000s-now"
 album_count: 2
-tags: ["artist", "art-pop-new-wave"]
+tags: ["artist", "pop"]
 ---
 
 # TV On The Radio
 
-**Category:** [[Art-Pop & New Wave]]
+**Category:** Pop › [[Art-Pop & New Wave]]
 
 **Session ties:** [[Massive Attack]]
 

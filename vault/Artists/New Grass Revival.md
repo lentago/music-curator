@@ -1,13 +1,14 @@
 ---
 type: "artist"
-category: "Bluegrass"
+category: "Country & Americana"
+subcategory: "Bluegrass"
 album_count: 1
-tags: ["artist", "bluegrass"]
+tags: ["artist", "country-americana"]
 ---
 
 # New Grass Revival
 
-**Category:** [[Bluegrass]]
+**Category:** Country & Americana › [[Bluegrass]]
 
 **Session ties:** [[Jerry Douglas_Russ Barenberg_Edgar Meyer]]
 

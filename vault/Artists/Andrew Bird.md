@@ -1,14 +1,14 @@
 ---
 type: "artist"
-category: "Indie Folk & Singer-Songwriter"
+category: "Folk & Singer-Songwriter"
 era: "1996-now"
 album_count: 9
-tags: ["artist", "indie-folk-singer-songwriter"]
+tags: ["artist", "folk-singer-songwriter"]
 ---
 
 # Andrew Bird
 
-**Category:** [[Indie Folk & Singer-Songwriter]]
+**Category:** [[Folk & Singer-Songwriter]]
 
 **Session ties:** [[Andrew Bird's Bowl Of Fire]]
 

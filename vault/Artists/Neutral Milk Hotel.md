@@ -1,14 +1,14 @@
 ---
 type: "artist"
-category: "Indie Folk & Singer-Songwriter"
+category: "Folk & Singer-Songwriter"
 era: "1990s"
 album_count: 4
-tags: ["artist", "indie-folk-singer-songwriter"]
+tags: ["artist", "folk-singer-songwriter"]
 ---
 
 # Neutral Milk Hotel
 
-**Category:** [[Indie Folk & Singer-Songwriter]]
+**Category:** [[Folk & Singer-Songwriter]]
 
 ## Albums (4)
 - Happy Birthday to You - Disc 4

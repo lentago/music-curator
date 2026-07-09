@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Underground Hip-Hop"
+category: "Hip-Hop"
+subcategory: "Underground"
 era: "1990s-now"
 album_count: 1
-tags: ["artist", "underground-hip-hop"]
+tags: ["artist", "hip-hop"]
 ---
 
 # Jurassic 5
 
-**Category:** [[Underground Hip-Hop]]
+**Category:** Hip-Hop › [[Underground]]
 
 **Session ties:** [[Cut Chemist]] · [[Cut Chemist & Nu-Mark]] · [[Ozomatli]]
 

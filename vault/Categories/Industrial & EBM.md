@@ -1,12 +1,13 @@
 ---
-type: "category"
+type: "subcategory"
+category: "Electronic"
 member_count: 7
-tags: ["category", "industrial-ebm"]
+tags: ["subcategory", "electronic"]
 ---
 
 # Industrial & EBM
 
-*Category — 7 artists in the collection.*
+*Subcategory of [[Electronic]] — 7 artists.*
 
 ## Artists
 - [[cEvin Key_Ken Marshall]]

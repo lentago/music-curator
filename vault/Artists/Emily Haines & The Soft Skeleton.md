@@ -1,15 +1,16 @@
 ---
 type: "artist"
-category: "Indie Rock"
+category: "Rock"
+subcategory: "Indie & Alternative"
 era: "2000s"
 album_count: 1
 collaborators: ["Emily Haines"]
-tags: ["artist", "indie-rock"]
+tags: ["artist", "rock"]
 ---
 
 # Emily Haines & The Soft Skeleton
 
-**Category:** [[Indie Rock]]
+**Category:** Rock › [[Indie & Alternative]]
 
 **With:** [[Emily Haines]]
 

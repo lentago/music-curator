@@ -1,15 +1,16 @@
 ---
 type: "artist"
-category: "Underground Hip-Hop"
+category: "Hip-Hop"
+subcategory: "Underground"
 era: "2000"
 album_count: 1
 collaborators: ["Talib Kweli"]
-tags: ["artist", "underground-hip-hop"]
+tags: ["artist", "hip-hop"]
 ---
 
 # Talib Kweli & Hi Tek
 
-**Category:** [[Underground Hip-Hop]]
+**Category:** Hip-Hop › [[Underground]]
 
 **With:** [[Talib Kweli]]
 

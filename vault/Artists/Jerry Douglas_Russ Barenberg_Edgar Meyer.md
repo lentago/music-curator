@@ -1,13 +1,14 @@
 ---
 type: "artist"
-category: "Newgrass"
+category: "Country & Americana"
+subcategory: "Newgrass"
 album_count: 1
-tags: ["artist", "newgrass"]
+tags: ["artist", "country-americana"]
 ---
 
 # Jerry Douglas_Russ Barenberg_Edgar Meyer
 
-**Category:** [[Newgrass]]
+**Category:** Country & Americana › [[Newgrass]]
 
 **Session ties:** [[Edgar Meyer_Béla Fleck_Mike Marshall]] · [[Jerry Douglas]] · [[Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall]] · [[New Grass Revival]] · [[Peter Rowan & Jerry Douglas]] · [[Russ Barenberg]] · [[Sam Bush]] · [[Vishwa Mohan Bhatt-Jerry Douglas]] · [[Yo-Yo Ma-Edgar Meyer-Mark O'Connor]]
 

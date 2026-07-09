@@ -1,14 +1,14 @@
 ---
 type: "artist"
-category: "Pop"
+category: "Hip-Hop"
 era: "2000s"
 album_count: 3
-tags: ["artist", "pop"]
+tags: ["artist", "hip-hop"]
 ---
 
 # The Streets
 
-**Category:** [[Pop]]
+**Category:** [[Hip-Hop]]
 
 ## Albums (3)
 - a grand don't come for free

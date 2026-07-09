@@ -1,15 +1,16 @@
 ---
 type: "artist"
-category: "Underground Hip-Hop"
+category: "Hip-Hop"
+subcategory: "Underground"
 era: "1998"
 album_count: 1
 collaborators: ["Mos Def", "Talib Kweli"]
-tags: ["artist", "underground-hip-hop"]
+tags: ["artist", "hip-hop"]
 ---
 
 # Mos Def & Talib Kweli
 
-**Category:** [[Underground Hip-Hop]]
+**Category:** Hip-Hop › [[Underground]]
 
 **With:** [[Mos Def]] · [[Talib Kweli]]
 

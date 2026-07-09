@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Industrial & EBM"
+category: "Electronic"
+subcategory: "Industrial & EBM"
 era: "1982-now"
 album_count: 1
-tags: ["artist", "industrial-ebm"]
+tags: ["artist", "electronic"]
 ---
 
 # Skinny Puppy
 
-**Category:** [[Industrial & EBM]]
+**Category:** Electronic › [[Industrial & EBM]]
 
 **Session ties:** [[cEvin Key_Ken Marshall]]
 

@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Underground Hip-Hop"
+category: "Hip-Hop"
+subcategory: "Underground"
 era: "1989-now"
 album_count: 2
-tags: ["artist", "underground-hip-hop"]
+tags: ["artist", "hip-hop"]
 ---
 
 # De La Soul
 
-**Category:** [[Underground Hip-Hop]]
+**Category:** Hip-Hop › [[Underground]]
 
 **Session ties:** [[Prince Paul]] · [[Talib Kweli & Hi Tek]]
 

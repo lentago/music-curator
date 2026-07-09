@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Metal"
+category: "Rock"
+subcategory: "Metal"
 era: "2000s"
 album_count: 4
-tags: ["artist", "metal"]
+tags: ["artist", "rock"]
 ---
 
 # The Company Band
 
-**Category:** [[Metal]]
+**Category:** Rock › [[Metal]]
 
 **Session ties:** [[Clutch]]
 

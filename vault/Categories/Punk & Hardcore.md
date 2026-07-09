@@ -1,12 +1,13 @@
 ---
-type: "category"
-member_count: 12
-tags: ["category", "punk-hardcore"]
+type: "subcategory"
+category: "Rock"
+member_count: 13
+tags: ["subcategory", "rock"]
 ---
 
 # Punk & Hardcore
 
-*Category — 12 artists in the collection.*
+*Subcategory of [[Rock]] — 13 artists.*
 
 ## Artists
 - [[At The Drive-In]]
@@ -18,6 +19,7 @@ tags: ["category", "punk-hardcore"]
 - [[Jaya the Cat]]
 - [[Minor Threat]]
 - [[NOFX]]
+- [[Reverend Horton Heat]]
 - [[The Clash]]
 - [[The Mars Volta]]
 - [[The Pogues]]

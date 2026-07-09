@@ -1,14 +1,14 @@
 ---
 type: "artist"
-category: "Downtown Avant-Garde"
+category: "Avant-Garde & Experimental"
 era: "1990s-now"
 album_count: 6
-tags: ["artist", "downtown-avant-garde"]
+tags: ["artist", "avant-garde-experimental"]
 ---
 
 # Masada
 
-**Category:** [[Downtown Avant-Garde]]
+**Category:** [[Avant-Garde & Experimental]]
 
 **Session ties:** [[John Zorn]]
 

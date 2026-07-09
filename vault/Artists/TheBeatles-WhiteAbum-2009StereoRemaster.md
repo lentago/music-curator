@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Classic Rock"
+category: "Rock"
+subcategory: "Classic Rock"
 era: "1960s-70s"
 album_count: 2
-tags: ["artist", "classic-rock"]
+tags: ["artist", "rock"]
 ---
 
 # TheBeatles-WhiteAbum-2009StereoRemaster
 
-**Category:** [[Classic Rock]]
+**Category:** Rock › [[Classic Rock]]
 
 **Session ties:** [[Eric Clapton And Steve Winwood]] · [[The Beatles]]
 

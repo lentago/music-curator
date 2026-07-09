@@ -1,13 +1,14 @@
 ---
 type: "artist"
-category: "Classic Rock"
+category: "Rock"
+subcategory: "Classic Rock"
 album_count: 1
-tags: ["artist", "classic-rock"]
+tags: ["artist", "rock"]
 ---
 
 # They Might Be Giants
 
-**Category:** [[Classic Rock]]
+**Category:** Rock › [[Classic Rock]]
 
 > sole canon — passes canon-tolerance test
 

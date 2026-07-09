@@ -1,14 +1,14 @@
 ---
 type: "artist"
-category: "Indie Folk & Singer-Songwriter"
+category: "Folk & Singer-Songwriter"
 era: "1968-now"
 album_count: 1
-tags: ["artist", "indie-folk-singer-songwriter"]
+tags: ["artist", "folk-singer-songwriter"]
 ---
 
 # Neil Young
 
-**Category:** [[Indie Folk & Singer-Songwriter]]
+**Category:** [[Folk & Singer-Songwriter]]
 
 **Session ties:** [[Emmylou Harris]] · [[The Band]]
 

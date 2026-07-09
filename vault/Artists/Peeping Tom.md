@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Patton Orbit"
+category: "Electronic"
+subcategory: "Trip-Hop & Downtempo"
 era: "2000s"
 album_count: 1
-tags: ["artist", "patton-orbit"]
+tags: ["artist", "electronic"]
 ---
 
 # Peeping Tom
 
-**Category:** [[Patton Orbit]]
+**Category:** Electronic › [[Trip-Hop & Downtempo]]
 
 **Session ties:** [[cLOUDDEAD]] · [[Dan the Automator]] · [[Dr. Octagon]] · [[Massive Attack]] · [[Mr. Bungle]] · [[Norah Jones]] · [[Odd Nosdam]]
 

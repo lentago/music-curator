@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Jam"
+category: "Rock"
+subcategory: "Jam"
 era: "1990s-now"
 album_count: 6
-tags: ["artist", "jam"]
+tags: ["artist", "rock"]
 ---
 
 # Phil & Phriends
 
-**Category:** [[Jam]]
+**Category:** Rock › [[Jam]]
 
 **Session ties:** [[The Grateful Dead]]
 

@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Turntablism & Beats"
+category: "Hip-Hop"
+subcategory: "Turntablism & Beats"
 era: "1990s-now"
 album_count: 1
-tags: ["artist", "turntablism-beats"]
+tags: ["artist", "hip-hop"]
 ---
 
 # Dan the Automator
 
-**Category:** [[Turntablism & Beats]]
+**Category:** Hip-Hop › [[Turntablism & Beats]]
 
 **Session ties:** [[Deltron 3030]] · [[DJ Shadow]] · [[Dr. Octagon]] · [[Handsome Boy Modeling School]] · [[Lovage]] · [[Peeping Tom]]
 

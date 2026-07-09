@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Turntablism & Beats"
+category: "Hip-Hop"
+subcategory: "Turntablism & Beats"
 era: "1990s-now"
 album_count: 3
-tags: ["artist", "turntablism-beats"]
+tags: ["artist", "hip-hop"]
 ---
 
 # The Beat Junkies
 
-**Category:** [[Turntablism & Beats]]
+**Category:** Hip-Hop › [[Turntablism & Beats]]
 
 ## Albums (3)
 - The World Famous Beat Junkies, Vol. 2 Di

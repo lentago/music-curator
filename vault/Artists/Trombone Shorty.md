@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "New Orleans"
+category: "Jazz"
+subcategory: "New Orleans & Brass"
 era: "2000s-now"
 album_count: 1
-tags: ["artist", "new-orleans"]
+tags: ["artist", "jazz"]
 ---
 
 # Trombone Shorty
 
-**Category:** [[New Orleans]]
+**Category:** Jazz › [[New Orleans & Brass]]
 
 ## Albums (1)
 - Backatown

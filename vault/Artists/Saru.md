@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Trip-Hop & Downtempo"
+category: "Electronic"
+subcategory: "Trip-Hop & Downtempo"
 era: "2000s"
 album_count: 2
-tags: ["artist", "trip-hop-downtempo"]
+tags: ["artist", "electronic"]
 ---
 
 # Saru
 
-**Category:** [[Trip-Hop & Downtempo]]
+**Category:** Electronic › [[Trip-Hop & Downtempo]]
 
 ## Albums (2)
 - Downtempo Dojo

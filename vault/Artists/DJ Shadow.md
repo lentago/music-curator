@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Turntablism & Beats"
+category: "Hip-Hop"
+subcategory: "Turntablism & Beats"
 era: "1996-now"
 album_count: 4
-tags: ["artist", "turntablism-beats"]
+tags: ["artist", "hip-hop"]
 ---
 
 # DJ Shadow
 
-**Category:** [[Turntablism & Beats]]
+**Category:** Hip-Hop › [[Turntablism & Beats]]
 
 **Session ties:** [[Blackalicious]] · [[Dan the Automator]] · [[DJ Krush]] · [[Dr. Octagon]] · [[Handsome Boy Modeling School]]
 

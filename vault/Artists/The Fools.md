@@ -1,13 +1,14 @@
 ---
 type: "artist"
 category: "Pop"
+subcategory: "Art-Pop & New Wave"
 album_count: 1
 tags: ["artist", "pop"]
 ---
 
 # The Fools
 
-**Category:** [[Pop]]
+**Category:** Pop › [[Art-Pop & New Wave]]
 
 > authentic novelty/comedy-rock lane
 

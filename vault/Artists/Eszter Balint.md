@@ -1,14 +1,14 @@
 ---
 type: "artist"
-category: "Downtown Avant-Garde"
+category: "Avant-Garde & Experimental"
 era: "2000s"
 album_count: 1
-tags: ["artist", "downtown-avant-garde"]
+tags: ["artist", "avant-garde-experimental"]
 ---
 
 # Eszter Balint
 
-**Category:** [[Downtown Avant-Garde]]
+**Category:** [[Avant-Garde & Experimental]]
 
 **Session ties:** [[Marc Ribot Y los Cubanos Postizos]]
 

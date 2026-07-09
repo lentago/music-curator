@@ -1,13 +1,14 @@
 ---
 type: "artist"
-category: "Newgrass"
+category: "Country & Americana"
+subcategory: "Newgrass"
 album_count: 1
-tags: ["artist", "newgrass"]
+tags: ["artist", "country-americana"]
 ---
 
 # Anger_Marshall Band
 
-**Category:** [[Newgrass]]
+**Category:** Country & Americana › [[Newgrass]]
 
 **Session ties:** [[David Grisman Quintet]] · [[Edgar Meyer_Béla Fleck_Mike Marshall]] · [[Joshua Bell_Edgar Meyer_Sam Bush_Mike Ma]]
 

@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Metal"
+category: "Rock"
+subcategory: "Metal"
 era: "1980s-90s"
 album_count: 2
-tags: ["artist", "metal"]
+tags: ["artist", "rock"]
 ---
 
 # Living Colour
 
-**Category:** [[Metal]]
+**Category:** Rock › [[Metal]]
 
 **Session ties:** [[The Rolling Stones]]
 

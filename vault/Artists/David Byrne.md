@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Art-Pop & New Wave"
+category: "Pop"
+subcategory: "Art-Pop & New Wave"
 era: "1980s-now"
 album_count: 2
-tags: ["artist", "art-pop-new-wave"]
+tags: ["artist", "pop"]
 ---
 
 # David Byrne
 
-**Category:** [[Art-Pop & New Wave]]
+**Category:** Pop › [[Art-Pop & New Wave]]
 
 **Session ties:** [[David Byrne & Brian Eno]] · [[Talking Heads]] · [[Thievery Corporation]]
 

@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Punk & Hardcore"
+category: "Rock"
+subcategory: "Punk & Hardcore"
 era: "1980s-now"
 album_count: 2
-tags: ["artist", "punk-hardcore"]
+tags: ["artist", "rock"]
 ---
 
 # Bob Mould
 
-**Category:** [[Punk & Hardcore]]
+**Category:** Rock › [[Punk & Hardcore]]
 
 ## Albums (2)
 - Life And Times

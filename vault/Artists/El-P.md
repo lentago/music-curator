@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Def Jux"
+category: "Hip-Hop"
+subcategory: "Underground"
 era: "1995-now"
 album_count: 2
-tags: ["artist", "def-jux"]
+tags: ["artist", "hip-hop"]
 ---
 
 # El-P
 
-**Category:** [[Def Jux]]
+**Category:** Hip-Hop › [[Underground]]
 
 **Session ties:** [[Aceyalone]] · [[Aesop Rock]] · [[Cannibal Ox]] · [[Cat Power]] · [[Company Flow]] · [[El-P & Cannibal Ox]] · [[Handsome Boy Modeling School]] · [[Mr. Lif]] · [[Vast Aire]] · [[WEATHERMEN]]
 

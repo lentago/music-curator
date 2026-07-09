@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Indie Pop & Synth-Pop"
+category: "Pop"
+subcategory: "Indie & Synth-Pop"
 era: "1990s"
 album_count: 1
-tags: ["artist", "indie-pop-synth-pop"]
+tags: ["artist", "pop"]
 ---
 
 # Odds
 
-**Category:** [[Indie Pop & Synth-Pop]]
+**Category:** Pop › [[Indie & Synth-Pop]]
 
 ## Albums (1)
 - Love Is The Subject

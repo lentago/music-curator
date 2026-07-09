@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Bluegrass"
+category: "Country & Americana"
+subcategory: "Bluegrass"
 album_count: 1
 collaborators: ["Jerry Douglas"]
-tags: ["artist", "bluegrass"]
+tags: ["artist", "country-americana"]
 ---
 
 # Peter Rowan & Jerry Douglas
 
-**Category:** [[Bluegrass]]
+**Category:** Country & Americana › [[Bluegrass]]
 
 **With:** [[Jerry Douglas]]
 

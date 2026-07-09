@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Indie Rock"
+category: "Rock"
+subcategory: "Indie & Alternative"
 era: "1980s-now"
 album_count: 2
-tags: ["artist", "indie-rock"]
+tags: ["artist", "rock"]
 ---
 
 # Soundgarden
 
-**Category:** [[Indie Rock]]
+**Category:** Rock › [[Indie & Alternative]]
 
 ## Albums (2)
 - Rusty Cage

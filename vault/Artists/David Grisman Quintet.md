@@ -1,13 +1,14 @@
 ---
 type: "artist"
-category: "Newgrass"
+category: "Country & Americana"
+subcategory: "Newgrass"
 album_count: 1
-tags: ["artist", "newgrass"]
+tags: ["artist", "country-americana"]
 ---
 
 # David Grisman Quintet
 
-**Category:** [[Newgrass]]
+**Category:** Country & Americana › [[Newgrass]]
 
 **Session ties:** [[Anger_Marshall Band]] · [[Old & in the Way-Jerry Garcia-David Grisman]] · [[Tony Rice Unit]]
 

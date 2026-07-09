@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Punk & Hardcore"
+category: "Rock"
+subcategory: "Punk & Hardcore"
 era: "2000s"
 album_count: 1
-tags: ["artist", "punk-hardcore"]
+tags: ["artist", "rock"]
 ---
 
 # Jaya the Cat
 
-**Category:** [[Punk & Hardcore]]
+**Category:** Rock › [[Punk & Hardcore]]
 
 ## Albums (1)
 - Basement Style

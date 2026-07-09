@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Metal"
+category: "Rock"
+subcategory: "Metal"
 era: "1990s-now"
 album_count: 6
-tags: ["artist", "metal"]
+tags: ["artist", "rock"]
 ---
 
 # Deftones
 
-**Category:** [[Metal]]
+**Category:** Rock › [[Metal]]
 
 **Session ties:** [[Tool]]
 

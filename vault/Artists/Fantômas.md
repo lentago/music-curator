@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Patton Orbit"
+category: "Rock"
+subcategory: "Metal"
 era: "2000s"
 album_count: 1
-tags: ["artist", "patton-orbit"]
+tags: ["artist", "rock"]
 ---
 
 # Fantômas
 
-**Category:** [[Patton Orbit]]
+**Category:** Rock › [[Metal]]
 
 **Session ties:** [[John Zorn]] · [[Mr. Bungle]]
 

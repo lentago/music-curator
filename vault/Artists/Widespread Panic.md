@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Jam"
+category: "Rock"
+subcategory: "Jam"
 era: "1990s-now"
 album_count: 3
-tags: ["artist", "jam"]
+tags: ["artist", "rock"]
 ---
 
 # Widespread Panic
 
-**Category:** [[Jam]]
+**Category:** Rock › [[Jam]]
 
 **Session ties:** [[Frogwings]] · [[Leftover Salmon]]
 

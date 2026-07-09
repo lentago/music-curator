@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Newgrass"
+category: "Country & Americana"
+subcategory: "Newgrass"
 era: "1970s"
 album_count: 2
-tags: ["artist", "newgrass"]
+tags: ["artist", "country-americana"]
 ---
 
 # Old & In the Way
 
-**Category:** [[Newgrass]]
+**Category:** Country & Americana › [[Newgrass]]
 
 **Session ties:** [[David Grisman]] · [[Grateful Dead]] · [[Peter Rowan & Jerry Douglas]] · [[The Grateful Dead]]
 

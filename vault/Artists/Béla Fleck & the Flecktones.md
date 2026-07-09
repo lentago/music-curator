@@ -1,15 +1,16 @@
 ---
 type: "artist"
-category: "Newgrass"
+category: "Country & Americana"
+subcategory: "Newgrass"
 era: "1990s-now"
 album_count: 5
 collaborators: ["Béla Fleck"]
-tags: ["artist", "newgrass"]
+tags: ["artist", "country-americana"]
 ---
 
 # Béla Fleck & the Flecktones
 
-**Category:** [[Newgrass]]
+**Category:** Country & Americana › [[Newgrass]]
 
 **With:** [[Béla Fleck]]
 

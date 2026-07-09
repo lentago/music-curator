@@ -1,14 +1,14 @@
 ---
 type: "artist"
-category: "Downtown Avant-Garde"
+category: "Avant-Garde & Experimental"
 era: "1990s"
 album_count: 2
-tags: ["artist", "downtown-avant-garde"]
+tags: ["artist", "avant-garde-experimental"]
 ---
 
 # Naked City
 
-**Category:** [[Downtown Avant-Garde]]
+**Category:** [[Avant-Garde & Experimental]]
 
 **Session ties:** [[Bill Frisell]] · [[John Zorn]]
 

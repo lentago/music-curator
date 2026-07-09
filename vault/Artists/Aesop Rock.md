@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Def Jux"
+category: "Hip-Hop"
+subcategory: "Underground"
 era: "1999-now"
 album_count: 5
-tags: ["artist", "def-jux"]
+tags: ["artist", "hip-hop"]
 ---
 
 # Aesop Rock
 
-**Category:** [[Def Jux]]
+**Category:** Hip-Hop › [[Underground]]
 
 **Session ties:** [[Blockhead]] · [[Cannibal Ox]] · [[DJ Krush]] · [[El-P]] · [[Illogic]] · [[Mr. Lif]] · [[Vast Aire]]
 

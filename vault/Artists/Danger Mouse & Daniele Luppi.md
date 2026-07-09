@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Indie Pop & Synth-Pop"
+category: "Pop"
+subcategory: "Indie & Synth-Pop"
 era: "2010s"
 album_count: 1
-tags: ["artist", "indie-pop-synth-pop"]
+tags: ["artist", "pop"]
 ---
 
 # Danger Mouse & Daniele Luppi
 
-**Category:** [[Indie Pop & Synth-Pop]]
+**Category:** Pop › [[Indie & Synth-Pop]]
 
 **Session ties:** [[Broken Bells]] · [[dangerdoom]] · [[Jack White]] · [[Norah Jones]] · [[The Black Keys]]
 

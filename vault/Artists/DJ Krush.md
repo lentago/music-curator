@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Turntablism & Beats"
+category: "Hip-Hop"
+subcategory: "Turntablism & Beats"
 era: "1990s-now"
 album_count: 8
-tags: ["artist", "turntablism-beats"]
+tags: ["artist", "hip-hop"]
 ---
 
 # DJ Krush
 
-**Category:** [[Turntablism & Beats]]
+**Category:** Hip-Hop › [[Turntablism & Beats]]
 
 **Session ties:** [[Aesop Rock]] · [[Anticon]] · [[Antipop Consortium]] · [[Company Flow]] · [[DJ Shadow]] · [[Mos Def]] · [[Mr. Lif]] · [[Toshinori Kondo & DJ Krush]] · [[Zap Mama]]
 

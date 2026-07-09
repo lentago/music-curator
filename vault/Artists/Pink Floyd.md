@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Classic Rock"
+category: "Rock"
+subcategory: "Classic Rock"
 era: "1960s-80s"
 album_count: 3
-tags: ["artist", "classic-rock"]
+tags: ["artist", "rock"]
 ---
 
 # Pink Floyd
 
-**Category:** [[Classic Rock]]
+**Category:** Rock › [[Classic Rock]]
 
 **Session ties:** [[The Departed Soundtrack]]
 

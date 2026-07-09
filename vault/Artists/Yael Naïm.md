@@ -1,14 +1,14 @@
 ---
 type: "artist"
-category: "Downtown Avant-Garde"
+category: "Folk & Singer-Songwriter"
 era: "2007-now"
 album_count: 1
-tags: ["artist", "downtown-avant-garde"]
+tags: ["artist", "folk-singer-songwriter"]
 ---
 
 # Yael Naïm
 
-**Category:** [[Downtown Avant-Garde]]
+**Category:** [[Folk & Singer-Songwriter]]
 
 ## Albums (1)
 - Yael Naïm

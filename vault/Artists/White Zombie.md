@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Industrial & EBM"
+category: "Electronic"
+subcategory: "Industrial & EBM"
 era: "1985-1996"
 album_count: 1
-tags: ["artist", "industrial-ebm"]
+tags: ["artist", "electronic"]
 ---
 
 # White Zombie
 
-**Category:** [[Industrial & EBM]]
+**Category:** Electronic › [[Industrial & EBM]]
 
 >  (lane confirmed by Chris)
 

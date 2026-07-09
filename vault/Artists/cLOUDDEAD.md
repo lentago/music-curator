@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Anticon"
+category: "Hip-Hop"
+subcategory: "Underground"
 era: "2001-2004"
 album_count: 2
-tags: ["artist", "anticon"]
+tags: ["artist", "hip-hop"]
 ---
 
 # cLOUDDEAD
 
-**Category:** [[Anticon (2)|Anticon]]
+**Category:** Hip-Hop › [[Underground]]
 
 **Session ties:** [[Illogic]] · [[Odd Nosdam]] · [[Peeping Tom]]
 

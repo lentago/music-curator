@@ -1,14 +1,17 @@
 #!/usr/bin/env python3
 """
 Render a music-inventory JSON file into an Obsidian vault whose graph view
-clusters artists by category.
+clusters artists in a two-tier category tree.
 
-Each active artist becomes a note that wikilinks to its single category hub;
-those category notes are the ~30 hubs the graph clusters around, each rendered
-in its own color. Untagged artists hang off a single Reservoir hub, and the
-whole thing opens in Obsidian with a pre-styled, category-colored graph and no
-plugins required. No artist is pre-designated as more important than another —
-Obsidian sizes nodes by degree, so the real hubs surface from the connectivity.
+Each active artist becomes a note that wikilinks to exactly one hub: its
+subcategory hub where it has one (Hip-Hop › Underground), else its top-level
+category hub. Subcategory hubs link up to their category, so the graph is a
+strict tree over ~13 top-level genres, and every node in a tree is tagged with
+its top-level category so the whole cluster shares one color. Untagged artists
+hang off a single Reservoir hub, and the whole thing opens in Obsidian with a
+pre-styled, category-colored graph and no plugins required. No artist is
+pre-designated as more important than another — Obsidian sizes nodes by
+degree, so the real hubs surface from the connectivity.
 
 Usage:
     python obsidian_driver.py [path/to/music-inventory.json] [--out DIR]
@@ -276,14 +279,19 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None):
     # Roster-only personnel edges from the credits research layer.
     personnel_edges = build_personnel_edges(credits, set(active))
 
-    # Collect one hub per category and its members.
-    category_members = {}   # category display name -> [artist names]
+    # Collect the two-tier hub structure and its members.
+    category_members = {}   # category -> [artists filed directly under it, no subcategory]
+    sub_members = {}        # (category, subcategory) -> [artist names]
     reservoir_members = []
     collab_map = {}         # artist name -> [constituent artist names that are nodes]
 
     for name, rec in active.items():
         cat = rec.get("category")
-        if cat:
+        sub = rec.get("subcategory")
+        if cat and sub:
+            sub_members.setdefault((cat, sub), []).append(name)
+            category_members.setdefault(cat, [])
+        elif cat:
             category_members.setdefault(cat, []).append(name)
         else:
             reservoir_members.append(name)
@@ -297,6 +305,7 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None):
     fixed = {n: alloc.take(n) for n in (HOME_MOC, RESERVOIR_HUB, ABOUT_NOTE)}
     artist_base = {name: alloc.take(name) for name in active}
     cat_base = {cat: alloc.take(cat) for cat in sorted(category_members)}
+    sub_base = {key: alloc.take(key[1]) for key in sorted(sub_members)}
 
     prepare_output_dir(out_dir)
 
@@ -315,6 +324,7 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None):
             ("aliases", [name] if artist_base[name] != name else None),
             ("type", "artist"),
             ("category", cat),
+            ("subcategory", rec.get("subcategory")),
             ("era", rec.get("era")),
             ("album_count", rec.get("album_count")),
             ("discarded", True if rec.get("discard") else None),
@@ -324,8 +334,14 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None):
 
         parts = [fm, "", f"# {name}", ""]
 
-        # The single category link is the artist's edge into its cluster.
-        if cat:
+        # The artist's single edge into the taxonomy tree: its subcategory hub
+        # when it has one (that hub links onward to its category), else its
+        # category hub directly. The top-level name stays plain text in the
+        # subcategory case so the graph keeps a strict two-tier tree.
+        sub = rec.get("subcategory")
+        if cat and sub:
+            parts.append(f"**Category:** {cat} › {link(sub_base[(cat, sub)], sub)}")
+        elif cat:
             parts.append(f"**Category:** {link(cat_base[cat], cat)}")
         else:
             parts.append(f"**Filed under:** {link(fixed[RESERVOIR_HUB])}")
@@ -364,23 +380,63 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None):
 
         write_note(out_dir, "Artists", artist_base[name], "\n".join(parts))
 
-    # --- Category hub notes ---------------------------------------------------
-    for cat, members in sorted(category_members.items()):
+    # --- Category + subcategory hub notes -------------------------------------
+    subs_of = {}            # category -> [subcategory names, sorted]
+    for cat, sub in sorted(sub_members):
+        subs_of.setdefault(cat, []).append(sub)
+    cat_total = {
+        cat: len(category_members[cat])
+        + sum(len(sub_members[(cat, s)]) for s in subs_of.get(cat, []))
+        for cat in category_members
+    }
+
+    for cat in sorted(category_members):
+        direct = category_members[cat]
+        subs = subs_of.get(cat, [])
         fm = frontmatter([
             ("aliases", [cat] if cat_base[cat] != cat else None),
             ("type", "category"),
-            ("member_count", len(members)),
+            ("member_count", cat_total[cat]),
             ("tags", ["category", category_slug(cat)]),
         ])
         body = [
             fm, "", f"# {cat}", "",
-            f"*Category — {len(members)} artists in the collection.*", "",
+            f"*Category — {cat_total[cat]} artists in the collection.*", "",
+        ]
+        if subs:
+            body.append("## Subcategories")
+            body.extend(
+                f"- {link(sub_base[(cat, s)], s)} ({len(sub_members[(cat, s)])})"
+                for s in subs
+            )
+            body.append("")
+        if direct:
+            body.append("## Artists (no subcategory)" if subs else "## Artists")
+            body.extend(
+                f"- {link(artist_base[m], m)}" for m in sorted(direct, key=str.lower)
+            )
+        write_note(out_dir, "Categories", cat_base[cat], "\n".join(body))
+
+    # Subcategory hubs: each links up to its category — that link is the
+    # tree edge between the tiers — and carries the top-level slug tag so
+    # it colors with its cluster.
+    for (cat, sub), members in sorted(sub_members.items()):
+        fm = frontmatter([
+            ("aliases", [sub] if sub_base[(cat, sub)] != sub else None),
+            ("type", "subcategory"),
+            ("category", cat),
+            ("member_count", len(members)),
+            ("tags", ["subcategory", category_slug(cat)]),
+        ])
+        body = [
+            fm, "", f"# {sub}", "",
+            f"*Subcategory of {link(cat_base[cat], cat)} — {len(members)} artists.*", "",
             "## Artists",
         ]
         body.extend(
             f"- {link(artist_base[m], m)}" for m in sorted(members, key=str.lower)
         )
-        write_note(out_dir, "Categories", cat_base[cat], "\n".join(body))
+        write_note(out_dir, "Categories", sub_base[(cat, sub)], "\n".join(body))
 
     # --- Reservoir hub --------------------------------------------------------
     reservoir_body = [
@@ -401,19 +457,20 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None):
     # --- Home MOC -------------------------------------------------------------
     collab_edges = sum(len(v) for v in collab_map.values())
     personnel_edge_count = sum(len(v) for v in personnel_edges.values()) // 2
-    by_size = sorted(category_members.items(), key=lambda kv: (-len(kv[1]), kv[0]))
+    by_size = sorted(cat_total.items(), key=lambda kv: (-kv[1], kv[0]))
     home = [
         frontmatter([("type", "moc"), ("tags", ["moc"])]), "",
         f"# {HOME_MOC}", "",
         "A taste map of the collection. Open the **graph view** (Ctrl/Cmd-G): "
-        "every artist sits in exactly one **category** hub, each category is its "
-        "own color, combo acts link straight to the members they share, and "
-        "**session ties** wire artists together through shared personnel. "
-        "Nothing is pre-weighted — the densest nodes are whatever the "
-        "connectivity makes them.", "",
+        "every artist sits in one branch of a two-tier **category** tree, each "
+        "top-level category is its own color, combo acts link straight to the "
+        "members they share, and **session ties** wire artists together through "
+        "shared personnel. Nothing is pre-weighted — the densest nodes are "
+        "whatever the connectivity makes them.", "",
         "## By the numbers", "",
         f"- **{len(active)}** artists",
-        f"- **{len(category_members)}** categories",
+        f"- **{len(category_members)}** top-level categories · "
+        f"**{len(sub_members)}** subcategories",
         f"- **{collab_edges}** collaboration edges · **{personnel_edge_count}** "
         "session-tie edges (shared personnel)",
         f"- **{len(reservoir_members)}** in the untagged {link(fixed[RESERVOIR_HUB])}",
@@ -424,8 +481,12 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None):
         "",
         "## Categories", "",
     ]
-    for cat, members in by_size:
-        home.append(f"- {link(cat_base[cat], cat)} ({len(members)})")
+    for cat, total in by_size:
+        home.append(f"- {link(cat_base[cat], cat)} ({total})")
+        home.extend(
+            f"    - {link(sub_base[(cat, s)], s)} ({len(sub_members[(cat, s)])})"
+            for s in subs_of.get(cat, [])
+        )
     write_note(out_dir, "", fixed[HOME_MOC], "\n".join(home))
 
     # --- About note -----------------------------------------------------------
@@ -437,9 +498,12 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None):
         "(https://github.com/lentago/music-curator) repo. Don't hand-edit the "
         "notes — regenerate instead; edits are overwritten.", "",
         "## Reading the graph", "",
-        "- Every **artist** links to exactly one **category** hub — that link is "
-        "the graph edge, and each category is a distinct color, so the clusters "
-        "read at a glance.",
+        "- Every **artist** links to exactly one hub — its **subcategory** where "
+        "it has one (Hip-Hop › Underground), else its top-level **category**. "
+        "Subcategory hubs link up to their category, so the graph is a two-tier "
+        "tree, and every node in a branch carries its top-level tag — each "
+        "top-level category is a distinct color, so the clusters read at a "
+        "glance.",
         "- **Combo acts link directly to their members** (`El-P & Cannibal Ox` "
         "→ El-P + Cannibal Ox), so the graph also shows the collaboration social "
         "graph, not just category membership. See a note's **With:** line.",
@@ -465,6 +529,7 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None):
     return {
         "artists": len(active),
         "categories": len(category_members),
+        "subcategories": len(sub_members),
         "collab_edges": collab_edges,
         "personnel_edges": personnel_edge_count,
         "reservoir": len(reservoir_members),
@@ -569,7 +634,7 @@ def main():
 
     print(f"Wrote vault to: {args.out}")
     print(f"  artists:    {stats['artists']}")
-    print(f"  categories: {stats['categories']}")
+    print(f"  categories: {stats['categories']}  subcategories: {stats['subcategories']}")
     print(f"  collab edges: {stats['collab_edges']}  personnel edges: {stats['personnel_edges']}")
     print(f"  reservoir:  {stats['reservoir']}")
 

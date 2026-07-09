@@ -1,12 +1,13 @@
 ---
-type: "category"
+type: "subcategory"
+category: "Rock"
 member_count: 19
-tags: ["category", "classic-rock"]
+tags: ["subcategory", "rock"]
 ---
 
 # Classic Rock
 
-*Category — 19 artists in the collection.*
+*Subcategory of [[Rock]] — 19 artists.*
 
 ## Artists
 - [[AC-DC]]

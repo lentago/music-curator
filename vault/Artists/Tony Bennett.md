@@ -1,6 +1,7 @@
 ---
 type: "artist"
 category: "Pop"
+subcategory: "Standards & Vocal"
 era: "1950s-now"
 album_count: 4
 tags: ["artist", "pop"]
@@ -8,7 +9,7 @@ tags: ["artist", "pop"]
 
 # Tony Bennett
 
-**Category:** [[Pop]]
+**Category:** Pop › [[Standards & Vocal]]
 
 ## Albums (4)
 - For Once In My Life

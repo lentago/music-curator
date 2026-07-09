@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Jam"
+category: "Rock"
+subcategory: "Jam"
 era: "2000s-now"
 album_count: 3
-tags: ["artist", "jam"]
+tags: ["artist", "rock"]
 ---
 
 # Trey Anastasio Band
 
-**Category:** [[Jam]]
+**Category:** Rock › [[Jam]]
 
 **Session ties:** [[Trey Anastasio]]
 

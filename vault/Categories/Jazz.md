@@ -1,14 +1,17 @@
 ---
 type: "category"
-member_count: 34
+member_count: 38
 tags: ["category", "jazz"]
 ---
 
 # Jazz
 
-*Category — 34 artists in the collection.*
+*Category — 38 artists in the collection.*
 
-## Artists
+## Subcategories
+- [[New Orleans & Brass]] (3)
+
+## Artists (no subcategory)
 - [[Aaron Goldberg]]
 - [[Aisha Duo]]
 - [[Al Jarreau & Lou Rawls]]
@@ -38,6 +41,7 @@ tags: ["category", "jazz"]
 - [[Nat King Cole]]
 - [[Nellie McKay]]
 - [[Norah Jones]]
+- [[Pat Metheny]]
 - [[Quartet Coco Briaval]]
 - [[Sidney Bechet]]
 - [[Steely Dan]]

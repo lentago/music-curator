@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Indie Rock"
+category: "Rock"
+subcategory: "Indie & Alternative"
 era: "1991-1995"
 album_count: 1
-tags: ["artist", "indie-rock"]
+tags: ["artist", "rock"]
 ---
 
 # Mindfunk
 
-**Category:** [[Indie Rock]]
+**Category:** Rock › [[Indie & Alternative]]
 
 >  (lane confirmed by Chris)
 

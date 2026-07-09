@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Indie Pop & Synth-Pop"
+category: "Pop"
+subcategory: "Indie & Synth-Pop"
 era: "2000s-now"
 album_count: 2
-tags: ["artist", "indie-pop-synth-pop"]
+tags: ["artist", "pop"]
 ---
 
 # MGMT
 
-**Category:** [[Indie Pop & Synth-Pop]]
+**Category:** Pop › [[Indie & Synth-Pop]]
 
 **Session ties:** [[The Flaming Lips]]
 

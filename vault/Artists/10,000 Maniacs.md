@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Indie Rock"
+category: "Rock"
+subcategory: "Indie & Alternative"
 era: "1981-now"
 album_count: 2
-tags: ["artist", "indie-rock"]
+tags: ["artist", "rock"]
 ---
 
 # 10,000 Maniacs
 
-**Category:** [[Indie Rock]]
+**Category:** Rock › [[Indie & Alternative]]
 
 **Session ties:** [[Billy Bragg & Wilco - Mermaid avenue (Vol 1 & 2)]] · [[R.E.M]]
 

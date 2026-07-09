@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Anticon"
+category: "Electronic"
+subcategory: "Trip-Hop & Downtempo"
 era: "2000s"
 album_count: 1
-tags: ["artist", "anticon"]
+tags: ["artist", "electronic"]
 ---
 
 # Boom Bip
 
-**Category:** [[Anticon (2)|Anticon]]
+**Category:** Electronic › [[Trip-Hop & Downtempo]]
 
 **Session ties:** [[Anticon]]
 

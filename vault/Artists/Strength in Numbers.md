@@ -1,13 +1,14 @@
 ---
 type: "artist"
-category: "Newgrass"
+category: "Country & Americana"
+subcategory: "Newgrass"
 album_count: 1
-tags: ["artist", "newgrass"]
+tags: ["artist", "country-americana"]
 ---
 
 # Strength in Numbers
 
-**Category:** [[Newgrass]]
+**Category:** Country & Americana › [[Newgrass]]
 
 **Session ties:** [[Béla Fleck]] · [[Jerry Douglas]] · [[Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall]] · [[Sam Bush]] · [[Yo-Yo Ma-Edgar Meyer-Mark O'Connor]]
 

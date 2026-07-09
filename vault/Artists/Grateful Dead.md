@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Jam"
+category: "Rock"
+subcategory: "Jam"
 era: "1965-1995"
 album_count: 8
-tags: ["artist", "jam"]
+tags: ["artist", "rock"]
 ---
 
 # Grateful Dead
 
-**Category:** [[Jam]]
+**Category:** Rock › [[Jam]]
 
 **Session ties:** [[Jerry Garcia & David Grisman]] · [[Old & In the Way]]
 

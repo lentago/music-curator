@@ -1,15 +1,16 @@
 ---
 type: "artist"
-category: "Turntablism & Beats"
+category: "Hip-Hop"
+subcategory: "Turntablism & Beats"
 era: "2000s"
 album_count: 2
 collaborators: ["Cut Chemist", "DJ Shadow"]
-tags: ["artist", "turntablism-beats"]
+tags: ["artist", "hip-hop"]
 ---
 
 # Cut Chemist & DJ Shadow
 
-**Category:** [[Turntablism & Beats]]
+**Category:** Hip-Hop › [[Turntablism & Beats]]
 
 **With:** [[Cut Chemist]] · [[DJ Shadow]]
 

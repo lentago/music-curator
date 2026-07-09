@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Trip-Hop & Downtempo"
+category: "Electronic"
+subcategory: "Trip-Hop & Downtempo"
 era: "2000s"
 album_count: 1
-tags: ["artist", "trip-hop-downtempo"]
+tags: ["artist", "electronic"]
 ---
 
 # Dzihan & Kamien Orchestra
 
-**Category:** [[Trip-Hop & Downtempo]]
+**Category:** Electronic › [[Trip-Hop & Downtempo]]
 
 ## Albums (1)
 - Live in Vienna

@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Indie Pop & Synth-Pop"
+category: "Pop"
+subcategory: "Indie & Synth-Pop"
 era: "2000s-now"
 album_count: 3
-tags: ["artist", "indie-pop-synth-pop"]
+tags: ["artist", "pop"]
 ---
 
 # Ratatat
 
-**Category:** [[Indie Pop & Synth-Pop]]
+**Category:** Pop › [[Indie & Synth-Pop]]
 
 ## Albums (3)
 - Classics

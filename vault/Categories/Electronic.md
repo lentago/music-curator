@@ -1,14 +1,19 @@
 ---
 type: "category"
-member_count: 14
+member_count: 44
 tags: ["category", "electronic"]
 ---
 
 # Electronic
 
-*Category — 14 artists in the collection.*
+*Category — 44 artists in the collection.*
 
-## Artists
+## Subcategories
+- [[Industrial & EBM]] (7)
+- [[Trip-Hop & Downtempo]] (22)
+
+## Artists (no subcategory)
+- [[Baths]]
 - [[Boards Of Canada]]
 - [[Daft Punk]]
 - [[Deuter]]

@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Bluegrass"
+category: "Country & Americana"
+subcategory: "Bluegrass"
 era: "2000s-now"
 album_count: 2
-tags: ["artist", "bluegrass"]
+tags: ["artist", "country-americana"]
 ---
 
 # The Steeldrivers
 
-**Category:** [[Bluegrass]]
+**Category:** Country & Americana › [[Bluegrass]]
 
 **Session ties:** [[Chris Stapleton]]
 

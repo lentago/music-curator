@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Classic Rock"
+category: "Rock"
+subcategory: "Classic Rock"
 era: "1960s-70s"
 album_count: 4
-tags: ["artist", "classic-rock"]
+tags: ["artist", "rock"]
 ---
 
 # The Beatles
 
-**Category:** [[Classic Rock]]
+**Category:** Rock › [[Classic Rock]]
 
 **Session ties:** [[Billy Preston]] · [[Eric Clapton And Steve Winwood]] · [[TheBeatles-WhiteAbum-2009StereoRemaster]]
 

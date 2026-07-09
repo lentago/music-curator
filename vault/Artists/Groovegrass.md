@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Newgrass"
+category: "Country & Americana"
+subcategory: "Newgrass"
 era: "1990s"
 album_count: 2
-tags: ["artist", "newgrass"]
+tags: ["artist", "country-americana"]
 ---
 
 # Groovegrass
 
-**Category:** [[Newgrass]]
+**Category:** Country & Americana › [[Newgrass]]
 
 **Session ties:** [[Del McCoury]] · [[Jerry Douglas]]
 

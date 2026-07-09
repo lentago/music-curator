@@ -1,12 +1,13 @@
 ---
-type: "category"
-member_count: 25
-tags: ["category", "art-pop-new-wave"]
+type: "subcategory"
+category: "Pop"
+member_count: 26
+tags: ["subcategory", "pop"]
 ---
 
 # Art-Pop & New Wave
 
-*Category — 25 artists in the collection.*
+*Subcategory of [[Pop]] — 26 artists.*
 
 ## Artists
 - [[Brazilian Girls]]
@@ -29,6 +30,7 @@ tags: ["category", "art-pop-new-wave"]
 - [[Talking Heads]]
 - [[The Dresden Dolls]]
 - [[The Flaming Lips]]
+- [[The Fools]]
 - [[The The]]
 - [[TV On The Radio]]
 - [[Ween]]

@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Metal"
+category: "Rock"
+subcategory: "Metal"
 era: "1990s-now"
 album_count: 5
-tags: ["artist", "metal"]
+tags: ["artist", "rock"]
 ---
 
 # Primus
 
-**Category:** [[Metal]]
+**Category:** Rock › [[Metal]]
 
 **Session ties:** [[Tom Waits]]
 

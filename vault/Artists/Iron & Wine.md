@@ -1,14 +1,14 @@
 ---
 type: "artist"
-category: "Indie Folk & Singer-Songwriter"
+category: "Folk & Singer-Songwriter"
 era: "2002-now"
 album_count: 8
-tags: ["artist", "indie-folk-singer-songwriter"]
+tags: ["artist", "folk-singer-songwriter"]
 ---
 
 # Iron & Wine
 
-**Category:** [[Indie Folk & Singer-Songwriter]]
+**Category:** [[Folk & Singer-Songwriter]]
 
 ## Albums (8)
 - Around The Well

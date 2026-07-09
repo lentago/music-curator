@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Art-Pop & New Wave"
+category: "Pop"
+subcategory: "Art-Pop & New Wave"
 era: "1977-2005"
 album_count: 1
-tags: ["artist", "art-pop-new-wave"]
+tags: ["artist", "pop"]
 ---
 
 # XTC
 
-**Category:** [[Art-Pop & New Wave]]
+**Category:** Pop › [[Art-Pop & New Wave]]
 
 ## Albums (1)
 - Nonsuch

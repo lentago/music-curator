@@ -1,13 +1,14 @@
 ---
 type: "artist"
-category: "Newgrass"
+category: "Country & Americana"
+subcategory: "Newgrass"
 album_count: 1
-tags: ["artist", "newgrass"]
+tags: ["artist", "country-americana"]
 ---
 
 # David Grisman
 
-**Category:** [[Newgrass]]
+**Category:** Country & Americana › [[Newgrass]]
 
 **Session ties:** [[Béla Fleck]] · [[Jerry Garcia & David Grisman]] · [[Jerry Garcia-David Grisman-Tony Rice]] · [[Old & In the Way]] · [[Old & in the Way-Jerry Garcia-David Grisman]] · [[Tony Rice Unit]]
 
