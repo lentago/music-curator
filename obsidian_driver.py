@@ -419,7 +419,9 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None):
 
     # Subcategory hubs: each links up to its category — that link is the
     # tree edge between the tiers — and carries the top-level slug tag so
-    # it colors with its cluster.
+    # it colors with its cluster. They live in Categories/<category>/ so the
+    # file explorer mirrors the tree; links are basename-resolved, so the
+    # nesting is purely cosmetic.
     for (cat, sub), members in sorted(sub_members.items()):
         fm = frontmatter([
             ("aliases", [sub] if sub_base[(cat, sub)] != sub else None),
@@ -436,7 +438,12 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None):
         body.extend(
             f"- {link(artist_base[m], m)}" for m in sorted(members, key=str.lower)
         )
-        write_note(out_dir, "Categories", sub_base[(cat, sub)], "\n".join(body))
+        write_note(
+            out_dir,
+            os.path.join("Categories", cat_base[cat]),
+            sub_base[(cat, sub)],
+            "\n".join(body),
+        )
 
     # --- Reservoir hub --------------------------------------------------------
     reservoir_body = [
