@@ -8,6 +8,8 @@ tags: ["artist", "reservoir"]
 
 **Filed under:** [[Reservoir]]
 
+**Session ties:** [[Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall]]
+
 ## Albums (2)
 - Closer
 - Josh Groban in Concert Disc 1

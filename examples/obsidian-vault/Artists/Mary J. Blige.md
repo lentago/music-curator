@@ -10,6 +10,8 @@ tags: ["artist", "soul-funk-r-b"]
 
 **Category:** [[Soul, Funk & R&B]]
 
+**Session ties:** [[Aretha Franklin]] · [[Eric Clapton And Steve Winwood]]
+
 ## Albums (2)
 - Growing Pains
 - Mary

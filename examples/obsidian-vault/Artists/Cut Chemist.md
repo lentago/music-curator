@@ -10,5 +10,7 @@ tags: ["artist", "turntablism-beats"]
 
 **Category:** [[Turntablism & Beats]]
 
+**Session ties:** [[Cut Chemist_Shortkut]] · [[Jurassic 5]] · [[Ozomatli]]
+
 ## Albums (1)
 - Live at the Variety Arts Center, 1997

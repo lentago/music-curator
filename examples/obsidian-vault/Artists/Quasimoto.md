@@ -10,5 +10,7 @@ tags: ["artist", "stones-throw"]
 
 **Category:** [[Stones Throw]]
 
+**Session ties:** [[Beat Junkies]] · [[Madlib]] · [[Madvillain]]
+
 ## Albums (1)
 - The Unseen [Deluxe Edition] Disc 1

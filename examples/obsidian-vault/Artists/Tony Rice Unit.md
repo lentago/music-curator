@@ -10,6 +10,8 @@ tags: ["artist", "newgrass"]
 
 **Category:** [[Newgrass]]
 
+**Session ties:** [[Alison Brown]] · [[Béla Fleck]] · [[David Grisman]] · [[David Grisman Quintet]] · [[Jerry Garcia-David Grisman-Tony Rice]]
+
 ## Albums (2)
 - Backwaters
 - Unit Of Measure

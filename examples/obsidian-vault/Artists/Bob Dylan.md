@@ -10,6 +10,8 @@ tags: ["artist", "indie-folk-singer-songwriter"]
 
 **Category:** [[Indie Folk & Singer-Songwriter]]
 
+**Session ties:** [[Johnny Cash]] · [[The Band]]
+
 ## Albums (3)
 - John Wesley Harding [Remastered]
 - Nashville Skyline

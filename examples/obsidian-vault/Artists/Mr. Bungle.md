@@ -10,6 +10,8 @@ tags: ["artist", "patton-orbit"]
 
 **Category:** [[Patton Orbit]]
 
+**Session ties:** [[Fantômas]] · [[John Zorn]] · [[Lovage]] · [[Peeping Tom]]
+
 ## Albums (3)
 - california
 - Disco Volante

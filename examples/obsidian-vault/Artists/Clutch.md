@@ -10,6 +10,8 @@ tags: ["artist", "metal"]
 
 **Category:** [[Metal]]
 
+**Session ties:** [[The Company Band]]
+
 ## Albums (14)
 - Blast Tyrant
 - Blast Tyrant (Deluxe Edition)

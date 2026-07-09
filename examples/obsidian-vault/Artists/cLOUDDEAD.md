@@ -10,6 +10,8 @@ tags: ["artist", "anticon"]
 
 **Category:** [[Anticon (2)|Anticon]]
 
+**Session ties:** [[Illogic]] · [[Odd Nosdam]] · [[Peeping Tom]]
+
 ## Albums (2)
 - clouddead
 - ten

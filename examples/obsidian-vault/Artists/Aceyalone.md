@@ -10,6 +10,8 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Dilated Peoples]] · [[El-P]] · [[Rjd2]] · [[The A-Team]]
+
 ## Albums (4)
 - Accepted Eclectic
 - Hip Hop and the World We Live In

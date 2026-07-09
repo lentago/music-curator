@@ -10,6 +10,8 @@ tags: ["artist", "classic-rock"]
 
 **Category:** [[Classic Rock]]
 
+**Session ties:** [[Little Feat]] · [[Living Colour]] · [[Merry Clayton]] · [[The Departed Soundtrack]] · [[Tom Waits]]
+
 ## Albums (2)
 - L A Forum (Live 1975)
 - Let It Bleed

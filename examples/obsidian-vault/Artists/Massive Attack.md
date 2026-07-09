@@ -10,6 +10,8 @@ tags: ["artist", "trip-hop-downtempo"]
 
 **Category:** [[Trip-Hop & Downtempo]]
 
+**Session ties:** [[Peeping Tom]] · [[TV On The Radio]]
+
 ## Albums (3)
 - Collected
 - Heligoland

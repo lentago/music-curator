@@ -10,6 +10,8 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Prince Paul]]
+
 ## Albums (2)
 - Music, Magic, Myth [Bonus CD] Disc 1
 - Music, Magic, Myth [Bonus CD] Disc 2

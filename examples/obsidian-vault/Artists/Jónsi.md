@@ -10,5 +10,7 @@ tags: ["artist", "post-rock"]
 
 **Category:** [[Post-Rock]]
 
+**Session ties:** [[Sigur Ros]]
+
 ## Albums (1)
 - Go

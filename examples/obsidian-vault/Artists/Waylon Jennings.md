@@ -10,5 +10,7 @@ tags: ["artist", "country-americana"]
 
 **Category:** [[Country & Americana]]
 
+**Session ties:** [[Leftover Salmon]] · [[Willie Nelson-Waylon Jennings]]
+
 ## Albums (1)
 - Honky Tonk Heroes

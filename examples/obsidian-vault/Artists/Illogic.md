@@ -10,6 +10,8 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Aesop Rock]] · [[Atmosphere]] · [[Blockhead]] · [[cLOUDDEAD]] · [[Soul Position]] · [[Vast Aire]]
+
 ## Albums (9)
 - Illogic and Blockhead - Capture The Sun (2013)
 - Illogic & Blockhead - Preparing For Capture 1 EP (2012)

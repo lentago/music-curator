@@ -10,5 +10,7 @@ tags: ["artist", "turntablism-beats"]
 
 **Category:** [[Turntablism & Beats]]
 
+**Session ties:** [[Deltron 3030]] · [[DJ Shadow]] · [[Dr. Octagon]] · [[Handsome Boy Modeling School]] · [[Lovage]] · [[Peeping Tom]]
+
 ## Albums (1)
 - Wanna Buy a Monkey-- A Mixtape Session

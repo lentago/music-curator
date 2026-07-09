@@ -10,6 +10,8 @@ tags: ["artist", "art-pop-new-wave"]
 
 **Category:** [[Art-Pop & New Wave]]
 
+**Session ties:** [[David Byrne & Brian Eno]] · [[Talking Heads]] · [[Thievery Corporation]]
+
 ## Albums (2)
 - Feelings
 - Look Into The Eyeball

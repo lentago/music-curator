@@ -10,6 +10,8 @@ tags: ["artist", "indie-folk-singer-songwriter"]
 
 **Category:** [[Indie Folk & Singer-Songwriter]]
 
+**Session ties:** [[Billy Bragg & Wilco - Mermaid avenue (Vol 1 & 2)]]
+
 ## Albums (7)
 - Back to Basics
 - Mr. Love & Justice

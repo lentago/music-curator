@@ -10,5 +10,7 @@ tags: ["artist", "patton-orbit"]
 
 **Category:** [[Patton Orbit]]
 
+**Session ties:** [[John Zorn]] · [[Mr. Bungle]]
+
 ## Albums (1)
 - The Director's Cut

@@ -10,6 +10,8 @@ tags: ["artist", "art-pop-new-wave"]
 
 **Category:** [[Art-Pop & New Wave]]
 
+**Session ties:** [[Annie Lennox]] · [[Eric Clapton And Steve Winwood]] · [[Herbie Hancock]] · [[Mark Knopfler]] · [[Stevie Wonder]]
+
 ## Albums (7)
 - At the Movies
 - Brand New Day

@@ -10,5 +10,7 @@ tags: ["artist", "world"]
 
 **Category:** [[World]]
 
+**Session ties:** [[Aaron Goldberg]] · [[Yo-Yo Ma]]
+
 ## Albums (1)
 - Duos II

@@ -13,5 +13,7 @@ tags: ["artist", "bluegrass"]
 
 **With:** [[Steve Earle]]
 
+**Session ties:** [[Del McCoury]] · [[Emmylou Harris]] · [[Gillian Welch]] · [[Jerry Douglas]] · [[Sam Bush]]
+
 ## Albums (1)
 - The Mountain

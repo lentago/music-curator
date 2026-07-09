@@ -10,6 +10,8 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Ozomatli]]
+
 ## Albums (2)
 - Bizarre Ride II the Pharcyde
 - Labcabincalifornia

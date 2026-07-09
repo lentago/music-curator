@@ -10,6 +10,8 @@ tags: ["artist", "indie-folk-singer-songwriter"]
 
 **Category:** [[Indie Folk & Singer-Songwriter]]
 
+**Session ties:** [[Compilations]] · [[The Chemical Brothers]]
+
 ## Albums (8)
 - Central Reservation
 - Comfort of Strangers

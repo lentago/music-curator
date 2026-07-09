@@ -10,5 +10,7 @@ tags: ["artist", "turntablism-beats"]
 
 **Category:** [[Turntablism & Beats]]
 
+**Session ties:** [[Cut Chemist]] · [[Invisible Skratch Piklz]]
+
 ## Albums (1)
 - Live at Future Primitive Sound Session

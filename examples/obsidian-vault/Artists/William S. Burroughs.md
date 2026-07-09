@@ -10,6 +10,8 @@ tags: ["artist", "art-pop-new-wave"]
 
 **Category:** [[Art-Pop & New Wave]]
 
+**Session ties:** [[Charlie Hunter Quartet]] · [[The Disposable Heroes of Hiphoprisy]] · [[Tom Waits]]
+
 ## Albums (2)
 - spare ass annie
 - Spare Ass Annie and Other Tales

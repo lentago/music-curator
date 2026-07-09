@@ -12,5 +12,7 @@ tags: ["artist", "newgrass"]
 
 **With:** [[David Grisman]]
 
+**Session ties:** [[David Grisman Quintet]] · [[Jerry Garcia & David Grisman]] · [[Jerry Garcia-David Grisman-Tony Rice]] · [[Peter Rowan & Jerry Douglas]] · [[The Grateful Dead]]
+
 ## Albums (1)
 - Breakdown- Live Recordings 1973

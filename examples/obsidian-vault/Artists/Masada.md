@@ -10,6 +10,8 @@ tags: ["artist", "downtown-avant-garde"]
 
 **Category:** [[Downtown Avant-Garde]]
 
+**Session ties:** [[John Zorn]]
+
 ## Albums (6)
 - 50th Birthday Celebration, Vol. 7
 - Masada- Live at Tonic, 2001 Disc 1

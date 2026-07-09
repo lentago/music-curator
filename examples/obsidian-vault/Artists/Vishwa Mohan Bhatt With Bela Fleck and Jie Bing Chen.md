@@ -10,5 +10,7 @@ tags: ["artist", "world"]
 
 **Category:** [[World]]
 
+**Session ties:** [[Russ Barenberg]]
+
 ## Albums (1)
 - Tabula Rasa

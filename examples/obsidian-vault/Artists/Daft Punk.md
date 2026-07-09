@@ -10,6 +10,8 @@ tags: ["artist", "electronic"]
 
 **Category:** [[Electronic]]
 
+**Session ties:** [[N.E.R.D]]
+
 ## Albums (3)
 - Discovery
 - Homework

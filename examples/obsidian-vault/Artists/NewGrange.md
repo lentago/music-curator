@@ -9,5 +9,7 @@ tags: ["artist", "newgrass"]
 
 **Category:** [[Newgrass]]
 
+**Session ties:** [[Edgar Meyer_Béla Fleck_Mike Marshall]]
+
 ## Albums (1)
 - NewGrange

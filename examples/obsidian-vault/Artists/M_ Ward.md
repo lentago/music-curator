@@ -10,5 +10,7 @@ tags: ["artist", "indie-folk-singer-songwriter"]
 
 **Category:** [[Indie Folk & Singer-Songwriter]]
 
+**Session ties:** [[Monsters Of Folk]] · [[Neko Case]]
+
 ## Albums (1)
 - A Wasteland Companion

@@ -10,5 +10,7 @@ tags: ["artist", "turntablism-beats"]
 
 **Category:** [[Turntablism & Beats]]
 
+**Session ties:** [[LMNO]] · [[Quasimoto]]
+
 ## Albums (1)
 - The World Famous Beat Junkies, Vol. 3

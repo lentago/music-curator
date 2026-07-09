@@ -10,5 +10,7 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Madlib]] · [[Prefuse 73]] · [[Rjd2]] · [[Vast Aire]]
+
 ## Albums (1)
 - One A.M. [Bonus Track]

@@ -10,6 +10,8 @@ tags: ["artist", "downtown-avant-garde"]
 
 **Category:** [[Downtown Avant-Garde]]
 
+**Session ties:** [[Bar Kokhba Sextet]] · [[Bill Frisell]] · [[Cracow Klezmer Band]] · [[Electric Masada]] · [[Fantômas]] · [[John Zorn-Electric Masada]] · [[John Zorn-Masada Chamber Ensembles]] · [[Marc Ribot Y los Cubanos Postizos]] · [[Masada]] · [[Masada Quintet Featuring Joe Lovano]] · [[Medeski, Martin & Wood]] · [[Mr. Bungle]] · [[Naked City]] · [[Pat Metheny]] · [[The Lounge Lizards]]
+
 ## Albums (20)
 - Astaroth Book Of Angels Volume One - Ja
 - Cobra John Zorn's Game Pieces, Vol. 2 [

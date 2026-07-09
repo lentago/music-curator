@@ -10,5 +10,7 @@ tags: ["artist", "hip-hop"]
 
 **Category:** [[Hip-Hop]]
 
+**Session ties:** [[Das EFX]]
+
 ## Albums (1)
 - Business Never Personal

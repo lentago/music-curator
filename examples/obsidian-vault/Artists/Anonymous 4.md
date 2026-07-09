@@ -8,5 +8,7 @@ tags: ["artist", "reservoir"]
 
 **Filed under:** [[Reservoir]]
 
+**Session ties:** [[Edgar Meyer_Béla Fleck_Mike Marshall]]
+
 ## Albums (1)
 - Gloryland

@@ -10,5 +10,7 @@ tags: ["artist", "blues"]
 
 **Category:** [[Blues]]
 
+**Session ties:** [[Sonny Terry with Johnny Winter& Willie Dixon]]
+
 ## Albums (1)
 - Whoopin'

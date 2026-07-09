@@ -10,6 +10,8 @@ tags: ["artist", "soul-funk-r-b"]
 
 **Category:** [[Soul, Funk & R&B]]
 
+**Session ties:** [[Ray Charles]] · [[The Band]] · [[The Departed Soundtrack]]
+
 ## Albums (7)
 - Astral Weeks
 - His Band and the Street Choir

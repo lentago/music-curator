@@ -10,5 +10,7 @@ tags: ["artist", "classical"]
 
 **Category:** [[Classical]]
 
+**Session ties:** [[Yo-Yo Ma]]
+
 ## Albums (1)
 - Suite for Cello and Jazz Piano Trio

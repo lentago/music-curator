@@ -10,6 +10,8 @@ tags: ["artist", "metal"]
 
 **Category:** [[Metal]]
 
+**Session ties:** [[Tool]]
+
 ## Albums (3)
 - emotive
 - Mer de Noms

@@ -10,5 +10,7 @@ tags: ["artist", "country-americana"]
 
 **Category:** [[Country & Americana]]
 
+**Session ties:** [[The Steeldrivers]]
+
 ## Albums (1)
 - Traveller

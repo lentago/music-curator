@@ -10,5 +10,7 @@ tags: ["artist", "anticon"]
 
 **Category:** [[Anticon (2)|Anticon]]
 
+**Session ties:** [[Boom Bip]] · [[DJ Krush]] · [[Odd Nosdam]]
+
 ## Albums (1)
 - we ain't fessin' (double quotes)

@@ -10,5 +10,7 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Jedi Mind Tricks]] · [[Zap Mama]]
+
 ## Albums (1)
 - BB Queen

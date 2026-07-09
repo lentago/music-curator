@@ -10,5 +10,7 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Faust vs. Dälek]]
+
 ## Albums (1)
 - Negro Necro Nekros

@@ -10,6 +10,8 @@ tags: ["artist", "hip-hop"]
 
 **Category:** [[Hip-Hop]]
 
+**Session ties:** [[Xzibit]]
+
 ## Albums (2)
 - The Eminem Show
 - The Marshall Mathers LP

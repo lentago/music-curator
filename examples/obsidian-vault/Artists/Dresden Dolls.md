@@ -10,5 +10,7 @@ tags: ["artist", "art-pop-new-wave"]
 
 **Category:** [[Art-Pop & New Wave]]
 
+**Session ties:** [[Nine Inch Nails]]
+
 ## Albums (1)
 - Dresden Dolls

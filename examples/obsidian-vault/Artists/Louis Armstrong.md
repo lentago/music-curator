@@ -10,6 +10,8 @@ tags: ["artist", "jazz"]
 
 **Category:** [[Jazz]]
 
+**Session ties:** [[Ella Fitzgerald_Louis Armstrong]]
+
 ## Albums (3)
 - 01 Louis Armstrong - La Vie En Rose
 - A Kiss To Build A Dream On

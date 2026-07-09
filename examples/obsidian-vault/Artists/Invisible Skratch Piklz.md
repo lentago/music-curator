@@ -10,5 +10,7 @@ tags: ["artist", "turntablism-beats"]
 
 **Category:** [[Turntablism & Beats]]
 
+**Session ties:** [[Cut Chemist_Shortkut]]
+
 ## Albums (1)
 - The Shiggar Fraggar Show!, Vol. 2

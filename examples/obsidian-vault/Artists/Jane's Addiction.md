@@ -10,6 +10,8 @@ tags: ["artist", "indie-rock"]
 
 **Category:** [[Indie Rock]]
 
+**Session ties:** [[Thievery Corporation]]
+
 ## Albums (3)
 - nothing's shocking
 - ritual de lo habitual

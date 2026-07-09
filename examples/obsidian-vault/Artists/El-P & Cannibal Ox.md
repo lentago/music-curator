@@ -13,5 +13,7 @@ tags: ["artist", "def-jux"]
 
 **With:** [[Cannibal Ox]]
 
+**Session ties:** [[El-P]] · [[Vast Aire]]
+
 ## Albums (1)
 - El-P Presents Cannibal Oxtrumentals

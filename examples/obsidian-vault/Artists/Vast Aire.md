@@ -10,5 +10,7 @@ tags: ["artist", "def-jux"]
 
 **Category:** [[Def Jux]]
 
+**Session ties:** [[Aesop Rock]] · [[Cannibal Ox]] · [[Diverse]] · [[El-P]] · [[El-P & Cannibal Ox]] · [[Illogic]] · [[Madlib]] · [[Madvillain]] · [[Rjd2]] · [[WEATHERMEN]]
+
 ## Albums (1)
 - Look Mom... No Hands

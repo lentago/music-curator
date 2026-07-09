@@ -10,6 +10,8 @@ tags: ["artist", "indie-folk-singer-songwriter"]
 
 **Category:** [[Indie Folk & Singer-Songwriter]]
 
+**Session ties:** [[Thievery Corporation]]
+
 ## Albums (3)
 - Bloom- Remix Album
 - Mirrorball

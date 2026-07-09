@@ -10,6 +10,8 @@ tags: ["artist", "metal"]
 
 **Category:** [[Metal]]
 
+**Session ties:** [[Clutch]]
+
 ## Albums (4)
 - Its a Confusing World Not Fragile
 - Pros & Cons

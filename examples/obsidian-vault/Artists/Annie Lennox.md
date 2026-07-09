@@ -10,6 +10,8 @@ tags: ["artist", "soul-funk-r-b"]
 
 **Category:** [[Soul, Funk & R&B]]
 
+**Session ties:** [[Herbie Hancock]] · [[Sting]]
+
 ## Albums (2)
 - Bare
 - Medusa

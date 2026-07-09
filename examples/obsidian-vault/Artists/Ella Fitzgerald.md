@@ -10,6 +10,8 @@ tags: ["artist", "jazz"]
 
 **Category:** [[Jazz]]
 
+**Session ties:** [[Ella Fitzgerald_Louis Armstrong]]
+
 ## Albums (9)
 - Ella in Rome- The Birthday Concert
 - Oh, Lady, Be Good! Best of the Gershwin

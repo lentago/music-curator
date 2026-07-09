@@ -10,6 +10,8 @@ tags: ["artist", "metal"]
 
 **Category:** [[Metal]]
 
+**Session ties:** [[Tom Waits]]
+
 ## Albums (5)
 - Frizzle Fry [Bonus Track]
 - frizzle fry (remaster)

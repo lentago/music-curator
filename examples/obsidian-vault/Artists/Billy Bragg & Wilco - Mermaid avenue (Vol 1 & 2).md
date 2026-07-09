@@ -13,6 +13,8 @@ tags: ["artist", "country-americana"]
 
 **With:** [[Billy Bragg]]
 
+**Session ties:** [[10,000 Maniacs]] · [[Wilco]]
+
 ## Albums (2)
 - Bragg, Billy & Wilco - Mermaid avenue
 - Bragg, Billy & Wilco - Mermaid avenue Vol. 2

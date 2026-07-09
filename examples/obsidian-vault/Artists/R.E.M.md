@@ -10,6 +10,8 @@ tags: ["artist", "indie-rock"]
 
 **Category:** [[Indie Rock]]
 
+**Session ties:** [[10,000 Maniacs]] · [[Los Lobos]]
+
 ## Albums (2)
 - Document
 - Lifes Rich Pageant

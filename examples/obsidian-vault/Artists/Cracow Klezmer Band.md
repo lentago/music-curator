@@ -10,5 +10,7 @@ tags: ["artist", "downtown-avant-garde"]
 
 **Category:** [[Downtown Avant-Garde]]
 
+**Session ties:** [[John Zorn]]
+
 ## Albums (1)
 - Masada Book II - The Book Of Angels - Vo

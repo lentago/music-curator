@@ -10,6 +10,8 @@ tags: ["artist", "country-americana"]
 
 **Category:** [[Country & Americana]]
 
+**Session ties:** [[Billy Bragg & Wilco - Mermaid avenue (Vol 1 & 2)]] · [[Feist]]
+
 ## Albums (4)
 - Summerteeth
 - Wilco-A Ghost Is Born-2004-EMG INT

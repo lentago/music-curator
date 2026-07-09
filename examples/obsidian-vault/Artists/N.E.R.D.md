@@ -9,5 +9,7 @@ tags: ["artist", "hip-hop"]
 
 **Category:** [[Hip-Hop]]
 
+**Session ties:** [[Daft Punk]]
+
 ## Albums (1)
 - Fly or Die

@@ -10,6 +10,8 @@ tags: ["artist", "pop"]
 
 **Category:** [[Pop]]
 
+**Session ties:** [[Stevie Wonder]]
+
 ## Albums (3)
 - Dangerous
 - Off the Wall

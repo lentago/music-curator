@@ -10,5 +10,7 @@ tags: ["artist", "jam"]
 
 **Category:** [[Jam]]
 
+**Session ties:** [[Frogwings]]
+
 ## Albums (1)
 - Joyful Noise

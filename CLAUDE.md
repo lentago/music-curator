@@ -31,6 +31,7 @@ the `examples/` are a worked instance.
 | `examples/chris-music-profile.md` | A worked instance — Chris's distilled taste profile (anchors, signal lanes, exploration threads). The analog of reference-checker's `reports/`. |
 | `examples/music-inventory.json` | The cleaned, tagged data source the profile is built from. Schema is documented in the methodology's "Outputs produced" section. |
 | `examples/music-tree` | The raw library tree fed in, kept as an input fixture. |
+| `examples/credits.json` | Per-album personnel research layer (musicians/producers/guests, web-verified with `source`+`confidence`), consolidated from the bullpen fan-out. The driver derives ~400 roster-only "session tie" artist↔artist edges from it. Regenerate credits separately from the inventory. |
 | `obsidian_driver.py` | Stdlib-only driver that renders the inventory into an Obsidian vault (each artist note → one `category` hub wikilink, ~30 color-coded categories). Sibling to `validate.py`. |
 | `examples/obsidian-vault/` | **Generated** worked-example vault — regenerate with the driver, don't hand-edit. Ships a pre-styled `.obsidian/graph.json`. Guarded by a `.generated-by-music-curator` marker. |
 | `roadmap/roadmap.md` | Planned capabilities, grounded in threads from the original run (periodic Spotify harvest, streaming + collection merge, skill packaging). |

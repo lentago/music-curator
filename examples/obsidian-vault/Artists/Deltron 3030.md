@@ -10,5 +10,7 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Dan the Automator]] · [[Handsome Boy Modeling School]]
+
 ## Albums (1)
 - Deltron 3030

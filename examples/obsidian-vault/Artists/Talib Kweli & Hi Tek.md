@@ -13,5 +13,7 @@ tags: ["artist", "underground-hip-hop"]
 
 **With:** [[Talib Kweli]]
 
+**Session ties:** [[De La Soul]] · [[Mos Def]] · [[Mos Def & Talib Kweli]]
+
 ## Albums (1)
 - Reflection Eternal

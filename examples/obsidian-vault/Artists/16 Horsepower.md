@@ -10,6 +10,8 @@ tags: ["artist", "gothic-americana"]
 
 **Category:** [[Gothic Americana]]
 
+**Session ties:** [[Sixteen Horsepower]] · [[Wovenhand]]
+
 ## Albums (6)
 - blush music
 - consider the birds

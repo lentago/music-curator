@@ -10,6 +10,8 @@ tags: ["artist", "indie-pop-synth-pop"]
 
 **Category:** [[Indie Pop & Synth-Pop]]
 
+**Session ties:** [[Magnetic Fields]]
+
 ## Albums (2)
 - Get Lost
 - The Charm Of The Highway Strip

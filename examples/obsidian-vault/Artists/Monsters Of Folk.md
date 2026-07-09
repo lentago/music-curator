@@ -10,5 +10,7 @@ tags: ["artist", "indie-folk-singer-songwriter"]
 
 **Category:** [[Indie Folk & Singer-Songwriter]]
 
+**Session ties:** [[M_ Ward]] · [[My Morning Jacket]]
+
 ## Albums (1)
 - Monsters of Folk

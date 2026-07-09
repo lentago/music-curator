@@ -10,5 +10,7 @@ tags: ["artist", "anticon"]
 
 **Category:** [[Anticon (2)|Anticon]]
 
+**Session ties:** [[Anticon]]
+
 ## Albums (1)
 - Seed To Sun

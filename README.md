@@ -68,6 +68,13 @@ What comes out (from the worked example's 554 active artists):
   parsed from the artist keys, drawn only to members that are themselves in the
   collection. So the graph also shows the social graph, not just category
   membership.
+- **Session ties** wire artists together through **shared personnel** — a
+  musician who played on both artists' albums (Marc Ribot across Tom Waits *and*
+  John Zorn; Jerry Douglas' dobro across the whole bluegrass/newgrass web). These
+  ~400 edges come from [`examples/credits.json`](examples/credits.json), a
+  per-album personnel layer researched and cross-referenced against the roster;
+  only roster artists become ties. They cross the category clusters — the
+  collection's hidden wiring.
 - **Untagged reservoir** artists (no category yet) hang off a single `Reservoir`
   hub, hidden from the default view so the taste map stays legible.
 

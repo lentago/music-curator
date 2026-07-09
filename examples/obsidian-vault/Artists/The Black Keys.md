@@ -10,6 +10,8 @@ tags: ["artist", "blues"]
 
 **Category:** [[Blues]]
 
+**Session ties:** [[Danger Mouse & Daniele Luppi]]
+
 ## Albums (3)
 - Attack & Release
 - El Camino

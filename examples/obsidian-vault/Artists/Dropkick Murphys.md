@@ -10,6 +10,8 @@ tags: ["artist", "punk-hardcore"]
 
 **Category:** [[Punk & Hardcore]]
 
+**Session ties:** [[The Departed Soundtrack]] · [[The Pogues]]
+
 ## Albums (2)
 - Sing Loud, Sing Proud
 - The Meanest of Times Limited Edition

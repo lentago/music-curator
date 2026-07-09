@@ -10,5 +10,7 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Dan the Automator]] · [[DJ Shadow]] · [[Peeping Tom]]
+
 ## Albums (1)
 - Dr. Octagonecologyst

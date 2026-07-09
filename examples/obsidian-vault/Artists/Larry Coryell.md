@@ -10,5 +10,7 @@ tags: ["artist", "jazz"]
 
 **Category:** [[Jazz]]
 
+**Session ties:** [[Biréli Lagrène]]
+
 ## Albums (1)
 - Spaces Revisited

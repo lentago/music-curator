@@ -10,5 +10,7 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Beat Junkies]] · [[The Herbaliser]] · [[Visionaries]]
+
 ## Albums (1)
 - Leave My Name Out

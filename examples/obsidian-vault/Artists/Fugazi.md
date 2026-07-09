@@ -10,5 +10,7 @@ tags: ["artist", "punk-hardcore"]
 
 **Category:** [[Punk & Hardcore]]
 
+**Session ties:** [[Minor Threat]]
+
 ## Albums (1)
 - 13 Songs

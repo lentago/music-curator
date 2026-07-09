@@ -13,6 +13,8 @@ tags: ["artist", "downtown-avant-garde"]
 
 **With:** [[John Zorn]] · [[Electric Masada]]
 
+**Session ties:** [[Marc Ribot Y los Cubanos Postizos]]
+
 ## Albums (2)
 - At the Mountains of Madness Disc 1
 - At the Mountains of Madness Disc 2

@@ -10,5 +10,7 @@ tags: ["artist", "trip-hop-downtempo"]
 
 **Category:** [[Trip-Hop & Downtempo]]
 
+**Session ties:** [[Lamb]]
+
 ## Albums (1)
 - DJ-Kicks

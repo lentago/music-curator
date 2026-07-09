@@ -9,5 +9,7 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[A Tribe Called Quest]]
+
 ## Albums (1)
 - F.U. Don't Take It Personal

@@ -9,6 +9,8 @@ tags: ["artist", "newgrass"]
 
 **Category:** [[Newgrass]]
 
+**Session ties:** [[David Grisman Quintet]] · [[Edgar Meyer_Béla Fleck_Mike Marshall]] · [[Joshua Bell_Edgar Meyer_Sam Bush_Mike Ma]]
+
 > Darol Anger + Mike Marshall newgrass collab
 
 ## Albums (1)

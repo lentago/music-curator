@@ -10,6 +10,8 @@ tags: ["artist", "indie-folk-singer-songwriter"]
 
 **Category:** [[Indie Folk & Singer-Songwriter]]
 
+**Session ties:** [[Jerry Douglas]]
+
 ## Albums (2)
 - Babel
 - Sigh No More

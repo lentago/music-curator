@@ -10,6 +10,8 @@ tags: ["artist", "indie-pop-synth-pop"]
 
 **Category:** [[Indie Pop & Synth-Pop]]
 
+**Session ties:** [[The Flaming Lips]]
+
 ## Albums (2)
 - Oracular Spectacular
 - Oracular Spectacular [Explicit]

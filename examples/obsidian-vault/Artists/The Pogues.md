@@ -10,6 +10,8 @@ tags: ["artist", "punk-hardcore"]
 
 **Category:** [[Punk & Hardcore]]
 
+**Session ties:** [[Dropkick Murphys]] · [[Nick Cave & the Bad Seeds]]
+
 ## Albums (2)
 - If I Should Fall From Grace With God [Ex
 - Rum Sodomy & the Lash

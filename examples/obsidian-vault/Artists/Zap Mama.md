@@ -10,6 +10,8 @@ tags: ["artist", "world"]
 
 **Category:** [[World]]
 
+**Session ties:** [[Bahamadia]] · [[Common]] · [[DJ Krush]] · [[Talib Kweli]]
+
 ## Albums (2)
 - Ancestry in Progress
 - Ancestry in Progress bonus CD

@@ -10,6 +10,8 @@ tags: ["artist", "newgrass"]
 
 **Category:** [[Newgrass]]
 
+**Session ties:** [[David Grisman]] · [[Grateful Dead]] · [[Peter Rowan & Jerry Douglas]] · [[The Grateful Dead]]
+
 ## Albums (2)
 - Breakdown Live Recordings 1973
 - Old & In the Way

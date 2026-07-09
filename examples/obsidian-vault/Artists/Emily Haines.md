@@ -10,5 +10,7 @@ tags: ["artist", "indie-rock"]
 
 **Category:** [[Indie Rock]]
 
+**Session ties:** [[Emily Haines & The Soft Skeleton]] · [[Metric]]
+
 ## Albums (1)
 - Cut In Half And Also Double

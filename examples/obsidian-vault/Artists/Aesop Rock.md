@@ -10,6 +10,8 @@ tags: ["artist", "def-jux"]
 
 **Category:** [[Def Jux]]
 
+**Session ties:** [[Blockhead]] · [[Cannibal Ox]] · [[DJ Krush]] · [[El-P]] · [[Illogic]] · [[Mr. Lif]] · [[Vast Aire]]
+
 ## Albums (5)
 - Bazooka Tooth Disc 1
 - Bazooka Tooth Disc 2

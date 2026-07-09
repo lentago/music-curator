@@ -10,6 +10,8 @@ tags: ["artist", "art-pop-new-wave"]
 
 **Category:** [[Art-Pop & New Wave]]
 
+**Session ties:** [[David Byrne]] · [[David Byrne & Brian Eno]]
+
 ## Albums (5)
 - Once In A Lifetime The Talking Heads Box (US Release)
 - Popular Favorites 1976-1992 Sand In The Vaseline

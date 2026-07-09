@@ -10,6 +10,8 @@ tags: ["artist", "jam"]
 
 **Category:** [[Jam]]
 
+**Session ties:** [[The Grateful Dead]]
+
 ## Albums (6)
 - 1999 04 15 II The Warfield
 - 1999 04 15 I The Warfield

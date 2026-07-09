@@ -10,6 +10,8 @@ tags: ["artist", "trip-hop-downtempo"]
 
 **Category:** [[Trip-Hop & Downtempo]]
 
+**Session ties:** [[Kruder & Dorfmeister]]
+
 ## Albums (3)
 - between darkness and wonder
 - Lamb

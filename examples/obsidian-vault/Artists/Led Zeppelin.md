@@ -10,6 +10,8 @@ tags: ["artist", "classic-rock"]
 
 **Category:** [[Classic Rock]]
 
+**Session ties:** [[Robert Plant]] · [[Them Crooked Vultures]]
+
 ## Albums (7)
 - II
 - Led Zeppelin

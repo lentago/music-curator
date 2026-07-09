@@ -10,6 +10,8 @@ tags: ["artist", "art-pop-new-wave"]
 
 **Category:** [[Art-Pop & New Wave]]
 
+**Session ties:** [[MGMT]] · [[Thievery Corporation]]
+
 ## Albums (4)
 - At War With The Mystics
 - Embryonic

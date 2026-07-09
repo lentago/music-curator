@@ -10,5 +10,7 @@ tags: ["artist", "classic-rock"]
 
 **Category:** [[Classic Rock]]
 
+**Session ties:** [[The Mars Volta]] · [[Tom Waits]]
+
 ## Albums (1)
 - Mother's Milk

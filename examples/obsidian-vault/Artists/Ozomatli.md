@@ -10,6 +10,8 @@ tags: ["artist", "latin"]
 
 **Category:** [[Latin]]
 
+**Session ties:** [[Cut Chemist]] · [[Jurassic 5]] · [[The Pharcyde]]
+
 ## Albums (3)
 - Don't Mess with the Dragon
 - Live At The Fillmore

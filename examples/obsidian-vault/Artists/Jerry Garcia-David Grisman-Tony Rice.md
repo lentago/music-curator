@@ -12,5 +12,7 @@ tags: ["artist", "newgrass"]
 
 **With:** [[David Grisman]]
 
+**Session ties:** [[Jerry Garcia & David Grisman]] · [[Old & in the Way-Jerry Garcia-David Grisman]] · [[Tony Rice Unit]]
+
 ## Albums (1)
 - The Pizza Tapes

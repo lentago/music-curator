@@ -10,5 +10,7 @@ tags: ["artist", "classic-rock"]
 
 **Category:** [[Classic Rock]]
 
+**Session ties:** [[Them Crooked Vultures]]
+
 ## Albums (1)
 - Tenacious D

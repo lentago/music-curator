@@ -13,6 +13,8 @@ tags: ["artist", "newgrass"]
 
 **With:** [[Béla Fleck]]
 
+**Session ties:** [[Dave Matthews Band]] · [[Edgar Meyer_Béla Fleck_Mike Marshall]] · [[Jerry Douglas]] · [[Russ Barenberg]] · [[Sam Bush]]
+
 ## Albums (5)
 - Flight of the Cosmic Hippo
 - Left of Cool

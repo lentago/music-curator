@@ -10,5 +10,7 @@ tags: ["artist", "blues"]
 
 **Category:** [[Blues]]
 
+**Session ties:** [[The Band]]
+
 ## Albums (1)
 - King of the Electric Blues

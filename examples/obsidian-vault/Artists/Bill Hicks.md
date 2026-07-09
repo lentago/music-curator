@@ -8,6 +8,8 @@ tags: ["artist", "reservoir"]
 
 **Filed under:** [[Reservoir]]
 
+**Session ties:** [[Tool]]
+
 ## Albums (2)
 - Rant in E-Minor
 - Relentless

@@ -10,6 +10,8 @@ tags: ["artist", "turntablism-beats"]
 
 **Category:** [[Turntablism & Beats]]
 
+**Session ties:** [[Diverse]] · [[Mr. Lif]]
+
 ## Albums (2)
 - Everything She Touched Turned Ampexian
 - One Word Extinguisher

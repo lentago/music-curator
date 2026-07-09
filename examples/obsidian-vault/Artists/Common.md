@@ -10,5 +10,7 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Mos Def & Talib Kweli]] · [[Zap Mama]]
+
 ## Albums (1)
 - Resurrection

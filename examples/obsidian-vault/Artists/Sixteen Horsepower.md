@@ -10,6 +10,8 @@ tags: ["artist", "gothic-americana"]
 
 **Category:** [[Gothic Americana]]
 
+**Session ties:** [[16 Horsepower]]
+
 ## Albums (8)
 - Folklore
 - Hoarse

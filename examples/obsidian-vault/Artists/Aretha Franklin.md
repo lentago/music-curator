@@ -10,6 +10,8 @@ tags: ["artist", "soul-funk-r-b"]
 
 **Category:** [[Soul, Funk & R&B]]
 
+**Session ties:** [[Mary J. Blige]]
+
 > sole comp acceptable for canonical soul figure
 
 ## Albums (1)

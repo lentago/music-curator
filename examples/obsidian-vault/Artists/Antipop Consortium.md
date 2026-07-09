@@ -10,6 +10,8 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[DJ Krush]]
+
 ## Albums (2)
 - Antipop vs. Matthew Shipp
 - arrhythmia

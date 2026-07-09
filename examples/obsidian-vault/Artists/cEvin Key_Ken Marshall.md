@@ -10,5 +10,7 @@ tags: ["artist", "industrial-ebm"]
 
 **Category:** [[Industrial & EBM]]
 
+**Session ties:** [[Skinny Puppy]]
+
 ## Albums (1)
 - The Dragon Experience

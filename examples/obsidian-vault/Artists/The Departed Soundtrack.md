@@ -8,6 +8,8 @@ tags: ["artist", "reservoir"]
 
 **Filed under:** [[Reservoir]]
 
+**Session ties:** [[Dropkick Murphys]] · [[Pink Floyd]] · [[The Allman Brothers Band]] · [[The Band]] · [[The Rolling Stones]] · [[Van Morrison]]
+
 ## Albums (2)
 - Music From The Motion Picture The Depart
 - Music From The Motion Picture The Departed
