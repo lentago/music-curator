@@ -1,12 +1,13 @@
 ---
-type: "category"
-member_count: 23
-tags: ["category", "turntablism-beats"]
+type: "subcategory"
+category: "Hip-Hop"
+member_count: 28
+tags: ["subcategory", "hip-hop"]
 ---
 
 # Turntablism & Beats
 
-*Category — 23 artists in the collection.*
+*Subcategory of [[Hip-Hop]] — 28 artists.*
 
 ## Artists
 - [[Beat Junkies]]
@@ -18,6 +19,7 @@ tags: ["category", "turntablism-beats"]
 - [[Cut Chemist & Nu-Mark]]
 - [[Cut Chemist_Shortkut]]
 - [[Dan the Automator]]
+- [[dangerdoom]]
 - [[DJ Krush]]
 - [[DJ Logic]]
 - [[DJ Shadow]]
@@ -25,7 +27,11 @@ tags: ["category", "turntablism-beats"]
 - [[Emancipator]]
 - [[Eskmo]]
 - [[Invisible Skratch Piklz]]
+- [[Lootpack]]
+- [[Madlib]]
+- [[Madvillain]]
 - [[Prefuse 73]]
+- [[Quasimoto]]
 - [[The Beat Junkies]]
 - [[The Herbaliser]]
 - [[The X-Ecutioners]]

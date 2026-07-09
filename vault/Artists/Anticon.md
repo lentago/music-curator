@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Anticon"
+category: "Hip-Hop"
+subcategory: "Underground"
 era: "1998-2010s"
 album_count: 1
-tags: ["artist", "anticon"]
+tags: ["artist", "hip-hop"]
 ---
 
 # Anticon
 
-**Category:** [[Anticon (2)|Anticon]]
+**Category:** Hip-Hop › [[Underground]]
 
 **Session ties:** [[Boom Bip]] · [[DJ Krush]] · [[Odd Nosdam]]
 

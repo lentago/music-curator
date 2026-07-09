@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Art-Pop & New Wave"
+category: "Pop"
+subcategory: "Art-Pop & New Wave"
 era: "1998-now"
 album_count: 11
-tags: ["artist", "art-pop-new-wave"]
+tags: ["artist", "pop"]
 ---
 
 # Imogen Heap
 
-**Category:** [[Art-Pop & New Wave]]
+**Category:** Pop › [[Art-Pop & New Wave]]
 
 **Session ties:** [[IAMX]] · [[Jeff Beck]]
 

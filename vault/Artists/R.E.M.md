@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Indie Rock"
+category: "Rock"
+subcategory: "Indie & Alternative"
 era: "1980-2011"
 album_count: 2
-tags: ["artist", "indie-rock"]
+tags: ["artist", "rock"]
 ---
 
 # R.E.M
 
-**Category:** [[Indie Rock]]
+**Category:** Rock › [[Indie & Alternative]]
 
 **Session ties:** [[10,000 Maniacs]] · [[Los Lobos]]
 

@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Stones Throw"
+category: "Hip-Hop"
+subcategory: "Turntablism & Beats"
 era: "2000s"
 album_count: 1
-tags: ["artist", "stones-throw"]
+tags: ["artist", "hip-hop"]
 ---
 
 # dangerdoom
 
-**Category:** [[Stones Throw]]
+**Category:** Hip-Hop › [[Turntablism & Beats]]
 
 **Session ties:** [[Danger Mouse & Daniele Luppi]] · [[Gnarls Barkley]] · [[Madvillain]] · [[Talib Kweli]]
 

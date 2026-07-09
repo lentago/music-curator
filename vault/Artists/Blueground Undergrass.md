@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Bluegrass"
+category: "Country & Americana"
+subcategory: "Bluegrass"
 era: "1990s-2000s"
 album_count: 1
-tags: ["artist", "bluegrass"]
+tags: ["artist", "country-americana"]
 ---
 
 # Blueground Undergrass
 
-**Category:** [[Bluegrass]]
+**Category:** Country & Americana › [[Bluegrass]]
 
 ## Albums (1)
 - Live at the Variety Playhouse 7.10.99

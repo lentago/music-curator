@@ -46,14 +46,18 @@ The heuristics that drive Phase 4 — high-confidence discard tells, a **canon-t
 
 ## Obsidian graph vault
 
-The cleaned inventory is already a graph: each tagged artist carries one
-`category` (one of ~30 curated buckets that keep the distinctive micro-scenes —
-`Def Jux`, `Downtown Avant-Garde`, `Gothic Americana` — rather than sprawling
-into hundreds of overlapping scene/genre tags). `obsidian_driver.py` renders
-those relationships into a self-contained [Obsidian](https://obsidian.md) vault
-where each artist note wikilinks to its single category hub — and that link is
-the graph edge. Open the folder in Obsidian and the graph clusters into ~30
-color-coded categories out of the box, no plugins. It opens **filtered to the
+The cleaned inventory is already a graph: each tagged artist carries a
+**two-tier category** — one of 13 top-level genres aligned with the canonical
+music taxonomies (AllMusic, Discogs, Wikipedia's genre families), plus an
+optional second-order `subcategory` where a genre deserves finer structure
+(`Hip-Hop › Underground`, `Country & Americana › Gothic Americana`). The
+grayish scene buckets live only at the second order; record-label and
+city-scene pseudo-genres were eliminated outright. `obsidian_driver.py`
+renders those relationships into a self-contained
+[Obsidian](https://obsidian.md) vault where each artist note wikilinks to its
+subcategory hub (which links up to its category) or straight to its category —
+those links are the graph edges. Open the folder in Obsidian and the graph
+resolves into 13 color-coded genre trees out of the box, no plugins. It opens **filtered to the
 taste structure** — the meta/navigation notes are hidden — so you see the music,
 not the scaffolding. No artist is pre-weighted as an "anchor"; the important
 nodes surface from the connectivity itself, since Obsidian sizes nodes by degree.
@@ -64,8 +68,10 @@ python obsidian_driver.py            # → vault/
 
 What comes out (from the collection's 554 active artists):
 
-- **Artist notes** each link to exactly one **category** hub, and each category
-  is its own color, so the ~30 clusters read at a glance.
+- **Artist notes** each link into exactly one branch of the category tree —
+  subcategory hub where one exists, top-level hub otherwise — and every node in
+  a branch shares its top-level color, so the 13 genre clusters (with their
+  subcategory sub-clusters) read at a glance.
 - **Collaboration edges** link combo acts straight to the members they share —
   `El-P & Cannibal Ox` → El-P + Cannibal Ox, `Mos Def & Talib Kweli` → both —
   parsed from the artist keys, drawn only to members that are themselves in the

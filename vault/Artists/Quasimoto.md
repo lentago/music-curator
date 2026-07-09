@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Stones Throw"
+category: "Hip-Hop"
+subcategory: "Turntablism & Beats"
 era: "2000s"
 album_count: 1
-tags: ["artist", "stones-throw"]
+tags: ["artist", "hip-hop"]
 ---
 
 # Quasimoto
 
-**Category:** [[Stones Throw]]
+**Category:** Hip-Hop › [[Turntablism & Beats]]
 
 **Session ties:** [[Beat Junkies]] · [[Madlib]] · [[Madvillain]]
 

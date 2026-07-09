@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Indie Rock"
+category: "Rock"
+subcategory: "Indie & Alternative"
 era: "2000s"
 album_count: 1
-tags: ["artist", "indie-rock"]
+tags: ["artist", "rock"]
 ---
 
 # Emily Haines
 
-**Category:** [[Indie Rock]]
+**Category:** Rock › [[Indie & Alternative]]
 
 **Session ties:** [[Emily Haines & The Soft Skeleton]] · [[Metric]]
 

@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Metal"
+category: "Rock"
+subcategory: "Metal"
 era: "1991-now"
 album_count: 14
-tags: ["artist", "metal"]
+tags: ["artist", "rock"]
 ---
 
 # Clutch
 
-**Category:** [[Metal]]
+**Category:** Rock › [[Metal]]
 
 **Session ties:** [[The Company Band]]
 

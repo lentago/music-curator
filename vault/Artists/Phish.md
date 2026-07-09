@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Jam"
+category: "Rock"
+subcategory: "Jam"
 era: "1983-now"
 album_count: 15
-tags: ["artist", "jam"]
+tags: ["artist", "rock"]
 ---
 
 # Phish
 
-**Category:** [[Jam]]
+**Category:** Rock › [[Jam]]
 
 **Session ties:** [[Alison Krauss & Union Station]] · [[Béla Fleck]] · [[Leo Kottke & Mike Gordon]] · [[Trey Anastasio]]
 

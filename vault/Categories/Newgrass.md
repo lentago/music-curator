@@ -1,12 +1,13 @@
 ---
-type: "category"
+type: "subcategory"
+category: "Country & Americana"
 member_count: 21
-tags: ["category", "newgrass"]
+tags: ["subcategory", "country-americana"]
 ---
 
 # Newgrass
 
-*Category — 21 artists in the collection.*
+*Subcategory of [[Country & Americana]] — 21 artists.*
 
 ## Artists
 - [[Anger_Marshall Band]]

@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Newgrass"
+category: "Country & Americana"
+subcategory: "Newgrass"
 album_count: 1
 collaborators: ["David Grisman"]
-tags: ["artist", "newgrass"]
+tags: ["artist", "country-americana"]
 ---
 
 # Old & in the Way-Jerry Garcia-David Grisman
 
-**Category:** [[Newgrass]]
+**Category:** Country & Americana › [[Newgrass]]
 
 **With:** [[David Grisman]]
 

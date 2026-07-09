@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Indie Pop & Synth-Pop"
+category: "Pop"
+subcategory: "Indie & Synth-Pop"
 era: "1980s-90s"
 album_count: 4
-tags: ["artist", "indie-pop-synth-pop"]
+tags: ["artist", "pop"]
 ---
 
 # The Smithereens
 
-**Category:** [[Indie Pop & Synth-Pop]]
+**Category:** Pop › [[Indie & Synth-Pop]]
 
 ## Albums (4)
 - Anthology From Jersey It Came

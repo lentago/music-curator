@@ -1,12 +1,12 @@
 ---
 type: "category"
-member_count: 30
+member_count: 32
 tags: ["category", "soul-funk-r-b"]
 ---
 
 # Soul, Funk & R&B
 
-*Category — 30 artists in the collection.*
+*Category — 32 artists in the collection.*
 
 ## Artists
 - [[Al Green]]
@@ -37,5 +37,7 @@ tags: ["category", "soul-funk-r-b"]
 - [[Sharon Jones & The Dap-Kings]]
 - [[Stevie Wonder]]
 - [[The Commodores]]
+- [[The Hoodoo Kings]]
+- [[The Neville Brothers]]
 - [[The Soul Stirrers]]
 - [[Van Morrison]]

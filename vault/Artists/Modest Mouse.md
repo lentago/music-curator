@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Indie Rock"
+category: "Rock"
+subcategory: "Indie & Alternative"
 era: "1990s-now"
 album_count: 6
-tags: ["artist", "indie-rock"]
+tags: ["artist", "rock"]
 ---
 
 # Modest Mouse
 
-**Category:** [[Indie Rock]]
+**Category:** Rock › [[Indie & Alternative]]
 
 ## Albums (6)
 - Good News For People Who Love Bad News

@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Indie Rock"
+category: "Rock"
+subcategory: "Indie & Alternative"
 era: "2000s-now"
 album_count: 2
-tags: ["artist", "indie-rock"]
+tags: ["artist", "rock"]
 ---
 
 # Minus the Bear
 
-**Category:** [[Indie Rock]]
+**Category:** Rock › [[Indie & Alternative]]
 
 ## Albums (2)
 - Acoustics

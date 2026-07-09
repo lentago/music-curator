@@ -92,6 +92,7 @@
         "album_count":   { "type": "integer", "minimum": 0 },
         "tagged":        { "type": "boolean" },
         "category":      { "type": "string" },
+        "subcategory":   { "type": "string" },
         "era":           { "type": "string" },
         "discard":       { "type": "boolean" },
         "discard_reason":{ "type": "string" },
@@ -100,6 +101,10 @@
         "anchor_note":   { "type": "string" }
       },
       "allOf": [
+        {
+          "if":   { "required": ["subcategory"] },
+          "then": { "required": ["category"] }
+        },
         {
           "if":   { "properties": { "discard": { "const": true } }, "required": ["discard"] },
           "then": { "required": ["discard_reason"] }

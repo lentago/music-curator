@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Punk & Hardcore"
+category: "Rock"
+subcategory: "Punk & Hardcore"
 era: "1976-1986"
 album_count: 18
-tags: ["artist", "punk-hardcore"]
+tags: ["artist", "rock"]
 ---
 
 # The Clash
 
-**Category:** [[Punk & Hardcore]]
+**Category:** Rock › [[Punk & Hardcore]]
 
 ## Albums (18)
 - Combat Rock

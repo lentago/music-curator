@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Indie Rock"
+category: "Rock"
+subcategory: "Indie & Alternative"
 era: "1985-now"
 album_count: 3
-tags: ["artist", "indie-rock"]
+tags: ["artist", "rock"]
 ---
 
 # Jane's Addiction
 
-**Category:** [[Indie Rock]]
+**Category:** Rock › [[Indie & Alternative]]
 
 **Session ties:** [[Thievery Corporation]]
 

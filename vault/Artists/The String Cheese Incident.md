@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Bluegrass"
+category: "Country & Americana"
+subcategory: "Bluegrass"
 era: "1990s-now"
 album_count: 2
-tags: ["artist", "bluegrass"]
+tags: ["artist", "country-americana"]
 ---
 
 # The String Cheese Incident
 
-**Category:** [[Bluegrass]]
+**Category:** Country & Americana › [[Bluegrass]]
 
 ## Albums (2)
 - A String Cheese Incident Live

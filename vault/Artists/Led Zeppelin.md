@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Classic Rock"
+category: "Rock"
+subcategory: "Classic Rock"
 era: "1960s-70s"
 album_count: 7
-tags: ["artist", "classic-rock"]
+tags: ["artist", "rock"]
 ---
 
 # Led Zeppelin
 
-**Category:** [[Classic Rock]]
+**Category:** Rock › [[Classic Rock]]
 
 **Session ties:** [[Robert Plant]] · [[Them Crooked Vultures]]
 

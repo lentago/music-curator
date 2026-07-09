@@ -1,15 +1,17 @@
 ---
-type: "category"
-member_count: 18
-tags: ["category", "trip-hop-downtempo"]
+type: "subcategory"
+category: "Electronic"
+member_count: 22
+tags: ["subcategory", "electronic"]
 ---
 
 # Trip-Hop & Downtempo
 
-*Category — 18 artists in the collection.*
+*Subcategory of [[Electronic]] — 22 artists.*
 
 ## Artists
 - [[Air]]
+- [[Boom Bip]]
 - [[DJ Ravin]]
 - [[Dzihan & Kamien Orchestra]]
 - [[Enigma]]
@@ -18,8 +20,11 @@ tags: ["category", "trip-hop-downtempo"]
 - [[Groove Armada]]
 - [[Kruder & Dorfmeister]]
 - [[Lamb]]
+- [[Lovage]]
 - [[Massive Attack]]
 - [[Nightmares on Wax]]
+- [[Odd Nosdam]]
+- [[Peeping Tom]]
 - [[Portishead]]
 - [[Saru]]
 - [[Sia]]

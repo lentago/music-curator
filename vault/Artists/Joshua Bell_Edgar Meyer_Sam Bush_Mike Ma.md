@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Newgrass"
+category: "Country & Americana"
+subcategory: "Newgrass"
 era: "1990s-now"
 album_count: 1
-tags: ["artist", "newgrass"]
+tags: ["artist", "country-americana"]
 ---
 
 # Joshua Bell_Edgar Meyer_Sam Bush_Mike Ma
 
-**Category:** [[Newgrass]]
+**Category:** Country & Americana › [[Newgrass]]
 
 **Session ties:** [[Anger_Marshall Band]] · [[Edgar Meyer_Béla Fleck_Mike Marshall]] · [[Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall]] · [[Sam Bush]]
 

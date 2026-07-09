@@ -1,12 +1,13 @@
 ---
-type: "category"
+type: "subcategory"
+category: "Country & Americana"
 member_count: 17
-tags: ["category", "bluegrass"]
+tags: ["subcategory", "country-americana"]
 ---
 
 # Bluegrass
 
-*Category — 17 artists in the collection.*
+*Subcategory of [[Country & Americana]] — 17 artists.*
 
 ## Artists
 - [[Alison Brown]]

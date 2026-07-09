@@ -1,13 +1,13 @@
 ---
 type: "artist"
-category: "Downtown Avant-Garde"
+category: "Avant-Garde & Experimental"
 album_count: 1
-tags: ["artist", "downtown-avant-garde"]
+tags: ["artist", "avant-garde-experimental"]
 ---
 
 # The Klezmatics
 
-**Category:** [[Downtown Avant-Garde]]
+**Category:** [[Avant-Garde & Experimental]]
 
 > lane confirmed by Chris ("Balkan and klezmer")
 

@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Post-Rock"
+category: "Rock"
+subcategory: "Post-Rock"
 era: "1990s-now"
 album_count: 3
-tags: ["artist", "post-rock"]
+tags: ["artist", "rock"]
 ---
 
 # Sigur Ros
 
-**Category:** [[Post-Rock]]
+**Category:** Rock › [[Post-Rock]]
 
 **Session ties:** [[Jónsi]]
 

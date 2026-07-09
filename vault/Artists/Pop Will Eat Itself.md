@@ -1,13 +1,14 @@
 ---
 type: "artist"
-category: "Industrial & EBM"
+category: "Electronic"
+subcategory: "Industrial & EBM"
 album_count: 1
-tags: ["artist", "industrial-ebm"]
+tags: ["artist", "electronic"]
 ---
 
 # Pop Will Eat Itself
 
-**Category:** [[Industrial & EBM]]
+**Category:** Electronic › [[Industrial & EBM]]
 
 > fits industrial lane
 

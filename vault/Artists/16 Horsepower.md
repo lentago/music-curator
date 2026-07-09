@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Gothic Americana"
+category: "Country & Americana"
+subcategory: "Gothic Americana"
 era: "1992-2005"
 album_count: 6
-tags: ["artist", "gothic-americana"]
+tags: ["artist", "country-americana"]
 ---
 
 # 16 Horsepower
 
-**Category:** [[Gothic Americana]]
+**Category:** Country & Americana › [[Gothic Americana]]
 
 **Session ties:** [[Sixteen Horsepower]] · [[Wovenhand]]
 

@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Jam"
+category: "Rock"
+subcategory: "Jam"
 era: "1990s-now"
 album_count: 1
-tags: ["artist", "jam"]
+tags: ["artist", "rock"]
 ---
 
 # Keller Williams
 
-**Category:** [[Jam]]
+**Category:** Rock › [[Jam]]
 
 ## Albums (1)
 - Laugh

@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Patton Orbit"
+category: "Electronic"
+subcategory: "Trip-Hop & Downtempo"
 era: "2000s"
 album_count: 1
-tags: ["artist", "patton-orbit"]
+tags: ["artist", "electronic"]
 ---
 
 # Lovage
 
-**Category:** [[Patton Orbit]]
+**Category:** Electronic › [[Trip-Hop & Downtempo]]
 
 **Session ties:** [[Dan the Automator]] · [[Mr. Bungle]] · [[Mr. Lif]]
 

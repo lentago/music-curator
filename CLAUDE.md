@@ -32,7 +32,7 @@ run's static artifacts (distilled profile + raw input tree).
 | `music-curation-methodology.md` | **The spec.** The reusable skill: five phases, discard heuristics, canon-tolerance / lesser-album / fragmentation rules, pacing, anti-patterns, exit criteria. |
 | `data/music-inventory.json` | The cleaned, tagged data source the wiki and profile are built from. Schema is documented in the methodology's "Outputs produced" section. |
 | `data/credits.json` | Per-album personnel research layer (musicians/producers/guests, web-verified with `source`+`confidence`), consolidated from the bullpen fan-out. The driver derives ~400 roster-only "session tie" artist↔artist edges from it. Regenerate credits separately from the inventory. |
-| `obsidian_driver.py` | Stdlib-only driver that renders `data/` into the vault (each artist note → one `category` hub wikilink, ~30 color-coded categories). Sibling to `validate.py`. |
+| `obsidian_driver.py` | Stdlib-only driver that renders `data/` into the vault (each artist note → one hub wikilink in a two-tier tree: 13 color-coded top-level categories, second-order subcategory hubs beneath). Sibling to `validate.py`. |
 | `vault/` | **The wiki.** Generated Obsidian vault — regenerate with the driver, don't hand-edit. Ships a pre-styled `.obsidian/graph.json`. Guarded by a `.generated-by-music-curator` marker. |
 | `examples/chris-music-profile.md` | The original worked run's distilled taste profile (anchors, signal lanes, exploration threads). The analog of reference-checker's `reports/`. |
 | `examples/music-tree` | The raw library tree fed in, kept as an input fixture. |
@@ -47,10 +47,13 @@ run's static artifacts (distilled profile + raw input tree).
   correct; mistagging pollutes later analysis. Same for discard pitches —
   they're predictions, framed honestly, not pronouncements.
 - **The data source is meant to grow.** When a user confirms a new artist,
-  add it with `tagged: true` and a `category` from the driver's controlled
-  vocabulary (see `obsidian_driver.py`'s `CATS`-style rollup — one category per
-  artist). Build the inventory as something a future session would want to
-  inherit.
+  add it with `tagged: true` and a `category` from the 13 top-level genres
+  (plus a `subcategory` where one fits — one category per artist, subcategory
+  optional; the current vocabulary is enumerated by any category hub note in
+  `vault/Categories/`). Top-level categories are canonical genres only —
+  grayish or scene-flavored buckets belong at the subcategory tier, and
+  record labels / city scenes are not categories at all. Build the inventory
+  as something a future session would want to inherit.
 - **The example is personal data, published deliberately.** Chris chose to
   publish his real profile/inventory/tree as a demonstration. It contains
   taste data only — no credentials or PII. Keep it that way: if a future run

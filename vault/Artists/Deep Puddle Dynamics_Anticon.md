@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Anticon"
+category: "Hip-Hop"
+subcategory: "Underground"
 era: "1999"
 album_count: 1
-tags: ["artist", "anticon"]
+tags: ["artist", "hip-hop"]
 ---
 
 # Deep Puddle Dynamics_Anticon
 
-**Category:** [[Anticon (2)|Anticon]]
+**Category:** Hip-Hop › [[Underground]]
 
 ## Albums (1)
 - We Ain't Fessin'

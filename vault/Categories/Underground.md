@@ -1,16 +1,19 @@
 ---
-type: "category"
-member_count: 42
-tags: ["category", "underground-hip-hop"]
+type: "subcategory"
+category: "Hip-Hop"
+member_count: 54
+tags: ["subcategory", "hip-hop"]
 ---
 
-# Underground Hip-Hop
+# Underground
 
-*Category — 42 artists in the collection.*
+*Subcategory of [[Hip-Hop]] — 54 artists.*
 
 ## Artists
 - [[A Tribe Called Quest]]
 - [[Aceyalone]]
+- [[Aesop Rock]]
+- [[Anticon]]
 - [[Antipop Consortium]]
 - [[Atmosphere]]
 - [[Bahamadia]]
@@ -18,14 +21,20 @@ tags: ["category", "underground-hip-hop"]
 - [[Binary Star]]
 - [[Blackalicious]]
 - [[Canibus]]
+- [[Cannibal Ox]]
+- [[cLOUDDEAD]]
 - [[Common]]
+- [[Company Flow]]
 - [[De La Soul]]
+- [[Deep Puddle Dynamics_Anticon]]
 - [[Deltron 3030]]
 - [[Dilated Peoples]]
 - [[Diverse]]
 - [[DJ Spooky]]
 - [[Dr. Octagon]]
 - [[Dälek]]
+- [[El-P]]
+- [[El-P & Cannibal Ox]]
 - [[Eric B & Rakim]]
 - [[Faust vs. Dälek]]
 - [[Fu-Schnickens]]
@@ -38,7 +47,9 @@ tags: ["category", "underground-hip-hop"]
 - [[LMNO]]
 - [[Mos Def]]
 - [[Mos Def & Talib Kweli]]
+- [[Mr. Lif]]
 - [[Prince Paul]]
+- [[Rjd2]]
 - [[Run-D.M.C]]
 - [[Soul Position]]
 - [[Swollen Members]]
@@ -49,5 +60,7 @@ tags: ["category", "underground-hip-hop"]
 - [[The Last Emperor]]
 - [[The Lushlife Project]]
 - [[The Pharcyde]]
+- [[Vast Aire]]
 - [[Visionaries]]
+- [[WEATHERMEN]]
 - [[Xzibit]]

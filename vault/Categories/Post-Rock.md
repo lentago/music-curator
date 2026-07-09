@@ -1,12 +1,13 @@
 ---
-type: "category"
+type: "subcategory"
+category: "Rock"
 member_count: 6
-tags: ["category", "post-rock"]
+tags: ["subcategory", "rock"]
 ---
 
 # Post-Rock
 
-*Category — 6 artists in the collection.*
+*Subcategory of [[Rock]] — 6 artists.*
 
 ## Artists
 - [[Explosions In The Sky]]

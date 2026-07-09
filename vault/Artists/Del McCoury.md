@@ -1,13 +1,14 @@
 ---
 type: "artist"
-category: "Bluegrass"
+category: "Country & Americana"
+subcategory: "Bluegrass"
 album_count: 1
-tags: ["artist", "bluegrass"]
+tags: ["artist", "country-americana"]
 ---
 
 # Del McCoury
 
-**Category:** [[Bluegrass]]
+**Category:** Country & Americana › [[Bluegrass]]
 
 **Session ties:** [[Groovegrass]] · [[Jerry Douglas]] · [[Leftover Salmon]] · [[Steve Earle]] · [[Steve Earle-The Del McCoury Band]]
 

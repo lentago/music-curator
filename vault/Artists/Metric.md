@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Indie Rock"
+category: "Rock"
+subcategory: "Indie & Alternative"
 era: "2000s-now"
 album_count: 2
-tags: ["artist", "indie-rock"]
+tags: ["artist", "rock"]
 ---
 
 # Metric
 
-**Category:** [[Indie Rock]]
+**Category:** Rock › [[Indie & Alternative]]
 
 **Session ties:** [[Emily Haines]]
 

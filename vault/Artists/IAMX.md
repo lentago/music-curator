@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Industrial & EBM"
+category: "Electronic"
+subcategory: "Industrial & EBM"
 era: "2000s-now"
 album_count: 3
-tags: ["artist", "industrial-ebm"]
+tags: ["artist", "electronic"]
 ---
 
 # IAMX
 
-**Category:** [[Industrial & EBM]]
+**Category:** Electronic › [[Industrial & EBM]]
 
 **Session ties:** [[Imogen Heap]]
 

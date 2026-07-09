@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Jam"
+category: "Rock"
+subcategory: "Jam"
 era: "1990s-now"
 album_count: 1
-tags: ["artist", "jam"]
+tags: ["artist", "rock"]
 ---
 
 # Dave Matthews Band
 
-**Category:** [[Jam]]
+**Category:** Rock › [[Jam]]
 
 **Session ties:** [[Béla Fleck & the Flecktones]]
 

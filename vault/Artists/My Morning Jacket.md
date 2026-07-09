@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Classic Rock"
+category: "Rock"
+subcategory: "Classic Rock"
 era: "2000s-now"
 album_count: 5
-tags: ["artist", "classic-rock"]
+tags: ["artist", "rock"]
 ---
 
 # My Morning Jacket
 
-**Category:** [[Classic Rock]]
+**Category:** Rock › [[Classic Rock]]
 
 **Session ties:** [[Monsters Of Folk]]
 

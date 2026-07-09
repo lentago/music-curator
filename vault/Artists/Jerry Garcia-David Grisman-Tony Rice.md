@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Newgrass"
+category: "Country & Americana"
+subcategory: "Newgrass"
 album_count: 1
 collaborators: ["David Grisman"]
-tags: ["artist", "newgrass"]
+tags: ["artist", "country-americana"]
 ---
 
 # Jerry Garcia-David Grisman-Tony Rice
 
-**Category:** [[Newgrass]]
+**Category:** Country & Americana › [[Newgrass]]
 
 **With:** [[David Grisman]]
 

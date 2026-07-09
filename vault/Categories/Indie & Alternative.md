@@ -1,12 +1,13 @@
 ---
-type: "category"
+type: "subcategory"
+category: "Rock"
 member_count: 34
-tags: ["category", "indie-rock"]
+tags: ["subcategory", "rock"]
 ---
 
-# Indie Rock
+# Indie & Alternative
 
-*Category — 34 artists in the collection.*
+*Subcategory of [[Rock]] — 34 artists.*
 
 ## Artists
 - [[10,000 Maniacs]]

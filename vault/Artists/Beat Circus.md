@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Gothic Americana"
+category: "Country & Americana"
+subcategory: "Gothic Americana"
 era: "2000s"
 album_count: 1
-tags: ["artist", "gothic-americana"]
+tags: ["artist", "country-americana"]
 ---
 
 # Beat Circus
 
-**Category:** [[Gothic Americana]]
+**Category:** Country & Americana › [[Gothic Americana]]
 
 ## Albums (1)
 - Boy from Black Mountain

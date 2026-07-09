@@ -1,12 +1,13 @@
 ---
-type: "category"
+type: "subcategory"
+category: "Rock"
 member_count: 19
-tags: ["category", "jam"]
+tags: ["subcategory", "rock"]
 ---
 
 # Jam
 
-*Category — 19 artists in the collection.*
+*Subcategory of [[Rock]] — 19 artists.*
 
 ## Artists
 - [[Dave Matthews Band]]

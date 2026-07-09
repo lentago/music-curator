@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Metal"
+category: "Rock"
+subcategory: "Metal"
 era: "2000s"
 album_count: 1
-tags: ["artist", "metal"]
+tags: ["artist", "rock"]
 ---
 
 # Them Crooked Vultures
 
-**Category:** [[Metal]]
+**Category:** Rock › [[Metal]]
 
 **Session ties:** [[Led Zeppelin]] · [[Tenacious D]]
 

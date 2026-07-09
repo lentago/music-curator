@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Jam"
+category: "Rock"
+subcategory: "Jam"
 era: "2000s-now"
 album_count: 2
-tags: ["artist", "jam"]
+tags: ["artist", "rock"]
 ---
 
 # Trey Anastasio
 
-**Category:** [[Jam]]
+**Category:** Rock › [[Jam]]
 
 **Session ties:** [[Jerry Douglas]] · [[Leo Kottke & Mike Gordon]] · [[Phish]] · [[Trey Anastasio Band]]
 

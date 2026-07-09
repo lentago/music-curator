@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Stones Throw"
+category: "Hip-Hop"
+subcategory: "Turntablism & Beats"
 era: "2004"
 album_count: 1
-tags: ["artist", "stones-throw"]
+tags: ["artist", "hip-hop"]
 ---
 
 # Madvillain
 
-**Category:** [[Stones Throw]]
+**Category:** Hip-Hop › [[Turntablism & Beats]]
 
 **Session ties:** [[dangerdoom]] · [[Lootpack]] · [[Madlib]] · [[Quasimoto]] · [[The Herbaliser]] · [[Vast Aire]]
 

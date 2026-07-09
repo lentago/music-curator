@@ -1,12 +1,13 @@
 ---
-type: "category"
+type: "subcategory"
+category: "Pop"
 member_count: 13
-tags: ["category", "indie-pop-synth-pop"]
+tags: ["subcategory", "pop"]
 ---
 
-# Indie Pop & Synth-Pop
+# Indie & Synth-Pop
 
-*Category — 13 artists in the collection.*
+*Subcategory of [[Pop]] — 13 artists.*
 
 ## Artists
 - [[Danger Mouse & Daniele Luppi]]

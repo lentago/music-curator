@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Indie Rock"
+category: "Rock"
+subcategory: "Indie & Alternative"
 era: "1990s-now"
 album_count: 5
-tags: ["artist", "indie-rock"]
+tags: ["artist", "rock"]
 ---
 
 # Built to Spill
 
-**Category:** [[Indie Rock]]
+**Category:** Rock › [[Indie & Alternative]]
 
 ## Albums (5)
 - Ancient Melodies Of The Future

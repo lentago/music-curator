@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Indie Rock"
+category: "Rock"
+subcategory: "Indie & Alternative"
 era: "2000s-now"
 album_count: 4
-tags: ["artist", "indie-rock"]
+tags: ["artist", "rock"]
 ---
 
 # Death Cab for Cutie
 
-**Category:** [[Indie Rock]]
+**Category:** Rock › [[Indie & Alternative]]
 
 ## Albums (4)
 - Plans

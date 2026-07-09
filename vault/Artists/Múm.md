@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Post-Rock"
+category: "Rock"
+subcategory: "Post-Rock"
 era: "2000s-now"
 album_count: 3
-tags: ["artist", "post-rock"]
+tags: ["artist", "rock"]
 ---
 
 # Múm
 
-**Category:** [[Post-Rock]]
+**Category:** Rock › [[Post-Rock]]
 
 ## Albums (3)
 - Finally We Are No One

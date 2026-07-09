@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Def Jux"
+category: "Hip-Hop"
+subcategory: "Underground"
 era: "1990s"
 album_count: 1
-tags: ["artist", "def-jux"]
+tags: ["artist", "hip-hop"]
 ---
 
 # Company Flow
 
-**Category:** [[Def Jux]]
+**Category:** Hip-Hop › [[Underground]]
 
 **Session ties:** [[DJ Krush]] · [[El-P]] · [[Jedi Mind Tricks]]
 

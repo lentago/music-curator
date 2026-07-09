@@ -1,14 +1,14 @@
 ---
 type: "artist"
-category: "Anticon"
+category: "Electronic"
 era: "2010s"
 album_count: 1
-tags: ["artist", "anticon"]
+tags: ["artist", "electronic"]
 ---
 
 # Baths
 
-**Category:** [[Anticon (2)|Anticon]]
+**Category:** [[Electronic]]
 
 ## Albums (1)
 - Cerulean

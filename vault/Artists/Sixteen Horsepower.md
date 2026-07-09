@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Gothic Americana"
+category: "Country & Americana"
+subcategory: "Gothic Americana"
 era: "1992-2005"
 album_count: 8
-tags: ["artist", "gothic-americana"]
+tags: ["artist", "country-americana"]
 ---
 
 # Sixteen Horsepower
 
-**Category:** [[Gothic Americana]]
+**Category:** Country & Americana › [[Gothic Americana]]
 
 **Session ties:** [[16 Horsepower]]
 

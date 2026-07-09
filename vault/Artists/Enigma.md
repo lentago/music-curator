@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Trip-Hop & Downtempo"
+category: "Electronic"
+subcategory: "Trip-Hop & Downtempo"
 era: "1990s"
 album_count: 1
-tags: ["artist", "trip-hop-downtempo"]
+tags: ["artist", "electronic"]
 ---
 
 # Enigma
 
-**Category:** [[Trip-Hop & Downtempo]]
+**Category:** Electronic › [[Trip-Hop & Downtempo]]
 
 ## Albums (1)
 - MCMXC A.D

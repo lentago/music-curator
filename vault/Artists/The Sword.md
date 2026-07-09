@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Metal"
+category: "Rock"
+subcategory: "Metal"
 era: "2003-2018"
 album_count: 1
-tags: ["artist", "metal"]
+tags: ["artist", "rock"]
 ---
 
 # The Sword
 
-**Category:** [[Metal]]
+**Category:** Rock › [[Metal]]
 
 ## Albums (1)
 - High Country

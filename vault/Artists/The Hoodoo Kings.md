@@ -1,14 +1,14 @@
 ---
 type: "artist"
-category: "New Orleans"
+category: "Soul, Funk & R&B"
 era: "2000s"
 album_count: 1
-tags: ["artist", "new-orleans"]
+tags: ["artist", "soul-funk-r-b"]
 ---
 
 # The Hoodoo Kings
 
-**Category:** [[New Orleans]]
+**Category:** [[Soul, Funk & R&B]]
 
 ## Albums (1)
 - The Hoodoo Kings

@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Newgrass"
+category: "Country & Americana"
+subcategory: "Newgrass"
 era: "1990s-now"
 album_count: 3
-tags: ["artist", "newgrass"]
+tags: ["artist", "country-americana"]
 ---
 
 # Leftover Salmon
 
-**Category:** [[Newgrass]]
+**Category:** Country & Americana › [[Newgrass]]
 
 **Session ties:** [[Béla Fleck]] · [[Del McCoury]] · [[Jerry Douglas]] · [[Lucinda Williams]] · [[Sam Bush]] · [[Taj Mahal & Toumani Diabate]] · [[Waylon Jennings]] · [[Widespread Panic]]
 

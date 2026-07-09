@@ -1,14 +1,18 @@
 ---
 type: "category"
-member_count: 9
+member_count: 92
 tags: ["category", "hip-hop"]
 ---
 
 # Hip-Hop
 
-*Category — 9 artists in the collection.*
+*Category — 92 artists in the collection.*
 
-## Artists
+## Subcategories
+- [[Turntablism & Beats]] (28)
+- [[Underground]] (54)
+
+## Artists (no subcategory)
 - [[Das EFX]]
 - [[DMX]]
 - [[Eminem]]
@@ -17,4 +21,5 @@ tags: ["category", "hip-hop"]
 - [[N.E.R.D]]
 - [[OutKast]]
 - [[The Disposable Heroes of Hiphoprisy]]
+- [[The Streets]]
 - [[Urban Dance Squad]]

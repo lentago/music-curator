@@ -1,14 +1,15 @@
 ---
 type: "category"
-member_count: 13
+member_count: 14
 tags: ["category", "blues"]
 ---
 
 # Blues
 
-*Category — 13 artists in the collection.*
+*Category — 14 artists in the collection.*
 
 ## Artists
+- [[Big Al Carson and the Blues Masters]]
 - [[Eric Clapton And Steve Winwood]]
 - [[Jack White]]
 - [[Jimi Hendrix]]

@@ -1,15 +1,15 @@
 ---
 type: "artist"
-category: "Downtown Avant-Garde"
+category: "Avant-Garde & Experimental"
 era: "2000s"
 album_count: 2
 collaborators: ["John Zorn", "Electric Masada"]
-tags: ["artist", "downtown-avant-garde"]
+tags: ["artist", "avant-garde-experimental"]
 ---
 
 # John Zorn-Electric Masada
 
-**Category:** [[Downtown Avant-Garde]]
+**Category:** [[Avant-Garde & Experimental]]
 
 **With:** [[John Zorn]] · [[Electric Masada]]
 

@@ -1,12 +1,13 @@
 ---
-type: "category"
+type: "subcategory"
+category: "Country & Americana"
 member_count: 5
-tags: ["category", "gothic-americana"]
+tags: ["subcategory", "country-americana"]
 ---
 
 # Gothic Americana
 
-*Category — 5 artists in the collection.*
+*Subcategory of [[Country & Americana]] — 5 artists.*
 
 ## Artists
 - [[16 Horsepower]]

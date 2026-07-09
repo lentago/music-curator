@@ -16,9 +16,11 @@ planned extensions.
   integrity checker + near-duplicate artist-key detection). CI runs the validator on
   every change to the inventory, schema, or validator itself (`.github/workflows/validate.yml`).
 - Obsidian graph vault — `obsidian_driver.py` renders the inventory into an
-  Obsidian vault (`vault/`) whose graph view clusters artists
-  into ~30 color-coded category hubs (one category per artist), letting the
-  important nodes surface from the connectivity rather than a prior (see below).
+  Obsidian vault (`vault/`) whose graph view clusters artists into a two-tier
+  category tree — 13 color-coded top-level genres with second-order
+  subcategory hubs beneath (one category per artist, subcategory optional) —
+  letting the important nodes surface from the connectivity rather than a
+  prior (see below).
 - Personnel / session-tie edges — `data/credits.json` is a per-album
   personnel layer (musicians, producers, guests) researched across the whole
   collection and cross-referenced against the roster; the driver draws ~400
@@ -126,11 +128,11 @@ Anticon→doseone→Backwoodz social-graph bridge).
 ### Obsidian Graph Vault ✅ (implemented)
 
 **What it adds:** Turns the inventory into a browsable, visual **artist graph**.
-`obsidian_driver.py` renders one note per active artist that wikilinks to its
-single **category** hub; opened in Obsidian, the graph clusters into ~30
-color-coded categories. No artist is pre-designated as important; node size
-follows degree, so the hubs emerge from the graph rather than from a prior
-imposed on it.
+`obsidian_driver.py` renders one note per active artist that wikilinks into a
+two-tier **category tree**; opened in Obsidian, the graph resolves into 13
+color-coded top-level genres with subcategory sub-clusters. No artist is
+pre-designated as important; node size follows degree, so the hubs emerge
+from the graph rather than from a prior imposed on it.
 
 **Implemented as:** a stdlib-only driver (sibling to `validate.py`), the
 committed vault at `vault/`, and a pre-styled
@@ -139,10 +141,15 @@ ratio; the meta hubs filtered out). Deterministic and idempotent; the output dir
 is guarded by a marker file so it never clobbers a foreign directory. Edges come
 from two sources:
 
-1. **Category hubs.** Each artist links to exactly one of ~30 curated categories
-   that keep the distinctive micro-scenes (`Def Jux`, `Downtown Avant-Garde`,
-   `Gothic Americana`) while folding the old sprawling scene/genre pairs up into
-   a single, legible axis.
+1. **Category-tree hubs.** Each artist links into exactly one branch of a
+   two-tier taxonomy: 13 top-level genres aligned with the canonical music
+   taxonomies (AllMusic, Discogs, Wikipedia's popular-music families), with
+   second-order subcategories where a genre deserves finer structure
+   (`Hip-Hop › Underground`, `Country & Americana › Gothic Americana`).
+   Grayish buckets survive only at the second order; the old record-label and
+   city-scene pseudo-genres (`Def Jux`, `Stones Throw`, `Anticon`, `Patton
+   Orbit`, `New Orleans`) were dissolved into real genres, splitting their
+   members case by case.
 2. **Collaboration edges.** Combo artist keys are parsed into their members
    (`El-P & Cannibal Ox` → El-P + Cannibal Ox; `Willie Nelson-Waylon Jennings`
    → both), and a direct artist→artist edge is drawn to each member that is

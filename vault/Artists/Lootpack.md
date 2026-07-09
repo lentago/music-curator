@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Stones Throw"
+category: "Hip-Hop"
+subcategory: "Turntablism & Beats"
 era: "1990s-now"
 album_count: 1
-tags: ["artist", "stones-throw"]
+tags: ["artist", "hip-hop"]
 ---
 
 # Lootpack
 
-**Category:** [[Stones Throw]]
+**Category:** Hip-Hop › [[Turntablism & Beats]]
 
 **Session ties:** [[Dilated Peoples]] · [[Madlib]] · [[Madvillain]]
 

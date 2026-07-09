@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Art-Pop & New Wave"
+category: "Pop"
+subcategory: "Art-Pop & New Wave"
 era: "1980s-now"
 album_count: 7
-tags: ["artist", "art-pop-new-wave"]
+tags: ["artist", "pop"]
 ---
 
 # Sting
 
-**Category:** [[Art-Pop & New Wave]]
+**Category:** Pop › [[Art-Pop & New Wave]]
 
 **Session ties:** [[Annie Lennox]] · [[Eric Clapton And Steve Winwood]] · [[Herbie Hancock]] · [[Mark Knopfler]] · [[Stevie Wonder]]
 

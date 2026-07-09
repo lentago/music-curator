@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Underground Hip-Hop"
+category: "Hip-Hop"
+subcategory: "Underground"
 era: "2000s"
 album_count: 9
-tags: ["artist", "underground-hip-hop"]
+tags: ["artist", "hip-hop"]
 ---
 
 # Illogic
 
-**Category:** [[Underground Hip-Hop]]
+**Category:** Hip-Hop › [[Underground]]
 
 **Session ties:** [[Aesop Rock]] · [[Atmosphere]] · [[Blockhead]] · [[cLOUDDEAD]] · [[Soul Position]] · [[Vast Aire]]
 

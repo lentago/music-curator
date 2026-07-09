@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Patton Orbit"
+category: "Rock"
+subcategory: "Metal"
 era: "2000s-now"
 album_count: 2
-tags: ["artist", "patton-orbit"]
+tags: ["artist", "rock"]
 ---
 
 # Tomahawk
 
-**Category:** [[Patton Orbit]]
+**Category:** Rock › [[Metal]]
 
 ## Albums (2)
 - Anonymous

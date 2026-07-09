@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Classic Rock"
+category: "Rock"
+subcategory: "Classic Rock"
 era: "1980s-now"
 album_count: 1
-tags: ["artist", "classic-rock"]
+tags: ["artist", "rock"]
 ---
 
 # Red Hot Chili Peppers
 
-**Category:** [[Classic Rock]]
+**Category:** Rock › [[Classic Rock]]
 
 **Session ties:** [[The Mars Volta]] · [[Tom Waits]]
 

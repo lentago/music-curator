@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Newgrass"
+category: "Country & Americana"
+subcategory: "Newgrass"
 era: "1980s-now"
 album_count: 7
-tags: ["artist", "newgrass"]
+tags: ["artist", "country-americana"]
 ---
 
 # Béla Fleck
 
-**Category:** [[Newgrass]]
+**Category:** Country & Americana › [[Newgrass]]
 
 **Session ties:** [[Alison Brown]] · [[Béla Fleck & the Flecktones]] · [[David Grisman]] · [[Edgar Meyer_Béla Fleck_Mike Marshall]] · [[Jerry Douglas]] · [[Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall]] · [[Leftover Salmon]] · [[Phish]] · [[Russ Barenberg]] · [[Sam Bush]] · [[Strength in Numbers]] · [[Tony Rice Unit]] · [[Vishwa Mohan Bhatt With Bela Fleck and J]] · [[Yo-Yo Ma-Edgar Meyer-Mark O'Connor]]
 

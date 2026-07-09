@@ -1,12 +1,12 @@
 ---
 type: "category"
-member_count: 18
-tags: ["category", "downtown-avant-garde"]
+member_count: 16
+tags: ["category", "avant-garde-experimental"]
 ---
 
-# Downtown Avant-Garde
+# Avant-Garde & Experimental
 
-*Category — 18 artists in the collection.*
+*Category — 16 artists in the collection.*
 
 ## Artists
 - [[Bar Kokhba Sextet]]
@@ -23,7 +23,5 @@ tags: ["category", "downtown-avant-garde"]
 - [[Masada Quintet Featuring Joe Lovano]]
 - [[Medeski, Martin & Wood]]
 - [[Naked City]]
-- [[Pat Metheny]]
 - [[The Klezmatics]]
 - [[The Lounge Lizards]]
-- [[Yael Naïm]]

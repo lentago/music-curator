@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Trip-Hop & Downtempo"
+category: "Electronic"
+subcategory: "Trip-Hop & Downtempo"
 era: "2001-now"
 album_count: 4
-tags: ["artist", "trip-hop-downtempo"]
+tags: ["artist", "electronic"]
 ---
 
 # Zero 7
 
-**Category:** [[Trip-Hop & Downtempo]]
+**Category:** Electronic › [[Trip-Hop & Downtempo]]
 
 **Session ties:** [[Sia]]
 

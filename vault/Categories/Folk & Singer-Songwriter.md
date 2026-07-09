@@ -1,12 +1,12 @@
 ---
 type: "category"
-member_count: 34
-tags: ["category", "indie-folk-singer-songwriter"]
+member_count: 35
+tags: ["category", "folk-singer-songwriter"]
 ---
 
-# Indie Folk & Singer-Songwriter
+# Folk & Singer-Songwriter
 
-*Category — 34 artists in the collection.*
+*Category — 35 artists in the collection.*
 
 ## Artists
 - [[Andrew Bird]]
@@ -43,3 +43,4 @@ tags: ["category", "indie-folk-singer-songwriter"]
 - [[Tracy Chapman]]
 - [[Warren Zevon - I'll Sleep When I'm Dead (An Anthology)]]
 - [[Willy Porter]]
+- [[Yael Naïm]]

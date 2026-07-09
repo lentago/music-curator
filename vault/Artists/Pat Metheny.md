@@ -1,14 +1,14 @@
 ---
 type: "artist"
-category: "Downtown Avant-Garde"
+category: "Jazz"
 era: "1970s-now"
 album_count: 1
-tags: ["artist", "downtown-avant-garde"]
+tags: ["artist", "jazz"]
 ---
 
 # Pat Metheny
 
-**Category:** [[Downtown Avant-Garde]]
+**Category:** [[Jazz]]
 
 **Session ties:** [[John Zorn]]
 

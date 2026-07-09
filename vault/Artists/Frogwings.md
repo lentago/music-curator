@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Jam"
+category: "Rock"
+subcategory: "Jam"
 era: "1990s"
 album_count: 1
-tags: ["artist", "jam"]
+tags: ["artist", "rock"]
 ---
 
 # Frogwings
 
-**Category:** [[Jam]]
+**Category:** Rock › [[Jam]]
 
 **Session ties:** [[The Allman Brothers Band]] · [[The Derek Trucks Band]] · [[Widespread Panic]]
 

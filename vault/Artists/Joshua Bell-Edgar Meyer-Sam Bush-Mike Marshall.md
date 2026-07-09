@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Newgrass"
+category: "Country & Americana"
+subcategory: "Newgrass"
 album_count: 1
 collaborators: ["Sam Bush"]
-tags: ["artist", "newgrass"]
+tags: ["artist", "country-americana"]
 ---
 
 # Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall
 
-**Category:** [[Newgrass]]
+**Category:** Country & Americana › [[Newgrass]]
 
 **With:** [[Sam Bush]]
 

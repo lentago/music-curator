@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Stones Throw"
+category: "Hip-Hop"
+subcategory: "Turntablism & Beats"
 era: "1990s-now"
 album_count: 2
-tags: ["artist", "stones-throw"]
+tags: ["artist", "hip-hop"]
 ---
 
 # Madlib
 
-**Category:** [[Stones Throw]]
+**Category:** Hip-Hop › [[Turntablism & Beats]]
 
 **Session ties:** [[Diverse]] · [[Herbie Hancock]] · [[Lootpack]] · [[Madvillain]] · [[Mos Def]] · [[Quasimoto]] · [[Vast Aire]]
 

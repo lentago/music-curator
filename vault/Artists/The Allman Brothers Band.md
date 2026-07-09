@@ -1,14 +1,15 @@
 ---
 type: "artist"
-category: "Jam"
+category: "Rock"
+subcategory: "Jam"
 era: "1970s-now"
 album_count: 1
-tags: ["artist", "jam"]
+tags: ["artist", "rock"]
 ---
 
 # The Allman Brothers Band
 
-**Category:** [[Jam]]
+**Category:** Rock › [[Jam]]
 
 **Session ties:** [[Frogwings]] · [[The Departed Soundtrack]]
 
