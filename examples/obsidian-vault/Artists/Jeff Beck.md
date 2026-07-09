@@ -10,6 +10,8 @@ tags: ["artist", "jazz"]
 
 **Category:** [[Jazz]]
 
+**Session ties:** [[Imogen Heap]] · [[Seal]] · [[Stevie Wonder]]
+
 ## Albums (2)
 - Blow by Blow
 - Unknown Album

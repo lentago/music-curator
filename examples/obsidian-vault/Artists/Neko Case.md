@@ -10,5 +10,7 @@ tags: ["artist", "country-americana"]
 
 **Category:** [[Country & Americana]]
 
+**Session ties:** [[M_ Ward]] · [[Neko Case & Her Boyfriends]] · [[Neko Case And Her Boyfriends]] · [[The Band]]
+
 ## Albums (1)
 - Middle Cyclone

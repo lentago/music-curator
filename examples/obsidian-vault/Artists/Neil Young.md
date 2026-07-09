@@ -10,6 +10,8 @@ tags: ["artist", "indie-folk-singer-songwriter"]
 
 **Category:** [[Indie Folk & Singer-Songwriter]]
 
+**Session ties:** [[Emmylou Harris]] · [[The Band]]
+
 > sole comp acceptable for canonical figure (Aretha/JB/Cole/Guaraldi rule)
 
 ## Albums (1)

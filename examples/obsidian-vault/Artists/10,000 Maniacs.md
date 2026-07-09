@@ -10,6 +10,8 @@ tags: ["artist", "indie-rock"]
 
 **Category:** [[Indie Rock]]
 
+**Session ties:** [[Billy Bragg & Wilco - Mermaid avenue (Vol 1 & 2)]] · [[R.E.M]]
+
 ## Albums (2)
 - Blind Man's Zoo
 - In My Tribe

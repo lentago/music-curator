@@ -10,5 +10,7 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Dan the Automator]] · [[Deltron 3030]] · [[DJ Shadow]] · [[El-P]] · [[Prince Paul]]
+
 ## Albums (1)
 - So...How's Your Girl

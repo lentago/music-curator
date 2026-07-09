@@ -10,6 +10,8 @@ tags: ["artist", "def-jux"]
 
 **Category:** [[Def Jux]]
 
+**Session ties:** [[El-P]] · [[Rjd2]] · [[Vast Aire]]
+
 ## Albums (2)
 - Torrent downloaded from Demonoid.com.txt
 - Weathermen-The Conspiracy-(Retail)-2003-CMS

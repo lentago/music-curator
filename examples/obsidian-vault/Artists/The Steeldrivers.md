@@ -10,6 +10,8 @@ tags: ["artist", "bluegrass"]
 
 **Category:** [[Bluegrass]]
 
+**Session ties:** [[Chris Stapleton]]
+
 ## Albums (2)
 - Live 11-08-2006
 - Reckless [+Digital Booklet]

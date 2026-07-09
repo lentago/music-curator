@@ -10,6 +10,8 @@ tags: ["artist", "country-americana"]
 
 **Category:** [[Country & Americana]]
 
+**Session ties:** [[Gram Parsons]]
+
 ## Albums (2)
 - Sweetheart of the Rodeo
 - Unknown Album (8 20 2007 3 55 37 PM)

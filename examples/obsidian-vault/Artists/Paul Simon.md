@@ -10,6 +10,8 @@ tags: ["artist", "indie-folk-singer-songwriter"]
 
 **Category:** [[Indie Folk & Singer-Songwriter]]
 
+**Session ties:** [[Herbie Hancock]] · [[Jerry Douglas]] · [[Los Lobos]]
+
 ## Albums (2)
 - Graceland
 - The Rhythm Of The Saints (2011 Remaster)

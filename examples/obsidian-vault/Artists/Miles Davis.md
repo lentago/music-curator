@@ -10,5 +10,7 @@ tags: ["artist", "jazz"]
 
 **Category:** [[Jazz]]
 
+**Session ties:** [[John Coltrane]]
+
 ## Albums (1)
 - Kind of Blue

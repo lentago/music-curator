@@ -10,5 +10,7 @@ tags: ["artist", "blues"]
 
 **Category:** [[Blues]]
 
+**Session ties:** [[Jack White]]
+
 ## Albums (1)
 - Consolers of the Lonely

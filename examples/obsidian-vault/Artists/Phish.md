@@ -10,6 +10,8 @@ tags: ["artist", "jam"]
 
 **Category:** [[Jam]]
 
+**Session ties:** [[Alison Krauss & Union Station]] · [[Béla Fleck]] · [[Leo Kottke & Mike Gordon]] · [[Trey Anastasio]]
+
 ## Albums (15)
 - A Live One Disc 1
 - A Live One Disc 2

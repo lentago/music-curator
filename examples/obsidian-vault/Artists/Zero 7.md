@@ -10,6 +10,8 @@ tags: ["artist", "trip-hop-downtempo"]
 
 **Category:** [[Trip-Hop & Downtempo]]
 
+**Session ties:** [[Sia]]
+
 ## Albums (4)
 - Simple Things
 - The Garden

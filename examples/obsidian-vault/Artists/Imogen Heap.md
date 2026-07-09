@@ -10,6 +10,8 @@ tags: ["artist", "art-pop-new-wave"]
 
 **Category:** [[Art-Pop & New Wave]]
 
+**Session ties:** [[IAMX]] · [[Jeff Beck]]
+
 ## Albums (11)
 - Getting Scared (Single)
 - Goodnight And Go (Single)

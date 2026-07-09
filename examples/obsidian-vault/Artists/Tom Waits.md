@@ -10,6 +10,8 @@ tags: ["artist", "country-americana"]
 
 **Category:** [[Country & Americana]]
 
+**Session ties:** [[Los Lobos]] · [[Marc Ribot Y los Cubanos Postizos]] · [[Primus]] · [[Red Hot Chili Peppers]] · [[The Rolling Stones]] · [[William S. Burroughs]]
+
 ## Albums (20)
 - alice
 - Bad As Me

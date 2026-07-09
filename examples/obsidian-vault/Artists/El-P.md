@@ -10,6 +10,8 @@ tags: ["artist", "def-jux"]
 
 **Category:** [[Def Jux]]
 
+**Session ties:** [[Aceyalone]] · [[Aesop Rock]] · [[Cannibal Ox]] · [[Cat Power]] · [[Company Flow]] · [[El-P & Cannibal Ox]] · [[Handsome Boy Modeling School]] · [[Mr. Lif]] · [[Vast Aire]] · [[WEATHERMEN]]
+
 ## Albums (2)
 - Fantastic Damage
 - I'll Sleep When You're Dead

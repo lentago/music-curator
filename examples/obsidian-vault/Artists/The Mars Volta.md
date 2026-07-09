@@ -10,6 +10,8 @@ tags: ["artist", "punk-hardcore"]
 
 **Category:** [[Punk & Hardcore]]
 
+**Session ties:** [[At The Drive-In]] · [[Red Hot Chili Peppers]]
+
 ## Albums (2)
 - Noctourniquet
 - The Bedlam In Goliath

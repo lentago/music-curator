@@ -10,5 +10,7 @@ tags: ["artist", "bluegrass"]
 
 **Category:** [[Bluegrass]]
 
+**Session ties:** [[Alison Krauss & Union Station]] · [[Béla Fleck]] · [[Edgar Meyer_Béla Fleck_Mike Marshall]] · [[Jerry Douglas_Russ Barenberg_Edgar Meyer]] · [[Russ Barenberg]] · [[Strength in Numbers]] · [[Yo-Yo Ma]]
+
 ## Albums (1)
 - Appalachian Journey

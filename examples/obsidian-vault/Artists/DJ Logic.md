@@ -10,5 +10,7 @@ tags: ["artist", "turntablism-beats"]
 
 **Category:** [[Turntablism & Beats]]
 
+**Session ties:** [[Medeski, Martin & Wood]]
+
 ## Albums (1)
 - The Anomaly

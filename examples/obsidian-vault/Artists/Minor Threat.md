@@ -10,5 +10,7 @@ tags: ["artist", "punk-hardcore"]
 
 **Category:** [[Punk & Hardcore]]
 
+**Session ties:** [[Fugazi]]
+
 ## Albums (1)
 - Complete Discography

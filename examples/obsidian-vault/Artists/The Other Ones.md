@@ -10,6 +10,8 @@ tags: ["artist", "jam"]
 
 **Category:** [[Jam]]
 
+**Session ties:** [[The Grateful Dead]]
+
 ## Albums (2)
 - The Strange Remain Disc 1
 - The Strange Remain Disc 2

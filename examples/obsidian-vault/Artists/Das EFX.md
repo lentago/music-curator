@@ -10,5 +10,7 @@ tags: ["artist", "hip-hop"]
 
 **Category:** [[Hip-Hop]]
 
+**Session ties:** [[EPMD]]
+
 ## Albums (1)
 - Dead Serious

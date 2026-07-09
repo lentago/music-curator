@@ -10,5 +10,7 @@ tags: ["artist", "jazz"]
 
 **Category:** [[Jazz]]
 
+**Session ties:** [[Larry Coryell]]
+
 ## Albums (1)
 - Gipsy Project & Friends

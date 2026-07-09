@@ -10,6 +10,8 @@ tags: ["artist", "art-pop-new-wave"]
 
 **Category:** [[Art-Pop & New Wave]]
 
+**Session ties:** [[Gaudi + Nusrat Fateh Ali Khan]]
+
 ## Albums (3)
 - Passion
 - Shaking the Tree- Sixteen Golden Greats

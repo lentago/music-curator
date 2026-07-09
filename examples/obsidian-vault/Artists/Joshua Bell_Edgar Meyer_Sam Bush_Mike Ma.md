@@ -10,5 +10,7 @@ tags: ["artist", "newgrass"]
 
 **Category:** [[Newgrass]]
 
+**Session ties:** [[Anger_Marshall Band]] · [[Edgar Meyer_Béla Fleck_Mike Marshall]] · [[Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall]] · [[Sam Bush]]
+
 ## Albums (1)
 - Short Trip Home

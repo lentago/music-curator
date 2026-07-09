@@ -10,5 +10,7 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Dälek]]
+
 ## Albums (1)
 - Derbe Respect, Alder

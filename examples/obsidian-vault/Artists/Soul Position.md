@@ -10,5 +10,7 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Illogic]] · [[Rjd2]]
+
 ## Albums (1)
 - 8 Million Stories

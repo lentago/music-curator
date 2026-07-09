@@ -10,6 +10,8 @@ tags: ["artist", "jazz"]
 
 **Category:** [[Jazz]]
 
+**Session ties:** [[Bill Frisell]] · [[Charlie Hunter Quartet]] · [[Danger Mouse & Daniele Luppi]] · [[Peeping Tom]] · [[Ray Charles]] · [[Thievery Corporation]]
+
 ## Albums (2)
 - Come Away with Me
 - Turn Me On-Crazy

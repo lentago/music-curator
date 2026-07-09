@@ -10,5 +10,7 @@ tags: ["artist", "jazz"]
 
 **Category:** [[Jazz]]
 
+**Session ties:** [[Mos Def]] · [[Norah Jones]] · [[William S. Burroughs]]
+
 ## Albums (1)
 - Songs from the Analog Playground

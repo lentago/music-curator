@@ -10,6 +10,8 @@ tags: ["artist", "turntablism-beats"]
 
 **Category:** [[Turntablism & Beats]]
 
+**Session ties:** [[Dilated Peoples]] · [[LMNO]] · [[Madvillain]]
+
 ## Albums (3)
 - Something Wicked This Way Comes
 - Take London

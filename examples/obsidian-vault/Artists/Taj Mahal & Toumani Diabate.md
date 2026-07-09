@@ -10,5 +10,7 @@ tags: ["artist", "blues"]
 
 **Category:** [[Blues]]
 
+**Session ties:** [[Leftover Salmon]]
+
 ## Albums (1)
 - Kulanjan

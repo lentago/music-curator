@@ -10,6 +10,8 @@ tags: ["artist", "indie-folk-singer-songwriter"]
 
 **Category:** [[Indie Folk & Singer-Songwriter]]
 
+**Session ties:** [[Andrew Bird's Bowl Of Fire]]
+
 ## Albums (9)
 - Andrew Bird & the Mysterious Production
 - Andrew Bird & the Mysterious Production of Eggs

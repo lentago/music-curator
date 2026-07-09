@@ -10,6 +10,8 @@ tags: ["artist", "country-americana"]
 
 **Category:** [[Country & Americana]]
 
+**Session ties:** [[Gram Parsons]] · [[Lucinda Williams]] · [[Mark Knopfler And Emmylou Harris]] · [[Neil Young]] · [[Sam Bush]] · [[Steve Earle]] · [[Steve Earle-The Del McCoury Band]] · [[The Band]]
+
 ## Albums (3)
 - Emmylou Harris and the Nash Ra
 - Spyboy

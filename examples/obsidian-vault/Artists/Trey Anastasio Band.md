@@ -10,6 +10,8 @@ tags: ["artist", "jam"]
 
 **Category:** [[Jam]]
 
+**Session ties:** [[Trey Anastasio]]
+
 ## Albums (3)
 - 5.31.03 The Warfield. San Fran, CA
 - 5.31.03 The Warfield. San Fran, CA Disc

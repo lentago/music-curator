@@ -10,6 +10,8 @@ tags: ["artist", "indie-rock"]
 
 **Category:** [[Indie Rock]]
 
+**Session ties:** [[Emily Haines]]
+
 ## Albums (2)
 - Fantasies
 - Old World Underground, Where Are You Now

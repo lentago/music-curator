@@ -10,6 +10,8 @@ tags: ["artist", "latin"]
 
 **Category:** [[Latin]]
 
+**Session ties:** [[Eric Clapton And Steve Winwood]] · [[Herbie Hancock]] · [[Seal]]
+
 ## Albums (2)
 - Caravanserai
 - Shaman

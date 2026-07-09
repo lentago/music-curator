@@ -10,5 +10,7 @@ tags: ["artist", "bluegrass"]
 
 **Category:** [[Bluegrass]]
 
+**Session ties:** [[Steve Earle-The Del McCoury Band]]
+
 ## Albums (1)
 - Hell Among The Yearlings

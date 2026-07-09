@@ -10,5 +10,7 @@ tags: ["artist", "def-jux"]
 
 **Category:** [[Def Jux]]
 
+**Session ties:** [[DJ Krush]] · [[El-P]] · [[Jedi Mind Tricks]]
+
 ## Albums (1)
 - Funcrusher Plus

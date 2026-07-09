@@ -10,6 +10,8 @@ tags: ["artist", "country-americana"]
 
 **Category:** [[Country & Americana]]
 
+**Session ties:** [[Billy Preston]] · [[Bob Dylan]] · [[Johnny Cash & Willie Nelson]] · [[Nick Cave & the Bad Seeds]] · [[The Red Hot Chili Peppers]]
+
 ## Albums (8)
 - American III Solitary Man
 - American IV The Man Comes Around

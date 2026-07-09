@@ -10,6 +10,8 @@ tags: ["artist", "trip-hop-downtempo"]
 
 **Category:** [[Trip-Hop & Downtempo]]
 
+**Session ties:** [[Zero 7]]
+
 ## Albums (3)
 - Colour The Small One
 - Some People Have Real Problems

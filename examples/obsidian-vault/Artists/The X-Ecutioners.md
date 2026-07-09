@@ -10,6 +10,8 @@ tags: ["artist", "turntablism-beats"]
 
 **Category:** [[Turntablism & Beats]]
 
+**Session ties:** [[Xzibit]]
+
 ## Albums (2)
 - Built From Scratch [Bonus Tracks]
 - Revolutions

@@ -10,5 +10,7 @@ tags: ["artist", "classic-rock"]
 
 **Category:** [[Classic Rock]]
 
+**Session ties:** [[Johnny Cash]]
+
 ## Albums (1)
 - Freaky Styley

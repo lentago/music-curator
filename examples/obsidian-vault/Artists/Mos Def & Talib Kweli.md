@@ -13,5 +13,7 @@ tags: ["artist", "underground-hip-hop"]
 
 **With:** [[Mos Def]] · [[Talib Kweli]]
 
+**Session ties:** [[Common]] · [[Talib Kweli & Hi Tek]]
+
 ## Albums (1)
 - Black Star

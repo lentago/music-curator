@@ -10,5 +10,7 @@ tags: ["artist", "hip-hop"]
 
 **Category:** [[Hip-Hop]]
 
+**Session ties:** [[William S. Burroughs]]
+
 ## Albums (1)
 - Hypocrisy Is the Greatest Luxury

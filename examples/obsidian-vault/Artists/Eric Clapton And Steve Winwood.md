@@ -10,6 +10,8 @@ tags: ["artist", "blues"]
 
 **Category:** [[Blues]]
 
+**Session ties:** [[Jerry Douglas]] · [[Mary J. Blige]] · [[Santana]] · [[Sting]] · [[The Beatles]] · [[TheBeatles-WhiteAbum-2009StereoRemaster]]
+
 > confirmed authentic by Chris — blues-rock guitar appreciation
 
 ## Albums (1)

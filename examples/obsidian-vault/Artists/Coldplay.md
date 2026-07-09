@@ -10,6 +10,8 @@ tags: ["artist", "indie-rock"]
 
 **Category:** [[Indie Rock]]
 
+**Session ties:** [[David Byrne & Brian Eno]]
+
 ## Albums (6)
 - A Rush Of Blood To The Head
 - Parachutes

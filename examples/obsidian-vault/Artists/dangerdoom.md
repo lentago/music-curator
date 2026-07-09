@@ -10,5 +10,7 @@ tags: ["artist", "stones-throw"]
 
 **Category:** [[Stones Throw]]
 
+**Session ties:** [[Danger Mouse & Daniele Luppi]] · [[Gnarls Barkley]] · [[Madvillain]] · [[Talib Kweli]]
+
 ## Albums (1)
 - the mouse and the mask

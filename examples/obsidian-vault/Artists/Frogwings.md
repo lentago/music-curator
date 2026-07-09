@@ -10,5 +10,7 @@ tags: ["artist", "jam"]
 
 **Category:** [[Jam]]
 
+**Session ties:** [[The Allman Brothers Band]] · [[The Derek Trucks Band]] · [[Widespread Panic]]
+
 ## Albums (1)
 - Croakin' at Toad's

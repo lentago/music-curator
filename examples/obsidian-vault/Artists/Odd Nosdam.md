@@ -10,6 +10,8 @@ tags: ["artist", "anticon"]
 
 **Category:** [[Anticon (2)|Anticon]]
 
+**Session ties:** [[Anticon]] · [[cLOUDDEAD]] · [[Peeping Tom]]
+
 ## Albums (3)
 - Level Live Wires
 - Pretty Sweet Explode

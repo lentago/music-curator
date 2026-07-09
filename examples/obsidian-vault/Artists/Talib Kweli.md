@@ -10,5 +10,7 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[dangerdoom]] · [[Mos Def]] · [[Mos Def & Talib Kweli]] · [[Talib Kweli & Hi Tek]] · [[Zap Mama]]
+
 ## Albums (1)
 - Quality

@@ -10,5 +10,7 @@ tags: ["artist", "indie-rock"]
 
 **Category:** [[Indie Rock]]
 
+**Session ties:** [[Danger Mouse & Daniele Luppi]] · [[Gnarls Barkley]]
+
 ## Albums (1)
 - Broken Bells [+Video]

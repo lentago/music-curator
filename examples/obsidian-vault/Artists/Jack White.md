@@ -10,5 +10,7 @@ tags: ["artist", "blues"]
 
 **Category:** [[Blues]]
 
+**Session ties:** [[Danger Mouse & Daniele Luppi]] · [[The Raconteurs]]
+
 ## Albums (1)
 - Blunderbuss

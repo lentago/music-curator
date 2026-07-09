@@ -10,6 +10,8 @@ tags: ["artist", "downtown-avant-garde"]
 
 **Category:** [[Downtown Avant-Garde]]
 
+**Session ties:** [[DJ Logic]] · [[John Zorn]] · [[John Zorn-Masada Chamber Ensembles]]
+
 ## Albums (3)
 - Last Chance to Dance Trance (perhaps) B
 - Last Chance to Dance Trance (perhaps)- Best Of (1991-1996)

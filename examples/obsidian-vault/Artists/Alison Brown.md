@@ -10,5 +10,7 @@ tags: ["artist", "bluegrass"]
 
 **Category:** [[Bluegrass]]
 
+**Session ties:** [[Béla Fleck]] · [[Edgar Meyer_Béla Fleck_Mike Marshall]] · [[Sam Bush]] · [[Tony Rice Unit]]
+
 ## Albums (1)
 - Fair Weather

@@ -9,5 +9,7 @@ tags: ["artist", "bluegrass"]
 
 **Category:** [[Bluegrass]]
 
+**Session ties:** [[Jerry Douglas_Russ Barenberg_Edgar Meyer]]
+
 ## Albums (1)
 - The Best of New Grass Revival

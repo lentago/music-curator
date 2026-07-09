@@ -10,5 +10,7 @@ tags: ["artist", "soul-funk-r-b"]
 
 **Category:** [[Soul, Funk & R&B]]
 
+**Session ties:** [[Jeff Beck]] · [[Santana]]
+
 ## Albums (1)
 - Seal [1994]

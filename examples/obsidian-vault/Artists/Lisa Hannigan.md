@@ -10,5 +10,7 @@ tags: ["artist", "indie-folk-singer-songwriter"]
 
 **Category:** [[Indie Folk & Singer-Songwriter]]
 
+**Session ties:** [[Damien Rice]]
+
 ## Albums (1)
 - Sea Sew

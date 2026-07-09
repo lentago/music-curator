@@ -10,5 +10,7 @@ tags: ["artist", "jazz"]
 
 **Category:** [[Jazz]]
 
+**Session ties:** [[Ella Fitzgerald]] · [[Louis Armstrong]]
+
 ## Albums (1)
 - The Early Years

@@ -10,6 +10,8 @@ tags: ["artist", "stones-throw"]
 
 **Category:** [[Stones Throw]]
 
+**Session ties:** [[Diverse]] · [[Herbie Hancock]] · [[Lootpack]] · [[Madvillain]] · [[Mos Def]] · [[Quasimoto]] · [[Vast Aire]]
+
 ## Albums (2)
 - Shades of Blue
 - The Other Side- Los Angeles Disc 1

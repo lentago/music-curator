@@ -10,5 +10,7 @@ tags: ["artist", "country-americana"]
 
 **Category:** [[Country & Americana]]
 
+**Session ties:** [[Emmylou Harris]] · [[Leftover Salmon]] · [[Steve Earle]]
+
 ## Albums (1)
 - Car Wheels on a Gravel Road

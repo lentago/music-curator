@@ -10,5 +10,7 @@ tags: ["artist", "punk-hardcore"]
 
 **Category:** [[Punk & Hardcore]]
 
+**Session ties:** [[The Mars Volta]]
+
 ## Albums (1)
 - Relationship Of Command

@@ -10,6 +10,8 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Bahamadia]] · [[Canibus]] · [[Company Flow]] · [[Mr. Lif]]
+
 ## Albums (2)
 - Violent by Design
 - Visions of Ghandi

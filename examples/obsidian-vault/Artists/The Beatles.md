@@ -10,6 +10,8 @@ tags: ["artist", "classic-rock"]
 
 **Category:** [[Classic Rock]]
 
+**Session ties:** [[Billy Preston]] · [[Eric Clapton And Steve Winwood]] · [[TheBeatles-WhiteAbum-2009StereoRemaster]]
+
 ## Albums (4)
 - Abbey Road (2009 Stereo Remast
 - Help! [UK]

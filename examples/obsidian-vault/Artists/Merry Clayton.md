@@ -10,5 +10,7 @@ tags: ["artist", "soul-funk-r-b"]
 
 **Category:** [[Soul, Funk & R&B]]
 
+**Session ties:** [[Billy Preston]] · [[The Rolling Stones]]
+
 ## Albums (1)
 - Merry Clayton

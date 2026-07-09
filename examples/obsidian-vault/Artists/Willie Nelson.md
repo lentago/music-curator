@@ -10,5 +10,7 @@ tags: ["artist", "country-americana"]
 
 **Category:** [[Country & Americana]]
 
+**Session ties:** [[Johnny Cash & Willie Nelson]] · [[Ray Charles]] · [[Willie Nelson-Waylon Jennings]]
+
 ## Albums (1)
 - Stardust

@@ -10,5 +10,7 @@ tags: ["artist", "downtown-avant-garde"]
 
 **Category:** [[Downtown Avant-Garde]]
 
+**Session ties:** [[John Zorn]] · [[Marc Ribot Y los Cubanos Postizos]]
+
 ## Albums (1)
 - 50th Birthday Celebration, Vol. 4

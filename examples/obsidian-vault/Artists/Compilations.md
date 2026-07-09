@@ -8,6 +8,8 @@ tags: ["artist", "reservoir"]
 
 **Filed under:** [[Reservoir]]
 
+**Session ties:** [[Beth Orton]] · [[Nick Cave & the Bad Seeds]]
+
 ## Albums (5)
 - Den of Thieves - The Sound of Eighteenth
 - ESL Remixed

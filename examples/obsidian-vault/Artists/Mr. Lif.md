@@ -10,5 +10,7 @@ tags: ["artist", "def-jux"]
 
 **Category:** [[Def Jux]]
 
+**Session ties:** [[Aesop Rock]] · [[DJ Krush]] · [[El-P]] · [[Jedi Mind Tricks]] · [[Lovage]] · [[Prefuse 73]] · [[Thievery Corporation]]
+
 ## Albums (1)
 - Emergency Rations

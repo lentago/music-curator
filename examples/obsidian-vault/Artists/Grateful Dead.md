@@ -10,6 +10,8 @@ tags: ["artist", "jam"]
 
 **Category:** [[Jam]]
 
+**Session ties:** [[Jerry Garcia & David Grisman]] · [[Old & In the Way]]
+
 ## Albums (8)
 - Dick's Picks, Vol. 12 Disc 1
 - Dick's Picks, Vol. 12 Disc 2

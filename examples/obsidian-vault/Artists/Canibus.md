@@ -10,5 +10,7 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Jedi Mind Tricks]]
+
 ## Albums (1)
 - Rip the Jacker

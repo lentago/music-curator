@@ -10,6 +10,8 @@ tags: ["artist", "art-pop-new-wave"]
 
 **Category:** [[Art-Pop & New Wave]]
 
+**Session ties:** [[Massive Attack]]
+
 ## Albums (2)
 - Dear Science
 - Return To Cookie Mountain

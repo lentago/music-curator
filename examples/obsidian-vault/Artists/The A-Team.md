@@ -10,6 +10,8 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Aceyalone]]
+
 > Aceyalone & Abstract Rude duo — corrected by Chris
 
 ## Albums (1)

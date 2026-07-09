@@ -10,5 +10,7 @@ tags: ["artist", "patton-orbit"]
 
 **Category:** [[Patton Orbit]]
 
+**Session ties:** [[Dan the Automator]] · [[Mr. Bungle]] · [[Mr. Lif]]
+
 ## Albums (1)
 - Music to Make Love to Your Old Lady By

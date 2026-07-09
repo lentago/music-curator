@@ -10,5 +10,7 @@ tags: ["artist", "electronic"]
 
 **Category:** [[Electronic]]
 
+**Session ties:** [[Beth Orton]]
+
 ## Albums (1)
 - Exit Planet Dust

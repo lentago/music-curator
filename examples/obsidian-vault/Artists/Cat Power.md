@@ -10,6 +10,8 @@ tags: ["artist", "indie-folk-singer-songwriter"]
 
 **Category:** [[Indie Folk & Singer-Songwriter]]
 
+**Session ties:** [[El-P]] · [[Nick Cave & the Bad Seeds]]
+
 ## Albums (5)
 - Moon Pix
 - Sun

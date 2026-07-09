@@ -10,6 +10,8 @@ tags: ["artist", "blues"]
 
 **Category:** [[Blues]]
 
+**Session ties:** [[Herbie Hancock]]
+
 ## Albums (3)
 - Continuum
 - Heavier Things

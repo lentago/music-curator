@@ -10,5 +10,7 @@ tags: ["artist", "stones-throw"]
 
 **Category:** [[Stones Throw]]
 
+**Session ties:** [[Dilated Peoples]] · [[Madlib]] · [[Madvillain]]
+
 ## Albums (1)
 - Soundpieces- Da Antidote!

@@ -10,6 +10,8 @@ tags: ["artist", "indie-pop-synth-pop"]
 
 **Category:** [[Indie Pop & Synth-Pop]]
 
+**Session ties:** [[The Magnetic Fields]]
+
 ## Albums (7)
 - 69 Love Songs
 - 69 Love Songs Vol. 1

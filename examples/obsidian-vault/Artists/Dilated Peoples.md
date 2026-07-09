@@ -10,6 +10,8 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Aceyalone]] · [[Lootpack]] · [[The Herbaliser]]
+
 ## Albums (2)
 - Expansion Team
 - The Platform

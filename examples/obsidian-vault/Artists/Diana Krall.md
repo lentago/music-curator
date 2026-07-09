@@ -10,6 +10,8 @@ tags: ["artist", "jazz"]
 
 **Category:** [[Jazz]]
 
+**Session ties:** [[Ray Charles]]
+
 ## Albums (2)
 - All for You
 - When I Look in Your Eyes

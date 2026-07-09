@@ -13,6 +13,8 @@ tags: ["artist", "art-pop-new-wave"]
 
 **With:** [[David Byrne]]
 
+**Session ties:** [[Coldplay]] · [[Talking Heads]]
+
 ## Albums (2)
 - Everything That Happens Will Happen Today
 - My Life in the Bush of Ghosts

@@ -10,6 +10,8 @@ tags: ["artist", "downtown-avant-garde"]
 
 **Category:** [[Downtown Avant-Garde]]
 
+**Session ties:** [[Bill Frisell]] · [[John Zorn]]
+
 ## Albums (2)
 - Naked City Live, Vol. 1 Knitting Factor
 - Naked City Live, Vol. 1- Knitting Factory 1989

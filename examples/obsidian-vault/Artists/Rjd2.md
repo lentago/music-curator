@@ -10,6 +10,8 @@ tags: ["artist", "def-jux"]
 
 **Category:** [[Def Jux]]
 
+**Session ties:** [[Aceyalone]] · [[Diverse]] · [[Soul Position]] · [[Vast Aire]] · [[WEATHERMEN]]
+
 ## Albums (5)
 - Dead Ringer
 - Since We Last Spoke

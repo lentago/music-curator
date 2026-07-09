@@ -10,6 +10,8 @@ tags: ["artist", "industrial-ebm"]
 
 **Category:** [[Industrial & EBM]]
 
+**Session ties:** [[Imogen Heap]]
+
 ## Albums (3)
 - Kingdom Of Welcome Addiction
 - The Alternative

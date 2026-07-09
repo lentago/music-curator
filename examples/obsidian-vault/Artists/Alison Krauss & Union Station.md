@@ -10,5 +10,7 @@ tags: ["artist", "bluegrass"]
 
 **Category:** [[Bluegrass]]
 
+**Session ties:** [[Jerry Douglas]] · [[Phish]] · [[Yo-Yo Ma-Edgar Meyer-Mark O'Connor]]
+
 ## Albums (1)
 - New Favorite

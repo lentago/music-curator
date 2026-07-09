@@ -10,5 +10,7 @@ tags: ["artist", "jazz"]
 
 **Category:** [[Jazz]]
 
+**Session ties:** [[Miles Davis]]
+
 ## Albums (1)
 - John Coltrane Plays for Lovers [2003]

@@ -10,6 +10,8 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Prince Paul]] · [[Talib Kweli & Hi Tek]]
+
 ## Albums (2)
 - 3 Feet High and Rising
 - De La Soul Is Dead

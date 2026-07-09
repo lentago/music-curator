@@ -10,6 +10,8 @@ tags: ["artist", "industrial-ebm"]
 
 **Category:** [[Industrial & EBM]]
 
+**Session ties:** [[cEvin Key_Ken Marshall]]
+
 >  (lane confirmed by Chris)
 
 ## Albums (1)

@@ -10,5 +10,7 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Cut Chemist]] · [[Cut Chemist & Nu-Mark]] · [[Ozomatli]]
+
 ## Albums (1)
 - Quality Control

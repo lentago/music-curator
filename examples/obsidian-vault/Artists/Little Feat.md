@@ -10,6 +10,8 @@ tags: ["artist", "country-americana"]
 
 **Category:** [[Country & Americana]]
 
+**Session ties:** [[The Rolling Stones]]
+
 ## Albums (2)
 - Dixie Chicken
 - Waiting For Columbus [Live]

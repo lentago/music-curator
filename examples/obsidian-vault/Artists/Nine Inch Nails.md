@@ -10,6 +10,8 @@ tags: ["artist", "industrial-ebm"]
 
 **Category:** [[Industrial & EBM]]
 
+**Session ties:** [[Dresden Dolls]]
+
 ## Albums (2)
 - Ghosts I-IV
 - Pretty Hate Machine

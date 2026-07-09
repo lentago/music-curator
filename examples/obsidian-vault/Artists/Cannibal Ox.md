@@ -10,5 +10,7 @@ tags: ["artist", "def-jux"]
 
 **Category:** [[Def Jux]]
 
+**Session ties:** [[Aesop Rock]] · [[El-P]] · [[El-P & Cannibal Ox]] · [[Vast Aire]]
+
 ## Albums (1)
 - The Cold Vein

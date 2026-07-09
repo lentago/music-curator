@@ -13,5 +13,7 @@ tags: ["artist", "turntablism-beats"]
 
 **With:** [[Cut Chemist]]
 
+**Session ties:** [[Jurassic 5]]
+
 ## Albums (1)
 - Live at the Variety Arts Center, 1997

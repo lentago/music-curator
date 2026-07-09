@@ -10,6 +10,8 @@ tags: ["artist", "country-americana"]
 
 **Category:** [[Country & Americana]]
 
+**Session ties:** [[Del McCoury]] · [[Emmylou Harris]] · [[Jerry Douglas]] · [[Lucinda Williams]] · [[Steve Earle & The Dukes (& Duchesses)]] · [[Steve Earle-The Del McCoury Band]]
+
 ## Albums (6)
 - El Corazón
 - I Feel Alright

@@ -10,6 +10,8 @@ tags: ["artist", "turntablism-beats"]
 
 **Category:** [[Turntablism & Beats]]
 
+**Session ties:** [[Aesop Rock]] · [[Illogic]]
+
 ## Albums (2)
 - Music By Cavelight
 - The Music Scene

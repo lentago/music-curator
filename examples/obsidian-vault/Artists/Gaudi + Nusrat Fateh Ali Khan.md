@@ -10,5 +10,7 @@ tags: ["artist", "trip-hop-downtempo"]
 
 **Category:** [[Trip-Hop & Downtempo]]
 
+**Session ties:** [[Peter Gabriel]]
+
 ## Albums (1)
 - Dub Qawwali

@@ -13,5 +13,7 @@ tags: ["artist", "world"]
 
 **With:** [[Jerry Douglas]]
 
+**Session ties:** [[Jerry Douglas_Russ Barenberg_Edgar Meyer]] · [[Russ Barenberg]]
+
 ## Albums (1)
 - Bourbon & Rosewater

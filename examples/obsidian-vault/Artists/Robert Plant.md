@@ -10,6 +10,8 @@ tags: ["artist", "classic-rock"]
 
 **Category:** [[Classic Rock]]
 
+**Session ties:** [[Led Zeppelin]]
+
 ## Albums (2)
 - Now & Zen
 - The Principle of Moments

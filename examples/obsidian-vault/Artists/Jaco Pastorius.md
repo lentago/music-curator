@@ -10,6 +10,8 @@ tags: ["artist", "jazz"]
 
 **Category:** [[Jazz]]
 
+**Session ties:** [[Herbie Hancock]] · [[Weather Report]]
+
 ## Albums (2)
 - Honestly Live
 - Jaco Pastorius

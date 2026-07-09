@@ -10,5 +10,7 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Eminem]] · [[Prince Paul]] · [[The X-Ecutioners]]
+
 ## Albums (1)
 - Restless

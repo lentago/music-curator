@@ -10,5 +10,7 @@ tags: ["artist", "classic-rock"]
 
 **Category:** [[Classic Rock]]
 
+**Session ties:** [[Bruce Springsteen with the Sessions Band]]
+
 ## Albums (1)
 - We Shall Overcome The Seeger Sessions

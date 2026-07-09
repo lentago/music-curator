@@ -10,5 +10,7 @@ tags: ["artist", "metal"]
 
 **Category:** [[Metal]]
 
+**Session ties:** [[Led Zeppelin]] · [[Tenacious D]]
+
 ## Albums (1)
 - Them Crooked Vultures

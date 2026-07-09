@@ -10,6 +10,8 @@ tags: ["artist", "jam"]
 
 **Category:** [[Jam]]
 
+**Session ties:** [[Jerry Douglas]] · [[Leo Kottke & Mike Gordon]] · [[Phish]] · [[Trey Anastasio Band]]
+
 ## Albums (2)
 - Plasma
 - Seis de Mayo

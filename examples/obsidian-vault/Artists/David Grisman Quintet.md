@@ -9,5 +9,7 @@ tags: ["artist", "newgrass"]
 
 **Category:** [[Newgrass]]
 
+**Session ties:** [[Anger_Marshall Band]] · [[Old & in the Way-Jerry Garcia-David Grisman]] · [[Tony Rice Unit]]
+
 ## Albums (1)
 - 1

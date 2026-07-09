@@ -17,6 +17,12 @@ speculative feature-padding.
   Obsidian vault (`examples/obsidian-vault/`) whose graph view clusters artists
   into ~30 color-coded category hubs (one category per artist), letting the
   important nodes surface from the connectivity rather than a prior (see below).
+- Personnel / session-tie edges — `examples/credits.json` is a per-album
+  personnel layer (musicians, producers, guests) researched across the whole
+  collection and cross-referenced against the roster; the driver draws ~400
+  roster-only artist↔artist "session tie" edges from it (a player who appears on
+  both artists' albums), surfacing connectors like Jerry Douglas and Marc Ribot
+  that cross the category clusters.
 
 ---
 

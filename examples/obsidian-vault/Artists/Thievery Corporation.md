@@ -10,6 +10,8 @@ tags: ["artist", "trip-hop-downtempo"]
 
 **Category:** [[Trip-Hop & Downtempo]]
 
+**Session ties:** [[David Byrne]] · [[Jane's Addiction]] · [[Mr. Lif]] · [[Norah Jones]] · [[Sarah McLachlan]] · [[The Flaming Lips]]
+
 ## Albums (12)
 - Abductions and Reconstructions
 - Babylon Rewound

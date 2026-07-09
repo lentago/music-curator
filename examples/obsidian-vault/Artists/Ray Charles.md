@@ -10,6 +10,8 @@ tags: ["artist", "soul-funk-r-b"]
 
 **Category:** [[Soul, Funk & R&B]]
 
+**Session ties:** [[Diana Krall]] · [[Norah Jones]] · [[Van Morrison]] · [[Willie Nelson]]
+
 ## Albums (13)
 - Genius Loves Company
 - Genius - The Ultimate Ray Charles Collection

@@ -10,5 +10,7 @@ tags: ["artist", "jam"]
 
 **Category:** [[Jam]]
 
+**Session ties:** [[Béla Fleck & the Flecktones]]
+
 ## Albums (1)
 - Under The Table And Dreaming

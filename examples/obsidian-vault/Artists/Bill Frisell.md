@@ -10,6 +10,8 @@ tags: ["artist", "jazz"]
 
 **Category:** [[Jazz]]
 
+**Session ties:** [[Jerry Douglas]] · [[John Zorn]] · [[Naked City]] · [[Norah Jones]]
+
 ## Albums (2)
 - Amazon MP3
 - Nashville

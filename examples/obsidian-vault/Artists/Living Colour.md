@@ -10,6 +10,8 @@ tags: ["artist", "metal"]
 
 **Category:** [[Metal]]
 
+**Session ties:** [[The Rolling Stones]]
+
 ## Albums (2)
 - Time's Up
 - Vivid

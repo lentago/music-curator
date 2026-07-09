@@ -10,6 +10,8 @@ tags: ["artist", "metal"]
 
 **Category:** [[Metal]]
 
+**Session ties:** [[Tool]]
+
 ## Albums (6)
 - 2010 - Diamond Eyes
 - Around The Fur [Explicit]

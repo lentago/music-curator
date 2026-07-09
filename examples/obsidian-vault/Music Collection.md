@@ -5,13 +5,13 @@ tags: ["moc"]
 
 # Music Collection
 
-A taste map of the collection. Open the **graph view** (Ctrl/Cmd-G): every artist sits in exactly one **category** hub, each category is its own color, and combo acts link straight to the members they share. Nothing is pre-weighted — the densest nodes are whatever the connectivity makes them.
+A taste map of the collection. Open the **graph view** (Ctrl/Cmd-G): every artist sits in exactly one **category** hub, each category is its own color, combo acts link straight to the members they share, and **session ties** wire artists together through shared personnel. Nothing is pre-weighted — the densest nodes are whatever the connectivity makes them.
 
 ## By the numbers
 
 - **554** artists
 - **32** categories
-- **40** direct artist-to-artist collaboration edges
+- **40** collaboration edges · **396** session-tie edges (shared personnel)
 - **27** in the untagged [[Reservoir]]
 
 ## Start here

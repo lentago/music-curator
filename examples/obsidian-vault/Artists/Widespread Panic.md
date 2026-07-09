@@ -10,6 +10,8 @@ tags: ["artist", "jam"]
 
 **Category:** [[Jam]]
 
+**Session ties:** [[Frogwings]] · [[Leftover Salmon]]
+
 ## Albums (3)
 - Dirty Side Down
 - Jackassolantern

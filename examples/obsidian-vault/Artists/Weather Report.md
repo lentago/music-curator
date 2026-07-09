@@ -10,5 +10,7 @@ tags: ["artist", "jazz"]
 
 **Category:** [[Jazz]]
 
+**Session ties:** [[Jaco Pastorius]]
+
 ## Albums (1)
 - 8-30

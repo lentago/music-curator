@@ -10,6 +10,8 @@ tags: ["artist", "indie-folk-singer-songwriter"]
 
 **Category:** [[Indie Folk & Singer-Songwriter]]
 
+**Session ties:** [[Wilco]]
+
 ## Albums (4)
 - Let It Die
 - Metals

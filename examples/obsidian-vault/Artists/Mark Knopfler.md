@@ -10,6 +10,8 @@ tags: ["artist", "country-americana"]
 
 **Category:** [[Country & Americana]]
 
+**Session ties:** [[Mark Knopfler And Emmylou Harris]] · [[Sting]]
+
 ## Albums (2)
 - Kill to Get Crimson
 - Privateering

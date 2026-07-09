@@ -10,6 +10,8 @@ tags: ["artist", "classic-rock"]
 
 **Category:** [[Classic Rock]]
 
+**Session ties:** [[Monsters Of Folk]]
+
 ## Albums (5)
 - At Dawn
 - At Dawn (Disc 1)

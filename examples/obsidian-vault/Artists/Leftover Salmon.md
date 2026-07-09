@@ -10,6 +10,8 @@ tags: ["artist", "newgrass"]
 
 **Category:** [[Newgrass]]
 
+**Session ties:** [[Béla Fleck]] · [[Del McCoury]] · [[Jerry Douglas]] · [[Lucinda Williams]] · [[Sam Bush]] · [[Taj Mahal & Toumani Diabate]] · [[Waylon Jennings]] · [[Widespread Panic]]
+
 ## Albums (3)
 - Ask the Fish
 - Euphoria

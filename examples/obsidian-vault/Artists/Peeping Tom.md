@@ -10,5 +10,7 @@ tags: ["artist", "patton-orbit"]
 
 **Category:** [[Patton Orbit]]
 
+**Session ties:** [[cLOUDDEAD]] · [[Dan the Automator]] · [[Dr. Octagon]] · [[Massive Attack]] · [[Mr. Bungle]] · [[Norah Jones]] · [[Odd Nosdam]]
+
 ## Albums (1)
 - Peeping Tom

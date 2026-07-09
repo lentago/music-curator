@@ -10,6 +10,8 @@ tags: ["artist", "turntablism-beats"]
 
 **Category:** [[Turntablism & Beats]]
 
+**Session ties:** [[Blackalicious]] · [[Dan the Automator]] · [[DJ Krush]] · [[Dr. Octagon]] · [[Handsome Boy Modeling School]]
+
 ## Albums (4)
 - Endtroducing
 - The Outsider

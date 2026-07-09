@@ -10,6 +10,8 @@ tags: ["artist", "art-pop-new-wave"]
 
 **Category:** [[Art-Pop & New Wave]]
 
+**Session ties:** [[Cat Power]] · [[Compilations]] · [[Johnny Cash]] · [[The Pogues]]
+
 ## Albums (2)
 - Murder Ballads
 - The Best of Nick Cave & the Bad Seeds

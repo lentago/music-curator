@@ -10,5 +10,7 @@ tags: ["artist", "jazz"]
 
 **Category:** [[Jazz]]
 
+**Session ties:** [[Luciana Souza_Romero Lubambo]]
+
 ## Albums (1)
 - Worlds

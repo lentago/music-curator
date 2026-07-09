@@ -10,6 +10,8 @@ tags: ["artist", "soul-funk-r-b"]
 
 **Category:** [[Soul, Funk & R&B]]
 
+**Session ties:** [[JJ Grey & Mofro]]
+
 ## Albums (3)
 - Blackwater
 - Country Ghetto

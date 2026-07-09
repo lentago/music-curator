@@ -10,5 +10,7 @@ tags: ["artist", "country-americana"]
 
 **Category:** [[Country & Americana]]
 
+**Session ties:** [[Emmylou Harris]] · [[The Byrds]]
+
 ## Albums (1)
 - G.P.-Grievous Angel

@@ -10,6 +10,8 @@ tags: ["artist", "underground-hip-hop"]
 
 **Category:** [[Underground Hip-Hop]]
 
+**Session ties:** [[Illogic]]
+
 ## Albums (3)
 - God Loves Ugly
 - When Life Gives You Lemons, You Paint Th

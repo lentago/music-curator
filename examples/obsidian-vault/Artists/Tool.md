@@ -10,6 +10,8 @@ tags: ["artist", "metal"]
 
 **Category:** [[Metal]]
 
+**Session ties:** [[A Perfect Circle]] · [[Bill Hicks]] · [[Deftones]]
+
 ## Albums (6)
 - 10,000 days
 - Ænima
