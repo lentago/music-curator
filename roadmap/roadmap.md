@@ -5,8 +5,10 @@ what it adds, an implementation sketch, a priority, and dependencies. Items
 are grounded in threads that surfaced during the original triage run — not
 speculative feature-padding.
 
-**Status:** The methodology (`music-curation-methodology.md`) and worked
-`examples/` are the core deliverable. The items below are planned extensions.
+**Status:** The methodology (`music-curation-methodology.md`) and the wiki
+it produced (`vault/`, rendered from `data/`) are the core deliverables;
+`examples/` keeps the original run's static artifacts. The items below are
+planned extensions.
 
 **Implemented:**
 - Engineering spine (issue #4) — `schema/music-inventory.schema.json`
@@ -14,10 +16,10 @@ speculative feature-padding.
   integrity checker + near-duplicate artist-key detection). CI runs the validator on
   every change to the inventory, schema, or validator itself (`.github/workflows/validate.yml`).
 - Obsidian graph vault — `obsidian_driver.py` renders the inventory into an
-  Obsidian vault (`examples/obsidian-vault/`) whose graph view clusters artists
+  Obsidian vault (`vault/`) whose graph view clusters artists
   into ~30 color-coded category hubs (one category per artist), letting the
   important nodes surface from the connectivity rather than a prior (see below).
-- Personnel / session-tie edges — `examples/credits.json` is a per-album
+- Personnel / session-tie edges — `data/credits.json` is a per-album
   personnel layer (musicians, producers, guests) researched across the whole
   collection and cross-referenced against the roster; the driver draws ~400
   roster-only artist↔artist "session tie" edges from it (a player who appears on
@@ -130,8 +132,8 @@ color-coded categories. No artist is pre-designated as important; node size
 follows degree, so the hubs emerge from the graph rather than from a prior
 imposed on it.
 
-**Implemented as:** a stdlib-only driver (sibling to `validate.py`), a committed
-worked-example vault at `examples/obsidian-vault/`, and a pre-styled
+**Implemented as:** a stdlib-only driver (sibling to `validate.py`), the
+committed vault at `vault/`, and a pre-styled
 `.obsidian/graph.json` (a distinct color per category, spaced by the golden
 ratio; the meta hubs filtered out). Deterministic and idempotent; the output dir
 is guarded by a marker file so it never clobbers a foreign directory. Edges come

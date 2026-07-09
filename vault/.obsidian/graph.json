@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-tag:#moc",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#anticon",
@@ -234,14 +234,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.9,
-  "nodeSizeMultiplier": 0.7691658004158,
-  "lineSizeMultiplier": 1.00346933471933,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.4,
   "repelStrength": 12,
   "linkStrength": 1,
   "linkDistance": 220,
-  "scale": 0.6207051410685226,
-  "close": false
+  "scale": 0.5,
+  "close": true
 }

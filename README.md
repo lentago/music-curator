@@ -33,12 +33,15 @@ The heuristics that drive Phase 4 — high-confidence discard tells, a **canon-t
 
 ## What's Here
 
-- **[`music-curation-methodology.md`](music-curation-methodology.md)** — the reusable skill. The product of this repo: phases, discard heuristics, pacing, anti-patterns, and exit criteria, written to be inherited by a future session with no memory of the original run.
-- **[`examples/`](examples/)** — a real worked instance from a single ~25,000-file / 700-artist collection, run across **13 triage rounds** (16.8% discard rate):
+- **[`music-curation-methodology.md`](music-curation-methodology.md)** — the reusable skill: phases, discard heuristics, pacing, anti-patterns, and exit criteria, written to be inherited by a future session with no memory of the original run.
+- **[`data/`](data/)** — the living data source the wiki is rendered from:
+  - [`music-inventory.json`](data/music-inventory.json) — the cleaned, tagged inventory (schema-validated in CI).
+  - [`credits.json`](data/credits.json) — the per-album personnel layer that drives the session-tie edges.
+- **[`vault/`](vault/)** — the wiki itself: a generated Obsidian vault whose **graph view** turns the taste profile into a visual artist map. See below.
+- **[`obsidian_driver.py`](obsidian_driver.py)** — the driver that renders `data/` into `vault/`.
+- **[`examples/`](examples/)** — the original worked run, from a single ~25,000-file / 700-artist collection across **13 triage rounds** (16.8% discard rate):
   - [`chris-music-profile.md`](examples/chris-music-profile.md) — the distilled taste profile: foundational anchors, confirmed signal lanes, threads queued for exploration.
-  - [`music-inventory.json`](examples/music-inventory.json) — the cleaned, tagged data source the profile is built from.
   - [`music-tree`](examples/music-tree) — the raw library tree that was fed in, kept as an input fixture so the before/after is visible.
-- **[`obsidian_driver.py`](obsidian_driver.py)** — a driver that renders the inventory into an Obsidian vault whose **graph view** turns the taste profile into a visual artist map. See below.
 - **[`roadmap/roadmap.md`](roadmap/roadmap.md)** — planned capabilities (periodic Spotify harvest, streaming + collection merge, packaging as a Claude skill), grounded in threads that surfaced during the original run.
 
 ## Obsidian graph vault
@@ -56,10 +59,10 @@ not the scaffolding. No artist is pre-weighted as an "anchor"; the important
 nodes surface from the connectivity itself, since Obsidian sizes nodes by degree.
 
 ```bash
-python obsidian_driver.py            # → examples/obsidian-vault/
+python obsidian_driver.py            # → vault/
 ```
 
-What comes out (from the worked example's 554 active artists):
+What comes out (from the collection's 554 active artists):
 
 - **Artist notes** each link to exactly one **category** hub, and each category
   is its own color, so the ~30 clusters read at a glance.
@@ -71,15 +74,15 @@ What comes out (from the worked example's 554 active artists):
 - **Session ties** wire artists together through **shared personnel** — a
   musician who played on both artists' albums (Marc Ribot across Tom Waits *and*
   John Zorn; Jerry Douglas' dobro across the whole bluegrass/newgrass web). These
-  ~400 edges come from [`examples/credits.json`](examples/credits.json), a
+  ~400 edges come from [`data/credits.json`](data/credits.json), a
   per-album personnel layer researched and cross-referenced against the roster;
   only roster artists become ties. They cross the category clusters — the
   collection's hidden wiring.
 - **Untagged reservoir** artists (no category yet) hang off a single `Reservoir`
   hub, hidden from the default view so the taste map stays legible.
 
-A ready-made vault ships at [`examples/obsidian-vault/`](examples/obsidian-vault/)
-so the graph is browsable without running anything. It is fully generated —
+The vault ships pre-built at [`vault/`](vault/) so the graph is browsable
+without running anything. It is fully generated —
 regenerate rather than hand-editing. Discarded artists are dropped by default;
 `--include-discarded` keeps them (tagged `#discarded`).
 

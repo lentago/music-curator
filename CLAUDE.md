@@ -16,24 +16,26 @@ sentence is plenty; don't make a meal of it.
 
 ## What this repo is
 
-A prompt-engineered methodology, not code. The deliverable is a **spec** —
+Two deliverables share the repo. The original is a **spec** —
 `music-curation-methodology.md` — that converts a low-effort representation
 of a person's music collection (directory tree, Spotify export, prose) into
-a clean, queryable taste profile a model can mine across conversations. It
-is the same genre as `reference-checker`: the product is the prompt/spec,
-the `examples/` are a worked instance.
+a clean, queryable taste profile a model can mine across conversations
+(same genre as `reference-checker`). Grown on top of it is the **wiki** —
+`vault/`, an Obsidian graph rendered by `obsidian_driver.py` from the
+living data source in `data/`. The `examples/` hold the original worked
+run's static artifacts (distilled profile + raw input tree).
 
 ## Artifacts
 
 | File | Role |
 |---|---|
-| `music-curation-methodology.md` | **The product.** The reusable skill: five phases, discard heuristics, canon-tolerance / lesser-album / fragmentation rules, pacing, anti-patterns, exit criteria. |
-| `examples/chris-music-profile.md` | A worked instance — Chris's distilled taste profile (anchors, signal lanes, exploration threads). The analog of reference-checker's `reports/`. |
-| `examples/music-inventory.json` | The cleaned, tagged data source the profile is built from. Schema is documented in the methodology's "Outputs produced" section. |
+| `music-curation-methodology.md` | **The spec.** The reusable skill: five phases, discard heuristics, canon-tolerance / lesser-album / fragmentation rules, pacing, anti-patterns, exit criteria. |
+| `data/music-inventory.json` | The cleaned, tagged data source the wiki and profile are built from. Schema is documented in the methodology's "Outputs produced" section. |
+| `data/credits.json` | Per-album personnel research layer (musicians/producers/guests, web-verified with `source`+`confidence`), consolidated from the bullpen fan-out. The driver derives ~400 roster-only "session tie" artist↔artist edges from it. Regenerate credits separately from the inventory. |
+| `obsidian_driver.py` | Stdlib-only driver that renders `data/` into the vault (each artist note → one `category` hub wikilink, ~30 color-coded categories). Sibling to `validate.py`. |
+| `vault/` | **The wiki.** Generated Obsidian vault — regenerate with the driver, don't hand-edit. Ships a pre-styled `.obsidian/graph.json`. Guarded by a `.generated-by-music-curator` marker. |
+| `examples/chris-music-profile.md` | The original worked run's distilled taste profile (anchors, signal lanes, exploration threads). The analog of reference-checker's `reports/`. |
 | `examples/music-tree` | The raw library tree fed in, kept as an input fixture. |
-| `examples/credits.json` | Per-album personnel research layer (musicians/producers/guests, web-verified with `source`+`confidence`), consolidated from the bullpen fan-out. The driver derives ~400 roster-only "session tie" artist↔artist edges from it. Regenerate credits separately from the inventory. |
-| `obsidian_driver.py` | Stdlib-only driver that renders the inventory into an Obsidian vault (each artist note → one `category` hub wikilink, ~30 color-coded categories). Sibling to `validate.py`. |
-| `examples/obsidian-vault/` | **Generated** worked-example vault — regenerate with the driver, don't hand-edit. Ships a pre-styled `.obsidian/graph.json`. Guarded by a `.generated-by-music-curator` marker. |
 | `roadmap/roadmap.md` | Planned capabilities, grounded in threads from the original run (periodic Spotify harvest, streaming + collection merge, skill packaging). |
 
 ## Conventions to respect
@@ -58,7 +60,8 @@ the `examples/` are a worked instance.
 ## Using the methodology on a new collection
 
 Point a fresh session at `music-curation-methodology.md`, hand it the user's
-collection dump, and run the five phases. The `examples/` show what a
-finished run looks like end to end. Cross-reference a new run's data source
+collection dump, and run the five phases. The worked artifacts here
+(`examples/`, `data/`, `vault/`) show what a finished run looks like end
+to end. Cross-reference a new run's data source
 before reaching for external recommendations — listeners usually already own
 foundational material in a thread they want to explore.
