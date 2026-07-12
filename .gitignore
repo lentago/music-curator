@@ -6,3 +6,12 @@
 # Python
 __pycache__/
 *.pyc
+
+# Harvester secrets must NEVER be committed — they live only on the n8n host
+# (/opt/n8n/.env, chmod 600) and in Bitwarden. Belt-and-braces:
+.env
+*.env
+
+# Raw daily Spotify snapshots land on the NAS, not the repo. Only the periodic
+# per-artist roll-ups (data/harvests/YYYY-MM.json) are committed.
+data/harvests/spotify-*.json
