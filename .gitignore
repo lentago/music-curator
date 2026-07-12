@@ -11,6 +11,7 @@ __pycache__/
 # (/opt/n8n/.env, chmod 600) and in Bitwarden. Belt-and-braces:
 .env
 *.env
+.spotify
 
 # Raw daily Spotify snapshots land on the NAS, not the repo. Only the periodic
 # per-artist roll-ups (data/harvests/YYYY-MM.json) are committed.
