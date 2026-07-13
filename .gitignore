@@ -16,3 +16,9 @@ data/my_spotify_data/
 # its .obsidian state constantly, and a vault rename from inside Obsidian
 # renames the folder itself — neither belongs in history.
 /Music/
+
+# Harvester secrets must NEVER be committed — they live only on the n8n host
+# (/opt/n8n/.env, chmod 600) and in Bitwarden. Belt-and-braces:
+.env
+*.env
+.spotify
