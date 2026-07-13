@@ -1,33 +1,33 @@
 # data/harvests/
 
-The **committed roll-up** side of the periodic Spotify harvest. See
-[`../../harvest/`](../../harvest/) for the harvester itself and
+The **committed roll-up** landing for the periodic Spotify harvest. See
+[`../../harvest/`](../../harvest/) for the harvester and
 [`../../roadmap/spotify-data-availability.md`](../../roadmap/spotify-data-availability.md)
-for what Spotify actually exposes.
+for what Spotify exposes.
 
-## What lands here vs. on the NAS
+## What lands here vs. in the queue
 
-- **Raw daily snapshots do NOT live here.** They land on the NAS
-  (`lentago:/spotify-harvest/spotify-YYYY-MM-DD.json`) — one per day, kept off
-  git so the repo doesn't accrete a snapshot every 24h.
-- **This folder holds periodic roll-ups** — a compact per-artist aggregate
-  (e.g. `2026-07.json`: play/appearance counts, first/last seen, which top
-  ranges an artist showed up in) committed monthly, so the repo carries a
-  versioned, diffable trail of rotation drift over time without the raw bulk.
+- **Raw daily snapshots do NOT live here, and are not files on any share.** The
+  daily producer publishes each snapshot to a **durable Redis queue** (list
+  `spotify:harvests`) on the n8n box, where it buffers until the monthly
+  roll-up.
+- **This folder holds the monthly roll-up** — a compact per-artist aggregate
+  (`YYYY-MM.json`: play/appearance counts, first/last seen, which top-ranges an
+  artist showed up in) committed by the roll-up workflow's **GitHub node** after
+  it drains the queue. So the repo carries a versioned, diffable trail of
+  rotation drift over time, without the raw per-day bulk.
 
 ## Status
 
-**Staged.** The daily → NAS harvester is the first milestone; the roll-up
-generator (NAS snapshots → this folder, committed via a monthly n8n workflow
-or a LAN-side job) is a fast-follow, wired once the daily path is proven. Until
-then this folder is a placeholder.
+**Staged.** The daily → Redis producer is built; the monthly consumer that
+drains Redis, aggregates, and commits here is the next piece (see the harvest
+README's Status).
 
 ## These are inputs, not the inventory
 
 Nothing here rewrites [`../music-inventory.json`](../music-inventory.json).
 Folding a harvest into the curated inventory is a separate, deliberate,
-human-in-the-loop step (per the roadmap's Streaming + Collection Merge design):
-new signals update `tagged` / `anchor` / the future `rotation` field and append
-genuinely new artists, but **never silently resurrect discarded entries**, and
-artist-name drift is reconciled with the same Phase-2 dedup logic. The merge
-tool stays under review; the harvest just supplies clean, dated evidence.
+human-in-the-loop step: new signals update `tagged` / `anchor` / the future
+`rotation` field and append genuinely new artists, but **never silently
+resurrect discarded entries**; name drift is reconciled with the Phase-2 dedup
+logic.

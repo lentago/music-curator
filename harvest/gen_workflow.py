@@ -124,13 +124,12 @@ const snapshot = {
   counts: { saved_tracks: saved_tracks.length, followed_artists: followed_artists.length, playlists: playlists.length, recently_played: recently_played.length },
 };
 
-const filename = `spotify-${dateStr}.json`;
-const bin = await helpers.prepareBinaryData(Buffer.from(JSON.stringify(snapshot, null, 2), 'utf8'), filename, 'application/json');
-return [{ json: { filename, harvested_at: snapshot.harvested_at, counts: snapshot.counts }, binary: { data: bin } }];
+// Emit the snapshot as a JSON string for the Redis Push node (durable queue).
+return [{ json: { harvested_at: snapshot.harvested_at, counts: snapshot.counts, snapshot: JSON.stringify(snapshot) } }];
 """
 
 workflow = {
-    "name": "Spotify daily harvest (music-curator)",
+    "name": "Spotify daily harvest → Redis (music-curator)",
     "nodes": [
         {
             "parameters": {
@@ -151,22 +150,26 @@ workflow = {
             "position": [620, 300],
         },
         {
+            # Push the snapshot JSON onto a durable Redis list (the queue); the
+            # monthly roll-up workflow drains it. Assign the Redis credential in
+            # the n8n UI after import (host `redis`, port 6379, same compose net).
             "parameters": {
-                "operation": "write",
-                "fileName": "=/data/harvests/{{ $json.filename }}",
-                "dataPropertyName": "data",
-                "options": {"append": False},
+                "operation": "push",
+                "list": "spotify:harvests",
+                "messageData": "={{ $json.snapshot }}",
+                "tail": True,
+                "options": {},
             },
             "id": "a1000000-0000-4000-8000-000000000003",
-            "name": "Write to NAS",
-            "type": "n8n-nodes-base.readWriteFile",
+            "name": "Publish to Redis queue",
+            "type": "n8n-nodes-base.redis",
             "typeVersion": 1,
             "position": [860, 300],
         },
     ],
     "connections": {
         "Daily 06:00": {"main": [[{"node": "Harvest Spotify", "type": "main", "index": 0}]]},
-        "Harvest Spotify": {"main": [[{"node": "Write to NAS", "type": "main", "index": 0}]]},
+        "Harvest Spotify": {"main": [[{"node": "Publish to Redis queue", "type": "main", "index": 0}]]},
     },
     "settings": {"executionOrder": "v1", "saveManualExecutions": True},
     "active": False,
