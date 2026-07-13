@@ -59,7 +59,7 @@ Spotify Web API with a stored token — keep any token out of the repo).
 
 ### Streaming + Collection Merge
 
-**Priority:** High
+**Priority:** High — **shipped (batch spine), 2026-07-12**
 
 **What it adds:** The example profile explicitly notes the gap — the MP3
 collection is a *historical* taste artifact (deepest investment ~2000–2010),
@@ -67,16 +67,25 @@ while Spotify shows the *current* rotation, and they don't fully overlap. A
 first-class merge keeps both lenses in one data source instead of treating
 them as separate documents.
 
-**Implementation sketch:**
-- Add a `rotation` dimension to the inventory schema (current / dormant /
-  historical) distinct from `era`.
-- Reconcile naming drift across sources (a streaming artist string vs. a
-  folder-name spelling) using the same dedup logic as Phase 2.
-- Surface "current rotation has no collection roots" and "deep collection
-  anchor absent from current rotation" as explicit findings — both are
-  exploration fuel.
+**Shipped as:** [`streaming_merge.py`](../streaming_merge.py), run against the
+GDPR Extended Streaming History export (2011→2026, kept untracked — it carries
+IP addresses). It writes a `rotation` field (current / dormant / historical)
+onto every non-discarded inventory artist (schema updated accordingly), emits
+the compact committed sidecar `data/streaming-summary.json` (per-artist plays,
+minutes, first/last played, per-year histogram — inventory-matched artists plus
+streaming-only artists above a 10-play floor), and prints the three finding
+classes: current rotation without collection roots, collection anchors absent
+from rotation, and discarded-but-streamed artists (surfaced, never silently
+resurrected). Name drift is bridged with the Phase 2 alnum normalization plus
+an extensible alias map. Thresholds: a play = ≥30 s; current = ≥10 plays in the
+trailing 18 months (measured from the newest play in the export, so reruns are
+stable); dormant floor = 10 lifetime plays.
 
-**Dependencies:** Periodic Spotify harvest above.
+**Remaining:** refresh `rotation` from the periodic harvest (above) instead of
+one-off GDPR exports; surface rotation in the vault (artist-note field and/or a
+graph preset); fold the findings into the distilled profile.
+
+**Dependencies:** Periodic Spotify harvest above (for the refresh path).
 
 ---
 
