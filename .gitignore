@@ -22,3 +22,7 @@ data/my_spotify_data/
 .env
 *.env
 .spotify
+
+# Raw daily Spotify snapshots land on the NAS, not the repo. Only the periodic
+# per-artist roll-ups (data/harvests/YYYY-MM.json) are committed.
+data/harvests/spotify-*.json

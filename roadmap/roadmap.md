@@ -32,28 +32,50 @@ planned extensions.
 
 ## Data-source lifecycle
 
-### Periodic Spotify Harvest (Exportify)
+### Periodic Spotify Harvest (n8n Web API → Redis queue)
 
-**Priority:** High (the natural next step — this is where the original
-conversation ended)
+**Priority:** High — **in progress** (producer built; deploy + consumer remain).
 
-**What it adds:** Turns a one-time collection snapshot into a *living* data
-source. The original run pulled "recently played" via the Spotify API and
-found the sample too thin to be meaningful. [Exportify](https://exportify.net)
-exports full playlist and liked-songs data; run on a schedule, it becomes a
-periodic harvest that keeps the current-rotation picture fresh alongside the
-historical-collection picture.
+**What it adds:** Turns the one-time snapshot into a *living* data source. The
+original run found `recently-played` too thin; this is the live-snapshot layer
+that complements the GDPR Extended Streaming History export (the lifetime batch
+spine — see [`spotify-data-availability.md`](spotify-data-availability.md)).
 
-**Implementation sketch:**
-- Document the Exportify export → normalize-to-inventory step as a Phase 1
-  intake variant (the methodology already accepts Spotify exports as input).
-- Define a merge rule: new harvest rows update `tagged`/`anchor`/rotation
-  signals on existing artists and append genuinely new ones; they never
-  silently resurrect discarded entries.
-- Stamp each harvest with a date so rotation drift is visible over time.
+**Architecture (message-queue — no shared filesystem):**
 
-**Dependencies:** A repeatable export path (Exportify in-browser, or the
-Spotify Web API with a stored token — keep any token out of the repo).
+```
+Daily    n8n: Schedule → Code (fetch snapshot) → Redis Push → list "spotify:harvests"
+Monthly  n8n: Schedule → drain list → aggregate per-artist → GitHub commit data/harvests/YYYY-MM.json
+```
+
+Runs on the n8n box (LXC 113); Redis is a container in the same compose. The
+earlier NAS-file design was abandoned: Proxmox forbids bind-mounts via the
+Terraform pipeline's API token, and the attempt destroyed the CT (see memory
+`n8n-ct-recovery-model`). The queue doubles as the month-long buffer, so the
+repo gets one roll-up commit per month, not one per day.
+
+**Built (PR #32):** the data-availability spec, the loopback-PKCE bootstrap
+(`harvest/spotify_auth_bootstrap.py`), and the daily **producer** workflow
+(`harvest/gen_workflow.py` → `spotify-harvest.workflow.json`).
+
+**Remaining (concrete next steps):**
+1. Deploy Redis to `/opt/n8n/docker-compose.yml` + wire the Spotify
+   `/opt/n8n/.env` — in-guest, low-risk (snippet in `harvest/README.md`).
+2. Add two n8n credentials: a Redis connection and a fine-grained GitHub PAT
+   (`contents:write` on `music-curator`).
+3. Import + test the producer; confirm a snapshot lands on the Redis list.
+4. Build the monthly **consumer** (`harvest/rollup.workflow.json`): Redis Llen →
+   pop N → aggregate (play/appearance counts, first/last seen, top-range hits)
+   → GitHub commit.
+5. Correct the spec's playlist row — playlist *contents* (`/playlists/{id}/tracks`)
+   return 403 for a Dev-Mode operator app; only `/me/playlists` metadata works.
+
+**Merge rule (unchanged):** harvest signals update `tagged`/`anchor`/`rotation`
+and append new artists; they never silently resurrect discarded entries; each
+harvest is date-stamped so rotation drift stays visible.
+
+**Dependencies:** the n8n box (LXC 113); a stored refresh token kept out of the
+repo. See memory `spotify-harvest-status`.
 
 ---
 

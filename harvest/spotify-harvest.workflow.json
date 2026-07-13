@@ -1,0 +1,84 @@
+{
+  "name": "Spotify daily harvest \u2192 Redis (music-curator)",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "days",
+              "triggerAtHour": 6
+            }
+          ]
+        }
+      },
+      "id": "a1000000-0000-4000-8000-000000000001",
+      "name": "Daily 06:00",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        380,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Spotify daily harvest \u2014 music-curator. n8n Code node, \"Run Once for All Items\".\n// Secrets come from the n8n host env (needs N8N_BLOCK_ENV_ACCESS_IN_NODE=false):\n//   SPOTIFY_CLIENT_ID, SPOTIFY_REFRESH_TOKEN   (see harvest/README.md)\n// PKCE public-client refresh: no client secret is used anywhere.\nconst helpers = this.helpers;\nconst CID = $env.SPOTIFY_CLIENT_ID;\nconst RT = $env.SPOTIFY_REFRESH_TOKEN;\nif (!CID || !RT) {\n  throw new Error('Missing SPOTIFY_CLIENT_ID / SPOTIFY_REFRESH_TOKEN in n8n env (set N8N_BLOCK_ENV_ACCESS_IN_NODE=false).');\n}\n\n// setTimeout may be absent in some sandboxes \u2014 degrade to no-op sleep.\nconst sleep = (ms) => (typeof setTimeout === 'function' ? new Promise((r) => setTimeout(r, ms)) : Promise.resolve());\n\n// --- refresh the access token ---\nlet tokenResp = await helpers.httpRequest({\n  method: 'POST',\n  url: 'https://accounts.spotify.com/api/token',\n  headers: { 'content-type': 'application/x-www-form-urlencoded' },\n  body: new URLSearchParams({ grant_type: 'refresh_token', refresh_token: RT, client_id: CID }).toString(),\n});\nif (typeof tokenResp === 'string') tokenResp = JSON.parse(tokenResp);\nconst access = tokenResp.access_token;\nif (!access) throw new Error('No access_token from refresh: ' + JSON.stringify(tokenResp));\n\n// --- GET helper with 429 backoff ---\nasync function api(url, qs) {\n  for (let attempt = 0; attempt < 5; attempt++) {\n    try {\n      return await helpers.httpRequest({ method: 'GET', url, qs, headers: { Authorization: 'Bearer ' + access }, json: true });\n    } catch (e) {\n      const sc = e.statusCode || e.httpCode || (e.response && e.response.statusCode);\n      if (sc === 429) {\n        const ra = Number((e.response && e.response.headers && e.response.headers['retry-after']) || 2);\n        await sleep((ra + 1) * 1000);\n        continue;\n      }\n      throw e;\n    }\n  }\n  throw new Error('Too many 429s for ' + url);\n}\n\n// --- follow offset-paginated `next` links ---\nasync function pageAll(url, qs, cap = 10000) {\n  const out = [];\n  let page = await api(url, qs);\n  while (page && page.items) {\n    out.push(...page.items);\n    if (!page.next || out.length >= cap) break;\n    page = await api(page.next);\n    await sleep(120);\n  }\n  return out;\n}\n\n// --- trimmers (popularity was removed from the API in Feb 2026, so it's absent by design) ---\nconst trimArtist = (a) => ({ id: a.id, name: a.name, genres: a.genres || [] });\nconst trimTrack = (t) => t && {\n  id: t.id, name: t.name, uri: t.uri,\n  artists: (t.artists || []).map((x) => x.name),\n  album: t.album && t.album.name,\n  duration_ms: t.duration_ms,\n};\n\nconst API = 'https://api.spotify.com/v1';\nconst ranges = ['short_term', 'medium_term', 'long_term'];\n\nconst me = await api(API + '/me');\n\nconst top = { artists: {}, tracks: {} };\nfor (const r of ranges) {\n  const ta = await api(API + '/me/top/artists', { time_range: r, limit: 50 });\n  top.artists[r] = (ta.items || []).map(trimArtist);\n  const tt = await api(API + '/me/top/tracks', { time_range: r, limit: 50 });\n  top.tracks[r] = (tt.items || []).map(trimTrack);\n}\n\nconst savedRaw = await pageAll(API + '/me/tracks', { limit: 50 });\nconst saved_tracks = savedRaw.map((it) => ({ added_at: it.added_at, ...trimTrack(it.track) }));\n\nconst followed_artists = [];\n{\n  let page = await api(API + '/me/following', { type: 'artist', limit: 50 });\n  while (page && page.artists) {\n    followed_artists.push(...(page.artists.items || []).map(trimArtist));\n    if (!page.artists.next) break;\n    page = await api(page.artists.next);\n    await sleep(120);\n  }\n}\n\nconst playlistsRaw = await pageAll(API + '/me/playlists', { limit: 50 });\nconst playlists = playlistsRaw.map((p) => ({\n  id: p.id, name: p.name, owner: p.owner && p.owner.id,\n  tracks_total: p.tracks && p.tracks.total, public: p.public, collaborative: p.collaborative,\n}));\n\nconst rp = await api(API + '/me/player/recently-played', { limit: 50 });\nconst recently_played = (rp.items || []).map((it) => ({ played_at: it.played_at, ...trimTrack(it.track) }));\n\nconst now = new Date();\nconst dateStr = now.toISOString().slice(0, 10);\nconst snapshot = {\n  harvested_at: now.toISOString(),\n  source: 'spotify-web-api',\n  harvester: 'music-curator/n8n',\n  schema: 1,\n  profile: { id: me.id, display_name: me.display_name, country: me.country, product: me.product, followers: me.followers && me.followers.total },\n  top,\n  saved_tracks,\n  followed_artists,\n  playlists,\n  recently_played,\n  counts: { saved_tracks: saved_tracks.length, followed_artists: followed_artists.length, playlists: playlists.length, recently_played: recently_played.length },\n};\n\n// Emit the snapshot as a JSON string for the Redis Push node (durable queue).\nreturn [{ json: { harvested_at: snapshot.harvested_at, counts: snapshot.counts, snapshot: JSON.stringify(snapshot) } }];\n"
+      },
+      "id": "a1000000-0000-4000-8000-000000000002",
+      "name": "Harvest Spotify",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        620,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "push",
+        "list": "spotify:harvests",
+        "messageData": "={{ $json.snapshot }}",
+        "tail": true,
+        "options": {}
+      },
+      "id": "a1000000-0000-4000-8000-000000000003",
+      "name": "Publish to Redis queue",
+      "type": "n8n-nodes-base.redis",
+      "typeVersion": 1,
+      "position": [
+        860,
+        300
+      ]
+    }
+  ],
+  "connections": {
+    "Daily 06:00": {
+      "main": [
+        [
+          {
+            "node": "Harvest Spotify",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Harvest Spotify": {
+      "main": [
+        [
+          {
+            "node": "Publish to Redis queue",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true
+  },
+  "active": false
+}
