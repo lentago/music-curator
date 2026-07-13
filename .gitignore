@@ -10,3 +10,9 @@ __pycache__/
 # GDPR account exports carry PII (IP addresses per play) — never commit the
 # raw export; the committed layer is the derived data/streaming-summary.json.
 data/my_spotify_data/
+
+# Chris's local Obsidian working copy of the vault (regenerated with
+# `obsidian_driver.py --out Music`). Untracked by design: Obsidian rewrites
+# its .obsidian state constantly, and a vault rename from inside Obsidian
+# renames the folder itself — neither belongs in history.
+/Music/
