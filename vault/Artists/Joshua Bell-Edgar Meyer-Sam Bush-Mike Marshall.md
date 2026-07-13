@@ -13,7 +13,7 @@ tags: ["artist", "country-americana"]
 
 **With:** [[Sam Bush]]
 
-**Session ties:** [[Béla Fleck]] · [[Edgar Meyer_Béla Fleck_Mike Marshall]] · [[Jerry Douglas_Russ Barenberg_Edgar Meyer]] · [[Josh Groban]] · [[Joshua Bell_Edgar Meyer_Sam Bush_Mike Ma]] · [[Russ Barenberg]] · [[Strength in Numbers]]
+**Session ties:** [[Béla Fleck]] · [[Edgar Meyer_Béla Fleck_Mike Marshall]] · [[Jerry Douglas_Russ Barenberg_Edgar Meyer]] · [[Joshua Bell_Edgar Meyer_Sam Bush_Mike Ma]] · [[Russ Barenberg]] · [[Strength in Numbers]]
 
 ## Albums (1)
 - Short Trip Home

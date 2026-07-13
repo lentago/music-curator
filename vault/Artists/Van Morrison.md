@@ -10,7 +10,7 @@ tags: ["artist", "soul-funk-r-b"]
 
 **Category:** [[Soul, Funk & R&B]]
 
-**Session ties:** [[Ray Charles]] · [[The Band]] · [[The Departed Soundtrack]]
+**Session ties:** [[Ray Charles]] · [[The Band]]
 
 ## Albums (7)
 - Astral Weeks

@@ -131,7 +131,9 @@
         "Asian Massive"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): label sampler, no artist identity"
     },
     "A Tribe Called Quest": {
       "albums": [
@@ -388,7 +390,9 @@
         "Gloryland"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): never earned a tag"
     },
     "Anthony David": {
       "albums": [
@@ -464,7 +468,9 @@
         "Arkestra One"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): never earned a tag"
     },
     "Astor Piazzolla": {
       "albums": [
@@ -665,7 +671,9 @@
         "Relentless"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): stand-up comedy, not music"
     },
     "Bill Withers": {
       "albums": [
@@ -1109,7 +1117,9 @@
         "Big Wet Kiss"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): never earned a tag"
     },
     "Clap Your Hands Say Yeah": {
       "albums": [
@@ -1332,7 +1342,9 @@
         "the End of Days"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): never earned a tag"
     },
     "DJ Harry": {
       "albums": [
@@ -1463,7 +1475,9 @@
         "Retaliation Disc 2"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): stand-up comedy, not music"
     },
     "Dangelo": {
       "albums": [
@@ -1501,7 +1515,9 @@
         "www.torrent-technics.nfo"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): various-artists comp filed as artist"
     },
     "Das EFX": {
       "albums": [
@@ -1553,7 +1569,9 @@
         "Shut Up, You Fucking Baby! Disc 2"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): stand-up comedy, not music"
     },
     "David Gray": {
       "albums": [
@@ -1591,7 +1609,9 @@
         "Torrent_downloaded_from_Demonoid.com.txt"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): audiobook/spoken word, not music"
     },
     "De La Soul": {
       "albums": [
@@ -2136,7 +2156,9 @@
         "Unknown Album"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): never earned a tag"
     },
     "Faith No More": {
       "albums": [
@@ -2397,7 +2419,9 @@
         "You Are All Diseased [Explicit]"
       ],
       "album_count": 7,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): stand-up comedy, not music"
     },
     "Gerd": {
       "albums": [
@@ -2708,7 +2732,9 @@
         "downloads.dat"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): rip junk — unidentifiable fragments"
     },
     "Incubus": {
       "albums": [
@@ -2830,7 +2856,9 @@
         "testament_cd3"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): unidentifiable — never resolved to a real artist"
     },
     "Jack Johnson": {
       "albums": [
@@ -3011,7 +3039,9 @@
         "Silken Walls"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): never earned a tag"
     },
     "Jim Florentine": {
       "albums": [
@@ -3019,7 +3049,9 @@
         "Jim Florentine Is Terrorizing Telemarketers"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): stand-up comedy, not music"
     },
     "Jimi Hendrix": {
       "albums": [
@@ -3191,7 +3223,9 @@
         "Josh Groban in Concert Disc 1"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): never earned a tag — not Chris's lane"
     },
     "Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall": {
       "albums": [
@@ -3711,7 +3745,9 @@
         "Torrent downloaded from Demonoid.com.txt"
       ],
       "album_count": 4,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): stand-up comedy, not music"
     },
     "Marc Ribot Y los Cubanos Postizos": {
       "albums": [
@@ -3895,7 +3931,9 @@
         "Disc 7"
       ],
       "album_count": 7,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): audiobook, not music"
     },
     "Michael Jackson": {
       "albums": [
@@ -4131,7 +4169,9 @@
         "Unknown Album (8_25_2007 1_46_42 AM)"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): never earned a tag"
     },
     "Múm": {
       "albums": [
@@ -5050,7 +5090,9 @@
         "A Whiter Shade of Pale-A Question of Honour"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): never earned a tag — not Chris's lane"
     },
     "Sarah McLachlan": {
       "albums": [
@@ -5097,7 +5139,9 @@
         "Celtic Classics, Vol. 2"
       ],
       "album_count": 1,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): unidentifiable — never resolved to a real artist"
     },
     "Sharon Isbin": {
       "albums": [
@@ -5760,7 +5804,9 @@
         "Music From The Motion Picture The Departed"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): soundtrack comp filed as artist"
     },
     "The Derek Trucks Band": {
       "albums": [
@@ -5903,7 +5949,9 @@
         "Testament CD3"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): unidentifiable — never resolved to a real artist"
     },
     "The Klezmatics": {
       "albums": [
@@ -6304,7 +6352,9 @@
         "Weeeeee!"
       ],
       "album_count": 2,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): novelty web audio, not collection signal"
     },
     "Timbaland": {
       "albums": [
@@ -6580,7 +6630,9 @@
         "Unknown Album (8_18_2007 12_25_06 AM)"
       ],
       "album_count": 3,
-      "tagged": false
+      "tagged": false,
+      "discard": true,
+      "discard_reason": "confirmed by Chris (reservoir purge 2026-07-12 — post-Spotify-transfer audit): rip junk — unattributed misc folder"
     },
     "Vast Aire": {
       "albums": [
