@@ -9,10 +9,10 @@ A taste map of the collection. Open the **graph view** (Ctrl/Cmd-G): every artis
 
 ## By the numbers
 
-- **554** artists
+- **528** artists
 - **13** top-level categories · **17** subcategories
-- **40** collaboration edges · **396** session-tie edges (shared personnel)
-- **27** in the untagged [[Reservoir]]
+- **40** collaboration edges · **387** session-tie edges (shared personnel)
+- **1** in the untagged [[Reservoir]]
 
 ## Start here
 

@@ -11,7 +11,7 @@ tags: ["artist", "rock"]
 
 **Category:** Rock › [[Punk & Hardcore]]
 
-**Session ties:** [[The Departed Soundtrack]] · [[The Pogues]]
+**Session ties:** [[The Pogues]]
 
 ## Albums (2)
 - Sing Loud, Sing Proud

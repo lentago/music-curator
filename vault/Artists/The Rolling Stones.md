@@ -11,7 +11,7 @@ tags: ["artist", "rock"]
 
 **Category:** Rock › [[Classic Rock]]
 
-**Session ties:** [[Little Feat]] · [[Living Colour]] · [[Merry Clayton]] · [[The Departed Soundtrack]] · [[Tom Waits]]
+**Session ties:** [[Little Feat]] · [[Living Colour]] · [[Merry Clayton]] · [[Tom Waits]]
 
 ## Albums (2)
 - L A Forum (Live 1975)

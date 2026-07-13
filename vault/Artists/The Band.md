@@ -10,7 +10,7 @@ tags: ["artist", "country-americana"]
 
 **Category:** [[Country & Americana]]
 
-**Session ties:** [[Bob Dylan]] · [[Emmylou Harris]] · [[Muddy Waters]] · [[Neil Young]] · [[Neko Case]] · [[The Departed Soundtrack]] · [[Van Morrison]]
+**Session ties:** [[Bob Dylan]] · [[Emmylou Harris]] · [[Muddy Waters]] · [[Neil Young]] · [[Neko Case]] · [[Van Morrison]]
 
 ## Albums (1)
 - The Last Waltz
