@@ -11,7 +11,7 @@ tags: ["artist", "rock"]
 
 **Category:** Rock › [[Jam]]
 
-**Session ties:** [[Frogwings]] · [[The Departed Soundtrack]]
+**Session ties:** [[Frogwings]]
 
 ## Albums (1)
 - The Road Goes On Forever

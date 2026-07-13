@@ -11,8 +11,6 @@ tags: ["artist", "rock"]
 
 **Category:** Rock › [[Classic Rock]]
 
-**Session ties:** [[The Departed Soundtrack]]
-
 ## Albums (3)
 - The Dark Side of the Moon [Gold Disc]
 - the dark side of the moon (sacd)

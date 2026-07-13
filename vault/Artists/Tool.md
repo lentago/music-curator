@@ -11,7 +11,7 @@ tags: ["artist", "rock"]
 
 **Category:** Rock › [[Metal]]
 
-**Session ties:** [[A Perfect Circle]] · [[Bill Hicks]] · [[Deftones]]
+**Session ties:** [[A Perfect Circle]] · [[Deftones]]
 
 ## Albums (6)
 - 10,000 days
