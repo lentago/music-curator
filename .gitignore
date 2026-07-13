@@ -6,3 +6,7 @@
 # Python
 __pycache__/
 *.pyc
+
+# GDPR account exports carry PII (IP addresses per play) — never commit the
+# raw export; the committed layer is the derived data/streaming-summary.json.
+data/my_spotify_data/

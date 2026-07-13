@@ -98,7 +98,8 @@
         "discard_reason":{ "type": "string" },
         "note":          { "type": "string" },
         "anchor":        { "type": "boolean" },
-        "anchor_note":   { "type": "string" }
+        "anchor_note":   { "type": "string" },
+        "rotation":      { "type": "string", "enum": ["current", "dormant", "historical"] }
       },
       "allOf": [
         {
