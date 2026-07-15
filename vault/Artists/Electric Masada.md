@@ -10,7 +10,7 @@ tags: ["artist", "avant-garde-experimental"]
 
 **Category:** [[Avant-Garde & Experimental]]
 
-**Session ties:** [[John Zorn]] · [[Marc Ribot Y los Cubanos Postizos]]
+**Session ties:** [[Fantômas]] · [[John Zorn]] · [[Marc Ribot Y los Cubanos Postizos]] · [[Masada]] · [[Mr. Bungle]] · [[Naked City]]
 
 ## Albums (1)
 - 50th Birthday Celebration, Vol. 4

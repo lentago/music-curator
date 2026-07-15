@@ -10,5 +10,7 @@ tags: ["artist", "world"]
 
 **Category:** [[World]]
 
+**Session ties:** [[John Zorn]]
+
 ## Albums (1)
 - Realize

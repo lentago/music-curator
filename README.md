@@ -37,6 +37,7 @@ The heuristics that drive Phase 4 — high-confidence discard tells, a **canon-t
 - **[`data/`](data/)** — the living data source the wiki is rendered from:
   - [`music-inventory.json`](data/music-inventory.json) — the cleaned, tagged inventory (schema-validated in CI).
   - [`credits.json`](data/credits.json) — the per-album personnel layer that drives the session-tie edges.
+  - [`discographies.json`](data/discographies.json) — the seeded full-discography layer: every known recording for selected anchor artists (owned or not), harvested from canonical discography pages and cross-matched against the collection by [`discography_merge.py`](discography_merge.py).
 - **[`vault/`](vault/)** — the wiki itself: a generated Obsidian vault whose **graph view** turns the taste profile into a visual artist map. See below.
 - **[`obsidian_driver.py`](obsidian_driver.py)** — the driver that renders `data/` into `vault/`.
 - **[`examples/`](examples/)** — the original worked run, from a single ~25,000-file / 700-artist collection across **13 triage rounds** (16.8% discard rate):

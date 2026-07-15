@@ -10,6 +10,8 @@ tags: ["artist", "folk-singer-songwriter"]
 
 **Category:** [[Folk & Singer-Songwriter]]
 
+**Session ties:** [[John Zorn]]
+
 ## Albums (6)
 - Grace
 - Live at Sin-é

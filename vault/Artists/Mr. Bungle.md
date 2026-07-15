@@ -11,7 +11,7 @@ tags: ["artist", "rock"]
 
 **Category:** Rock › [[Metal]]
 
-**Session ties:** [[Fantômas]] · [[John Zorn]] · [[Lovage]] · [[Peeping Tom]]
+**Session ties:** [[Electric Masada]] · [[Fantômas]] · [[John Zorn]] · [[Lovage]] · [[Naked City]] · [[Peeping Tom]]
 
 ## Albums (3)
 - california

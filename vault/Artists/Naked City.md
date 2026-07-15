@@ -10,7 +10,7 @@ tags: ["artist", "avant-garde-experimental"]
 
 **Category:** [[Avant-Garde & Experimental]]
 
-**Session ties:** [[Bill Frisell]] · [[John Zorn]]
+**Session ties:** [[Bill Frisell]] · [[Electric Masada]] · [[Faith No More]] · [[Fantômas]] · [[John Zorn]] · [[Masada]] · [[Mr. Bungle]] · [[Tomahawk]]
 
 ## Albums (2)
 - Naked City Live, Vol. 1 Knitting Factor
