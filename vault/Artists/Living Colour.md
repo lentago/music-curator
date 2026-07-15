@@ -11,7 +11,7 @@ tags: ["artist", "rock"]
 
 **Category:** Rock › [[Metal]]
 
-**Session ties:** [[The Rolling Stones]]
+**Session ties:** [[John Zorn]] · [[The Rolling Stones]]
 
 ## Albums (2)
 - Time's Up

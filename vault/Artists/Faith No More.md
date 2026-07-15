@@ -11,5 +11,7 @@ tags: ["artist", "rock"]
 
 **Category:** Rock › [[Metal]]
 
+**Session ties:** [[John Zorn]] · [[Naked City]]
+
 ## Albums (1)
 - Angel Dust

@@ -11,8 +11,9 @@ A taste map of the collection. Open the **graph view** (Ctrl/Cmd-G): every artis
 
 - **528** artists
 - **13** top-level categories · **17** subcategories
-- **40** collaboration edges · **387** session-tie edges (shared personnel)
+- **40** collaboration edges · **403** session-tie edges (shared personnel)
 - **1** in the untagged [[Reservoir]]
+- **916** recordings in seeded full discographies ([[Aesop Rock]], [[John Zorn]], [[Talking Heads]], [[Tom Waits]])
 
 ## Start here
 

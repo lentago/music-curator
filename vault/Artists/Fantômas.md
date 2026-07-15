@@ -11,7 +11,7 @@ tags: ["artist", "rock"]
 
 **Category:** Rock › [[Metal]]
 
-**Session ties:** [[John Zorn]] · [[Mr. Bungle]]
+**Session ties:** [[Electric Masada]] · [[John Zorn]] · [[Mr. Bungle]] · [[Naked City]]
 
 ## Albums (1)
 - The Director's Cut

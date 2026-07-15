@@ -10,7 +10,7 @@ tags: ["artist", "jazz"]
 
 **Category:** [[Jazz]]
 
-**Session ties:** [[Annie Lennox]] · [[Jaco Pastorius]] · [[John Mayer]] · [[Madlib]] · [[Paul Simon]] · [[Santana]] · [[Sting]]
+**Session ties:** [[Annie Lennox]] · [[Jaco Pastorius]] · [[John Mayer]] · [[John Zorn]] · [[Madlib]] · [[Paul Simon]] · [[Santana]] · [[Sting]]
 
 ## Albums (2)
 - Head Hunters
