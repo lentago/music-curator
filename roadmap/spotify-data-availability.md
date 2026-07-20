@@ -17,7 +17,7 @@ one. They are complementary, not competing.
 | Path | Best for | Cost of entry | The catch |
 |---|---|---|---|
 | **GDPR "Download your data" export** | *Lifetime* per-play history → real play counts, timestamps, skip signal | None — no app, no OAuth, no quota. Just your account. | Batch only (email delivery, up to 30 days); no genre/audio metadata. |
-| **Web API (Development Mode)** | *Snapshot* of library, top artists/tracks, follows, playlists | Register an app; OAuth; **Premium account required as of Feb 2026** | Hard caps (5 users), no audio features / recommendations / genres-at-scale, `recently-played` is only the last 50 plays. |
+| **Web API (Development Mode)** | *Snapshot* of library, top artists/tracks, follows, playlist inventory (names only — contents blocked) | Register an app; OAuth; **Premium account required as of Feb 2026** | Hard caps (5 users), no audio features / recommendations / genres-at-scale, `recently-played` is only the last 50 plays. |
 
 **For this project, the GDPR Extended Streaming History export is the primary
 harvest** — it is the only source that yields lifetime play counts and
@@ -114,7 +114,7 @@ on the Feb 2026 supported list:
 | `GET /me/tracks` | Liked songs, each with `added_at` | `user-library-read` | 50/page, full library, cursor/offset |
 | `GET /me/albums`, `/me/shows`, `/me/episodes`, `/me/audiobooks` | Saved library of each type | `user-library-read` | 50/page |
 | `GET /me/following?type=artist` | Followed artists (incl. artist `genres`) | `user-follow-read` | cursor-paginated |
-| `GET /me/playlists` → `GET /playlists/{id}/tracks` | Playlists, then tracks w/ `added_at` + `added_by` | `playlist-read-private`, `playlist-read-collaborative` | 50/page |
+| `GET /me/playlists` | Playlist inventory (names, ids, owner) — **`tracks` object stripped; no track counts or contents** | `playlist-read-private`, `playlist-read-collaborative` | 50/page |
 | `GET /me/player/recently-played` | **Only the last 50 plays**, w/ `played_at` | `user-read-recently-played` | ⚠️ Hard 50-item ceiling, short window. **This is the "too thin" source the original run hit.** Tracks only. |
 | `GET /me/player`, `/me/player/currently-playing`, `/me/player/queue`, `/me/player/devices` | Live playback state / now-playing | `user-read-playback-state`, `user-read-currently-playing` | Point-in-time; poll to sample |
 | `GET /search` | Catalog search (for name reconciliation) | — | Reduced result limits in Dev Mode |
@@ -139,6 +139,7 @@ pre-existing extended access — i.e. every new app):
 
 **February 2026 additional removals** (new Development Mode client IDs):
 
+- **Playlist track contents** (`GET /playlists/{id}/tracks`, `GET /playlists/{id}?fields=tracks.*`) — returns **403 Forbidden** for every playlist (owned, private, collaborative) on a Development Mode client carrying both playlist scopes. `/me/playlists` itself still responds, but each item arrives with the `tracks` object silently stripped (no totals, no contents). **Do not design harvester features around playlist-content reads via the Web API.** (Verified 2026-07-12 on this project's operator app.)
 - **Bulk / multi-get endpoints** (`GET /tracks?ids=`, `/artists?ids=`,
   `/albums?ids=`) — you must fetch one id at a time now. Makes whole-library
   genre enrichment slow (N calls, rate-limited).
