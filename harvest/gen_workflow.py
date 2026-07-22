@@ -26,7 +26,9 @@ let tokenResp = await helpers.httpRequest({
   method: 'POST',
   url: 'https://accounts.spotify.com/api/token',
   headers: { 'content-type': 'application/x-www-form-urlencoded' },
-  body: new URLSearchParams({ grant_type: 'refresh_token', refresh_token: RT, client_id: CID }).toString(),
+  // Manual form-encode: n8n's Code-node sandbox has no URLSearchParams (a WHATWG
+  // global, not an ECMAScript built-in). encodeURIComponent is standard and safe.
+  body: 'grant_type=refresh_token&refresh_token=' + encodeURIComponent(RT) + '&client_id=' + encodeURIComponent(CID),
 });
 if (typeof tokenResp === 'string') tokenResp = JSON.parse(tokenResp);
 const access = tokenResp.access_token;
