@@ -16,7 +16,7 @@ Daily    Schedule → Code (fetch snapshot) → Redis Push ─┐
                                                         ▼
                                         Redis list  "spotify:harvests"   (durable buffer, ~30/mo)
                                                         │
-Monthly  Schedule → Redis Llen → pop N → Code (aggregate) → GitHub commit
+Monthly  Schedule → Redis Get (list) → Code (aggregate) → GitHub commit → Redis Delete (drain)
                                                         ▼
                                         music-curator/data/harvests/YYYY-MM.json
 ```
@@ -46,12 +46,20 @@ a single roll-up, instead of a commit per day.
 | `spotify_auth_bootstrap.py` | Run **once** on your workstation → prints the refresh token. Stdlib only. |
 | `gen_workflow.py` | Source of truth for the **daily producer** workflow (readable Code-node JS + emitter). Edit here, regenerate — don't hand-edit the JSON. |
 | `spotify-harvest.workflow.json` | Importable n8n **producer** workflow (generated): Schedule → Code → Redis Push. |
-| `rollup.workflow.json` | Importable n8n **monthly consumer** workflow (drains Redis → aggregates → GitHub commit). *(staged — see Status)* |
+| `gen_rollup.py` | Source of truth for the **monthly consumer** workflow (readable Code-node JS + emitter). Edit here, regenerate — don't hand-edit the JSON. |
+| `rollup.workflow.json` | Importable n8n **monthly consumer** workflow (generated): Schedule → Redis Get (list) → Code (aggregate) → GitHub commit → Redis Delete. |
 
 ## Deploy runbook
 
 Steps 1–2 and 5–6 are yours (interactive / credentials); 3–4 are in-guest app
 changes on the n8n box (not Terraform-managed).
+
+> **Pre-staged (2026-07-22):** the in-guest infra of step 3 (Redis service +
+> env wiring + a `/opt/n8n/.env` scaffold with **empty** placeholders) is
+> already applied on LXC 113, and both workflows are already imported into n8n
+> (step 5, inactive: `spotifyHarvest01`, `spotifyRollup01`). What's left for
+> you: steps 1–2 (Spotify OAuth), step 4 (add the two credentials in the UI and
+> assign them), then step 6 (test + activate). See **Status**.
 
 ### 1. Register a Spotify Developer app
 [developer.spotify.com/dashboard](https://developer.spotify.com/dashboard) →
@@ -96,8 +104,12 @@ port 6379, on the compose network.)
   `lentago/music-curator`. Used by the roll-up's GitHub node to commit.
 
 ### 5. Import the workflows
-Editor → **Import from File** → `spotify-harvest.workflow.json` (and, once
-built, `rollup.workflow.json`). Assign the credentials to the Redis/GitHub nodes.
+Both are already imported (see the pre-staged note above). If you ever need to
+re-import: Editor → **Import from File** → `spotify-harvest.workflow.json` and
+`rollup.workflow.json`, or via CLI
+`docker exec n8n n8n import:workflow --input=/tmp/<file>` (the JSON carries a
+stable `id`, so a re-import updates in place rather than duplicating). Assign the
+credentials to the Redis/GitHub nodes.
 
 ### 6. Test, then activate
 Execute the producer once; confirm one item lands on the `spotify:harvests`
@@ -136,6 +148,30 @@ body (a JSON string), not a file:
   "recently_played": […], "counts": {…} }
 ```
 
+## Roll-up schema (v1)
+Each `data/harvests/YYYY-MM.json` the consumer commits is a per-artist aggregate
+over that month's daily snapshots — the compact, diffable signal the
+human-in-the-loop inventory fold reads:
+```jsonc
+{ "month": "YYYY-MM", "generated_at", "source", "harvester", "schema": 1,
+  "snapshot_days",          // how many daily snapshots rolled up
+  "profile", "playlists_count", "artist_count",
+  "artists": {              // keyed by artist name; keys sorted for stable diffs
+    "<name>": {
+      "days_seen",          // distinct snapshot days seen in any signal
+      "first_seen", "last_seen",
+      "top_ranges",         // subset of short/medium/long_term where in top ARTISTS
+      "in_top_artists_days", "in_top_tracks_days",
+      "followed",           // followed at any point in the month
+      "saved_tracks_max",   // max distinct saved tracks by the artist in a snapshot
+      "plays",              // distinct recently-played `played_at`, de-duped across days
+      "genres": […]
+    }, … }
+}
+```
+`plays` de-dupes by `played_at`, so the same play appearing in consecutive daily
+`recently_played` windows counts once — a real, non-inflated listen count.
+
 ## The merge principle
 The roll-up (`data/harvests/YYYY-MM.json`) and every harvest are **inputs**,
 never a live rewrite of the curated inventory. Folding a harvest into
@@ -146,11 +182,33 @@ silently resurrect discarded entries**; name drift is reconciled with the
 Phase-2 dedup logic.
 
 ## Status
-- **Producer** (daily → Redis) — built (`spotify-harvest.workflow.json`).
-- **Redis + credentials + monthly consumer** — staged. The consumer
-  (`rollup.workflow.json`) drains the list, aggregates a per-artist roll-up
-  (play/appearance counts, first/last seen, which top-ranges each artist
-  showed up in), and commits via the GitHub node.
+Both workflows are code-complete and **staged on the n8n box** (LXC 113). The
+harvester is not yet live only because the Spotify OAuth (steps 1–2) hasn't been
+run — there are no other blockers.
+
+- **Producer** (daily → Redis) — built (`spotify-harvest.workflow.json`),
+  imported as `spotifyHarvest01` (inactive).
+- **Consumer** (monthly → GitHub) — built (`rollup.workflow.json`,
+  `gen_rollup.py`), imported as `spotifyRollup01` (inactive). Reads the whole
+  list with a non-destructive Redis Get (keyType `list`), aggregates the
+  per-artist roll-up (see *Roll-up schema*), commits `data/harvests/YYYY-MM.json`
+  via the GitHub node, then deletes the drained key — the Delete only runs if the
+  commit succeeds, so a failed commit preserves the buffer.
+- **Infra staged** — Redis (`redis:7-alpine`, `appendonly yes`) and the env
+  wiring (`env_file`, `N8N_BLOCK_ENV_ACCESS_IN_NODE=false`) are live in
+  `/opt/n8n/docker-compose.yml`; `/opt/n8n/.env` exists (mode 600) with **empty**
+  `SPOTIFY_CLIENT_ID` / `SPOTIFY_REFRESH_TOKEN` placeholders.
+- **Remaining (activation)** — steps 1–2 (register the app + mint the refresh
+  token; needs your Premium account), fill `/opt/n8n/.env` and
+  `docker compose up -d`, add the **Redis** + **GitHub API** credentials in the
+  n8n UI and assign them, test-run the producer (one item on `spotify:harvests`),
+  then activate both workflows.
+
+> **Committing to `main`:** the consumer's GitHub node commits the monthly
+> roll-up directly to the default branch. Confirm the fine-grained PAT (and any
+> branch protection on `music-curator`) permits a bot push to `data/harvests/` on
+> `main`; if not, point the node at a branch and open a PR instead. Verify this
+> at activation — it can't be exercised until there's queue data to roll up.
 
 ## Secrets hygiene
 Nothing secret in the repo. The refresh token lives only in `/opt/n8n/.env`

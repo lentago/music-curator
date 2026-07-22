@@ -129,6 +129,7 @@ return [{ json: { harvested_at: snapshot.harvested_at, counts: snapshot.counts, 
 """
 
 workflow = {
+    "id": "spotifyHarvest01",
     "name": "Spotify daily harvest → Redis (music-curator)",
     "nodes": [
         {

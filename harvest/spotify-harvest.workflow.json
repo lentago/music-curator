@@ -1,4 +1,5 @@
 {
+  "id": "spotifyHarvest01",
   "name": "Spotify daily harvest \u2192 Redis (music-curator)",
   "nodes": [
     {
