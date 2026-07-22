@@ -19,9 +19,11 @@ for what Spotify exposes.
 
 ## Status
 
-**Staged.** The daily → Redis producer is built; the monthly consumer that
-drains Redis, aggregates, and commits here is the next piece (see the harvest
-README's Status).
+**Staged, pending activation.** Both the daily → Redis producer and the monthly
+consumer (which drains Redis, aggregates, and commits here) are built and
+imported into n8n (inactive); Redis and the `.env` scaffold are live on the n8n
+box. What remains is the Spotify OAuth + n8n credentials + activation — see the
+[harvest README's Status](../../harvest/README.md#status).
 
 ## These are inputs, not the inventory
 
