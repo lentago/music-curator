@@ -1,16 +1,16 @@
 ---
 type: "category"
-member_count: 92
+member_count: 93
 tags: ["category", "hip-hop"]
 ---
 
 # Hip-Hop
 
-*Category — 92 artists in the collection.*
+*Category — 93 artists in the collection.*
 
 ## Subcategories
 - [[Turntablism & Beats]] (28)
-- [[Underground]] (54)
+- [[Underground]] (55)
 
 ## Artists (no subcategory)
 - [[Das EFX]]

@@ -11,7 +11,7 @@ tags: ["artist", "electronic"]
 
 **Category:** Electronic › [[Trip-Hop & Downtempo]]
 
-**Session ties:** [[cLOUDDEAD]] · [[Dan the Automator]] · [[Dr. Octagon]] · [[Massive Attack]] · [[Mr. Bungle]] · [[Norah Jones]] · [[Odd Nosdam]]
+**Session ties:** [[cLOUDDEAD]] · [[Dan the Automator]] · [[Dr. Octagon]] · [[Massive Attack]] · [[Mike Patton]] · [[Norah Jones]] · [[Odd Nosdam]]
 
 ## Albums (1)
 - Peeping Tom

@@ -10,7 +10,7 @@ tags: ["artist", "country-americana"]
 
 **Category:** [[Country & Americana]]
 
-**Session ties:** [[Los Lobos]] · [[Marc Ribot Y los Cubanos Postizos]] · [[Masada]] · [[Primus]] · [[Red Hot Chili Peppers]] · [[The Rolling Stones]] · [[William S. Burroughs]]
+**Session ties:** [[Greg Cohen]] · [[Kenny Wollesen]] · [[Los Lobos]] · [[Marc Ribot]] · [[Primus]] · [[Red Hot Chili Peppers]] · [[The Rolling Stones]] · [[William S. Burroughs]]
 
 ## Albums (20)
 - alice

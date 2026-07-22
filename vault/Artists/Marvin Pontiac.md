@@ -10,5 +10,7 @@ tags: ["artist", "avant-garde-experimental"]
 
 **Category:** [[Avant-Garde & Experimental]]
 
+**Session ties:** [[Kenny Wollesen]] · [[Marc Ribot]]
+
 ## Albums (1)
 - The Legendary Marvin Pontiac - Greatest Hits

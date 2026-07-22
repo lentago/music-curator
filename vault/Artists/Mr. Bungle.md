@@ -11,7 +11,7 @@ tags: ["artist", "rock"]
 
 **Category:** Rock › [[Metal]]
 
-**Session ties:** [[Electric Masada]] · [[Fantômas]] · [[John Zorn]] · [[Lovage]] · [[Naked City]] · [[Peeping Tom]]
+**Session ties:** [[John Zorn]] · [[Mike Patton]] · [[Trevor Dunn]]
 
 ## Albums (3)
 - california

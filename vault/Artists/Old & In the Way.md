@@ -11,7 +11,7 @@ tags: ["artist", "country-americana"]
 
 **Category:** Country & Americana › [[Newgrass]]
 
-**Session ties:** [[David Grisman]] · [[Grateful Dead]] · [[Peter Rowan & Jerry Douglas]] · [[The Grateful Dead]]
+**Session ties:** [[David Grisman]] · [[Jerry Garcia]] · [[Peter Rowan & Jerry Douglas]]
 
 ## Albums (2)
 - Breakdown Live Recordings 1973

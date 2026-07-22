@@ -10,7 +10,7 @@ tags: ["artist", "country-americana"]
 
 **Category:** [[Country & Americana]]
 
-**Session ties:** [[Mark Knopfler And Emmylou Harris]] · [[Sting]]
+**Session ties:** [[Mark Knopfler And Emmylou Harris]] · [[Sting]] · [[Tim O'Brien]]
 
 ## Albums (2)
 - Kill to Get Crimson

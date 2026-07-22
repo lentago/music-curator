@@ -11,7 +11,7 @@ tags: ["artist", "hip-hop"]
 
 **Category:** Hip-Hop › [[Turntablism & Beats]]
 
-**Session ties:** [[Dilated Peoples]] · [[LMNO]] · [[Madvillain]]
+**Session ties:** [[Dilated Peoples]] · [[LMNO]] · [[MF DOOM]]
 
 ## Albums (3)
 - Something Wicked This Way Comes

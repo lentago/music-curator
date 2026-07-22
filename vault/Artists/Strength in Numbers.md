@@ -10,7 +10,7 @@ tags: ["artist", "country-americana"]
 
 **Category:** Country & Americana › [[Newgrass]]
 
-**Session ties:** [[Béla Fleck]] · [[Jerry Douglas]] · [[Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall]] · [[Sam Bush]] · [[Yo-Yo Ma-Edgar Meyer-Mark O'Connor]]
+**Session ties:** [[Béla Fleck]] · [[Edgar Meyer]] · [[Jerry Douglas]] · [[Sam Bush]] · [[Yo-Yo Ma-Edgar Meyer-Mark O'Connor]]
 
 ## Albums (1)
 - The Telluride Sessions

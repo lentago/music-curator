@@ -10,7 +10,7 @@ tags: ["artist", "latin"]
 
 **Category:** [[Latin]]
 
-**Session ties:** [[Marc Ribot Y los Cubanos Postizos]]
+**Session ties:** [[Marc Ribot]]
 
 ## Albums (1)
 - President Alien

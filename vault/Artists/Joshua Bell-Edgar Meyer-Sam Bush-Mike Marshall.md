@@ -3,7 +3,7 @@ type: "artist"
 category: "Country & Americana"
 subcategory: "Newgrass"
 album_count: 1
-collaborators: ["Sam Bush"]
+collaborators: ["Edgar Meyer", "Sam Bush", "Mike Marshall"]
 tags: ["artist", "country-americana"]
 ---
 
@@ -11,9 +11,9 @@ tags: ["artist", "country-americana"]
 
 **Category:** Country & Americana › [[Newgrass]]
 
-**With:** [[Sam Bush]]
+**With:** [[Edgar Meyer]] · [[Sam Bush]] · [[Mike Marshall]]
 
-**Session ties:** [[Béla Fleck]] · [[Edgar Meyer_Béla Fleck_Mike Marshall]] · [[Jerry Douglas_Russ Barenberg_Edgar Meyer]] · [[Joshua Bell_Edgar Meyer_Sam Bush_Mike Ma]] · [[Russ Barenberg]] · [[Strength in Numbers]]
+**Session ties:** [[Béla Fleck]] · [[Jerry Douglas_Russ Barenberg_Edgar Meyer]] · [[Joshua Bell_Edgar Meyer_Sam Bush_Mike Ma]]
 
 ## Albums (1)
 - Short Trip Home

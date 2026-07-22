@@ -9,6 +9,8 @@ tags: ["artist", "avant-garde-experimental"]
 
 **Category:** [[Avant-Garde & Experimental]]
 
+**Session ties:** [[Marc Ribot]]
+
 > lane confirmed by Chris ("Balkan and klezmer")
 
 ## Albums (1)

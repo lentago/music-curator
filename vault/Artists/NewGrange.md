@@ -10,7 +10,7 @@ tags: ["artist", "country-americana"]
 
 **Category:** Country & Americana › [[Newgrass]]
 
-**Session ties:** [[Edgar Meyer_Béla Fleck_Mike Marshall]]
+**Session ties:** [[Darol Anger]] · [[Mike Marshall]] · [[Tim O'Brien]]
 
 ## Albums (1)
 - NewGrange

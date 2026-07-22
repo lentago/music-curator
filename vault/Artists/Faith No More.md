@@ -11,7 +11,7 @@ tags: ["artist", "rock"]
 
 **Category:** Rock › [[Metal]]
 
-**Session ties:** [[John Zorn]] · [[Naked City]]
+**Session ties:** [[Mike Patton]]
 
 ## Albums (1)
 - Angel Dust

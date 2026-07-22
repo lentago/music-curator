@@ -11,7 +11,7 @@ tags: ["artist", "electronic"]
 
 **Category:** Electronic › [[Trip-Hop & Downtempo]]
 
-**Session ties:** [[Dan the Automator]] · [[Mr. Bungle]] · [[Mr. Lif]]
+**Session ties:** [[Dan the Automator]] · [[Mike Patton]] · [[Mr. Lif]]
 
 ## Albums (1)
 - Music to Make Love to Your Old Lady By

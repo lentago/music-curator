@@ -3,7 +3,7 @@ type: "artist"
 category: "Country & Americana"
 subcategory: "Newgrass"
 album_count: 1
-collaborators: ["David Grisman"]
+collaborators: ["Jerry Garcia", "David Grisman"]
 tags: ["artist", "country-americana"]
 ---
 
@@ -11,9 +11,9 @@ tags: ["artist", "country-americana"]
 
 **Category:** Country & Americana › [[Newgrass]]
 
-**With:** [[David Grisman]]
+**With:** [[Jerry Garcia]] · [[David Grisman]]
 
-**Session ties:** [[Grateful Dead]] · [[Jerry Garcia-David Grisman-Tony Rice]] · [[Old & in the Way-Jerry Garcia-David Grisman]] · [[The Grateful Dead]]
+**Session ties:** [[Old & in the Way-Jerry Garcia-David Grisman]]
 
 ## Albums (1)
 - Shady Grove

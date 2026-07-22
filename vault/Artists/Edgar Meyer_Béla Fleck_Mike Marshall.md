@@ -11,7 +11,7 @@ tags: ["artist", "country-americana"]
 
 **Category:** Country & Americana › [[Newgrass]]
 
-**Session ties:** [[Alison Brown]] · [[Anger_Marshall Band]] · [[Béla Fleck]] · [[Béla Fleck & the Flecktones]] · [[Jerry Douglas_Russ Barenberg_Edgar Meyer]] · [[Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall]] · [[Joshua Bell_Edgar Meyer_Sam Bush_Mike Ma]] · [[NewGrange]] · [[Russ Barenberg]] · [[Yo-Yo Ma-Edgar Meyer-Mark O'Connor]]
+**Session ties:** [[Béla Fleck]] · [[Edgar Meyer]] · [[Mike Marshall]] · [[Russ Barenberg]]
 
 ## Albums (1)
 - Uncommon Ritual

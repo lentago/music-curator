@@ -11,7 +11,7 @@ tags: ["artist", "country-americana"]
 
 **Category:** Country & Americana › [[Bluegrass]]
 
-**Session ties:** [[Béla Fleck]] · [[Edgar Meyer_Béla Fleck_Mike Marshall]] · [[Sam Bush]] · [[Tony Rice Unit]]
+**Session ties:** [[Béla Fleck]] · [[Darol Anger]] · [[Mike Marshall]] · [[Sam Bush]] · [[Stuart Duncan]] · [[Tim O'Brien]] · [[Tony Rice Unit]]
 
 ## Albums (1)
 - Fair Weather

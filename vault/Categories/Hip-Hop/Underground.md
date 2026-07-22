@@ -1,13 +1,13 @@
 ---
 type: "subcategory"
 category: "Hip-Hop"
-member_count: 54
+member_count: 55
 tags: ["subcategory", "hip-hop"]
 ---
 
 # Underground
 
-*Subcategory of [[Hip-Hop]] — 54 artists.*
+*Subcategory of [[Hip-Hop]] — 55 artists.*
 
 ## Artists
 - [[A Tribe Called Quest]]
@@ -45,6 +45,7 @@ tags: ["subcategory", "hip-hop"]
 - [[Jedi Mind Tricks]]
 - [[Jurassic 5]]
 - [[LMNO]]
+- [[MF DOOM]]
 - [[Mos Def]]
 - [[Mos Def & Talib Kweli]]
 - [[Mr. Lif]]

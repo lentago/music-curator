@@ -11,7 +11,7 @@ tags: ["artist", "hip-hop"]
 
 **Category:** Hip-Hop › [[Turntablism & Beats]]
 
-**Session ties:** [[Danger Mouse & Daniele Luppi]] · [[Gnarls Barkley]] · [[Madvillain]] · [[Talib Kweli]]
+**Session ties:** [[Danger Mouse & Daniele Luppi]] · [[Gnarls Barkley]] · [[Madvillain]] · [[MF DOOM]] · [[Talib Kweli]]
 
 ## Albums (1)
 - the mouse and the mask

@@ -10,7 +10,7 @@ tags: ["artist", "country-americana"]
 
 **Category:** Country & Americana › [[Newgrass]]
 
-**Session ties:** [[David Grisman Quintet]] · [[Edgar Meyer_Béla Fleck_Mike Marshall]] · [[Joshua Bell_Edgar Meyer_Sam Bush_Mike Ma]]
+**Session ties:** [[Darol Anger]] · [[Mike Marshall]]
 
 > Darol Anger + Mike Marshall newgrass collab
 

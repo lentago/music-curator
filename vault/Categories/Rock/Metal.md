@@ -1,13 +1,13 @@
 ---
 type: "subcategory"
 category: "Rock"
-member_count: 17
+member_count: 18
 tags: ["subcategory", "rock"]
 ---
 
 # Metal
 
-*Subcategory of [[Rock]] — 17 artists.*
+*Subcategory of [[Rock]] — 18 artists.*
 
 ## Artists
 - [[A Perfect Circle]]
@@ -18,6 +18,7 @@ tags: ["subcategory", "rock"]
 - [[Incubus]]
 - [[Living Colour]]
 - [[Mastodon]]
+- [[Maynard James Keenan]]
 - [[Mr. Bungle]]
 - [[Primus]]
 - [[Rage Against the Machine]]

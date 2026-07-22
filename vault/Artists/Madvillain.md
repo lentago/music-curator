@@ -11,7 +11,7 @@ tags: ["artist", "hip-hop"]
 
 **Category:** Hip-Hop › [[Turntablism & Beats]]
 
-**Session ties:** [[dangerdoom]] · [[Lootpack]] · [[Madlib]] · [[Quasimoto]] · [[The Herbaliser]] · [[Vast Aire]]
+**Session ties:** [[dangerdoom]] · [[Lootpack]] · [[Madlib]] · [[MF DOOM]] · [[Quasimoto]]
 
 ## Albums (1)
 - Madvillainy

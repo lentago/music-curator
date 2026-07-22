@@ -11,7 +11,7 @@ tags: ["artist", "rock"]
 
 **Category:** Rock › [[Jam]]
 
-**Session ties:** [[Jerry Douglas]] · [[Leo Kottke & Mike Gordon]] · [[Phish]] · [[Trey Anastasio Band]]
+**Session ties:** [[Cyro Baptista]] · [[Jerry Douglas]] · [[Leo Kottke & Mike Gordon]] · [[Phish]] · [[Trey Anastasio Band]]
 
 ## Albums (2)
 - Plasma

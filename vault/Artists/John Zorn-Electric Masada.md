@@ -13,7 +13,7 @@ tags: ["artist", "avant-garde-experimental"]
 
 **With:** [[John Zorn]] · [[Electric Masada]]
 
-**Session ties:** [[Marc Ribot Y los Cubanos Postizos]]
+**Session ties:** [[Cyro Baptista]] · [[Joey Baron]] · [[Kenny Wollesen]] · [[Marc Ribot]] · [[Trevor Dunn]]
 
 ## Albums (2)
 - At the Mountains of Madness Disc 1

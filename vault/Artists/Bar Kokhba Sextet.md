@@ -10,7 +10,7 @@ tags: ["artist", "avant-garde-experimental"]
 
 **Category:** [[Avant-Garde & Experimental]]
 
-**Session ties:** [[John Zorn]] · [[Marc Ribot Y los Cubanos Postizos]]
+**Session ties:** [[Cyro Baptista]] · [[Greg Cohen]] · [[Joey Baron]] · [[John Zorn]] · [[Marc Ribot]]
 
 ## Albums (4)
 - 50th Birthday Celebration, Vol. 11 Disc

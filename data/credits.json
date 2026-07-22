@@ -2,7 +2,7 @@
   "meta": {
     "source": "bullpen personnel research, 11 chunks (pilot + chunk-01..10); discography-seed personnel fan-out 2026-07-15 (Zorn/Aesop Rock/Waits/Talking Heads)",
     "albums_researched": 1691,
-    "in_collection_links": 1757
+    "in_collection_links": 1965
   },
   "artists": {
     "10,000 Maniacs": {
@@ -275,7 +275,7 @@
             "confidence": "high",
             "source": "knowledge",
             "in_collection": true,
-            "collection_match": "Tool"
+            "collection_match": "Maynard James Keenan"
           },
           {
             "name": "Billy Howerdel",
@@ -295,7 +295,7 @@
             "confidence": "high",
             "source": "knowledge",
             "in_collection": true,
-            "collection_match": "Tool"
+            "collection_match": "Maynard James Keenan"
           },
           {
             "name": "Billy Howerdel",
@@ -336,7 +336,7 @@
             "confidence": "high",
             "source": "knowledge",
             "in_collection": true,
-            "collection_match": "Tool"
+            "collection_match": "Maynard James Keenan"
           },
           {
             "name": "Billy Howerdel",
@@ -2642,7 +2642,8 @@
             "role": "fiddle (guest)",
             "confidence": "high",
             "source": "https://en.wikipedia.org/wiki/Fair_Weather_(album)",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Stuart Duncan"
           },
           {
             "name": "Tony Rice",
@@ -2658,14 +2659,15 @@
             "confidence": "high",
             "source": "https://en.wikipedia.org/wiki/Fair_Weather_(album)",
             "in_collection": true,
-            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall"
+            "collection_match": "Mike Marshall"
           },
           {
             "name": "Darol Anger",
             "role": "fiddle (guest)",
             "confidence": "high",
             "source": "https://en.wikipedia.org/wiki/Fair_Weather_(album)",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Darol Anger"
           },
           {
             "name": "Vince Gill",
@@ -2679,7 +2681,8 @@
             "role": "mandolin, vocals (guest, track 8)",
             "confidence": "high",
             "source": "https://en.wikipedia.org/wiki/Fair_Weather_(album)",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Tim O'Brien"
           },
           {
             "name": "David Grier",
@@ -3046,7 +3049,8 @@
             "role": "fiddle",
             "confidence": "high",
             "source": "allmusic",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Darol Anger"
           },
           {
             "name": "Mike Marshall",
@@ -3054,7 +3058,7 @@
             "confidence": "high",
             "source": "allmusic",
             "in_collection": true,
-            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall"
+            "collection_match": "Mike Marshall"
           },
           {
             "name": "Derek Jones",
@@ -3178,7 +3182,8 @@
             "role": "violin, mandolin",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Darol Anger"
           },
           {
             "name": "Mike Marshall",
@@ -3186,7 +3191,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall"
+            "collection_match": "Mike Marshall"
           }
         ]
       }
@@ -3727,7 +3732,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Mark Feldman",
@@ -3748,21 +3753,24 @@
             "role": "bass",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
             "role": "drums",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           }
         ]
       },
@@ -3783,7 +3791,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Mark Feldman",
@@ -3804,21 +3812,24 @@
             "role": "bass",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
             "role": "drums",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           }
         ]
       },
@@ -3839,7 +3850,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Mark Feldman",
@@ -3860,21 +3871,24 @@
             "role": "bass",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
             "role": "drums",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           }
         ]
       },
@@ -3895,7 +3909,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Mark Feldman",
@@ -3916,21 +3930,24 @@
             "role": "bass",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
             "role": "drums",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           }
         ]
       }
@@ -5602,7 +5619,8 @@
             "role": "fiddle",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Stuart Duncan"
           },
           {
             "name": "Mark O'Connor",
@@ -5670,7 +5688,7 @@
             "confidence": "medium",
             "source": "allmusic",
             "in_collection": true,
-            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall"
+            "collection_match": "Mike Marshall"
           }
         ]
       },
@@ -5691,7 +5709,7 @@
             "confidence": "high",
             "source": "allmusic",
             "in_collection": true,
-            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall"
+            "collection_match": "Edgar Meyer"
           },
           {
             "name": "Chris Thile",
@@ -5786,7 +5804,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall"
+            "collection_match": "Edgar Meyer"
           },
           {
             "name": "Mike Marshall",
@@ -5794,7 +5812,7 @@
             "confidence": "medium",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall"
+            "collection_match": "Mike Marshall"
           },
           {
             "name": "Mark O'Connor",
@@ -5847,7 +5865,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall"
+            "collection_match": "Edgar Meyer"
           },
           {
             "name": "Chick Corea",
@@ -5904,7 +5922,8 @@
             "role": "fiddle",
             "confidence": "high",
             "source": "allmusic",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Stuart Duncan"
           },
           {
             "name": "Tony Rice",
@@ -5969,7 +5988,8 @@
             "role": "fiddle",
             "confidence": "high",
             "source": "allmusic",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Stuart Duncan"
           },
           {
             "name": "Tony Rice",
@@ -6244,7 +6264,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall"
+            "collection_match": "Edgar Meyer"
           },
           {
             "name": "Jon Anderson",
@@ -9692,7 +9712,8 @@
             "role": "acoustic bass",
             "confidence": "medium",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Mark Saunders",
@@ -9955,7 +9976,7 @@
             "confidence": "high",
             "source": "knowledge",
             "in_collection": true,
-            "collection_match": "Anger_Marshall Band"
+            "collection_match": "Darol Anger"
           },
           {
             "name": "Todd Phillips",
@@ -10742,7 +10763,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Tool"
+            "collection_match": "Maynard James Keenan"
           }
         ]
       }
@@ -11568,7 +11589,8 @@
             "role": "double bass, piano, producer",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Edgar Meyer"
           },
           {
             "name": "Béla Fleck",
@@ -11583,7 +11605,8 @@
             "role": "mandolin, mandocello, mandola",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Mike Marshall"
           }
         ]
       }
@@ -11816,14 +11839,15 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Trevor Dunn",
             "role": "bass",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Jamie Saft",
@@ -11844,21 +11868,24 @@
             "role": "drums",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Kenny Wollesen",
             "role": "drums",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           }
         ]
       },
@@ -11879,7 +11906,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Jamie Saft",
@@ -11901,7 +11928,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
@@ -11909,21 +11936,23 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Kenny Wollesen",
             "role": "drums",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Kazunori Sugiyama",
@@ -12592,7 +12621,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           }
         ]
       }
@@ -12664,7 +12693,8 @@
             "role": "vocals",
             "confidence": "high",
             "source": "knowledge",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Mike Bordin",
@@ -12714,7 +12744,7 @@
             "confidence": "high",
             "source": "knowledge",
             "in_collection": true,
-            "collection_match": "Mr. Bungle"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Buzz Osborne (King Buzzo)",
@@ -12728,7 +12758,8 @@
             "role": "bass",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Dave Lombardo",
@@ -14084,7 +14115,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Jerry Garcia & David Grisman"
+            "collection_match": "Jerry Garcia"
           },
           {
             "name": "Bob Weir",
@@ -14139,7 +14170,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Jerry Garcia & David Grisman"
+            "collection_match": "Jerry Garcia"
           },
           {
             "name": "Bob Weir",
@@ -15588,7 +15619,8 @@
             "role": "fiddle, mandolin",
             "confidence": "medium",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Stuart Duncan"
           },
           {
             "name": "\"Cowboy\" Jack Clement",
@@ -15738,7 +15770,8 @@
             "role": "drums / percussion",
             "confidence": "medium",
             "source": "musicbrainz",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Tony Garnier",
@@ -16860,7 +16893,8 @@
             "role": "guest musician",
             "confidence": "medium",
             "source": "knowledge",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Tim O'Brien"
           }
         ]
       },
@@ -16949,7 +16983,7 @@
             "confidence": "high",
             "source": "BluegrassBios.com / search results",
             "in_collection": true,
-            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall, Jerry Douglas_Russ Barenberg_Edgar Meyer, Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall, Yo-Yo Ma-Edgar Meyer-Mark O'Connor"
+            "collection_match": "Edgar Meyer"
           },
           {
             "name": "Sam Bush",
@@ -16972,7 +17006,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Grateful Dead"
+            "collection_match": "Jerry Garcia"
           },
           {
             "name": "David Grisman",
@@ -17016,7 +17050,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Jerry Garcia & David Grisman"
+            "collection_match": "Jerry Garcia"
           },
           {
             "name": "David Grisman",
@@ -17341,7 +17375,8 @@
             "role": "bass",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Ben Perowsky",
@@ -17403,7 +17438,8 @@
             "role": "bass",
             "confidence": "high",
             "source": "musicbrainz",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Ikue Mori",
@@ -17465,7 +17501,8 @@
             "role": "bass",
             "confidence": "high",
             "source": "musicbrainz",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Ikue Mori",
@@ -17493,7 +17530,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Fantômas"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Trey Spruance",
@@ -17620,7 +17657,8 @@
             "role": "bass",
             "confidence": "high",
             "source": "musicbrainz",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Bill Laswell",
@@ -17634,7 +17672,8 @@
             "role": "percussion",
             "confidence": "high",
             "source": "musicbrainz",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Jennifer Charles",
@@ -17649,7 +17688,7 @@
             "confidence": "high",
             "source": "musicbrainz",
             "in_collection": true,
-            "collection_match": "Fantômas"
+            "collection_match": "Mike Patton"
           }
         ]
       },
@@ -17725,7 +17764,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Mark Feldman",
@@ -17746,21 +17785,24 @@
             "role": "bass",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
             "role": "drums",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           }
         ]
       },
@@ -17781,7 +17823,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Bill Frisell",
@@ -17817,7 +17859,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Fantômas"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Marc Ribot",
@@ -17825,7 +17867,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Fred Frith",
@@ -17896,7 +17938,8 @@
             "role": "drums",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Michael Vatcher",
@@ -17937,7 +17980,8 @@
             "role": "drums",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Michael Vatcher",
@@ -17981,7 +18025,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Wayne Horvitz",
@@ -18009,7 +18053,8 @@
             "role": "percussion",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           }
         ]
       },
@@ -18046,7 +18091,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Wayne Horvitz",
@@ -18074,7 +18119,8 @@
             "role": "percussion",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           }
         ]
       },
@@ -18108,7 +18154,8 @@
             "role": "bass",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           }
         ]
       },
@@ -18142,7 +18189,8 @@
             "role": "bass",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Marc Ribot",
@@ -18150,21 +18198,23 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Joey Baron",
             "role": "drums",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           }
         ]
       },
@@ -18206,21 +18256,24 @@
             "role": "bass",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
             "role": "drums",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Kenny Wollesen",
             "role": "vibes",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           }
         ]
       },
@@ -18241,7 +18294,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Mike Patton",
@@ -18249,7 +18302,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Fantômas"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Dave Douglas",
@@ -18263,21 +18316,24 @@
             "role": "percussion",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Joey Baron",
             "role": "drums",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Greg Cohen",
             "role": "bass",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Jamie Saft",
@@ -18347,7 +18403,8 @@
             "role": "cuica",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Joey Baron",
@@ -18355,7 +18412,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Tim Berne",
@@ -18398,7 +18455,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Carol Emanuel",
@@ -18529,7 +18586,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Bobby Previte",
@@ -18836,7 +18893,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "William Winant",
@@ -18902,7 +18959,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Samm Bennett",
@@ -19157,7 +19214,8 @@
             "role": "vibraphone, percussion, Wollesonics",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Stephen Gosling",
@@ -19200,14 +19258,15 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Kenny Wollesen",
             "role": "vibraphone",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Ben Perowsky",
@@ -19222,7 +19281,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           }
         ],
         "notes": "Full title: The Goddess - Music for the Ancient of Days; Dreamers-adjacent lyrical ensemble."
@@ -19251,21 +19310,23 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Kenny Wollesen",
             "role": "drums, vibraphone, chimes, timpani, Wollesonics, percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "John Medeski",
@@ -19281,7 +19342,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           }
         ],
         "notes": "Inspired by William S. Burroughs' Interzone."
@@ -19302,14 +19363,16 @@
             "role": "percussion (tracks 1-8)",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Kenny Wollesen",
             "role": "percussion (tracks 1-8)",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Peter Evans",
@@ -19365,7 +19428,8 @@
             "role": "vibraphone, chimes, vocals",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Shanir Ezra Blumenkranz",
@@ -19386,7 +19450,8 @@
             "role": "percussion, prayer bells, vocals",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           }
         ],
         "notes": "Continuous suite inspired by Rene Daumal and Gurdjieff."
@@ -19450,7 +19515,7 @@
             "confidence": "high",
             "source": "tzadik",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Sofia Rei",
@@ -19465,7 +19530,7 @@
             "confidence": "high",
             "source": "tzadik",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "John Medeski",
@@ -19481,7 +19546,7 @@
             "confidence": "high",
             "source": "tzadik",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
@@ -19489,21 +19554,23 @@
             "confidence": "high",
             "source": "tzadik",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Kenny Wollesen",
             "role": "vibraphone",
             "confidence": "high",
             "source": "tzadik",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "tzadik",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           }
         ],
         "notes": "Vinyl Singles Edition box (six 7\" singles): Zorn's 60th-birthday song project with lyrics by his vocal collaborators."
@@ -19532,7 +19599,7 @@
             "confidence": "high",
             "source": "tzadik",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Tyshawn Sorey",
@@ -19568,7 +19635,7 @@
             "confidence": "high",
             "source": "tzadik",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Sofia Rei",
@@ -19583,7 +19650,7 @@
             "confidence": "high",
             "source": "tzadik",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "John Medeski",
@@ -19599,7 +19666,7 @@
             "confidence": "high",
             "source": "tzadik",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
@@ -19607,21 +19674,23 @@
             "confidence": "high",
             "source": "tzadik",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Kenny Wollesen",
             "role": "vibraphone",
             "confidence": "high",
             "source": "tzadik",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "tzadik",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           }
         ],
         "notes": "Recorded live at Le Poisson Rouge, NYC, January 5, 2015; same tentet as the studio Song Project."
@@ -19847,7 +19916,8 @@
             "role": "drums, chimes",
             "confidence": "high",
             "source": "tzadik",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Kazunori Sugiyama",
@@ -20545,7 +20615,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Jay Rodrigues",
@@ -21229,7 +21299,8 @@
             "role": "percussion, vocals",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Greg Cohen",
@@ -21237,7 +21308,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Anthony Coleman",
@@ -21301,7 +21372,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Julie Steinberg",
@@ -21336,7 +21407,8 @@
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Joey Baron",
@@ -21344,7 +21416,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Sim Cain",
@@ -21359,7 +21431,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Mark Feldman",
@@ -21411,7 +21483,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Robert Quine",
@@ -21426,7 +21498,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Roberto Rodriguez",
@@ -21477,7 +21549,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           }
         ],
         "notes": "Improvising trio of Zorn, Mori and Patton (Tzadik limited edition)."
@@ -21506,7 +21578,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           }
         ],
         "notes": "Hemophiliac live at Tonic, September 2003 (50th-birthday residency)."
@@ -21803,7 +21875,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           }
         ],
         "notes": "Live at Tonic, September 2003; Hamid Drake replaces Mick Harris, Mike Patton guests on voice."
@@ -22052,7 +22124,8 @@
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Naná Vasconcelos",
@@ -22115,7 +22188,8 @@
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Anthony Coleman",
@@ -22151,7 +22225,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "David Shea",
@@ -22187,7 +22261,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
@@ -22195,7 +22269,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Robert Quine",
@@ -22245,7 +22319,8 @@
             "role": "percussion, voice",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Bobby Previte",
@@ -22260,7 +22335,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Kermit Driscoll",
@@ -22375,7 +22450,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Robert Quine",
@@ -22404,7 +22479,8 @@
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Joey Baron",
@@ -22412,7 +22488,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Carol Emanuel",
@@ -22476,14 +22552,15 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Jason Baker",
@@ -22511,7 +22588,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Greg Cohen",
@@ -22519,14 +22596,15 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Mark Feldman",
@@ -22612,7 +22690,8 @@
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Christian Marclay",
@@ -22642,7 +22721,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Peter Scherer",
@@ -22713,7 +22792,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Erik Friedlander",
@@ -22735,7 +22814,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Anthony Coleman",
@@ -22749,14 +22828,16 @@
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Kenny Wollesen",
             "role": "drums, vibraphone, percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           }
         ],
         "notes": "The Port of Last Resort sextet (tracks 1-11) plus Latin Boys Go to Hell percussion group (tracks 12-21)."
@@ -22791,7 +22872,8 @@
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           }
         ],
         "notes": "Personnel from the soundtrack section of the Wikipedia article on the film Trembling Before G-d; recorded June 2000, Brooklyn."
@@ -22826,7 +22908,8 @@
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           }
         ]
       },
@@ -22861,7 +22944,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Vanessa Saft",
@@ -22917,7 +23000,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Min Xiao-Fen",
@@ -22932,7 +23015,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Roberto Juan Rodríguez",
@@ -22946,7 +23029,8 @@
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Erik Friedlander",
@@ -22974,7 +23058,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Rob Burger",
@@ -22996,14 +23080,15 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Kenny Wollesen",
             "role": "vibraphone, marimba, drums",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           }
         ]
       },
@@ -23024,14 +23109,15 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Kenny Wollesen",
             "role": "vibraphone",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Trevor Dunn",
@@ -23039,14 +23125,15 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Ganda Suthivarakom",
@@ -23080,7 +23167,8 @@
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           }
         ]
       },
@@ -23114,7 +23202,8 @@
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Ikue Mori",
@@ -23169,14 +23258,16 @@
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Kenny Wollesen",
             "role": "drums, percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           }
         ]
       },
@@ -23217,7 +23308,8 @@
             "role": "vibraphone",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Marc Ribot",
@@ -23225,7 +23317,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           }
         ]
       },
@@ -23246,7 +23338,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Rob Burger",
@@ -23309,7 +23401,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           }
         ]
       },
@@ -23330,7 +23422,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Carol Emanuel",
@@ -23351,7 +23443,8 @@
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Uri Caine",
@@ -23365,7 +23458,8 @@
             "role": "vibraphone, chimes, percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           }
         ],
         "notes": "Ribot/Emanuel/Blumenkranz trio on Belle de Nature (tracks 1-7); Baptista/Caine/Wollesen/Zorn on The New Rijksmuseum (tracks 8-17)."
@@ -23386,7 +23480,8 @@
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Lisa Bielawa",
@@ -23449,7 +23544,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Marc Ribot",
@@ -23457,14 +23552,15 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Kenny Wollesen",
             "role": "drums, vibraphone, bass marimba",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           }
         ]
       },
@@ -23492,14 +23588,15 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Kenny Wollesen",
             "role": "drums, vibraphone",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           }
         ]
       },
@@ -23577,7 +23674,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Marc Ribot",
@@ -23585,7 +23682,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Anthony Coleman",
@@ -23621,7 +23718,8 @@
             "role": "drums",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Chris Speed",
@@ -23664,7 +23762,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "John Zorn",
@@ -23722,7 +23820,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "John Zorn",
@@ -23757,7 +23855,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "John Zorn",
@@ -23786,7 +23884,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Tim Sparks",
@@ -24289,7 +24387,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "William Winant",
@@ -24359,7 +24457,8 @@
             "role": "drums",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Anthony Coleman",
@@ -24509,7 +24608,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Ben Perowsky",
@@ -24636,7 +24735,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Buzz Osborne",
@@ -24652,7 +24751,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Dave Lombardo",
@@ -24743,7 +24842,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "John Zorn",
@@ -24786,7 +24885,8 @@
             "role": "drums",
             "confidence": "high",
             "source": "tzadik",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           }
         ]
       },
@@ -24820,7 +24920,8 @@
             "role": "drums",
             "confidence": "high",
             "source": "tzadik",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           }
         ]
       },
@@ -24854,7 +24955,8 @@
             "role": "drums",
             "confidence": "high",
             "source": "tzadik",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           }
         ],
         "notes": "Single continuous live set recorded May 24, 2024 at Roulette, Brooklyn."
@@ -24875,7 +24977,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Ben Perowsky",
@@ -24992,7 +25094,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Trevor Dunn",
@@ -25000,7 +25102,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "G. Calvin Weston",
@@ -25226,7 +25328,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Jamie Saft",
@@ -25240,7 +25342,8 @@
             "role": "vibraphone",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Trevor Dunn",
@@ -25248,7 +25351,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
@@ -25256,14 +25359,15 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "John Zorn",
@@ -25298,14 +25402,15 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Kenny Wollesen",
             "role": "drums",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "John Zorn",
@@ -25325,7 +25430,8 @@
             "role": "percussion, vocals",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Brian Marsella",
@@ -26147,7 +26253,8 @@
             "role": "vibraphone",
             "confidence": "high",
             "source": "https://www.trevordunn.net/releases/andras-book-of-angels-vol-28",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Trevor Dunn",
@@ -26155,7 +26262,7 @@
             "confidence": "high",
             "source": "https://www.trevordunn.net/releases/andras-book-of-angels-vol-28",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
@@ -26163,14 +26270,15 @@
             "confidence": "high",
             "source": "https://www.trevordunn.net/releases/andras-book-of-angels-vol-28",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Cyro Baptista",
             "role": "congas, percussion",
             "confidence": "high",
             "source": "https://www.trevordunn.net/releases/andras-book-of-angels-vol-28",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "John Zorn",
@@ -26276,14 +26384,15 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Kenny Wollesen",
             "role": "drums",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "John Zorn",
@@ -26844,7 +26953,8 @@
             "role": "vibraphone",
             "confidence": "high",
             "source": "https://johnzornresource.com/the-book-beri-ah-vol-7",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "John Zorn",
@@ -26963,7 +27073,8 @@
             "role": "percussion",
             "confidence": "high",
             "source": "tzadik",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Brian Marsella",
@@ -27278,7 +27389,8 @@
             "role": "drums",
             "confidence": "high",
             "source": "https://johnzornresource.com/john-zorn-s-bagatelles-vol-5",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "John Zorn",
@@ -27371,7 +27483,7 @@
             "confidence": "high",
             "source": "https://johnzornresource.com/john-zorn-s-bagatelles-vol-9",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Trevor Dunn",
@@ -27379,7 +27491,7 @@
             "confidence": "high",
             "source": "https://johnzornresource.com/john-zorn-s-bagatelles-vol-9",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Kenny Grohowski",
@@ -27933,7 +28045,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "John Zorn",
@@ -28764,7 +28876,8 @@
             "role": "drums",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Anu Komsi",
@@ -29088,7 +29201,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Brad Lubman",
@@ -29109,7 +29222,8 @@
             "role": "drums",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Mathieu Amalric",
@@ -31272,7 +31386,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Trevor Dunn",
@@ -31280,7 +31394,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
@@ -31288,7 +31402,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "John Zorn",
@@ -31309,7 +31423,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Trevor Dunn",
@@ -31317,7 +31431,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
@@ -31325,7 +31439,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "John Zorn",
@@ -31346,7 +31460,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Trevor Dunn",
@@ -31354,7 +31468,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
@@ -31362,7 +31476,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "John Zorn",
@@ -31419,7 +31533,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Trevor Dunn",
@@ -31427,7 +31541,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
@@ -31435,7 +31549,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "John Zorn",
@@ -31451,7 +31565,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           }
         ]
       },
@@ -31464,7 +31578,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Trevor Dunn",
@@ -31472,7 +31586,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
@@ -31480,7 +31594,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "John Zorn",
@@ -31496,7 +31610,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           }
         ]
       },
@@ -31509,7 +31623,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "John Medeski",
@@ -31525,7 +31639,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
@@ -31533,7 +31647,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "John Zorn",
@@ -31554,7 +31668,7 @@
             "confidence": "high",
             "source": "https://www.tzadik.com/volume.php?VolumeID=769",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Trevor Dunn",
@@ -31562,7 +31676,7 @@
             "confidence": "high",
             "source": "https://www.tzadik.com/volume.php?VolumeID=769",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
@@ -31570,7 +31684,7 @@
             "confidence": "high",
             "source": "https://www.tzadik.com/volume.php?VolumeID=769",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "John Medeski",
@@ -31608,7 +31722,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Jamie Saft",
@@ -31622,7 +31736,8 @@
             "role": "vibraphone",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Trevor Dunn",
@@ -31630,7 +31745,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
@@ -31638,14 +31753,15 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           }
         ]
       },
@@ -31658,7 +31774,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Jamie Saft",
@@ -31672,7 +31788,8 @@
             "role": "vibraphone",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Trevor Dunn",
@@ -31680,7 +31797,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
@@ -31688,14 +31805,15 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "John Zorn",
@@ -31716,7 +31834,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Jamie Saft",
@@ -31730,7 +31848,8 @@
             "role": "vibraphone, chimes, glockenspiel",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Trevor Dunn",
@@ -31738,7 +31857,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
@@ -31746,14 +31865,15 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Mike Patton",
@@ -31761,7 +31881,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "John Zorn",
@@ -31782,7 +31902,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Jamie Saft",
@@ -31796,7 +31916,8 @@
             "role": "vibraphone",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Trevor Dunn",
@@ -31804,7 +31925,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
@@ -31812,14 +31933,15 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "John Zorn",
@@ -31847,7 +31969,8 @@
             "role": "vibraphone",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Trevor Dunn",
@@ -31855,7 +31978,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
@@ -31863,7 +31986,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "John Zorn",
@@ -31891,7 +32014,8 @@
             "role": "vibraphone",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Trevor Dunn",
@@ -31899,7 +32023,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
@@ -31907,7 +32031,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "John Zorn",
@@ -31935,7 +32059,8 @@
             "role": "vibraphone, bells",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Carol Emanuel",
@@ -31950,7 +32075,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
@@ -31958,14 +32083,15 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Jack Huston",
@@ -32001,7 +32127,8 @@
             "role": "vibraphone",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Trevor Dunn",
@@ -32009,7 +32136,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
@@ -32017,7 +32144,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "John Zorn",
@@ -32045,7 +32172,8 @@
             "role": "vibraphone",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Trevor Dunn",
@@ -32053,7 +32181,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
@@ -32061,7 +32189,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Ikue Mori",
@@ -32110,7 +32238,8 @@
             "role": "vibraphone, bells",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "John Zorn",
@@ -32145,7 +32274,8 @@
             "role": "vibraphone, bells",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "John Zorn",
@@ -32187,7 +32317,8 @@
             "role": "vibraphone, bells",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Ikue Mori",
@@ -32236,7 +32367,8 @@
             "role": "vibraphone",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "John Zorn",
@@ -32278,7 +32410,8 @@
             "role": "vibraphone, bells",
             "confidence": "high",
             "source": "https://johnzornresource.com/transmigration-of-the-magus",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "John Medeski",
@@ -32343,7 +32476,8 @@
             "role": "vibraphone, chimes",
             "confidence": "high",
             "source": "https://www.tzadik.com/volume.php?VolumeID=815",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "John Zorn",
@@ -32385,7 +32519,8 @@
             "role": "vibraphone",
             "confidence": "high",
             "source": "https://www.tzadik.com/volume.php?VolumeID=882",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "John Zorn",
@@ -32428,7 +32563,8 @@
             "role": "vibraphone",
             "confidence": "high",
             "source": "allmusic",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "John Medeski",
@@ -32472,7 +32608,8 @@
             "role": "vibraphone",
             "confidence": "high",
             "source": "https://www.squidco.com/r.cgi?p=37258",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Ikue Mori",
@@ -32508,7 +32645,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Ben Perowsky",
@@ -32544,7 +32681,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Shanir Ezra Blumenkranz",
@@ -32565,7 +32702,8 @@
             "role": "vibraphone",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "John Zorn",
@@ -32601,7 +32739,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Trevor Dunn",
@@ -32609,14 +32747,15 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Kenny Wollesen",
             "role": "vibraphone",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Ben Perowsky",
@@ -32918,7 +33057,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Trevor Dunn",
@@ -32926,7 +33065,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "John Zorn",
@@ -32948,7 +33087,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Trevor Dunn",
@@ -32956,7 +33095,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Tyshawn Sorey",
@@ -33193,7 +33332,7 @@
             "confidence": "high",
             "source": "https://johnzornresource.com/the-true-discoveries-of-witches-and-demons",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Trevor Dunn",
@@ -33201,7 +33340,7 @@
             "confidence": "high",
             "source": "https://johnzornresource.com/the-true-discoveries-of-witches-and-demons",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "John Zorn",
@@ -33294,7 +33433,8 @@
             "role": "vibraphone (guest)",
             "confidence": "high",
             "source": "https://johnzornresource.com/the-painted-bird",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Ches Smith",
@@ -33395,7 +33535,7 @@
             "confidence": "high",
             "source": "https://johnzornresource.com/the-garden-of-earthly-delights",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Sara Serpa",
@@ -33625,7 +33765,7 @@
             "confidence": "high",
             "source": "https://johnzornresource.com/insurrection",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Kenny Grohowski",
@@ -33675,7 +33815,7 @@
             "confidence": "high",
             "source": "https://johnzornresource.com/salem-1692",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Kenny Grohowski",
@@ -34429,14 +34569,15 @@
             "confidence": "high",
             "source": "allmusic",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Kenny Wollesen",
             "role": "drums",
             "confidence": "high",
             "source": "allmusic",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "John Zorn",
@@ -34465,14 +34606,15 @@
             "confidence": "high",
             "source": "https://johnzornresource.com/calculus",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Kenny Wollesen",
             "role": "drums",
             "confidence": "high",
             "source": "https://johnzornresource.com/calculus",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "John Zorn",
@@ -34500,14 +34642,15 @@
             "confidence": "high",
             "source": "https://johnzornresource.com/meditations-on-the-tarot",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Kenny Wollesen",
             "role": "drums",
             "confidence": "high",
             "source": "https://johnzornresource.com/meditations-on-the-tarot",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "John Zorn",
@@ -34535,14 +34678,15 @@
             "confidence": "high",
             "source": "https://johnzornresource.com/john-zorn-s-bagatelles-vol-6",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas"
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Kenny Wollesen",
             "role": "drums",
             "confidence": "high",
             "source": "https://johnzornresource.com/john-zorn-s-bagatelles-vol-6",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "John Zorn",
@@ -35813,7 +35957,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Bill Laswell",
@@ -36088,7 +36232,8 @@
             "role": "drums, percussion",
             "confidence": "high",
             "source": "tzadik",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           }
         ],
         "notes": "Subtitled 'Petra Haden Sings the Zorn/Harris Songbook' — 13 Zorn compositions with Harris lyrics, grown out of The Song Project."
@@ -37460,7 +37605,7 @@
             "confidence": "medium",
             "source": "knowledge",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Sebastian Steinberg",
@@ -37714,7 +37859,7 @@
             "confidence": "low",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           }
         ],
         "notes": "Obscure Japanese avant-garde/ambient release; Discogs details were only partially accessible, so treated as unverified/medium confidence overall."
@@ -37793,7 +37938,7 @@
             "confidence": "medium",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Ryuichi Sakamoto",
@@ -37989,7 +38134,8 @@
             "role": "drums",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           }
         ],
         "notes": "Confirmed real Zorn collaboration despite initial suspicion of mislabeling — DIW label release, produced by Kazunori Sugiyama & John Zorn, recorded Dec 1994 at Power Station NYC. Wikipedia article 'Minor Swing (album)' has full Infobox + Personnel section."
@@ -38026,14 +38172,15 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Kenny Wollesen",
             "role": "drums, backing vocals",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           }
         ],
         "notes": "Co-produced by John Zorn and Steve Beresford; Avant Records (Japan), recorded Baby Monster Studios, NYC."
@@ -38133,7 +38280,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Zeena Parkins",
@@ -38167,7 +38314,8 @@
             "role": "percussion, vocals",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "John Zorn",
@@ -38183,7 +38331,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Marc Ribot",
@@ -38191,7 +38339,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Romero Lubambo",
@@ -38261,7 +38409,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "John Zorn",
@@ -38277,7 +38425,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "William Winant",
@@ -38313,14 +38461,15 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion, track 'La-Bas C'est Naturel'",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Ikue Mori",
@@ -38335,7 +38484,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Fred Frith",
@@ -38365,7 +38514,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "John Zorn",
@@ -38389,14 +38538,15 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Cyro Baptista",
             "role": "drums (track 9)",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Anthony Coleman",
@@ -38439,7 +38589,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Jonathan Kane",
@@ -38532,7 +38682,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Eugene Chadbourne",
@@ -38582,7 +38732,7 @@
             "confidence": "medium",
             "source": "knowledge",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           }
         ],
         "notes": "John Zorn's own Wikipedia discography lists 'Paradiso' (by Seigen Ono, 2000) as a guest appearance, confirming the release and Zorn's participation, but no dedicated Wikipedia/Discogs page distinct from the related 'Saidera Paradiso' SD-2000 20-CD box (2001) could be confirmed to pin down exact track-level roles for this specific title. Treated as a genuine but under-documented entry in the same Ono/Zorn/Ribot circle as 'Comme des Garçons' and 'Maria & Maria'; role given at medium confidence by analogy to those sessions, not a track-verified credit."
@@ -38695,7 +38845,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Joey Baron",
@@ -38703,7 +38853,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Peter Scherer",
@@ -38766,7 +38916,8 @@
             "role": "percussion (overdubs)",
             "confidence": "medium",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Jamie Saft",
@@ -38842,7 +38993,8 @@
             "role": "percussion, bandleader",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "John Zorn",
@@ -38858,7 +39010,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Erik Friedlander",
@@ -39013,7 +39165,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Jennifer Choi",
@@ -39187,7 +39339,8 @@
             "role": "percussion, vocals, bandleader",
             "confidence": "high",
             "source": "allaboutjazz",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "John Zorn",
@@ -39272,7 +39425,7 @@
             "confidence": "high",
             "source": "knowledge",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "John Zorn",
@@ -39301,14 +39454,15 @@
             "confidence": "high",
             "source": "knowledge",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Kenny Wollesen",
             "role": "drums",
             "confidence": "high",
             "source": "knowledge",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "John Zorn",
@@ -39358,7 +39512,8 @@
             "role": "percussion",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           }
         ],
         "notes": "Released on Incus Records; compiles improvised duo/trio sessions recorded 1993-2004 (Knitting Factory NY, London, Tonic NY, Outpost Albuquerque). Zorn organized the Knitting Factory gig documented on tracks 1 & 5 and has a long personal association with Baker dating to the late 1970s."
@@ -39478,7 +39633,7 @@
             "confidence": "high",
             "source": "knowledge",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Flea",
@@ -39671,7 +39826,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Jamie Saft",
@@ -39685,28 +39840,32 @@
             "role": "bass",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
             "role": "drums",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Kenny Wollesen",
             "role": "vibraphone, drums",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Ikue Mori",
@@ -39734,7 +39893,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Jamie Saft",
@@ -39748,28 +39907,32 @@
             "role": "bass",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Joey Baron",
             "role": "drums",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Kenny Wollesen",
             "role": "vibraphone, drums",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Cyro Baptista",
             "role": "percussion",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Ikue Mori",
@@ -39799,21 +39962,23 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Greg Cohen",
             "role": "bass",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
             "role": "drums",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Mark Feldman",
@@ -39863,21 +40028,23 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Greg Cohen",
             "role": "bass",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
             "role": "drums",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Mark Feldman",
@@ -40402,7 +40569,7 @@
             "confidence": "high",
             "source": "musicbrainz",
             "in_collection": true,
-            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall"
+            "collection_match": "Edgar Meyer"
           },
           {
             "name": "Sam Bush",
@@ -40418,7 +40585,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall"
+            "collection_match": "Mike Marshall"
           }
         ]
       }
@@ -40441,7 +40608,7 @@
             "confidence": "high",
             "source": "knowledge",
             "in_collection": true,
-            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall"
+            "collection_match": "Edgar Meyer"
           },
           {
             "name": "Sam Bush",
@@ -40457,7 +40624,7 @@
             "confidence": "high",
             "source": "knowledge",
             "in_collection": true,
-            "collection_match": "Anger_Marshall Band"
+            "collection_match": "Mike Marshall"
           }
         ]
       }
@@ -42365,7 +42532,7 @@
             "confidence": "high",
             "source": "knowledge",
             "in_collection": true,
-            "collection_match": "Mr. Bungle"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Jennifer Charles",
@@ -42634,7 +42801,7 @@
             "confidence": "high",
             "source": "Wikipedia / Madvillainy album page",
             "in_collection": true,
-            "collection_match": "Madvillain; dangerdoom"
+            "collection_match": "MF DOOM"
           },
           {
             "name": "Madlib",
@@ -43071,7 +43238,7 @@
             "confidence": "high",
             "source": "allmusic",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Anthony Coleman",
@@ -43281,7 +43448,8 @@
             "role": "mandolin, vocals",
             "confidence": "high",
             "source": "Wikipedia: Privateering (album)",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Tim O'Brien"
           },
           {
             "name": "Kim Wilson",
@@ -43416,7 +43584,8 @@
             "role": "guitar",
             "confidence": "high",
             "source": "knowledge",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "G. Calvin Weston",
@@ -43437,7 +43606,8 @@
             "role": "drums",
             "confidence": "medium",
             "source": "knowledge",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Evan Lurie",
@@ -43578,14 +43748,16 @@
             "role": "double bass",
             "confidence": "high",
             "source": "knowledge",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
             "role": "drums",
             "confidence": "high",
             "source": "knowledge",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -43612,14 +43784,16 @@
             "role": "double bass",
             "confidence": "high",
             "source": "knowledge",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
             "role": "drums",
             "confidence": "high",
             "source": "knowledge",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -43646,14 +43820,16 @@
             "role": "double bass",
             "confidence": "high",
             "source": "knowledge",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
             "role": "drums",
             "confidence": "high",
             "source": "knowledge",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -43680,14 +43856,16 @@
             "role": "double bass",
             "confidence": "high",
             "source": "knowledge",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
             "role": "drums",
             "confidence": "high",
             "source": "knowledge",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -43714,14 +43892,16 @@
             "role": "double bass",
             "confidence": "high",
             "source": "knowledge",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
             "role": "drums",
             "confidence": "high",
             "source": "knowledge",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -43754,7 +43934,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
@@ -43762,7 +43942,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -43791,7 +43971,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
@@ -43799,7 +43979,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "John Zorn",
@@ -43843,7 +44023,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
@@ -43851,7 +44031,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -43880,7 +44060,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
@@ -43888,7 +44068,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -43917,7 +44097,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
@@ -43925,7 +44105,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -43954,7 +44134,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
@@ -43962,7 +44142,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -43991,7 +44171,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
@@ -43999,7 +44179,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -44028,7 +44208,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
@@ -44036,7 +44216,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -44065,7 +44245,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
@@ -44073,7 +44253,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -44102,7 +44282,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
@@ -44110,7 +44290,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -44139,7 +44319,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
@@ -44147,7 +44327,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -44176,7 +44356,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
@@ -44184,7 +44364,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -44213,7 +44393,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
@@ -44221,7 +44401,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -44250,7 +44430,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
@@ -44258,7 +44438,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -44287,7 +44467,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
@@ -44295,7 +44475,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -44324,7 +44504,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
@@ -44332,7 +44512,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -44361,7 +44541,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
@@ -44369,7 +44549,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           }
         ]
       }
@@ -44412,14 +44592,16 @@
             "role": "bass",
             "confidence": "high",
             "source": "knowledge",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Joey Baron",
             "role": "drums",
             "confidence": "high",
             "source": "knowledge",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           }
         ]
       }
@@ -46257,7 +46439,8 @@
             "role": "vocals, keyboards (co-producer)",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Trey Spruance",
@@ -46278,7 +46461,8 @@
             "role": "bass guitar",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Danny Heifetz",
@@ -46311,7 +46495,8 @@
             "role": "vocals, tape",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Trey Spruance",
@@ -46339,7 +46524,8 @@
             "role": "bass guitar, viola",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Danny Heifetz",
@@ -46365,7 +46551,8 @@
             "role": "vocals",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Trey Spruance",
@@ -46393,7 +46580,8 @@
             "role": "bass",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Trevor Dunn"
           },
           {
             "name": "Danny Heifetz",
@@ -47165,7 +47353,8 @@
             "role": "drums",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -47207,7 +47396,8 @@
             "role": "drums",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Joey Baron"
           }
         ]
       },
@@ -47244,7 +47434,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Wayne Horvitz",
@@ -47306,7 +47496,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Yamatsuka Eye",
@@ -47360,7 +47550,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Yamatsuka Eye",
@@ -47421,7 +47611,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Yamatsuka Eye",
@@ -47475,7 +47665,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Yamatsuka Eye",
@@ -47529,7 +47719,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Yamatsuka Eye",
@@ -47582,7 +47772,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           }
         ],
         "notes": "Final Naked City studio album; dark ambient — no Yamatsuka Eye."
@@ -47628,7 +47818,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Yamatsuka Eye",
@@ -47682,7 +47872,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Naked City; Masada"
+            "collection_match": "Joey Baron"
           },
           {
             "name": "Yamatsuka Eye",
@@ -47705,7 +47895,7 @@
             "confidence": "medium",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           }
         ],
         "notes": "Tzadik box set. Patton is listed under performance credits in the Wikipedia personnel section and also wrote liner notes; his vocal credit is plausible box-set-credit padding, hence medium confidence."
@@ -48150,7 +48340,8 @@
             "role": "fiddle, octave mandolin",
             "confidence": "high",
             "source": "workflow:wf_8c69d685-f67",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Darol Anger"
           },
           {
             "name": "Mike Marshall",
@@ -48158,14 +48349,15 @@
             "confidence": "high",
             "source": "workflow:wf_8c69d685-f67",
             "in_collection": true,
-            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall"
+            "collection_match": "Mike Marshall"
           },
           {
             "name": "Tim O'Brien",
             "role": "bouzouki, mandolin, banjo, vocals",
             "confidence": "high",
             "source": "workflow:wf_8c69d685-f67",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Tim O'Brien"
           },
           {
             "name": "Todd Phillips",
@@ -48597,7 +48789,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Grateful Dead"
+            "collection_match": "Jerry Garcia"
           },
           {
             "name": "David Grisman",
@@ -48642,7 +48834,7 @@
             "confidence": "high",
             "source": "jerrygarcia.com band page / Wikipedia Old & In the Way",
             "in_collection": true,
-            "collection_match": "The Grateful Dead; Old & in the Way-Jerry Garcia-David Grisman; Jerry Garcia & David Grisman"
+            "collection_match": "Jerry Garcia"
           },
           {
             "name": "David Grisman",
@@ -49051,7 +49243,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Mr. Bungle"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Dan the Automator",
@@ -52353,7 +52545,7 @@
             "confidence": "high",
             "source": "AllMusic credits / WebSearch",
             "in_collection": true,
-            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall; Jerry Douglas_Russ Barenberg_Edgar Meyer; Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall; Yo-Yo Ma-Edgar Meyer-Mark O'Connor"
+            "collection_match": "Edgar Meyer"
           },
           {
             "name": "Béla Fleck",
@@ -52376,7 +52568,8 @@
             "role": "fiddle",
             "confidence": "high",
             "source": "AllMusic credits / WebSearch",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Stuart Duncan"
           },
           {
             "name": "Glenn Worf",
@@ -54697,7 +54890,8 @@
             "role": "mandolin, vocals",
             "confidence": "medium",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Tim O'Brien"
           }
         ]
       }
@@ -55210,7 +55404,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall"
+            "collection_match": "Edgar Meyer"
           },
           {
             "name": "Mark O'Connor",
@@ -58550,7 +58744,7 @@
             "confidence": "high",
             "source": "Wikipedia Live/Dead",
             "in_collection": true,
-            "collection_match": "The Grateful Dead; Old & in the Way-Jerry Garcia-David Grisman; Jerry Garcia & David Grisman; Old & In the Way"
+            "collection_match": "Jerry Garcia"
           },
           {
             "name": "Bob Weir",
@@ -58748,7 +58942,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Madvillain"
+            "collection_match": "MF DOOM"
           },
           {
             "name": "Rakaa Iriscience (Dilated Peoples)",
@@ -58989,7 +59183,8 @@
             "role": "electric guitar (guest)",
             "confidence": "medium",
             "source": "allmusic",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Matt Darriau",
@@ -61348,7 +61543,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Keith Richards",
@@ -61414,14 +61609,15 @@
             "confidence": "high",
             "source": "liner-notes",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Greg Cohen",
             "role": "electric bass, alto horn",
             "confidence": "high",
             "source": "liner-notes",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Ralph Carney",
@@ -61727,7 +61923,7 @@
             "confidence": "high",
             "source": "allmusic",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Ralph Carney",
@@ -61741,7 +61937,8 @@
             "role": "bass, alto horn, horn arrangements",
             "confidence": "high",
             "source": "allmusic",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "William Schimmel",
@@ -61887,7 +62084,8 @@
             "role": "bass",
             "confidence": "high",
             "source": "allmusic",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Bob Alcivar",
@@ -61922,7 +62120,7 @@
             "confidence": "high",
             "source": "allmusic",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Larry Taylor",
@@ -61936,7 +62134,8 @@
             "role": "bass",
             "confidence": "high",
             "source": "allmusic",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Ralph Carney",
@@ -62034,7 +62233,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Larry Taylor",
@@ -62091,7 +62290,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Keith Richards",
@@ -62127,7 +62326,8 @@
             "role": "double bass",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Larry Taylor",
@@ -62162,7 +62362,7 @@
             "confidence": "high",
             "source": "allmusic",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Larry Taylor",
@@ -62266,7 +62466,8 @@
             "role": "bass",
             "confidence": "high",
             "source": "allmusic",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Fred Tackett",
@@ -62308,7 +62509,8 @@
             "role": "musical director; bass, banjo, accordion, viola",
             "confidence": "high",
             "source": "allmusic",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Ralph Carney",
@@ -62329,7 +62531,8 @@
             "role": "marimba, percussion",
             "confidence": "medium",
             "source": "allmusic",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Kenny Wollesen"
           },
           {
             "name": "Matt Brubeck",
@@ -62419,7 +62622,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Pete Jolly",
@@ -62795,7 +62998,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Ralph Carney",
@@ -62810,7 +63013,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Masada"
+            "collection_match": "Greg Cohen"
           },
           {
             "name": "Larry Taylor",
@@ -63024,7 +63227,7 @@
             "confidence": "high",
             "source": "https://en.wikipedia.org/wiki/Anonymous_(Tomahawk_album)",
             "in_collection": true,
-            "collection_match": "Tomahawk"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Duane Denison",
@@ -63051,7 +63254,7 @@
             "confidence": "high",
             "source": "https://en.wikipedia.org/wiki/Tomahawk_(album)",
             "in_collection": true,
-            "collection_match": "Tomahawk"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Duane Denison",
@@ -63251,7 +63454,7 @@
             "confidence": "high",
             "source": "musicbrainz",
             "in_collection": true,
-            "collection_match": "Tool"
+            "collection_match": "Maynard James Keenan"
           },
           {
             "name": "Adam Jones",
@@ -63295,7 +63498,7 @@
             "confidence": "high",
             "source": "musicbrainz",
             "in_collection": true,
-            "collection_match": "Tool"
+            "collection_match": "Maynard James Keenan"
           },
           {
             "name": "Adam Jones",
@@ -63354,7 +63557,7 @@
             "confidence": "high",
             "source": "musicbrainz",
             "in_collection": true,
-            "collection_match": "Tool"
+            "collection_match": "Maynard James Keenan"
           },
           {
             "name": "Adam Jones",
@@ -63398,7 +63601,7 @@
             "confidence": "high",
             "source": "musicbrainz",
             "in_collection": true,
-            "collection_match": "Tool"
+            "collection_match": "Maynard James Keenan"
           },
           {
             "name": "Adam Jones",
@@ -63438,7 +63641,7 @@
             "confidence": "high",
             "source": "musicbrainz",
             "in_collection": true,
-            "collection_match": "Tool"
+            "collection_match": "Maynard James Keenan"
           },
           {
             "name": "Adam Jones",
@@ -63689,7 +63892,8 @@
             "role": "percussion, vocals",
             "confidence": "medium",
             "source": "allmusic",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           }
         ]
       },
@@ -63773,7 +63977,8 @@
             "role": "percussion",
             "confidence": "high",
             "source": "knowledge",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Jennifer Hartswick",
@@ -63821,7 +64026,8 @@
             "role": "percussion",
             "confidence": "high",
             "source": "knowledge",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Jennifer Hartswick",
@@ -63869,7 +64075,8 @@
             "role": "percussion",
             "confidence": "high",
             "source": "knowledge",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Jennifer Hartswick",
@@ -64643,7 +64850,7 @@
             "confidence": "high",
             "source": "knowledge",
             "in_collection": true,
-            "collection_match": "Madvillain"
+            "collection_match": "MF DOOM"
           },
           {
             "name": "Jake One",
@@ -66015,7 +66222,7 @@
             "confidence": "high",
             "source": "Wikipedia Yerba Buena band page listing President Alien collaborators",
             "in_collection": true,
-            "collection_match": "Marc Ribot Y los Cubanos Postizos"
+            "collection_match": "Marc Ribot"
           },
           {
             "name": "Roy Hargrove",
@@ -66078,7 +66285,8 @@
             "role": "percussion",
             "confidence": "high",
             "source": "wikipedia",
-            "in_collection": false
+            "in_collection": true,
+            "collection_match": "Cyro Baptista"
           },
           {
             "name": "Rosa Passos",
@@ -66137,7 +66345,7 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": true,
-            "collection_match": "Edgar Meyer_Béla Fleck_Mike Marshall"
+            "collection_match": "Edgar Meyer"
           },
           {
             "name": "Mark O'Connor",
@@ -66668,7 +66876,7 @@
             "confidence": "high",
             "source": "knowledge",
             "in_collection": true,
-            "collection_match": "Madvillain"
+            "collection_match": "MF DOOM"
           },
           {
             "name": "Ghostface Killah",
@@ -66809,7 +67017,7 @@
             "confidence": "high",
             "source": "wikipedia",
             "in_collection": true,
-            "collection_match": "Mr. Bungle; Fantômas; Faith No More; Tomahawk"
+            "collection_match": "Mike Patton"
           },
           {
             "name": "Trey Spruance",

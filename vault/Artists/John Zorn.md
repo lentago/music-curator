@@ -10,7 +10,7 @@ tags: ["artist", "avant-garde-experimental"]
 
 **Category:** [[Avant-Garde & Experimental]]
 
-**Session ties:** [[Bar Kokhba Sextet]] · [[Bill Frisell]] · [[Cracow Klezmer Band]] · [[Electric Masada]] · [[Faith No More]] · [[Fantômas]] · [[Herbie Hancock]] · [[Jeff Buckley]] · [[John Zorn-Electric Masada]] · [[John Zorn-Masada Chamber Ensembles]] · [[Karsh Kale]] · [[Living Colour]] · [[Marc Ribot Y los Cubanos Postizos]] · [[Masada]] · [[Masada Quintet Featuring Joe Lovano]] · [[Medeski, Martin & Wood]] · [[Mr. Bungle]] · [[Naked City]] · [[Pat Metheny]] · [[The Lounge Lizards]] · [[Tomahawk]]
+**Session ties:** [[Bar Kokhba Sextet]] · [[Bill Frisell]] · [[Cracow Klezmer Band]] · [[Cyro Baptista]] · [[Electric Masada]] · [[Fantômas]] · [[Greg Cohen]] · [[Herbie Hancock]] · [[Jeff Buckley]] · [[Joey Baron]] · [[John Zorn-Electric Masada]] · [[John Zorn-Masada Chamber Ensembles]] · [[Karsh Kale]] · [[Kenny Wollesen]] · [[Living Colour]] · [[Marc Ribot]] · [[Masada]] · [[Masada Quintet Featuring Joe Lovano]] · [[Medeski, Martin & Wood]] · [[Mike Patton]] · [[Mr. Bungle]] · [[Naked City]] · [[Pat Metheny]] · [[The Lounge Lizards]] · [[Trevor Dunn]]
 
 ## Albums (20)
 - Astaroth Book Of Angels Volume One - Ja

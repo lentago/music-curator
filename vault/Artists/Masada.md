@@ -10,7 +10,7 @@ tags: ["artist", "avant-garde-experimental"]
 
 **Category:** [[Avant-Garde & Experimental]]
 
-**Session ties:** [[Electric Masada]] · [[John Zorn]] · [[Naked City]] · [[Tom Waits]]
+**Session ties:** [[Greg Cohen]] · [[Joey Baron]] · [[John Zorn]]
 
 ## Albums (6)
 - 50th Birthday Celebration, Vol. 7

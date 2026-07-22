@@ -10,5 +10,7 @@ tags: ["artist", "country-americana"]
 
 **Category:** [[Country & Americana]]
 
+**Session ties:** [[Stuart Duncan]]
+
 ## Albums (1)
 - My Life

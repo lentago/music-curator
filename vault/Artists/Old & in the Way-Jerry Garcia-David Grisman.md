@@ -3,7 +3,7 @@ type: "artist"
 category: "Country & Americana"
 subcategory: "Newgrass"
 album_count: 1
-collaborators: ["David Grisman"]
+collaborators: ["Jerry Garcia", "David Grisman"]
 tags: ["artist", "country-americana"]
 ---
 
@@ -11,9 +11,9 @@ tags: ["artist", "country-americana"]
 
 **Category:** Country & Americana › [[Newgrass]]
 
-**With:** [[David Grisman]]
+**With:** [[Jerry Garcia]] · [[David Grisman]]
 
-**Session ties:** [[David Grisman Quintet]] · [[Jerry Garcia & David Grisman]] · [[Jerry Garcia-David Grisman-Tony Rice]] · [[Peter Rowan & Jerry Douglas]] · [[The Grateful Dead]]
+**Session ties:** [[David Grisman Quintet]] · [[Jerry Garcia & David Grisman]] · [[Jerry Garcia-David Grisman-Tony Rice]] · [[Peter Rowan & Jerry Douglas]]
 
 ## Albums (1)
 - Breakdown- Live Recordings 1973
