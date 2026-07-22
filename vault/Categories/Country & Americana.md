@@ -1,17 +1,17 @@
 ---
 type: "category"
-member_count: 72
+member_count: 78
 tags: ["category", "country-americana"]
 ---
 
 # Country & Americana
 
-*Category — 72 artists in the collection.*
+*Category — 78 artists in the collection.*
 
 ## Subcategories
 - [[Bluegrass]] (17)
 - [[Gothic Americana]] (5)
-- [[Newgrass]] (21)
+- [[Newgrass]] (27)
 
 ## Artists (no subcategory)
 - [[Billy Bragg & Wilco - Mermaid avenue (Vol 1 & 2)]]

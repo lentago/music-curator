@@ -11,7 +11,7 @@ tags: ["artist", "rock"]
 
 **Category:** Rock › [[Jam]]
 
-**Session ties:** [[Jerry Garcia & David Grisman]] · [[Old & In the Way]] · [[Old & in the Way-Jerry Garcia-David Grisman]] · [[Phil & Phriends]] · [[The Other Ones]]
+**Session ties:** [[Jerry Garcia]] · [[Phil & Phriends]] · [[The Other Ones]]
 
 ## Albums (1)
 - Live-Dead

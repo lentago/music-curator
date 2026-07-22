@@ -10,7 +10,7 @@ tags: ["artist", "avant-garde-experimental"]
 
 **Category:** [[Avant-Garde & Experimental]]
 
-**Session ties:** [[Marc Ribot Y los Cubanos Postizos]]
+**Session ties:** [[Marc Ribot]]
 
 ## Albums (1)
 - Flicker

@@ -13,7 +13,7 @@ tags: ["artist", "avant-garde-experimental"]
 
 **With:** [[John Zorn]]
 
-**Session ties:** [[Marc Ribot Y los Cubanos Postizos]] · [[Medeski, Martin & Wood]]
+**Session ties:** [[Greg Cohen]] · [[Joey Baron]] · [[Marc Ribot]] · [[Medeski, Martin & Wood]]
 
 ## Albums (2)
 - Bar Kokhba Disc 1

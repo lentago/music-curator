@@ -11,7 +11,7 @@ tags: ["artist", "rock"]
 
 **Category:** Rock › [[Metal]]
 
-**Session ties:** [[Tool]]
+**Session ties:** [[Maynard James Keenan]]
 
 ## Albums (3)
 - emotive

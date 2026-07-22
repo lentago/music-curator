@@ -10,7 +10,7 @@ tags: ["artist", "avant-garde-experimental"]
 
 **Category:** [[Avant-Garde & Experimental]]
 
-**Session ties:** [[John Zorn]]
+**Session ties:** [[Greg Cohen]] · [[Joey Baron]] · [[John Zorn]]
 
 ## Albums (1)
 - Stolas The Book Of Angels Volume 12

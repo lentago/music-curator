@@ -10,6 +10,8 @@ tags: ["artist", "folk-singer-songwriter"]
 
 **Category:** [[Folk & Singer-Songwriter]]
 
+**Session ties:** [[Kenny Wollesen]]
+
 ## Albums (8)
 - Around The Well
 - Around the Well (Bonus Track Version)

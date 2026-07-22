@@ -11,7 +11,7 @@ tags: ["artist", "country-americana"]
 
 **Category:** Country & Americana › [[Newgrass]]
 
-**Session ties:** [[Anger_Marshall Band]] · [[Edgar Meyer_Béla Fleck_Mike Marshall]] · [[Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall]] · [[Sam Bush]]
+**Session ties:** [[Edgar Meyer]] · [[Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall]] · [[Mike Marshall]] · [[Sam Bush]]
 
 ## Albums (1)
 - Short Trip Home

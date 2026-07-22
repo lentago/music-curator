@@ -4,6 +4,7 @@ category: "Country & Americana"
 subcategory: "Bluegrass"
 era: "2000s"
 album_count: 1
+collaborators: ["Edgar Meyer"]
 tags: ["artist", "country-americana"]
 ---
 
@@ -11,7 +12,9 @@ tags: ["artist", "country-americana"]
 
 **Category:** Country & Americana › [[Bluegrass]]
 
-**Session ties:** [[Alison Krauss & Union Station]] · [[Béla Fleck]] · [[Edgar Meyer_Béla Fleck_Mike Marshall]] · [[Jerry Douglas_Russ Barenberg_Edgar Meyer]] · [[Russ Barenberg]] · [[Strength in Numbers]] · [[Yo-Yo Ma]]
+**With:** [[Edgar Meyer]]
+
+**Session ties:** [[Alison Krauss & Union Station]] · [[Béla Fleck]] · [[Russ Barenberg]] · [[Strength in Numbers]] · [[Yo-Yo Ma]]
 
 ## Albums (1)
 - Appalachian Journey

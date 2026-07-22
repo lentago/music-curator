@@ -11,7 +11,7 @@ tags: ["artist", "rock"]
 
 **Category:** Rock › [[Jam]]
 
-**Session ties:** [[Trey Anastasio]]
+**Session ties:** [[Cyro Baptista]] · [[Trey Anastasio]]
 
 ## Albums (3)
 - 5.31.03 The Warfield. San Fran, CA

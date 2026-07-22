@@ -11,7 +11,7 @@ tags: ["artist", "pop"]
 
 **Category:** Pop › [[Art-Pop & New Wave]]
 
-**Session ties:** [[David Byrne & Brian Eno]] · [[Talking Heads]] · [[Thievery Corporation]]
+**Session ties:** [[David Byrne & Brian Eno]] · [[Greg Cohen]] · [[Talking Heads]] · [[Thievery Corporation]]
 
 ## Albums (2)
 - Feelings

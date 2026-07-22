@@ -10,7 +10,7 @@ tags: ["artist", "country-americana"]
 
 **Category:** Country & Americana › [[Newgrass]]
 
-**Session ties:** [[Anger_Marshall Band]] · [[Old & in the Way-Jerry Garcia-David Grisman]] · [[Tony Rice Unit]]
+**Session ties:** [[Darol Anger]] · [[Old & in the Way-Jerry Garcia-David Grisman]] · [[Tony Rice Unit]]
 
 ## Albums (1)
 - 1

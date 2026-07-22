@@ -10,7 +10,7 @@ tags: ["artist", "classical"]
 
 **Category:** [[Classical]]
 
-**Session ties:** [[Claude Bolling]] · [[Luciana Souza_Romero Lubambo]] · [[Yo-Yo Ma-Edgar Meyer-Mark O'Connor]]
+**Session ties:** [[Claude Bolling]] · [[Cyro Baptista]] · [[Luciana Souza_Romero Lubambo]] · [[Yo-Yo Ma-Edgar Meyer-Mark O'Connor]]
 
 ## Albums (1)
 - Obrigado Brazil

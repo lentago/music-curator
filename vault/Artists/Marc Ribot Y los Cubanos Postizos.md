@@ -10,7 +10,7 @@ tags: ["artist", "avant-garde-experimental"]
 
 **Category:** [[Avant-Garde & Experimental]]
 
-**Session ties:** [[Bar Kokhba Sextet]] · [[Electric Masada]] · [[Eszter Balint]] · [[John Zorn]] · [[John Zorn-Electric Masada]] · [[John Zorn-Masada Chamber Ensembles]] · [[Tom Waits]] · [[Yerba Buena]]
+**Session ties:** [[Marc Ribot]]
 
 ## Albums (1)
 - Muy Divertido!
