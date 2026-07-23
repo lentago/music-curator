@@ -18,7 +18,7 @@ tags: ["artist", "country-americana", "rotation-dormant"]
 
 **By year:** 2017 ▅11 · 2020 █19 · 2023 ▇16
 
-**Session ties:** [[Alison Brown]] · [[Béla Fleck & the Flecktones]] · [[David Grisman]] · [[Edgar Meyer]] · [[Edgar Meyer_Béla Fleck_Mike Marshall]] · [[Jerry Douglas]] · [[Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall]] · [[Leftover Salmon]] · [[Mike Marshall]] · [[Phish]] · [[Russ Barenberg]] · [[Sam Bush]] · [[Strength in Numbers]] · [[Stuart Duncan]] · [[Tony Rice Unit]] · [[Vishwa Mohan Bhatt With Bela Fleck and J]] · [[Yo-Yo Ma-Edgar Meyer-Mark O'Connor]]
+**Session ties:** [[Alison Brown]] · [[Béla Fleck & the Flecktones]] · [[David Grisman]] · [[Edgar Meyer]] · [[Edgar Meyer_Béla Fleck_Mike Marshall]] · [[Jerry Douglas]] · [[Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall]] · [[Leftover Salmon]] · [[Mike Marshall]] · [[Phish]] · [[Russ Barenberg]] · [[Sam Bush]] · [[Strength in Numbers]] · [[Stuart Duncan]] · [[Tony Rice Unit]] · [[Vishwa Mohan Bhatt With Bela Fleck and J]] · [[Vishwa Mohan Bhatt With Bela Fleck and Jie Bing Chen]] · [[Yo-Yo Ma-Edgar Meyer-Mark O'Connor]]
 
 ## Albums (7)
 - Drive

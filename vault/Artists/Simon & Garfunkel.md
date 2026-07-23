@@ -17,6 +17,8 @@ tags: ["artist", "folk-singer-songwriter", "rotation-dormant"]
 
 **By year:** 2018 █32 · 2025 ▃8
 
+**Session ties:** [[Paul Simon]]
+
 ## Albums (3)
 - The Concert In Central Park
 - The Concert in Central Park 20 Greatest

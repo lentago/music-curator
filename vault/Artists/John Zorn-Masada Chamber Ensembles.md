@@ -16,7 +16,7 @@ tags: ["artist", "avant-garde-experimental", "rotation-historical"]
 
 **With:** [[John Zorn]]
 
-**Session ties:** [[Greg Cohen]] · [[Joey Baron]] · [[Marc Ribot]] · [[Medeski, Martin & Wood]]
+**Session ties:** [[David Krakauer]] · [[Greg Cohen]] · [[Joey Baron]] · [[Marc Ribot]] · [[Medeski, Martin & Wood]]
 
 ## Albums (2)
 - Bar Kokhba Disc 1

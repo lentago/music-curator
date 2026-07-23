@@ -13,7 +13,7 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
-**Session ties:** [[Darol Anger]] · [[Old & in the Way-Jerry Garcia-David Grisman]] · [[Tony Rice Unit]]
+**Session ties:** [[Darol Anger]] · [[David Grisman]] · [[Old & in the Way-Jerry Garcia-David Grisman]] · [[Tony Rice Unit]]
 
 ## Albums (1)
 - 1

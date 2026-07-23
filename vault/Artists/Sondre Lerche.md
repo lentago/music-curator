@@ -14,5 +14,7 @@ tags: ["artist", "pop", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
+**Session ties:** [[Sondre Lerche and the Faces Down]]
+
 ## Albums (1)
 - Phantom Punch

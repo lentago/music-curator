@@ -17,7 +17,7 @@ tags: ["artist", "folk-singer-songwriter", "rotation-dormant"]
 
 **By year:** 2018 █17 · 2020 ▂2 · 2021 █16 · 2022 ▆12 · 2024 ▃4
 
-**Session ties:** [[Herbie Hancock]] · [[Jerry Douglas]] · [[Los Lobos]]
+**Session ties:** [[Herbie Hancock]] · [[Jerry Douglas]] · [[Los Lobos]] · [[Simon & Garfunkel]]
 
 ## Albums (2)
 - Graceland

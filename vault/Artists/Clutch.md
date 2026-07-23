@@ -6,8 +6,9 @@ era: "1991-now"
 rotation: "current"
 plays: 182
 last_played: "2026-05-18"
+followed_at: "2026-07-23"
 album_count: 14
-tags: ["artist", "rock", "rotation-current"]
+tags: ["artist", "rock", "rotation-current", "source-follow"]
 ---
 
 # Clutch
@@ -19,6 +20,8 @@ tags: ["artist", "rock", "rotation-current"]
 **By year:** 2018 █69 · 2019 ▂10 · 2020 ▂6 · 2021 ▃19 · 2022 ▆47 · 2023 ▁2 · 2024 ▂13 · 2025 ▁1 · 2026 ▃15
 
 **Session ties:** [[The Company Band]]
+
+**Followed:** on Spotify — backfilled, observed as of 2026-07-23 (original follow date and trigger song unknown).
 
 ## Albums (14)
 - Blast Tyrant

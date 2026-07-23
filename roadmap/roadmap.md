@@ -108,6 +108,14 @@ Redis into the log via an unarmed PR, and the `follow-fold` GitHub Action folds
 discarded-artist follow or unfollow for review. The dedup key was accent-folded
 first (#58) so an accented follow can't create a duplicate seed.
 
+The vault renders it (2026-07-23): each followed artist carries a `followed_at`
+and a **Followed:** provenance line (naming the trigger song when caught live),
+a `source-follow` tag + graph preset showing the whole follow set, and seed-tie
+edges from the trigger track's co-artists. The driver's personnel-edge builder
+now re-resolves against the live roster, so a seeded artist wires into the graph
+via existing credits (e.g. the seeded Homeboy Sandman ↔ Aesop Rock) without
+re-running the research.
+
 **Remaining / follow-ups:**
 - Fold the monthly roll-up as **report-only** proposals (passive signal, never
   auto-applied) — the counterpart to the deliberate-act path above.
