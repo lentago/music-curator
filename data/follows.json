@@ -1,0 +1,486 @@
+{
+  "artists": {
+    "All Them Witches": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "BUSDRIVER": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Bad Bunny": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Bar Kokhba": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Bill Laswell": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Blackfield": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Brad Mehldau": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Childish Gambino": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "David Krakauer": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Eyedea & Abilities": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "GRiZ": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Greydon Square": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Hail Mary Mallon": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Hemlock Ernst": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Hiromi": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Homeboy Sandman": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Ishmael Ensemble": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Joey Eppard": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Jonah Tolchin": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Justin Townes Earle": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Kenny Segal": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Lice": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Masada Quintet": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Masada String Trio": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Murs": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "OSI": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Orgone": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Painkiller": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Polyphia": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Portico Quartet": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Prof": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Quatuor Molinari": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Sage Francis": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Say She She": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Sleepytime Gorilla Museum": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "St. Paul & The Broken Bones": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Sturgill Simpson": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "The Budos Band": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "The Filthy Six": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "The Main Squeeze": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "The Motet": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Tingvall Trio": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Twelve Foot Ninja": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Type O Negative": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Vince Staples": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Wobbler": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Zach Bryan": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    },
+    "Zion I": {
+      "followed_at": "2026-07-23T00:00:00Z",
+      "last_event_at": "2026-07-23T00:00:00Z",
+      "trigger_confidence": null,
+      "trigger_source": null,
+      "trigger_track": null,
+      "backfill": true,
+      "seeded": true
+    }
+  },
+  "processed_events": [
+    "All Them Witches\u00002026-07-23T00:00:00Z",
+    "BUSDRIVER\u00002026-07-23T00:00:00Z",
+    "Bad Bunny\u00002026-07-23T00:00:00Z",
+    "Bar Kokhba\u00002026-07-23T00:00:00Z",
+    "Bill Laswell\u00002026-07-23T00:00:00Z",
+    "Blackfield\u00002026-07-23T00:00:00Z",
+    "Brad Mehldau\u00002026-07-23T00:00:00Z",
+    "Childish Gambino\u00002026-07-23T00:00:00Z",
+    "David Krakauer\u00002026-07-23T00:00:00Z",
+    "Eyedea & Abilities\u00002026-07-23T00:00:00Z",
+    "GRiZ\u00002026-07-23T00:00:00Z",
+    "Greydon Square\u00002026-07-23T00:00:00Z",
+    "Hail Mary Mallon\u00002026-07-23T00:00:00Z",
+    "Hemlock Ernst\u00002026-07-23T00:00:00Z",
+    "Hiromi\u00002026-07-23T00:00:00Z",
+    "Homeboy Sandman\u00002026-07-23T00:00:00Z",
+    "Ishmael Ensemble\u00002026-07-23T00:00:00Z",
+    "Joey Eppard\u00002026-07-23T00:00:00Z",
+    "Jonah Tolchin\u00002026-07-23T00:00:00Z",
+    "Justin Townes Earle\u00002026-07-23T00:00:00Z",
+    "Kenny Segal\u00002026-07-23T00:00:00Z",
+    "Lice\u00002026-07-23T00:00:00Z",
+    "Masada Quintet\u00002026-07-23T00:00:00Z",
+    "Masada String Trio\u00002026-07-23T00:00:00Z",
+    "Murs\u00002026-07-23T00:00:00Z",
+    "OSI\u00002026-07-23T00:00:00Z",
+    "Orgone\u00002026-07-23T00:00:00Z",
+    "Painkiller\u00002026-07-23T00:00:00Z",
+    "Polyphia\u00002026-07-23T00:00:00Z",
+    "Portico Quartet\u00002026-07-23T00:00:00Z",
+    "Prof\u00002026-07-23T00:00:00Z",
+    "Quatuor Molinari\u00002026-07-23T00:00:00Z",
+    "Sage Francis\u00002026-07-23T00:00:00Z",
+    "Say She She\u00002026-07-23T00:00:00Z",
+    "Sleepytime Gorilla Museum\u00002026-07-23T00:00:00Z",
+    "St. Paul & The Broken Bones\u00002026-07-23T00:00:00Z",
+    "Sturgill Simpson\u00002026-07-23T00:00:00Z",
+    "The Budos Band\u00002026-07-23T00:00:00Z",
+    "The Filthy Six\u00002026-07-23T00:00:00Z",
+    "The Main Squeeze\u00002026-07-23T00:00:00Z",
+    "The Motet\u00002026-07-23T00:00:00Z",
+    "Tingvall Trio\u00002026-07-23T00:00:00Z",
+    "Twelve Foot Ninja\u00002026-07-23T00:00:00Z",
+    "Type O Negative\u00002026-07-23T00:00:00Z",
+    "Vince Staples\u00002026-07-23T00:00:00Z",
+    "Wobbler\u00002026-07-23T00:00:00Z",
+    "Zach Bryan\u00002026-07-23T00:00:00Z",
+    "Zion I\u00002026-07-23T00:00:00Z"
+  ]
+}

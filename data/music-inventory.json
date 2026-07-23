@@ -1,11 +1,11 @@
 {
   "meta": {
-    "total_unique_artists": 680,
+    "total_unique_artists": 728,
     "total_albums": 1342,
     "compilation_albums": 81,
     "unknown_artist_albums": 27,
     "tagged_artists": 547,
-    "untagged_artists": 133,
+    "untagged_artists": 181,
     "cruft_removed": [
       {
         "folder": "Ringtone Heaven",
@@ -7692,6 +7692,342 @@
       "note": "Person node — no owned albums under this name; enters the graph via personnel credits (Madvillain, The Herbaliser, Vast Aire, dangerdoom)",
       "subcategory": "Underground",
       "rotation": "historical"
+    },
+    "All Them Witches": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "BUSDRIVER": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Bad Bunny": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Bar Kokhba": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Bill Laswell": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Blackfield": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Brad Mehldau": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Childish Gambino": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "David Krakauer": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Eyedea & Abilities": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "GRiZ": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Greydon Square": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Hail Mary Mallon": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Hemlock Ernst": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Hiromi": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Homeboy Sandman": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Ishmael Ensemble": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Joey Eppard": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Jonah Tolchin": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Justin Townes Earle": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Kenny Segal": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Lice": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Masada Quintet": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Masada String Trio": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Murs": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "OSI": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Orgone": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Painkiller": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Polyphia": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Portico Quartet": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Prof": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Quatuor Molinari": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Sage Francis": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Say She She": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Sleepytime Gorilla Museum": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "St. Paul & The Broken Bones": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Sturgill Simpson": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "The Budos Band": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "The Filthy Six": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "The Main Squeeze": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "The Motet": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Tingvall Trio": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Twelve Foot Ninja": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Type O Negative": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Vince Staples": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Wobbler": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Zach Bryan": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
+    },
+    "Zion I": {
+      "albums": [],
+      "album_count": 0,
+      "tagged": false,
+      "source": "spotify-follow",
+      "followed_at": "2026-07-23T00:00:00Z"
     }
   },
   "compilations": {
