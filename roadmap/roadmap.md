@@ -27,14 +27,20 @@ planned extensions.
   roster-only artist↔artist "session tie" edges from it (a player who appears on
   both artists' albums), surfacing connectors like Jerry Douglas and Marc Ribot
   that cross the category clusters.
+- Periodic Spotify harvest (shipped 2026-07-23) — the daily producer +
+  monthly consumer are live on the n8n box (LXC 113); a snapshot lands on the
+  Redis queue every morning and a per-artist roll-up auto-merges to
+  `data/harvests/YYYY-MM.json` on the 1st. See the *Periodic Spotify Harvest*
+  section for detail. Converts the one-time snapshot into a living data source.
 
 ---
 
 ## Data-source lifecycle
 
-### Periodic Spotify Harvest (n8n Web API → Redis queue)
+### Periodic Spotify Harvest (n8n Web API → Redis queue → monthly PR) ✅ shipped
 
-**Priority:** High — **in progress** (producer built; deploy + consumer remain).
+**Priority:** High — **shipped / live (2026-07-23)**. Both workflows are active
+on the n8n box (LXC 113) and verified end-to-end.
 
 **What it adds:** Turns the one-time snapshot into a *living* data source. The
 original run found `recently-played` too thin; this is the live-snapshot layer
@@ -45,7 +51,7 @@ spine — see [`spotify-data-availability.md`](spotify-data-availability.md)).
 
 ```
 Daily    n8n: Schedule → Code (fetch snapshot) → Redis Push → list "spotify:harvests"
-Monthly  n8n: Schedule → drain list → aggregate per-artist → GitHub commit data/harvests/YYYY-MM.json
+Monthly  n8n: Schedule → Redis Get (list) → Code (aggregate → git commit → PR → auto-merge) → data/harvests/YYYY-MM.json
 ```
 
 Runs on the n8n box (LXC 113); Redis is a container in the same compose. The
@@ -54,27 +60,43 @@ Terraform pipeline's API token, and the attempt destroyed the CT (see memory
 `n8n-ct-recovery-model`). The queue doubles as the month-long buffer, so the
 repo gets one roll-up commit per month, not one per day.
 
-**Built (PR #32):** the data-availability spec, the loopback-PKCE bootstrap
-(`harvest/spotify_auth_bootstrap.py`), and the daily **producer** workflow
-(`harvest/gen_workflow.py` → `spotify-harvest.workflow.json`).
+**Shipped as:**
+- **Producer** — `harvest/gen_workflow.py` → `spotify-harvest.workflow.json`
+  (workflow `spotifyHarvest01`): daily 06:00, fetches the snapshot and RPUSHes it
+  to the durable Redis list. Loopback-PKCE refresh; token in `/opt/n8n/.env`.
+- **Consumer** — `harvest/gen_rollup.py` → `rollup.workflow.json` (workflow
+  `spotifyRollup01`): 1st of month 02:00, drains the list, aggregates the
+  per-artist roll-up (`data/harvests/YYYY-MM.json` — days-seen, first/last, which
+  top-ranges, followed, saved-max, plays deduped by `played_at`), and lands it via
+  an auto-merged PR. First roll-up (`2026-07.json`, 333 artists) shipped via PR #50.
+- The data-availability spec (PR #32, playlist-contents-403 row corrected in #39),
+  the loopback-PKCE bootstrap, and the Redis + `.env` infra on LXC 113
+  (PRs #48–#51).
 
-**Remaining (concrete next steps):**
-1. Deploy Redis to `/opt/n8n/docker-compose.yml` + wire the Spotify
-   `/opt/n8n/.env` — in-guest, low-risk (snippet in `harvest/README.md`).
-2. Add two n8n credentials: a Redis connection and a fine-grained GitHub PAT
-   (`contents:write` on `music-curator`).
-3. Import + test the producer; confirm a snapshot lands on the Redis list.
-4. Build the monthly **consumer** (`harvest/rollup.workflow.json`): Redis Llen →
-   pop N → aggregate (play/appearance counts, first/last seen, top-range hits)
-   → GitHub commit.
-5. Correct the spec's playlist row — playlist *contents* (`/playlists/{id}/tracks`)
-   return 403 for a Dev-Mode operator app; only `/me/playlists` metadata works.
+**Deployment realities worth remembering** (all resolved; memory `spotify-harvest-status`):
+- `main` is protected by a ruleset (PR required, **zero bypass**), so the consumer
+  can't commit directly — it commits to a `harvest/rollup-YYYY-MM` branch via the
+  git *data* API and auto-merges the PR.
+- The n8n Code-node sandbox has no `URLSearchParams`/`Buffer`/`btoa` — token bodies
+  are hand-encoded, and the commit uses the git data API (UTF-8 blobs) to avoid
+  base64. A `URLSearchParams` slip made every scheduled run fail *silently* until
+  fixed (PR #49).
+- GitHub auth is `$env.GITHUB_TOKEN` (a Code node can't read n8n's credential
+  store), not a UI credential.
 
 **Merge rule (unchanged):** harvest signals update `tagged`/`anchor`/`rotation`
 and append new artists; they never silently resurrect discarded entries; each
 harvest is date-stamped so rotation drift stays visible.
 
-**Dependencies:** the n8n box (LXC 113); a stored refresh token kept out of the
+**Remaining / follow-ups:**
+- Rotate `GITHUB_TOKEN` before its **2026-08-22** expiry, or the September
+  consumer run 403s.
+- Add an n8n **Error Trigger + notifier** so a silent failure can't run unnoticed
+  (the exact class of bug that hid PR #49's breakage for days).
+- Wire the harvest into the `rotation` refresh — this harvest is the intended
+  refresh source for *Streaming + Collection Merge* (below).
+
+**Dependencies:** the n8n box (LXC 113); tokens in `/opt/n8n/.env`, out of the
 repo. See memory `spotify-harvest-status`.
 
 ---
@@ -103,11 +125,13 @@ an extensible alias map. Thresholds: a play = ≥30 s; current = ≥10 plays in 
 trailing 18 months (measured from the newest play in the export, so reruns are
 stable); dormant floor = 10 lifetime plays.
 
-**Remaining:** refresh `rotation` from the periodic harvest (above) instead of
-one-off GDPR exports; surface rotation in the vault (artist-note field and/or a
-graph preset); fold the findings into the distilled profile.
+**Remaining:** refresh `rotation` from the periodic harvest (now live, above)
+instead of one-off GDPR exports — the monthly `data/harvests/YYYY-MM.json`
+roll-ups are the input signal; surface rotation in the vault (artist-note field
+and/or a graph preset); fold the findings into the distilled profile.
 
-**Dependencies:** Periodic Spotify harvest above (for the refresh path).
+**Dependencies:** Periodic Spotify harvest above — **now shipped**, so the
+refresh path is unblocked.
 
 ---
 
@@ -249,12 +273,13 @@ from a proven base, not a speculative one.
    self-consistent as it grows.
 0b. **Obsidian graph vault** ✅ — visual artist map driven off the inventory;
    makes the taste structure explorable.
-1. **Periodic Spotify harvest** — where the original conversation pointed;
-   converts a snapshot into a living data source.
-2. **Streaming + collection merge** — closes the historical-vs-current gap the
-   example profile already calls out.
+1. **Periodic Spotify harvest** ✅ — where the original conversation pointed;
+   converts a snapshot into a living data source. Live on LXC 113 (2026-07-23).
+2. **Streaming + collection merge** ✅ (batch spine) — closes the historical-vs-
+   current gap the example profile calls out; the harvest above now feeds its
+   `rotation` refresh.
 3. **Package as a Claude skill** — makes the whole thing reusable, not a
-   one-off.
+   one-off. **Now the top open item.**
 4. **Anchor-artist catch-up automation** — automates a queue maintained by
    hand today.
 5. **Reservoir-first cross-referencing** — formalizes an existing principle.
