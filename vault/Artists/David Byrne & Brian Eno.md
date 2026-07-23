@@ -17,7 +17,7 @@ tags: ["artist", "pop", "rotation-historical"]
 
 **With:** [[David Byrne]]
 
-**Session ties:** [[Coldplay]] · [[Talking Heads]]
+**Session ties:** [[Bill Laswell]] · [[Coldplay]] · [[Talking Heads]]
 
 ## Albums (2)
 - Everything That Happens Will Happen Today

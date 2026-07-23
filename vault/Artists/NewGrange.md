@@ -13,7 +13,7 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
-**Session ties:** [[Darol Anger]] · [[Mike Marshall]] · [[Tim O'Brien]]
+**Session ties:** [[Alison Brown]] · [[Darol Anger]] · [[Mike Marshall]] · [[Tim O'Brien]]
 
 ## Albums (1)
 - NewGrange

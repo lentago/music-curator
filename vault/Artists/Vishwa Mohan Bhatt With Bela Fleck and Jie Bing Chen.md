@@ -13,7 +13,7 @@ tags: ["artist", "world", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
-**Session ties:** [[Russ Barenberg]]
+**Session ties:** [[Béla Fleck]] · [[Russ Barenberg]]
 
 ## Albums (1)
 - Tabula Rasa

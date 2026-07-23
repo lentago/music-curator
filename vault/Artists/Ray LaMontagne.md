@@ -15,6 +15,8 @@ tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 
 **Rotation:** historical — effectively absent from the stream. 1 play in the trailing 18 months (1 lifetime), last on 2025-09-03.
 
+**Session ties:** [[Ray LaMontagne & The Pariah Dogs]]
+
 ## Albums (3)
 - Gossip In The Grain
 - Till the Sun Turns Black

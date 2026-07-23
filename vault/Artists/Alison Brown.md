@@ -14,7 +14,7 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
-**Session ties:** [[Béla Fleck]] · [[Darol Anger]] · [[Mike Marshall]] · [[Sam Bush]] · [[Stuart Duncan]] · [[Tim O'Brien]] · [[Tony Rice Unit]]
+**Session ties:** [[Béla Fleck]] · [[Darol Anger]] · [[Mike Marshall]] · [[NewGrange]] · [[Sam Bush]] · [[Stuart Duncan]] · [[Tim O'Brien]] · [[Tony Rice Unit]]
 
 ## Albums (1)
 - Fair Weather

@@ -39,6 +39,7 @@ The heuristics that drive Phase 4 — high-confidence discard tells, a **canon-t
   - [`credits.json`](data/credits.json) — the per-album personnel layer that drives the session-tie edges.
   - [`discographies.json`](data/discographies.json) — the seeded full-discography layer: every known recording for selected anchor artists (owned or not), harvested from canonical discography pages and cross-matched against the collection by [`discography_merge.py`](discography_merge.py).
   - [`streaming-summary.json`](data/streaming-summary.json) — the listening layer: per-artist play counts, minutes and per-year history from the Spotify Extended Streaming History export, merged in by [`streaming_merge.py`](streaming_merge.py), which also stamps a `rotation` class onto each artist. The raw export stays untracked — it carries per-play IP addresses.
+  - [`follows.json`](data/follows.json) — the follow layer: per-artist follow provenance (when, the triggering song, seed-ties) folded from the live Spotify follow watcher by [`harvest_merge.py`](harvest_merge.py). A follow can seed a new artist into the reservoir; see [`harvest/`](harvest/).
 - **[`vault/`](vault/)** — the wiki itself: a generated Obsidian vault whose **graph view** turns the taste profile into a visual artist map. See below.
 - **[`obsidian_driver.py`](obsidian_driver.py)** — the driver that renders `data/` into `vault/`.
 - **[`examples/`](examples/)** — the original worked run, from a single ~25,000-file / 700-artist collection across **13 triage rounds** (16.8% discard rate):
@@ -106,6 +107,7 @@ active one is installed as `graph.json`. Pick with `--graph`:
 | `default` | The full taste map — every artist clustered under its category tree, colored by top-level genre. |
 | `artist-web` | Only the direct artist↔artist edges (collaborations and session ties), with the taxonomy stripped away. |
 | `rotation` | The same map recolored by listening rather than genre — green still in play, amber dormant, slate blue shelf-only. Where a cluster is all blue, the shelf has outlived the listening. |
+| `source-follow` | Highlights the Spotify follow set over the taste map. Orphans are shown, so freshly seeded follows (no category yet) appear as loose nodes alongside the connected ones. |
 
 ```bash
 python obsidian_driver.py --graph rotation

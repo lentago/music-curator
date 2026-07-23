@@ -5,8 +5,9 @@ era: "1990s-now"
 rotation: "current"
 plays: 391
 last_played: "2026-04-22"
+followed_at: "2026-07-23"
 album_count: 3
-tags: ["artist", "electronic", "rotation-current"]
+tags: ["artist", "electronic", "rotation-current", "source-follow"]
 ---
 
 # Daft Punk
@@ -18,6 +19,8 @@ tags: ["artist", "electronic", "rotation-current"]
 **By year:** 2018 ▃37 · 2019 ▂12 · 2020 ▃33 · 2021 ▅78 · 2022 █140 · 2023 ▄65 · 2024 ▁9 · 2025 ▁10 · 2026 ▁7
 
 **Session ties:** [[N.E.R.D]]
+
+**Followed:** on Spotify — backfilled, observed as of 2026-07-23 (original follow date and trigger song unknown).
 
 ## Albums (3)
 - Discovery

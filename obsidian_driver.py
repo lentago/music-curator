@@ -21,6 +21,7 @@ Usage:
     python obsidian_driver.py --out /tmp/my-vault --include-discarded
     python obsidian_driver.py --graph artist-web   # open on the artist↔artist web
     python obsidian_driver.py --graph rotation     # recolor by what's still played
+    python obsidian_driver.py --graph source-follow  # highlight the Spotify follow set
 
 The output directory is treated as fully generated: it is wiped and rebuilt on
 every run (guarded by a marker file so it will not clobber a directory it did
@@ -38,12 +39,21 @@ import re
 import shutil
 import sys
 
+from curator_lib import alnum
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 DEFAULT_INVENTORY = os.path.join(HERE, "data", "music-inventory.json")
 DEFAULT_CREDITS = os.path.join(HERE, "data", "credits.json")
 DEFAULT_DISCOGRAPHIES = os.path.join(HERE, "data", "discographies.json")
 DEFAULT_STREAMING = os.path.join(HERE, "data", "streaming-summary.json")
+DEFAULT_FOLLOWS = os.path.join(HERE, "data", "follows.json")
 DEFAULT_OUT = os.path.join(HERE, "vault")
+
+# The tag the `source-follow` graph preset colors on. Carried by any artist
+# currently followed on Spotify (owned or seeded), so the preset lights up the
+# whole follow set over the taste map, independent of the category coloring.
+SOURCE_FOLLOW_TAG = "source-follow"
+SOURCE_FOLLOW_COLOR = (0.83, 0.62, 0.60)   # magenta-pink, distinct from the rotation ramp
 
 # Written to the output dir so a later run knows the dir is ours to wipe.
 MARKER = ".generated-by-music-curator"
@@ -181,6 +191,15 @@ def build_personnel_edges(credits, active_set):
     if not credits:
         return edges
 
+    # Direct roster match by normalized name. This is self-healing: a personnel
+    # name that matches a roster artist wires an edge even if the stored
+    # `in_collection` flag is stale (written before that artist joined the
+    # roster) -- which is exactly the case for artists seeded from a Spotify
+    # follow. It complements, not replaces, the stored `collection_match`, which
+    # still catches name drift the alnum key can't bridge (Nick Cave -> Nick
+    # Cave & the Bad Seeds).
+    active_alnum = {alnum(n): n for n in active_set}
+
     def resolve(match):
         if not match:
             return []
@@ -203,9 +222,13 @@ def build_personnel_edges(credits, active_set):
             continue
         for _album, rec in albums.items():
             for person in rec.get("personnel", []):
-                if not person.get("in_collection"):
-                    continue
-                for match in resolve(person.get("collection_match")):
+                targets = set()
+                if person.get("in_collection"):
+                    targets.update(resolve(person.get("collection_match")))
+                direct = active_alnum.get(alnum(person.get("name", "")))
+                if direct:
+                    targets.add(direct)
+                for match in targets:
                     if match == artist or match not in active_set:
                         continue
                     edges.setdefault(artist, set()).add(match)
@@ -395,8 +418,46 @@ def rotation_lines(rotation, entry, months=18, floor=10):
     return lines
 
 
+def follows_index(follows):
+    """Name -> follow record from the follows sidecar, excluding unfollowed
+    artists. An unfollow is recorded for the audit trail but is not a current
+    follow, so it neither carries the tag nor renders as followed."""
+    return {name: rec for name, rec in (follows or {}).get("artists", {}).items()
+            if not rec.get("unfollowed_at")}
+
+
+def follow_line(rec, seed_tie_links):
+    """The artist note's follow-provenance block.
+
+    Three honest shapes, because the certainty differs. A backfilled follow has
+    no real date or trigger song (the watcher wasn't running when it happened),
+    so it is stated as an observation, not a claim. A live follow with the
+    triggering artist caught in the moment names the song; without it, just the
+    date. Seed ties -- co-artists on the trigger track who are in the collection
+    -- are the earned edges that let a seeded artist wire into the graph.
+    """
+    when = (rec.get("followed_at") or "")[:10]
+    lines = []
+    if rec.get("backfill"):
+        lines.append(f"**Followed:** on Spotify — backfilled, observed as of "
+                     f"{when} (original follow date and trigger song unknown).")
+    else:
+        trigger = rec.get("trigger_track") if rec.get("trigger_confidence") == "high" else None
+        if trigger and trigger.get("track"):
+            by = ", ".join(trigger.get("artists") or []) or "unknown"
+            lines.append(f"**Followed:** {when} on Spotify, while playing "
+                         f"*{trigger['track']}* — {by} (the likely trigger).")
+        else:
+            lines.append(f"**Followed:** {when} on Spotify.")
+    lines.append("")
+    if seed_tie_links:
+        lines.append("**Seeded via:** " + " · ".join(seed_tie_links))
+        lines.append("")
+    return lines
+
+
 def build_vault(inventory, out_dir, include_discarded=False, credits=None,
-                discographies=None, streaming=None, graph="default"):
+                discographies=None, streaming=None, follows=None, graph="default"):
     artists = inventory.get("artists", {})
     meta = inventory.get("meta", {})
 
@@ -420,6 +481,12 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None,
     stream_meta = (streaming or {}).get("meta", {})
     recent_months = stream_meta.get("recent_months", 18)
     play_floor = stream_meta.get("floor_plays", 10)
+
+    # Current Spotify follows (unfollowed artists excluded). Seed ties recorded
+    # in the sidecar are resolved to nodes here, so a live follow's trigger song
+    # becomes real artist->artist edges.
+    follow_by_name = follows_index(follows)
+    follow_members = []
 
     # Collect the two-tier hub structure and its members.
     category_members = {}   # category -> [artists filed directly under it, no subcategory]
@@ -472,6 +539,13 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None,
             tags.append(f"rotation-{rotation}")
             rotation_members[rotation].append(name)
 
+        # Follow provenance is a third independent tag axis (category / rotation
+        # / follow), so the `source-follow` preset lights up the follow set.
+        follow_rec = follow_by_name.get(name)
+        if follow_rec:
+            tags.append(SOURCE_FOLLOW_TAG)
+            follow_members.append(name)
+
         fm = frontmatter([
             ("aliases", [name] if artist_base[name] != name else None),
             ("type", "artist"),
@@ -482,6 +556,9 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None,
             ("plays", stream_entry.get("plays") if stream_entry else None),
             ("last_played", (stream_entry.get("last_played") or "")[:10]
                             if stream_entry else None),
+            ("followed_at", (follow_rec.get("followed_at") or "")[:10]
+                            if follow_rec else None),
+            ("source", rec.get("source")),
             ("album_count", rec.get("album_count")),
             ("discarded", True if rec.get("discard") else None),
             ("collaborators", collab_map.get(name) or None),
@@ -524,6 +601,16 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None,
                 "**Session ties:** " + " · ".join(link(artist_base[t], t) for t in ties)
             )
             parts.append("")
+
+        # Follow provenance + seed ties. Seed ties are the trigger track's
+        # co-artists that are nodes and not already linked another way.
+        if follow_rec:
+            drawn = set(collaborators) | set(ties)
+            seed_ties = [t for t in follow_rec.get("seed_ties", [])
+                         if t in active and t != name and t not in drawn]
+            seed_tie_links = [link(artist_base[t], t)
+                              for t in sorted(seed_ties, key=str.lower)]
+            parts.extend(follow_line(follow_rec, seed_tie_links))
 
         if rec.get("note"):
             parts.append(f"> {rec['note']}")
@@ -816,6 +903,12 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None,
         f"play. {link(fixed[ROTATION_MOC])} collects the gaps in both "
         "directions — artists in rotation the collection has no roots in, and "
         "deep shelf anchors that have fallen out of play.",
+        "- Artists you **follow** on Spotify carry a `followed_at` and a "
+        "**Followed:** line naming the song that triggered the follow when it "
+        "was caught live. A follow can *seed* a new artist into the reservoir, "
+        "so the `source-follow` preset shows the whole follow set at once — "
+        "connected follows in their clusters and freshly seeded ones as loose "
+        "nodes waiting to be tagged.",
         "- No artist is singled out — node size follows degree, so importance "
         "emerges from the graph, not a prior.",
         "- The graph opens **filtered** (`-tag:#moc`, orphans hidden) so the meta "
@@ -841,6 +934,7 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None,
         "discography_recordings": disco_recordings,
         "rotation": {c: len(rotation_members[c]) for c in ROTATION_CLASSES},
         "stream_only": len(stream_only),
+        "follows": len(follow_members),
         "meta_total": meta.get("total_unique_artists"),
     }
 
@@ -894,6 +988,12 @@ def graph_presets(categories):
     This is the one preset that overrides the category palette: nodes color on
     the `rotation-*` tags instead, so a category cluster that has gone cold
     reads as a block of slate blue against the green of what is still in play.
+
+    source-follow — highlights the Spotify follow set. Orphans are shown (unlike
+    the others) because a freshly seeded follow has no category and no edges
+    until it is tagged or its trigger song wires it, so it would otherwise be
+    hidden -- and seeing those loose follows is the whole point of the preset.
+    Followed artists carry the highlight color; everything else stays muted.
     """
     base = {
         "collapse-filter": True,
@@ -923,7 +1023,12 @@ def graph_presets(categories):
          "color": {"a": 1, "rgb": _hsl_to_rgb_int(*ROTATION_COLORS[cls])}}
         for cls in ROTATION_CLASSES
     ])
-    return {"default": base, "artist-web": artist_web, "rotation": rotation}
+    source_follow = dict(base, showOrphans=True, colorGroups=[
+        {"query": f"tag:#{SOURCE_FOLLOW_TAG}",
+         "color": {"a": 1, "rgb": _hsl_to_rgb_int(*SOURCE_FOLLOW_COLOR)}},
+    ])
+    return {"default": base, "artist-web": artist_web, "rotation": rotation,
+            "source-follow": source_follow}
 
 
 def write_graph_config(out_dir, categories, graph="default"):
@@ -973,6 +1078,8 @@ def main():
                         help="path to discographies.json (seeded full-discography layer); optional")
     parser.add_argument("--streaming", default=DEFAULT_STREAMING,
                         help="path to streaming-summary.json (rotation layer); optional")
+    parser.add_argument("--follows", default=DEFAULT_FOLLOWS,
+                        help="path to follows.json (Spotify follow provenance); optional")
     parser.add_argument("--graph", default="default", choices=sorted(graph_presets([])),
                         help="graph preset installed as the active graph.json")
     args = parser.parse_args()
@@ -982,9 +1089,10 @@ def main():
     discographies = (load_json(args.discographies)
                      if os.path.exists(args.discographies) else None)
     streaming = load_json(args.streaming) if os.path.exists(args.streaming) else None
+    follows = load_json(args.follows) if os.path.exists(args.follows) else None
     stats = build_vault(inventory, args.out, include_discarded=args.include_discarded,
                         credits=credits, discographies=discographies,
-                        streaming=streaming, graph=args.graph)
+                        streaming=streaming, follows=follows, graph=args.graph)
 
     print(f"Wrote vault to: {args.out}")
     print(f"  artists:    {stats['artists']}")
@@ -997,6 +1105,8 @@ def main():
     if any(stats["rotation"].values()):
         print("  rotation:   " + "  ".join(f"{c}: {n}"
                                            for c, n in stats["rotation"].items()))
+    if stats["follows"]:
+        print(f"  follows:    {stats['follows']} artists tagged #{SOURCE_FOLLOW_TAG}")
 
 
 if __name__ == "__main__":

@@ -17,7 +17,7 @@ tags: ["artist", "country-americana", "rotation-dormant"]
 
 **By year:** 2021 ▆6 · 2022 ▂1 · 2026 █8
 
-**Session ties:** [[Del McCoury]] · [[Emmylou Harris]] · [[Jerry Douglas]] · [[Lucinda Williams]] · [[Steve Earle & The Dukes (& Duchesses)]] · [[Steve Earle-The Del McCoury Band]] · [[Tim O'Brien]]
+**Session ties:** [[Del McCoury]] · [[Emmylou Harris]] · [[Jerry Douglas]] · [[Lucinda Williams]] · [[Steve Earle & The Dukes]] · [[Steve Earle & The Dukes (& Duchesses)]] · [[Steve Earle-The Del McCoury Band]] · [[Tim O'Brien]]
 
 ## Albums (6)
 - El Corazón

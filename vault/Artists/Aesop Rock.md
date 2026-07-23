@@ -6,8 +6,9 @@ era: "1999-now"
 rotation: "current"
 plays: 2983
 last_played: "2026-07-10"
+followed_at: "2026-07-23"
 album_count: 5
-tags: ["artist", "hip-hop", "rotation-current"]
+tags: ["artist", "hip-hop", "rotation-current", "source-follow"]
 ---
 
 # Aesop Rock
@@ -18,7 +19,9 @@ tags: ["artist", "hip-hop", "rotation-current"]
 
 **By year:** 2017 ▁3 · 2019 ▁1 · 2021 ▁1 · 2022 ▃414 · 2023 ▁71 · 2024 ▅709 · 2025 █1,172 · 2026 ▅612
 
-**Session ties:** [[Blockhead]] · [[Cannibal Ox]] · [[DJ Krush]] · [[El-P]] · [[Illogic]] · [[Mr. Lif]] · [[Vast Aire]]
+**Session ties:** [[Blockhead]] · [[Cannibal Ox]] · [[DJ Krush]] · [[El-P]] · [[Homeboy Sandman]] · [[Illogic]] · [[Mr. Lif]] · [[Murs]] · [[Vast Aire]]
+
+**Followed:** on Spotify — backfilled, observed as of 2026-07-23 (original follow date and trigger song unknown).
 
 ## Albums (5)
 - Bazooka Tooth Disc 1
