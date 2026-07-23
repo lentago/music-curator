@@ -73,7 +73,8 @@ function bucket(m) {
 function artistRec(b, name) {
   if (!b.artists.has(name)) b.artists.set(name, {
     name, days: new Set(), top_ranges: new Set(), in_top_artists_days: new Set(),
-    in_top_tracks_days: new Set(), followed: false, saved_tracks_max: 0, plays: new Set(), genres: new Set(),
+    in_top_tracks_days: new Set(), followed: false, followed_days: new Set(),
+    saved_tracks_max: 0, plays: new Set(), genres: new Set(),
   });
   return b.artists.get(name);
 }
@@ -98,7 +99,8 @@ for (const snap of snapshots) {
   }
   for (const a of (snap.followed_artists || [])) {
     if (!a || !a.name) continue;
-    const r = mark(a.name, day); r.followed = true; (a.genres || []).forEach((g) => r.genres.add(g));
+    const r = mark(a.name, day); r.followed = true; r.followed_days.add(day);
+    (a.genres || []).forEach((g) => r.genres.add(g));
   }
   const savedThisSnap = new Map();
   for (const t of (snap.saved_tracks || [])) for (const nm of ((t && t.artists) || [])) savedThisSnap.set(nm, (savedThisSnap.get(nm) || 0) + 1);
@@ -110,19 +112,38 @@ for (const snap of snapshots) {
 const now = new Date();
 const payloads = [];
 for (const [month, b] of months) {
+  // Follow deltas are read against the month's own snapshot window. Spotify
+  // exposes no followed_at on /me/following, so a follow is only ever "first
+  // observed on day D" -- an artist already followed when harvesting began is
+  // indistinguishable from one followed that morning. Anchoring on the window
+  // makes that explicit: new_follow means the follow appeared AFTER the first
+  // snapshot of the month, which is the only case the data can support.
+  const monthDays = [...b.days].sort();
+  const firstDay = monthDays[0], lastDay = monthDays[monthDays.length - 1];
   const artists = {};
   for (const [name, r] of [...b.artists.entries()].sort((a, c) => a[0].localeCompare(c[0]))) {
     const days = [...r.days].sort();
+    const fdays = [...r.followed_days].sort();
+    const firstFollowed = fdays[0] || null, lastFollowed = fdays[fdays.length - 1] || null;
     artists[name] = {
       days_seen: r.days.size, first_seen: days[0], last_seen: days[days.length - 1],
       top_ranges: [...r.top_ranges].sort(), in_top_artists_days: r.in_top_artists_days.size,
       in_top_tracks_days: r.in_top_tracks_days.size, followed: r.followed,
+      followed_days: r.followed_days.size,
+      first_followed: firstFollowed, last_followed: lastFollowed,
+      // Followed for the first time mid-window -> a genuine new follow.
+      new_follow: Boolean(firstFollowed) && firstFollowed > firstDay,
+      // Was followed, then absent from the list by the final snapshot.
+      unfollowed: Boolean(lastFollowed) && lastFollowed < lastDay,
       saved_tracks_max: r.saved_tracks_max, plays: r.plays.size, genres: [...r.genres].sort(),
     };
   }
   const rollup = {
     month, generated_at: now.toISOString(), source: 'spotify-web-api', harvester: 'music-curator/n8n rollup',
-    schema: 1, snapshot_days: b.days.size, profile: b.profile, playlists_count: b.playlistsCount,
+    schema: 2, snapshot_days: b.days.size, snapshot_first_day: firstDay, snapshot_last_day: lastDay,
+    profile: b.profile, playlists_count: b.playlistsCount,
+    followed_count: Object.values(artists).filter((a) => a.followed).length,
+    new_follow_count: Object.values(artists).filter((a) => a.new_follow).length,
     artist_count: Object.keys(artists).length, artists,
   };
   payloads.push({
