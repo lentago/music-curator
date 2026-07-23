@@ -1,0 +1,123 @@
+{
+  "id": "spotifyFollowDrain01",
+  "name": "Spotify follow drain \u2192 GitHub PR (music-curator)",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "days",
+              "triggerAtHour": 5
+            }
+          ]
+        }
+      },
+      "id": "d1000000-0000-4000-8000-000000000001",
+      "name": "Daily 05:00",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        380,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "get",
+        "propertyName": "queue",
+        "key": "spotify:follow-events",
+        "keyType": "list",
+        "options": {}
+      },
+      "id": "d1000000-0000-4000-8000-000000000002",
+      "name": "Read events",
+      "type": "n8n-nodes-base.redis",
+      "typeVersion": 1,
+      "position": [
+        600,
+        300
+      ],
+      "credentials": {
+        "redis": {
+          "id": "redisLocal01",
+          "name": "Redis (local)"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// Spotify follow-event drain -- music-curator. n8n Code node, \"Run Once for All Items\".\n// Input: the \"Read events\" Redis Get node (keyType=list) put the raw list into\n// $json.queue as an array of follow-event JSON strings (as pushed by the watcher).\n// Action: append the new events to data/harvests/follow-events.jsonl on a branch\n// and open a PR. The fold Action folds + merges it; this node never arms merge.\nconst helpers = this.helpers;\nconst TOKEN = $env.GITHUB_TOKEN;\nif (!TOKEN) throw new Error('Missing GITHUB_TOKEN in n8n env (fine-grained PAT, Contents + Pull requests write; set N8N_BLOCK_ENV_ACCESS_IN_NODE=false).');\nconst OWNER = 'lentago', REPO = 'music-curator', BASE = 'main';\nconst GH = 'https://api.github.com';\nconst LOG = 'data/harvests/follow-events.jsonl';\n\nconst first = $input.first();\nconst raw = (first && first.json && first.json.queue) || [];\nconst queue = Array.isArray(raw) ? raw : [raw];\nconst incoming = [];\nfor (const entry of queue) {\n  try { incoming.push(typeof entry === 'string' ? JSON.parse(entry) : entry); } catch (e) { /* skip */ }\n}\nif (!incoming.length) return [];\n\nasync function gh(method, path, body, accept) {\n  return await helpers.httpRequest({\n    method, url: GH + path,\n    headers: { Authorization: 'Bearer ' + TOKEN, Accept: accept || 'application/vnd.github+json',\n               'User-Agent': 'music-curator-n8n', 'X-GitHub-Api-Version': '2022-11-28' },\n    body: body ? JSON.stringify(body) : undefined,\n    json: accept ? false : true,\n  });\n}\n\n// --- current log content (raw, so no base64 decode in the sandbox) ---\nlet existing = '';\ntry {\n  existing = await gh('GET', `/repos/${OWNER}/${REPO}/contents/${LOG}?ref=${BASE}`,\n                      null, 'application/vnd.github.raw');\n  if (typeof existing !== 'string') existing = String(existing);\n} catch (e) {\n  const sc = e.statusCode || e.httpCode || (e.response && e.response.statusCode);\n  if (sc !== 404) throw e;   // 404 = log not created yet; anything else is real\n  existing = '';\n}\n\n// --- dedup by the fold's own event id (artist + detected_at) ---\nconst key = (e) => (e.artist || '') + '\\u0000' + (e.detected_at || '');\nconst seen = new Set();\nfor (const line of existing.split('\\n')) {\n  const t = line.trim();\n  if (!t) continue;\n  try { seen.add(key(JSON.parse(t))); } catch (_) { /* tolerate a bad line */ }\n}\nconst fresh = [];\nfor (const e of incoming) {\n  const k = key(e);\n  if (seen.has(k)) continue;\n  seen.add(k);\n  fresh.push(e);\n}\nif (!fresh.length) return [];   // everything already logged; nothing to commit\n\nconst head = existing && !existing.endsWith('\\n') ? existing + '\\n' : existing;\nconst content = head + fresh.map((e) => JSON.stringify(e)).join('\\n') + '\\n';\n\nconst follows = fresh.filter((e) => e.type === 'follow').map((e) => e.artist);\nconst unfollows = fresh.filter((e) => e.type === 'unfollow').map((e) => e.artist);\nconst stamp = new Date().toISOString().slice(0, 19).replace(/[:T]/g, '-');\nconst branch = `harvest/follows-${stamp}`;\nconst summary = [\n  follows.length ? `${follows.length} follow(s): ${follows.join(', ')}` : null,\n  unfollows.length ? `${unfollows.length} unfollow(s): ${unfollows.join(', ')}` : null,\n].filter(Boolean).join('; ');\n\n// --- commit the append (git data API -> utf-8 blob, no base64) ---\nconst ref = await gh('GET', `/repos/${OWNER}/${REPO}/git/ref/heads/${BASE}`);\nconst baseSha = ref.object.sha;\nconst baseCommit = await gh('GET', `/repos/${OWNER}/${REPO}/git/commits/${baseSha}`);\nconst blob = await gh('POST', `/repos/${OWNER}/${REPO}/git/blobs`, { content, encoding: 'utf-8' });\nconst tree = await gh('POST', `/repos/${OWNER}/${REPO}/git/trees`,\n  { base_tree: baseCommit.tree.sha, tree: [{ path: LOG, mode: '100644', type: 'blob', sha: blob.sha }] });\nconst commit = await gh('POST', `/repos/${OWNER}/${REPO}/git/commits`,\n  { message: `chore(harvest): ${fresh.length} follow event(s)\\n\\n${summary}`, tree: tree.sha, parents: [baseSha] });\nawait gh('POST', `/repos/${OWNER}/${REPO}/git/refs`, { ref: `refs/heads/${branch}`, sha: commit.sha });\n\n// --- open the PR, but DO NOT arm auto-merge. The fold Action folds this PR and\n//     merges it only when every event is a safe seed/provenance change. ---\nconst body = [\n  `Automated Spotify follow drain. ${summary}.`,\n  '',\n  'This PR appends the raw events to `data/harvests/follow-events.jsonl`. The',\n  '`follow-fold` GitHub Action folds them into the inventory and merges this PR',\n  'only if the batch is exclusively new reservoir seeds and provenance; a follow',\n  'of a discarded artist or any unfollow holds it open for review.',\n].join('\\n');\nconst pr = await gh('POST', `/repos/${OWNER}/${REPO}/pulls`,\n  { title: `chore(harvest): ${fresh.length} follow event(s)`, head: branch, base: BASE, body });\n\nreturn [{ json: { pr: pr.number, branch, added: fresh.length,\n                  follows: follows.length, unfollows: unfollows.length } }];\n"
+      },
+      "id": "d1000000-0000-4000-8000-000000000003",
+      "name": "Append log + open PR",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        820,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "delete",
+        "key": "spotify:follow-events",
+        "options": {}
+      },
+      "id": "d1000000-0000-4000-8000-000000000004",
+      "name": "Drain events",
+      "type": "n8n-nodes-base.redis",
+      "typeVersion": 1,
+      "position": [
+        1040,
+        300
+      ],
+      "credentials": {
+        "redis": {
+          "id": "redisLocal01",
+          "name": "Redis (local)"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Daily 05:00": {
+      "main": [
+        [
+          {
+            "node": "Read events",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read events": {
+      "main": [
+        [
+          {
+            "node": "Append log + open PR",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Append log + open PR": {
+      "main": [
+        [
+          {
+            "node": "Drain events",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true
+  },
+  "active": false
+}
