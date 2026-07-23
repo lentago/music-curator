@@ -25,11 +25,11 @@ import argparse
 import glob
 import json
 import os
-import re
 import sys
-import urllib.parse
 from collections import Counter, defaultdict
 from datetime import datetime, timedelta
+
+from curator_lib import alnum
 
 DEFAULT_INVENTORY = os.path.join(os.path.dirname(__file__), "data", "music-inventory.json")
 DEFAULT_EXPORT = os.path.join(os.path.dirname(__file__), "data", "my_spotify_data", "Spotify Extended Streaming History")
@@ -42,13 +42,6 @@ FLOOR_PLAYS = 10            # lifetime plays: dormant floor + sidecar inclusion
 
 # streaming artist string (alnum) -> inventory key, for drift alnum can't bridge
 ALIASES = {}
-
-
-def alnum(s):
-    """Punctuation/underscore-insensitive key, same normalization family as
-    the Phase 2 dedup logic."""
-    s = urllib.parse.unquote(s).replace("_", " ").lower()
-    return re.sub(r"[^a-z0-9]", "", s)
 
 
 def load_plays(export_dir):

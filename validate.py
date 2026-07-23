@@ -17,6 +17,8 @@ import json
 import os
 import sys
 
+from curator_lib import collisions_by_alnum
+
 SCHEMA_PATH = os.path.join(os.path.dirname(__file__), "schema", "music-inventory.schema.json")
 DEFAULT_INVENTORY = os.path.join(os.path.dirname(__file__), "data", "music-inventory.json")
 
@@ -130,6 +132,21 @@ def find_near_duplicate_keys(inventory):
     return hits
 
 
+def find_normalization_collisions(inventory):
+    """Artist keys that collapse to the same Phase-2 dedup key.
+
+    Stronger than the fuzzy near-duplicate scan below: a collision means every
+    tool that joins to the roster — streaming, discographies, follow ingest —
+    resolves both spellings to ONE of them and silently ignores the other. Any
+    automatic ingest keyed on this normalization will therefore attach to the
+    survivor, so a collision is a live correctness problem, not a tidiness one.
+
+    Reported as a warning rather than a failure: choosing the canonical
+    spelling and moving the albums across is a curation call (issue #42).
+    """
+    return collisions_by_alnum(inventory.get("artists", {}).keys())
+
+
 def main():
     inventory_path = sys.argv[1] if len(sys.argv) > 1 else DEFAULT_INVENTORY
     schema = load_json(SCHEMA_PATH)
@@ -167,6 +184,15 @@ def main():
             print(e)
         print()
         all_errors.extend(album_errors)
+
+    # 4a. Normalization collisions (warnings — a curation call, see issue #42)
+    collisions = find_normalization_collisions(inventory)
+    if collisions:
+        print(f"NORMALIZATION COLLISIONS — these resolve to one record for every "
+              f"joining tool ({len(collisions)}):")
+        for key, group in sorted(collisions.items()):
+            print(f"  {key!r}  <-  {', '.join(repr(g) for g in sorted(group))}")
+        print()
 
     # 4. Near-duplicate artist key detection (warnings only — not counted as errors)
     near_dups = find_near_duplicate_keys(inventory)

@@ -40,6 +40,8 @@ import sys
 import urllib.parse
 from collections import Counter
 
+from curator_lib import alnum
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 DEFAULT_INVENTORY = os.path.join(HERE, "data", "music-inventory.json")
 DEFAULT_CREDITS = os.path.join(HERE, "data", "credits.json")
@@ -66,13 +68,6 @@ _DISC_SUFFIX = re.compile(r"(?:\b(?:disc|disk|cd)\s*\d+|\[[^\]]*$|\([^)]*$)", re
 _NUM_WORDS = {"one": "1", "two": "2", "three": "3", "four": "4", "five": "5",
               "six": "6", "seven": "7", "eight": "8", "nine": "9", "ten": "10",
               "eleven": "11", "twelve": "12"}
-
-
-def alnum(s):
-    """Punctuation/underscore-insensitive key, same normalization family as
-    the Phase 2 dedup logic (and streaming_merge.py)."""
-    s = urllib.parse.unquote(s).replace("_", " ").lower()
-    return re.sub(r"[^a-z0-9]", "", s)
 
 
 def title_key(name):
