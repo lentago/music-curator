@@ -1,0 +1,96 @@
+name: Fold follow events
+
+# The second half of follow ingestion. The n8n drain (spotifyFollowDrain01)
+# opens a PR that appends raw follow events to data/harvests/follow-events.jsonl
+# but changes nothing else and does NOT arm auto-merge. This workflow folds those
+# events into the inventory with the tested Python tool, validates the result,
+# commits it onto the same PR, and merges the PR ONLY when every event is a safe
+# reservoir seed or provenance stamp. A follow of a discarded artist, or any
+# unfollow, holds the PR open for a human — matching the agreed rule that only
+# additive reservoir seeding auto-merges.
+#
+# Safety: `main` has no required status checks, so the merge gate is this job.
+# It runs harvest_merge.py + validate.py; if either fails the job fails and
+# nothing merges. The fold is idempotent, so a re-trigger from its own push is a
+# harmless no-op that finds no changes.
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - "data/harvests/follow-events.jsonl"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: follow-fold-${{ github.event.pull_request.number }}
+  cancel-in-progress: false
+
+jobs:
+  fold:
+    # Only branches the drain produces. Guards against an unrelated PR that
+    # happens to touch the log triggering an auto-merge.
+    if: startsWith(github.event.pull_request.head.ref, 'harvest/follows-')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the PR branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements-validate.txt
+
+      - name: Fold the follow events
+        run: python harvest_merge.py --summary /tmp/fold-summary.json
+
+      - name: Validate the mutated inventory
+        run: python validate.py data/music-inventory.json
+
+      - name: Commit the fold onto the PR branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/music-inventory.json data/follows.json
+          if git diff --cached --quiet; then
+            echo "fold produced no inventory change (already folded); nothing to commit"
+          else
+            git commit -m "chore(harvest): fold follow events into the inventory
+
+          Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>"
+            git push origin HEAD:${{ github.event.pull_request.head.ref }}
+          fi
+
+      - name: Decide and act on the merge
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          state=$(gh pr view "$PR" --json state --jq .state)
+          if [ "$state" != "OPEN" ]; then
+            echo "PR #$PR is $state; nothing to do."
+            exit 0
+          fi
+          auto=$(python -c "import json;print(json.load(open('/tmp/fold-summary.json'))['auto_mergeable'])")
+          seeded=$(python -c "import json;s=json.load(open('/tmp/fold-summary.json'));print(', '.join(s['seeded']) or '—')")
+          review=$(python -c "import json;s=json.load(open('/tmp/fold-summary.json'));print('; '.join(f\"{r['artist']}: {r['detail'] or r['why']}\" for r in s['review']) or '—')")
+          if [ "$auto" = "True" ]; then
+            echo "Batch is auto-mergeable (seeded: $seeded). Merging."
+            gh pr merge "$PR" --squash --delete-branch
+          else
+            echo "Batch needs review ($review). Holding PR open."
+            gh pr comment "$PR" --body "🔎 **Held for review** — this batch is not auto-mergeable.
+
+          - **Seeded to reservoir:** $seeded
+          - **Needs review:** $review
+
+          A follow of a discarded artist is a resurrect decision, and an unfollow is never auto-applied. Review and merge manually, or close."
+          fi

@@ -24,6 +24,15 @@ Monthly  Schedule → Redis Get (list) → Code (aggregate → git commit → PR
                   → Code (fan out) → Redis Push → Redis Set (new baseline)
                                                         ▼
                                         Redis list  "spotify:follow-events"
+                                                        │
+Daily    Schedule → Redis Get (list) → Code (append log → open PR, no arm) → Redis Delete (drain)
+                                                        ▼
+                              PR appends data/harvests/follow-events.jsonl
+                                                        │
+CI       GitHub Action (follow-fold): harvest_merge.py → validate.py → commit onto PR
+                  → merge IFF the batch is only reservoir seeds + provenance
+                                                        ▼
+                              data/music-inventory.json (reservoir) + data/follows.json
 ```
 
 **Why a queue, not a file share.** The earlier design wrote dated JSON files to
@@ -55,6 +64,9 @@ a single roll-up, instead of a commit per day.
 | `rollup.workflow.json` | Importable n8n **monthly consumer** workflow (generated): Schedule → Redis Get (list) → Code (aggregate + git commit + auto-merged PR) → Redis Delete. |
 | `gen_followwatch.py` | Source of truth for the **follow watcher** workflow (readable Code-node JS + emitter). Edit here, regenerate — don't hand-edit the JSON. |
 | `follow-watch.workflow.json` | Importable n8n **follow watcher** workflow (generated): Schedule (15 min) → Redis Get → Code (diff + capture) → Code (fan out) → Redis Push → Redis Set. |
+| `gen_followdrain.py` | Source of truth for the **follow drain** workflow (readable Code-node JS + emitter). Edit here, regenerate — don't hand-edit the JSON. |
+| `follow-drain.workflow.json` | Importable n8n **follow drain** workflow (generated): Schedule (daily) → Redis Get (list) → Code (append log + open PR, never arms) → Redis Delete. |
+| `../.github/workflows/follow-fold.yml` | The **fold Action** (not n8n): on a drain PR, runs `harvest_merge.py` + `validate.py`, commits the fold, and merges the PR only when every event is a reservoir seed or provenance stamp. |
 
 ## Deploy runbook
 
@@ -281,6 +293,36 @@ Skipping a cycle is harmless: when the follow set is unchanged the fan-out emits
 zero items, which short-circuits both the push and the baseline write — safe
 precisely because an unchanged set means the stored baseline is already correct.
 
+## Follow ingestion (drain + fold)
+
+A follow is a **deliberate act**, so unlike the roll-up's passive signals it is
+allowed to seed the inventory automatically. Ingestion is split across the two
+runtimes for one reason each: only n8n can reach the LAN Redis, and only the
+repo has the tested Python fold. Neither reimplements the other's job.
+
+**Stage A — the drain (n8n, daily 05:00).** Reads `spotify:follow-events`,
+appends the new events to `data/harvests/follow-events.jsonl` (deduped by the
+fold's own `artist + detected_at` id), commits the append to a
+`harvest/follows-<timestamp>` branch, and opens a PR. It **deliberately does not
+arm auto-merge** — `main` has no required status checks, so an armed PR would
+merge instantly, landing the log before the fold ever runs. The PR must stay
+open for Stage B. The Redis list is drained only after the commit succeeds.
+
+**Stage B — the fold (GitHub Action `follow-fold`).** Triggered by the drain's
+PR, it runs `harvest_merge.py` (which classifies every event — seed / owned /
+discarded / unfollow), runs `validate.py`, commits the resulting inventory +
+`data/follows.json` onto the PR branch, and then **merges the PR only when the
+batch is exclusively new reservoir seeds and provenance**. A follow of a
+discarded artist (a resurrect decision) or any unfollow flips the batch to
+"needs review": the Action posts a comment explaining why and leaves the PR open
+for a human. This is the agreed rule — additive reservoir seeding auto-merges,
+everything else waits.
+
+Because the merge gate is this Action (not a required check), its safety is that
+`harvest_merge.py` and `validate.py` both run in it; if either fails the job
+fails and nothing merges. The fold is idempotent, so the commit it pushes
+re-triggering the Action is a harmless no-op.
+
 ## The merge principle
 The roll-up (`data/harvests/YYYY-MM.json`) and every harvest are **inputs**,
 never a live rewrite of the curated inventory. Folding a harvest into
@@ -310,6 +352,10 @@ Phase-2 dedup logic.
   2026-07-23 with the then-current 64 follows. The event queue is **not yet
   drained by anything** — the ingest path that folds follows into the inventory
   is the next piece of work; until then events accumulate durably in Redis.
+- **Follow drain** (daily → PR) — `spotifyFollowDrain01`, daily 05:00. Drains
+  `spotify:follow-events` into `data/harvests/follow-events.jsonl` via an
+  unarmed PR; the `follow-fold` Action folds and conditionally merges it. See
+  *Follow ingestion* above.
 - **Infra** — Redis (`redis:7-alpine`, `appendonly yes`) + env wiring live in
   `/opt/n8n/docker-compose.yml`; secrets in `/opt/n8n/.env` (mode 600):
   `SPOTIFY_CLIENT_ID`, `SPOTIFY_REFRESH_TOKEN`, `GITHUB_TOKEN`.

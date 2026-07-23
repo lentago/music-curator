@@ -97,13 +97,20 @@ stronger taste signal than a play, and 48 of the 64 currently-followed artists
 are absent from the inventory entirely. Roll-up **schema v2** carries the
 day-resolution companion (`first_followed`, `new_follow`, `unfollowed`).
 
+**Follow ingestion (shipped 2026-07-23):** the deliberate-act ingest path. A
+follow *seeds* the inventory automatically because it is a chosen act, not
+passive telemetry. `harvest_merge.py` (#59) folds the event log, seeding new
+artists untagged into the reservoir (Spotify `genres` comes back empty, so there
+is nothing to auto-categorize from) with the triggering song kept as provenance
+in `data/follows.json`. The n8n drain (`spotifyFollowDrain01`) moves events from
+Redis into the log via an unarmed PR, and the `follow-fold` GitHub Action folds
++ merges it — auto-merging only reservoir seeds and provenance, holding any
+discarded-artist follow or unfollow for review. The dedup key was accent-folded
+first (#58) so an accented follow can't create a duplicate seed.
+
 **Remaining / follow-ups:**
-- **The follow-event ingest path** — nothing drains `spotify:follow-events`
-  yet. The intended behaviour is that a follow *seeds* the inventory: the artist
-  is appended untagged (Spotify's `genres` now comes back empty, so there is
-  nothing to auto-categorize from and the reservoir is the honest destination),
-  with the triggering song recorded as provenance. Until this lands, events
-  accumulate durably in Redis and nothing is lost.
+- Fold the monthly roll-up as **report-only** proposals (passive signal, never
+  auto-applied) — the counterpart to the deliberate-act path above.
 - Rotate `GITHUB_TOKEN` before its **2026-08-22** expiry, or the September
   consumer run 403s.
 - Add an n8n **Error Trigger + notifier** so a silent failure can't run unnoticed
