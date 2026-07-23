@@ -99,7 +99,9 @@
         "note":          { "type": "string" },
         "anchor":        { "type": "boolean" },
         "anchor_note":   { "type": "string" },
-        "rotation":      { "type": "string", "enum": ["current", "dormant", "historical"] }
+        "rotation":      { "type": "string", "enum": ["current", "dormant", "historical"] },
+        "source":        { "type": "string", "enum": ["spotify-follow"] },
+        "followed_at":   { "type": "string" }
       },
       "allOf": [
         {
@@ -113,6 +115,10 @@
         {
           "if":   { "properties": { "anchor": { "const": true } }, "required": ["anchor"] },
           "then": { "required": ["anchor_note"] }
+        },
+        {
+          "if":   { "required": ["source"] },
+          "then": { "required": ["followed_at"] }
         }
       ]
     }
