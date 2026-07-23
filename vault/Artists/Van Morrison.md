@@ -2,13 +2,18 @@
 type: "artist"
 category: "Soul, Funk & R&B"
 era: "1960s-now"
+rotation: "historical"
+plays: 7
+last_played: "2024-07-11"
 album_count: 7
-tags: ["artist", "soul-funk-r-b"]
+tags: ["artist", "soul-funk-r-b", "rotation-historical"]
 ---
 
 # Van Morrison
 
 **Category:** [[Soul, Funk & R&B]]
+
+**Rotation:** historical — effectively absent from the stream. 7 lifetime plays, none recent, last on 2024-07-11.
 
 **Session ties:** [[Ray Charles]] · [[The Band]]
 

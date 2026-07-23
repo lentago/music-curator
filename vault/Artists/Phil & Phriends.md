@@ -3,13 +3,16 @@ type: "artist"
 category: "Rock"
 subcategory: "Jam"
 era: "1990s-now"
+rotation: "historical"
 album_count: 6
-tags: ["artist", "rock"]
+tags: ["artist", "rock", "rotation-historical"]
 ---
 
 # Phil & Phriends
 
 **Category:** Rock › [[Jam]]
+
+**Rotation:** historical — never streamed.
 
 **Session ties:** [[The Grateful Dead]]
 

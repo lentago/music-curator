@@ -2,14 +2,17 @@
 type: "artist"
 category: "Avant-Garde & Experimental"
 era: "2000s"
+rotation: "historical"
 album_count: 2
 collaborators: ["John Zorn"]
-tags: ["artist", "avant-garde-experimental"]
+tags: ["artist", "avant-garde-experimental", "rotation-historical"]
 ---
 
 # John Zorn-Masada Chamber Ensembles
 
 **Category:** [[Avant-Garde & Experimental]]
+
+**Rotation:** historical — never streamed.
 
 **With:** [[John Zorn]]
 

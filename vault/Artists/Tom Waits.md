@@ -2,13 +2,20 @@
 type: "artist"
 category: "Country & Americana"
 era: "1973-now"
+rotation: "current"
+plays: 289
+last_played: "2025-10-12"
 album_count: 20
-tags: ["artist", "country-americana"]
+tags: ["artist", "country-americana", "rotation-current"]
 ---
 
 # Tom Waits
 
 **Category:** [[Country & Americana]]
+
+**Rotation:** current — still in play. 20 plays in the trailing 18 months (289 lifetime, 15 h), last on 2025-10-12.
+
+**By year:** 2017 ▄46 · 2018 ▁6 · 2019 █116 · 2020 ▃28 · 2021 ▄45 · 2022 ▂13 · 2023 ▁2 · 2024 ▂13 · 2025 ▂20
 
 **Session ties:** [[Greg Cohen]] · [[Kenny Wollesen]] · [[Los Lobos]] · [[Marc Ribot]] · [[Primus]] · [[Red Hot Chili Peppers]] · [[The Rolling Stones]] · [[William S. Burroughs]]
 

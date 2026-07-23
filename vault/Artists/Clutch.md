@@ -3,13 +3,20 @@ type: "artist"
 category: "Rock"
 subcategory: "Metal"
 era: "1991-now"
+rotation: "current"
+plays: 182
+last_played: "2026-05-18"
 album_count: 14
-tags: ["artist", "rock"]
+tags: ["artist", "rock", "rotation-current"]
 ---
 
 # Clutch
 
 **Category:** Rock › [[Metal]]
+
+**Rotation:** current — still in play. 16 plays in the trailing 18 months (182 lifetime, 9 h), last on 2026-05-18.
+
+**By year:** 2018 █69 · 2019 ▂10 · 2020 ▂6 · 2021 ▃19 · 2022 ▆47 · 2023 ▁2 · 2024 ▂13 · 2025 ▁1 · 2026 ▃15
 
 **Session ties:** [[The Company Band]]
 

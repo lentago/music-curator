@@ -8,7 +8,7 @@
     "current_min_recent_plays": 10,
     "floor_plays": 10,
     "streamed_artists_total": 5233,
-    "entries": 907
+    "entries": 909
   },
   "artists": [
     {
@@ -3755,7 +3755,7 @@
     },
     {
       "artist": "Marc Ribot",
-      "inventory_key": null,
+      "inventory_key": "Marc Ribot",
       "plays": 31,
       "minutes": 108.8,
       "recent_plays": 0,
@@ -4258,7 +4258,7 @@
     },
     {
       "artist": "Tim O'Brien",
-      "inventory_key": null,
+      "inventory_key": "Tim O'Brien",
       "plays": 28,
       "minutes": 95.4,
       "recent_plays": 0,
@@ -11771,6 +11771,20 @@
       }
     },
     {
+      "artist": "Jerry Garcia",
+      "inventory_key": "Jerry Garcia",
+      "plays": 5,
+      "minutes": 20.2,
+      "recent_plays": 4,
+      "recent_minutes": 18.6,
+      "first_played": "2022-06-05T22:40:34Z",
+      "last_played": "2025-04-19T22:24:07Z",
+      "plays_by_year": {
+        "2022": 1,
+        "2025": 4
+      }
+    },
+    {
       "artist": "Lil Nas X",
       "inventory_key": null,
       "plays": 13,
@@ -12911,6 +12925,21 @@
       "last_played": "2025-11-19T12:38:49Z",
       "plays_by_year": {
         "2020": 1,
+        "2025": 1
+      }
+    },
+    {
+      "artist": "MF DOOM",
+      "inventory_key": "MF DOOM",
+      "plays": 3,
+      "minutes": 5.1,
+      "recent_plays": 1,
+      "recent_minutes": 3.3,
+      "first_played": "2023-02-14T20:01:24Z",
+      "last_played": "2025-03-19T22:51:47Z",
+      "plays_by_year": {
+        "2023": 1,
+        "2024": 1,
         "2025": 1
       }
     },

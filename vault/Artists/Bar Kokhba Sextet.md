@@ -2,13 +2,16 @@
 type: "artist"
 category: "Avant-Garde & Experimental"
 era: "1990s-now"
+rotation: "historical"
 album_count: 4
-tags: ["artist", "avant-garde-experimental"]
+tags: ["artist", "avant-garde-experimental", "rotation-historical"]
 ---
 
 # Bar Kokhba Sextet
 
 **Category:** [[Avant-Garde & Experimental]]
+
+**Rotation:** historical — never streamed.
 
 **Session ties:** [[Cyro Baptista]] · [[Greg Cohen]] · [[Joey Baron]] · [[John Zorn]] · [[Marc Ribot]]
 

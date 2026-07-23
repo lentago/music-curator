@@ -1,13 +1,16 @@
 ---
 type: "artist"
 category: "Jazz"
+rotation: "historical"
 album_count: 0
-tags: ["artist", "jazz"]
+tags: ["artist", "jazz", "rotation-historical"]
 ---
 
 # Joey Baron
 
 **Category:** [[Jazz]]
+
+**Rotation:** historical — never streamed.
 
 **Session ties:** [[Bar Kokhba Sextet]] · [[Electric Masada]] · [[John Zorn]] · [[John Zorn-Electric Masada]] · [[John Zorn-Masada Chamber Ensembles]] · [[Masada]] · [[Masada Quintet Featuring Joe Lovano]] · [[Naked City]]
 

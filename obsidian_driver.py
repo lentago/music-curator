@@ -20,6 +20,7 @@ Usage:
     python obsidian_driver.py
     python obsidian_driver.py --out /tmp/my-vault --include-discarded
     python obsidian_driver.py --graph artist-web   # open on the artist↔artist web
+    python obsidian_driver.py --graph rotation     # recolor by what's still played
 
 The output directory is treated as fully generated: it is wiped and rebuilt on
 every run (guarded by a marker file so it will not clobber a directory it did
@@ -41,6 +42,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 DEFAULT_INVENTORY = os.path.join(HERE, "data", "music-inventory.json")
 DEFAULT_CREDITS = os.path.join(HERE, "data", "credits.json")
 DEFAULT_DISCOGRAPHIES = os.path.join(HERE, "data", "discographies.json")
+DEFAULT_STREAMING = os.path.join(HERE, "data", "streaming-summary.json")
 DEFAULT_OUT = os.path.join(HERE, "vault")
 
 # Written to the output dir so a later run knows the dir is ours to wipe.
@@ -53,6 +55,24 @@ _ILLEGAL = re.compile(r'[<>:"/\\|?*\x00-\x1f#^\[\]]')
 RESERVOIR_HUB = "Reservoir"
 HOME_MOC = "Music Collection"
 ABOUT_NOTE = "About this vault"
+ROTATION_MOC = "Rotation"
+
+# The rotation classes streaming_merge.py writes onto the inventory, in the
+# order they read as a decay curve: still playing → played, not lately → owned
+# but not streamed. Each carries a graph color for the `rotation` preset.
+ROTATION_CLASSES = ("current", "dormant", "historical")
+ROTATION_COLORS = {
+    "current": (0.33, 0.55, 0.55),      # green — in the last 18 months
+    "dormant": (0.12, 0.70, 0.58),      # amber — played, but not lately
+    "historical": (0.60, 0.25, 0.58),   # slate blue — shelf-only
+}
+ROTATION_BLURB = {
+    "current": "still in play",
+    "dormant": "played, but not lately",
+    # Deliberately makes no claim about the shelf: person nodes carry a
+    # rotation class too, and they own no albums.
+    "historical": "effectively absent from the stream",
+}
 
 
 def load_json(path):
@@ -307,8 +327,76 @@ def discography_section(disco_record, artist, active, artist_base):
     return lines
 
 
+_SPARK = "▁▂▃▄▅▆▇█"
+
+
+def streaming_index(streaming):
+    """Split the streaming sidecar into owned-artist and stream-only lookups.
+
+    Returns (by_inventory_key, stream_only) where stream_only holds the entries
+    with no inventory match — artists in rotation that the collection has no
+    roots in, which is the sidecar's most actionable finding.
+    """
+    entries = (streaming or {}).get("artists", [])
+    by_key = {}
+    stream_only = []
+    for entry in entries:
+        key = entry.get("inventory_key")
+        if key:
+            by_key[key] = entry
+        else:
+            stream_only.append(entry)
+    stream_only.sort(key=lambda e: -e.get("recent_plays", 0))
+    return by_key, stream_only
+
+
+def sparkline(counts):
+    """Render year->plays as `<year> <bar><count>` segments scaled to the peak."""
+    if not counts:
+        return None
+    peak = max(counts.values()) or 1
+    segments = []
+    for year in sorted(counts):
+        n = counts[year]
+        idx = min(len(_SPARK) - 1, int(round((n / peak) * (len(_SPARK) - 1))))
+        segments.append(f"{year} {_SPARK[idx]}{n:,}")
+    return " · ".join(segments)
+
+
+def rotation_lines(rotation, entry, months=18, floor=10):
+    """The artist note's rotation block: the class, its evidence, and by-year.
+
+    The class comes from the inventory (streaming_merge.py writes it); the
+    numbers come from the sidecar. An artist can be classed without ever
+    appearing in the export — that is exactly what `historical` means — so the
+    evidence clause is optional. Below the sidecar's own play floor the by-year
+    histogram is noise (every bar is full height at a peak of one), so it is
+    drawn only once there is enough listening to shape it.
+    """
+    if not rotation:
+        return []
+    blurb = ROTATION_BLURB.get(rotation, "")
+    if not entry:
+        return [f"**Rotation:** {rotation} — never streamed.", ""]
+    plays = entry.get("plays", 0)
+    recent = entry.get("recent_plays", 0)
+    hours = round(entry.get("minutes", 0) / 60)
+    last = (entry.get("last_played") or "")[:10]
+    if recent:
+        evidence = (f"{recent:,} play{'' if recent == 1 else 's'} in the trailing "
+                    f"{months} months ({plays:,} lifetime")
+        evidence += f", {hours:,} h)" if hours else ")"
+    else:
+        evidence = f"{plays:,} lifetime play{'' if plays == 1 else 's'}, none recent"
+    lines = [f"**Rotation:** {rotation} — {blurb}. {evidence}, last on {last}.", ""]
+    bars = sparkline(entry.get("plays_by_year") or {}) if plays >= floor else None
+    if bars:
+        lines.extend([f"**By year:** {bars}", ""])
+    return lines
+
+
 def build_vault(inventory, out_dir, include_discarded=False, credits=None,
-                discographies=None, graph="default"):
+                discographies=None, streaming=None, graph="default"):
     artists = inventory.get("artists", {})
     meta = inventory.get("meta", {})
 
@@ -324,6 +412,14 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None,
 
     # Roster-only personnel edges from the credits research layer.
     personnel_edges = build_personnel_edges(credits, set(active))
+
+    # Streaming aggregates keyed by inventory name, plus the artists in
+    # rotation the collection has no roots in.
+    stream_by_key, stream_only = streaming_index(streaming)
+    rotation_members = {cls: [] for cls in ROTATION_CLASSES}
+    stream_meta = (streaming or {}).get("meta", {})
+    recent_months = stream_meta.get("recent_months", 18)
+    play_floor = stream_meta.get("floor_plays", 10)
 
     # Collect the two-tier hub structure and its members.
     category_members = {}   # category -> [artists filed directly under it, no subcategory]
@@ -348,7 +444,8 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None,
     # Allocate globally-unique basenames. Reserve the MOC names first so they
     # keep clean titles, then artists, then the category hubs.
     alloc = BasenameAllocator()
-    fixed = {n: alloc.take(n) for n in (HOME_MOC, RESERVOIR_HUB, ABOUT_NOTE)}
+    fixed = {n: alloc.take(n)
+             for n in (HOME_MOC, RESERVOIR_HUB, ABOUT_NOTE, ROTATION_MOC)}
     artist_base = {name: alloc.take(name) for name in active}
     cat_base = {cat: alloc.take(cat) for cat in sorted(category_members)}
     sub_base = {key: alloc.take(key[1]) for key in sorted(sub_members)}
@@ -366,12 +463,25 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None,
         else:
             tags.append("reservoir")
 
+        # A second, independent tag axis: the `rotation` graph preset colors on
+        # these while the category tags stay untouched, so switching presets
+        # re-reads the same graph through the listening lens.
+        rotation = rec.get("rotation")
+        stream_entry = stream_by_key.get(name)
+        if rotation in rotation_members:
+            tags.append(f"rotation-{rotation}")
+            rotation_members[rotation].append(name)
+
         fm = frontmatter([
             ("aliases", [name] if artist_base[name] != name else None),
             ("type", "artist"),
             ("category", cat),
             ("subcategory", rec.get("subcategory")),
             ("era", rec.get("era")),
+            ("rotation", rotation),
+            ("plays", stream_entry.get("plays") if stream_entry else None),
+            ("last_played", (stream_entry.get("last_played") or "")[:10]
+                            if stream_entry else None),
             ("album_count", rec.get("album_count")),
             ("discarded", True if rec.get("discard") else None),
             ("collaborators", collab_map.get(name) or None),
@@ -392,6 +502,9 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None,
         else:
             parts.append(f"**Filed under:** {link(fixed[RESERVOIR_HUB])}")
         parts.append("")
+
+        parts.extend(rotation_lines(rotation, stream_entry,
+                                    months=recent_months, floor=play_floor))
 
         # Collaboration edges: direct artist-to-artist links parsed from the
         # combo key, drawn only to constituents that are themselves nodes.
@@ -513,6 +626,97 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None,
     )
     write_note(out_dir, "", fixed[RESERVOIR_HUB], "\n".join(reservoir_body))
 
+    # --- Rotation MOC ---------------------------------------------------------
+    # Tagged #moc like the other meta notes, so the default graph filter hides
+    # it and its several hundred links never distort the taxonomy tree.
+    if streaming:
+        smeta = streaming.get("meta", {})
+        as_of = (smeta.get("newest_play") or "")[:10]
+        floor = smeta.get("current_min_recent_plays", 10)
+        months = smeta.get("recent_months", 18)
+        in_rotation = [e for e in stream_only if e.get("recent_plays", 0) >= floor]
+        dormant_anchors = []
+        for name, rec in active.items():
+            if rec.get("rotation") == "current":
+                continue
+            if not (rec.get("anchor") or (rec.get("album_count") or 0) >= 4):
+                continue
+            entry = stream_by_key.get(name)
+            dormant_anchors.append((
+                name,
+                rec.get("album_count") or 0,
+                rec.get("rotation") or "—",
+                (entry.get("last_played") or "")[:10] if entry else "never",
+            ))
+        dormant_anchors.sort(key=lambda t: (-t[1], t[0].lower()))
+
+        rot = [
+            frontmatter([("type", "moc"), ("tags", ["moc", "rotation"])]), "",
+            f"# {ROTATION_MOC}", "",
+            "The **listening lens** over the collection. The shelf is a "
+            "*historical* taste artifact; streaming shows what is *currently* in "
+            "play, and the two do not fully overlap. Every artist carries a "
+            "`rotation` class derived from the Spotify Extended Streaming "
+            f"History export (as of **{as_of}**):", "",
+            f"- **current** — {floor}+ plays in the trailing {months} months",
+            f"- **dormant** — streamed at some point, but under that bar lately",
+            "- **historical** — in the collection, effectively absent from the "
+            "stream", "",
+            "Open the **graph view** with the `rotation` preset to see these "
+            "colors laid over the taste map — where a category cluster is all "
+            "slate blue, the shelf has outlived the listening.", "",
+            "## By the numbers", "",
+        ]
+        rot.extend(
+            f"- **{len(rotation_members[cls])}** {cls} — {ROTATION_BLURB[cls]}"
+            for cls in ROTATION_CLASSES
+        )
+        rot.extend([
+            "",
+            f"## Current ({len(rotation_members['current'])})", "",
+            "Artists the collection has roots in that are still in play.", "",
+        ])
+        rot.extend(f"- {link(artist_base[m], m)}"
+                   for m in sorted(rotation_members["current"], key=str.lower))
+        rot.extend([
+            "",
+            f"## Dormant ({len(rotation_members['dormant'])})", "",
+            "Streamed, but not lately — the re-entry candidates.", "",
+        ])
+        rot.extend(f"- {link(artist_base[m], m)}"
+                   for m in sorted(rotation_members["dormant"], key=str.lower))
+        rot.extend([
+            "",
+            f"## Historical ({len(rotation_members['historical'])})", "",
+            "Owned but effectively unstreamed — too many to list; browse them "
+            "with the `rotation` graph preset or the `#rotation-historical` tag.",
+            "",
+            f"## In rotation, no collection roots ({len(in_rotation)})", "",
+            "Artists above the current-rotation bar that the collection has "
+            "**no** albums by — the exploration worklist, and the sharpest "
+            "signal the streaming layer produces. Not wikilinked: they are not "
+            "in the collection, so they are not nodes.", "",
+        ])
+        shown = in_rotation[:40]
+        rot.extend(f"- **{e['recent_plays']:,}** recent plays — {e['artist']}"
+                   for e in shown)
+        if len(in_rotation) > len(shown):
+            rot.append(f"- *…and {len(in_rotation) - len(shown)} more below the "
+                       f"top {len(shown)}.*")
+        rot.extend([
+            "",
+            f"## Anchors off the rotation ({len(dormant_anchors)})", "",
+            "Deep shelf presence, absent from current play — the other half of "
+            "the gap. Sorted by shelf weight.", "",
+            "| Artist | Albums | Rotation | Last streamed |",
+            "|---|---:|---|---|",
+        ])
+        rot.extend(
+            f"| {link(artist_base[n], n)} | {c} | {r} | {last} |"
+            for n, c, r, last in dormant_anchors
+        )
+        write_note(out_dir, "", fixed[ROTATION_MOC], "\n".join(rot))
+
     # --- Home MOC -------------------------------------------------------------
     collab_edges = sum(len(v) for v in collab_map.values())
     personnel_edge_count = sum(len(v) for v in personnel_edges.values()) // 2
@@ -538,6 +742,10 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None,
         "session-tie edges (shared personnel)",
         f"- **{len(reservoir_members)}** in the untagged {link(fixed[RESERVOIR_HUB])}",
     ] + ([
+        "- " + " · ".join(f"**{len(rotation_members[c])}** {c}"
+                          for c in ROTATION_CLASSES)
+        + f" in {link(fixed[ROTATION_MOC])}",
+    ] if streaming else []) + ([
         f"- **{disco_recordings}** recordings in seeded full discographies "
         "(" + ", ".join(link(artist_base[n], n)
                         for n in sorted(disco_artists, key=str.lower)) + ")",
@@ -545,6 +753,9 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None,
         "",
         "## Start here", "",
         f"- {link(fixed[RESERVOIR_HUB])} — exploration inventory",
+    ] + ([
+        f"- {link(fixed[ROTATION_MOC])} — what is actually still in play",
+    ] if streaming else []) + [
         f"- {link(fixed[ABOUT_NOTE])} — how to read this vault",
         "",
         "## Categories", "",
@@ -585,12 +796,19 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None,
         "albums. ◆ marks recordings that are in the collection; recordings "
         "credited to another roster artist link to it, so a seeded artist's "
         "side-projects wire straight into the graph.",
+        "- Most artists carry a **rotation** class — `current`, `dormant` or "
+        "`historical` — merged in from the Spotify streaming history. It is a "
+        "second, independent axis over the same graph: switch to the "
+        "`rotation` graph preset to recolor every node by what is still in "
+        f"play. {link(fixed[ROTATION_MOC])} collects the gaps in both "
+        "directions — artists in rotation the collection has no roots in, and "
+        "deep shelf anchors that have fallen out of play.",
         "- No artist is singled out — node size follows degree, so importance "
         "emerges from the graph, not a prior.",
         "- The graph opens **filtered** (`-tag:#moc`, orphans hidden) so the meta "
-        "notes (this one, Music Collection, Reservoir) and the untagged reservoir "
-        "don't clutter the taste map. Clear the filter and enable *Show orphans* "
-        "to browse the whole collection, including the reservoir.", "",
+        "notes (this one, Music Collection, Reservoir, Rotation) and the untagged "
+        "reservoir don't clutter the taste map. Clear the filter and enable *Show "
+        "orphans* to browse the whole collection, including the reservoir.", "",
         f"Start at {link(fixed[HOME_MOC])}.",
     ]
     write_note(out_dir, "", fixed[ABOUT_NOTE], "\n".join(about))
@@ -608,6 +826,8 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None,
         "reservoir": len(reservoir_members),
         "discography_artists": len(disco_artists),
         "discography_recordings": disco_recordings,
+        "rotation": {c: len(rotation_members[c]) for c in ROTATION_CLASSES},
+        "stream_only": len(stream_only),
         "meta_total": meta.get("total_unique_artists"),
     }
 
@@ -656,6 +876,11 @@ def graph_presets(categories):
     session ties). Restricting to the Artists folder removes every hub and
     with it the whole taxonomy tree; with orphans off, only artists that
     actually share an edge remain.
+
+    rotation — the same taste map, recolored by listening rather than genre.
+    This is the one preset that overrides the category palette: nodes color on
+    the `rotation-*` tags instead, so a category cluster that has gone cold
+    reads as a block of slate blue against the green of what is still in play.
     """
     base = {
         "collapse-filter": True,
@@ -680,7 +905,12 @@ def graph_presets(categories):
         "close": True,
     }
     artist_web = dict(base, search='path:"Artists"')
-    return {"default": base, "artist-web": artist_web}
+    rotation = dict(base, colorGroups=[
+        {"query": f"tag:#rotation-{cls}",
+         "color": {"a": 1, "rgb": _hsl_to_rgb_int(*ROTATION_COLORS[cls])}}
+        for cls in ROTATION_CLASSES
+    ])
+    return {"default": base, "artist-web": artist_web, "rotation": rotation}
 
 
 def write_graph_config(out_dir, categories, graph="default"):
@@ -728,6 +958,8 @@ def main():
                         help="path to credits.json (personnel research layer); optional")
     parser.add_argument("--discographies", default=DEFAULT_DISCOGRAPHIES,
                         help="path to discographies.json (seeded full-discography layer); optional")
+    parser.add_argument("--streaming", default=DEFAULT_STREAMING,
+                        help="path to streaming-summary.json (rotation layer); optional")
     parser.add_argument("--graph", default="default", choices=sorted(graph_presets([])),
                         help="graph preset installed as the active graph.json")
     args = parser.parse_args()
@@ -736,8 +968,10 @@ def main():
     credits = load_json(args.credits) if os.path.exists(args.credits) else None
     discographies = (load_json(args.discographies)
                      if os.path.exists(args.discographies) else None)
+    streaming = load_json(args.streaming) if os.path.exists(args.streaming) else None
     stats = build_vault(inventory, args.out, include_discarded=args.include_discarded,
-                        credits=credits, discographies=discographies, graph=args.graph)
+                        credits=credits, discographies=discographies,
+                        streaming=streaming, graph=args.graph)
 
     print(f"Wrote vault to: {args.out}")
     print(f"  artists:    {stats['artists']}")
@@ -747,6 +981,9 @@ def main():
     if stats["discography_artists"]:
         print(f"  discographies: {stats['discography_artists']} artists seeded, "
               f"{stats['discography_recordings']} recordings")
+    if any(stats["rotation"].values()):
+        print("  rotation:   " + "  ".join(f"{c}: {n}"
+                                           for c, n in stats["rotation"].items()))
 
 
 if __name__ == "__main__":

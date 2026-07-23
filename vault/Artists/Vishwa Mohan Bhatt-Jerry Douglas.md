@@ -2,14 +2,17 @@
 type: "artist"
 category: "World"
 era: "2000s"
+rotation: "historical"
 album_count: 1
 collaborators: ["Jerry Douglas"]
-tags: ["artist", "world"]
+tags: ["artist", "world", "rotation-historical"]
 ---
 
 # Vishwa Mohan Bhatt-Jerry Douglas
 
 **Category:** [[World]]
+
+**Rotation:** historical — never streamed.
 
 **With:** [[Jerry Douglas]]
 

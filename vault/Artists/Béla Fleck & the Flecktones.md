@@ -3,14 +3,17 @@ type: "artist"
 category: "Country & Americana"
 subcategory: "Newgrass"
 era: "1990s-now"
+rotation: "historical"
 album_count: 5
 collaborators: ["Béla Fleck"]
-tags: ["artist", "country-americana"]
+tags: ["artist", "country-americana", "rotation-historical"]
 ---
 
 # Béla Fleck & the Flecktones
 
 **Category:** Country & Americana › [[Newgrass]]
+
+**Rotation:** historical — never streamed.
 
 **With:** [[Béla Fleck]]
 

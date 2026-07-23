@@ -1,12 +1,15 @@
 ---
 type: "artist"
+rotation: "historical"
 album_count: 5
-tags: ["artist", "reservoir"]
+tags: ["artist", "reservoir", "rotation-historical"]
 ---
 
 # Compilations
 
 **Filed under:** [[Reservoir]]
+
+**Rotation:** historical — never streamed.
 
 **Session ties:** [[Beth Orton]] · [[Nick Cave & the Bad Seeds]]
 

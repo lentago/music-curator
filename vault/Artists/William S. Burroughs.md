@@ -3,13 +3,16 @@ type: "artist"
 category: "Pop"
 subcategory: "Art-Pop & New Wave"
 era: "1960s-1990s"
+rotation: "historical"
 album_count: 2
-tags: ["artist", "pop"]
+tags: ["artist", "pop", "rotation-historical"]
 ---
 
 # William S. Burroughs
 
 **Category:** Pop › [[Art-Pop & New Wave]]
+
+**Rotation:** historical — never streamed.
 
 **Session ties:** [[Charlie Hunter Quartet]] · [[The Disposable Heroes of Hiphoprisy]] · [[Tom Waits]]
 

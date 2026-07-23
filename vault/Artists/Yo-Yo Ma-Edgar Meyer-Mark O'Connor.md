@@ -3,14 +3,17 @@ type: "artist"
 category: "Country & Americana"
 subcategory: "Bluegrass"
 era: "2000s"
+rotation: "historical"
 album_count: 1
 collaborators: ["Edgar Meyer"]
-tags: ["artist", "country-americana"]
+tags: ["artist", "country-americana", "rotation-historical"]
 ---
 
 # Yo-Yo Ma-Edgar Meyer-Mark O'Connor
 
 **Category:** Country & Americana › [[Bluegrass]]
+
+**Rotation:** historical — never streamed.
 
 **With:** [[Edgar Meyer]]
 

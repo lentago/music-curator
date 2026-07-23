@@ -2,13 +2,16 @@
 type: "artist"
 category: "Country & Americana"
 subcategory: "Newgrass"
+rotation: "historical"
 album_count: 0
-tags: ["artist", "country-americana"]
+tags: ["artist", "country-americana", "rotation-historical"]
 ---
 
 # Darol Anger
 
 **Category:** Country & Americana › [[Newgrass]]
+
+**Rotation:** historical — never streamed.
 
 **Session ties:** [[Alison Brown]] · [[Anger_Marshall Band]] · [[David Grisman Quintet]] · [[NewGrange]]
 

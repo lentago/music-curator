@@ -2,13 +2,16 @@
 type: "artist"
 category: "Folk & Singer-Songwriter"
 era: "1990s"
+rotation: "historical"
 album_count: 6
-tags: ["artist", "folk-singer-songwriter"]
+tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 ---
 
 # Jeff Buckley
 
 **Category:** [[Folk & Singer-Songwriter]]
+
+**Rotation:** historical — never streamed.
 
 **Session ties:** [[John Zorn]]
 

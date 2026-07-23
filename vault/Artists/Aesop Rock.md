@@ -3,13 +3,20 @@ type: "artist"
 category: "Hip-Hop"
 subcategory: "Underground"
 era: "1999-now"
+rotation: "current"
+plays: 2983
+last_played: "2026-07-10"
 album_count: 5
-tags: ["artist", "hip-hop"]
+tags: ["artist", "hip-hop", "rotation-current"]
 ---
 
 # Aesop Rock
 
 **Category:** Hip-Hop › [[Underground]]
+
+**Rotation:** current — still in play. 1,779 plays in the trailing 18 months (2,983 lifetime, 147 h), last on 2026-07-10.
+
+**By year:** 2017 ▁3 · 2019 ▁1 · 2021 ▁1 · 2022 ▃414 · 2023 ▁71 · 2024 ▅709 · 2025 █1,172 · 2026 ▅612
 
 **Session ties:** [[Blockhead]] · [[Cannibal Ox]] · [[DJ Krush]] · [[El-P]] · [[Illogic]] · [[Mr. Lif]] · [[Vast Aire]]
 

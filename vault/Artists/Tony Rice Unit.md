@@ -3,13 +3,16 @@ type: "artist"
 category: "Country & Americana"
 subcategory: "Newgrass"
 era: "1980s-now"
+rotation: "historical"
 album_count: 2
-tags: ["artist", "country-americana"]
+tags: ["artist", "country-americana", "rotation-historical"]
 ---
 
 # Tony Rice Unit
 
 **Category:** Country & Americana › [[Newgrass]]
+
+**Rotation:** historical — never streamed.
 
 **Session ties:** [[Alison Brown]] · [[Béla Fleck]] · [[David Grisman]] · [[David Grisman Quintet]] · [[Jerry Garcia-David Grisman-Tony Rice]]
 

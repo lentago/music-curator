@@ -3,13 +3,16 @@ type: "artist"
 category: "Rock"
 subcategory: "Jam"
 era: "2000s-now"
+rotation: "historical"
 album_count: 3
-tags: ["artist", "rock"]
+tags: ["artist", "rock", "rotation-historical"]
 ---
 
 # Trey Anastasio Band
 
 **Category:** Rock › [[Jam]]
+
+**Rotation:** historical — never streamed.
 
 **Session ties:** [[Cyro Baptista]] · [[Trey Anastasio]]
 

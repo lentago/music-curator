@@ -3,13 +3,20 @@ type: "artist"
 category: "Electronic"
 subcategory: "Trip-Hop & Downtempo"
 era: "1995-now"
+rotation: "current"
+plays: 59
+last_played: "2026-06-23"
 album_count: 12
-tags: ["artist", "electronic"]
+tags: ["artist", "electronic", "rotation-current"]
 ---
 
 # Thievery Corporation
 
 **Category:** Electronic › [[Trip-Hop & Downtempo]]
+
+**Rotation:** current — still in play. 38 plays in the trailing 18 months (59 lifetime, 4 h), last on 2026-06-23.
+
+**By year:** 2019 ▂6 · 2021 ▂3 · 2023 ▃12 · 2025 █35 · 2026 ▂3
 
 **Session ties:** [[David Byrne]] · [[Jane's Addiction]] · [[Mr. Lif]] · [[Norah Jones]] · [[Sarah McLachlan]] · [[The Flaming Lips]]
 

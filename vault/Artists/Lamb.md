@@ -3,13 +3,16 @@ type: "artist"
 category: "Electronic"
 subcategory: "Trip-Hop & Downtempo"
 era: "1990s-now"
+rotation: "historical"
 album_count: 3
-tags: ["artist", "electronic"]
+tags: ["artist", "electronic", "rotation-historical"]
 ---
 
 # Lamb
 
 **Category:** Electronic › [[Trip-Hop & Downtempo]]
+
+**Rotation:** historical — never streamed.
 
 **Session ties:** [[Kruder & Dorfmeister]]
 

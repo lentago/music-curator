@@ -3,13 +3,20 @@ type: "artist"
 category: "Pop"
 subcategory: "Art-Pop & New Wave"
 era: "1970s-80s"
+rotation: "dormant"
+plays: 241
+last_played: "2025-11-10"
 album_count: 5
-tags: ["artist", "pop"]
+tags: ["artist", "pop", "rotation-dormant"]
 ---
 
 # Talking Heads
 
 **Category:** Pop › [[Art-Pop & New Wave]]
+
+**Rotation:** dormant — played, but not lately. 4 plays in the trailing 18 months (241 lifetime, 15 h), last on 2025-11-10.
+
+**By year:** 2019 █133 · 2020 ▂23 · 2021 ▃36 · 2022 ▂20 · 2023 ▁2 · 2024 ▂23 · 2025 ▁4
 
 **Session ties:** [[David Byrne]] · [[David Byrne & Brian Eno]]
 

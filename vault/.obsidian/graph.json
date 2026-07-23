@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "path:\"Artists\"",
+  "collapse-filter": false,
+  "search": "-tag:#moc",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -101,7 +101,7 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.5,
+  "textFadeMultiplier": -2.3,
   "nodeSizeMultiplier": 1.1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
@@ -109,6 +109,6 @@
   "repelStrength": 12,
   "linkStrength": 1,
   "linkDistance": 220,
-  "scale": 0.5,
-  "close": true
+  "scale": 0.47368667693814154,
+  "close": false
 }

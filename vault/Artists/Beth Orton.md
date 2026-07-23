@@ -2,13 +2,16 @@
 type: "artist"
 category: "Folk & Singer-Songwriter"
 era: "1996-now"
+rotation: "historical"
 album_count: 8
-tags: ["artist", "folk-singer-songwriter"]
+tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 ---
 
 # Beth Orton
 
 **Category:** [[Folk & Singer-Songwriter]]
+
+**Rotation:** historical — never streamed.
 
 **Session ties:** [[Compilations]] · [[The Chemical Brothers]]
 

@@ -1,13 +1,16 @@
 ---
 type: "artist"
 category: "Avant-Garde & Experimental"
+rotation: "historical"
 album_count: 0
-tags: ["artist", "avant-garde-experimental"]
+tags: ["artist", "avant-garde-experimental", "rotation-historical"]
 ---
 
 # Trevor Dunn
 
 **Category:** [[Avant-Garde & Experimental]]
+
+**Rotation:** historical — never streamed.
 
 **Session ties:** [[Electric Masada]] · [[Fantômas]] · [[John Zorn]] · [[John Zorn-Electric Masada]] · [[Mr. Bungle]]
 

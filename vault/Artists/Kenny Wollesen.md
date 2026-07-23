@@ -1,13 +1,16 @@
 ---
 type: "artist"
 category: "Jazz"
+rotation: "historical"
 album_count: 0
-tags: ["artist", "jazz"]
+tags: ["artist", "jazz", "rotation-historical"]
 ---
 
 # Kenny Wollesen
 
 **Category:** [[Jazz]]
+
+**Rotation:** historical — never streamed.
 
 **Session ties:** [[Electric Masada]] · [[Iron & Wine]] · [[John Zorn]] · [[John Zorn-Electric Masada]] · [[Marvin Pontiac]] · [[Tom Waits]]
 
