@@ -4,6 +4,7 @@ category: "Avant-Garde & Experimental"
 era: "2000s"
 rotation: "historical"
 album_count: 1
+collaborators: ["Masada Quintet"]
 tags: ["artist", "avant-garde-experimental", "rotation-historical"]
 ---
 
@@ -12,6 +13,8 @@ tags: ["artist", "avant-garde-experimental", "rotation-historical"]
 **Category:** [[Avant-Garde & Experimental]]
 
 **Rotation:** historical — never streamed.
+
+**With:** [[Masada Quintet]]
 
 **Session ties:** [[Greg Cohen]] · [[Joey Baron]] · [[John Zorn]]
 

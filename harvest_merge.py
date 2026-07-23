@@ -192,6 +192,12 @@ def fold(inventory, sidecar, events):
         rec["trigger_confidence"] = event.get("trigger_confidence")
         rec["trigger_source"] = event.get("trigger_source")
         rec["trigger_track"] = trigger
+        # A backfill event is a follow the watcher never saw live: it was
+        # already in place when capture began, so `followed_at` is the date it
+        # was first *observed*, not when the follow happened, and there is no
+        # trigger song. The flag keeps that distinction honest for readers.
+        if event.get("backfill"):
+            rec["backfill"] = True
         if ties:
             rec["seed_ties"] = ties
         if event.get("genres"):
