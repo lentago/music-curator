@@ -2,14 +2,17 @@
 type: "artist"
 category: "Country & Americana"
 era: "1980s-now"
+rotation: "historical"
 album_count: 1
 collaborators: ["Mark Knopfler"]
-tags: ["artist", "country-americana"]
+tags: ["artist", "country-americana", "rotation-historical"]
 ---
 
 # Dire Straits & Mark Knopfler
 
 **Category:** [[Country & Americana]]
+
+**Rotation:** historical — never streamed.
 
 **With:** [[Mark Knopfler]]
 

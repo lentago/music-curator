@@ -13,11 +13,13 @@ A taste map of the collection. Open the **graph view** (Ctrl/Cmd-G): every artis
 - **13** top-level categories · **17** subcategories
 - **46** collaboration edges · **451** session-tie edges (shared personnel)
 - **1** in the untagged [[Reservoir]]
+- **37** current · **74** dormant · **432** historical in [[Rotation]]
 - **916** recordings in seeded full discographies ([[Aesop Rock]], [[John Zorn]], [[Talking Heads]], [[Tom Waits]])
 
 ## Start here
 
 - [[Reservoir]] — exploration inventory
+- [[Rotation]] — what is actually still in play
 - [[About this vault]] — how to read this vault
 
 ## Categories

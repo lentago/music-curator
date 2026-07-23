@@ -125,10 +125,22 @@ an extensible alias map. Thresholds: a play = ≥30 s; current = ≥10 plays in 
 trailing 18 months (measured from the newest play in the export, so reruns are
 stable); dormant floor = 10 lifetime plays.
 
+**Surfaced in the vault (2026-07-23):** `obsidian_driver.py` reads the sidecar
+and renders the listening lens — a `rotation` class in each artist note's
+frontmatter and body (with the evidence behind it and a by-year play
+histogram), a `rotation-*` tag axis, a `Rotation` MOC carrying all three
+finding classes (current/dormant rosters, the 335 in-rotation artists the
+collection has no roots in, and the 50 shelf anchors off rotation), and a
+`rotation` graph preset that recolors the taste map by listening instead of
+genre.
+
 **Remaining:** refresh `rotation` from the periodic harvest (now live, above)
 instead of one-off GDPR exports — the monthly `data/harvests/YYYY-MM.json`
-roll-ups are the input signal; surface rotation in the vault (artist-note field
-and/or a graph preset); fold the findings into the distilled profile.
+roll-ups are the input signal; fold the findings into the distilled profile.
+The merge still reads only `master_metadata_album_artist_name`: track/album
+names and URIs, `skipped`/`reason_end` (skip rate is a real taste signal) and
+the four `Streaming_History_Video_*.json` files are all untouched, so
+album-level "which rips do I still actually play" is not yet answerable.
 
 **Dependencies:** Periodic Spotify harvest above — **now shipped**, so the
 refresh path is unblocked.

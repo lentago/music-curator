@@ -2,13 +2,20 @@
 type: "artist"
 category: "Jazz"
 era: "1934-1996"
+rotation: "current"
+plays: 36
+last_played: "2026-02-13"
 album_count: 9
-tags: ["artist", "jazz"]
+tags: ["artist", "jazz", "rotation-current"]
 ---
 
 # Ella Fitzgerald
 
 **Category:** [[Jazz]]
+
+**Rotation:** current — still in play. 11 plays in the trailing 18 months (36 lifetime, 2 h), last on 2026-02-13.
+
+**By year:** 2017 █19 · 2019 ▁1 · 2022 ▁1 · 2024 ▂4 · 2025 ▁1 · 2026 ▅10
 
 **Session ties:** [[Ella Fitzgerald_Louis Armstrong]]
 

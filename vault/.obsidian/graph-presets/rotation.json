@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "-tag:#moc",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#rotation-current",
+      "color": {
+        "a": 1,
+        "rgb": 5294925
+      }
+    },
+    {
+      "query": "tag:#rotation-dormant",
+      "color": {
+        "a": 1,
+        "rgb": 14660937
+      }
+    },
+    {
+      "query": "tag:#rotation-historical",
+      "color": {
+        "a": 1,
+        "rgb": 7966639
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.4,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 220,
+  "scale": 0.5,
+  "close": true
+}

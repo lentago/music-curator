@@ -2,13 +2,18 @@
 type: "artist"
 category: "Country & Americana"
 era: "1990s-now"
+rotation: "historical"
+plays: 7
+last_played: "2019-12-27"
 album_count: 4
-tags: ["artist", "country-americana"]
+tags: ["artist", "country-americana", "rotation-historical"]
 ---
 
 # Wilco
 
 **Category:** [[Country & Americana]]
+
+**Rotation:** historical — effectively absent from the stream. 7 lifetime plays, none recent, last on 2019-12-27.
 
 **Session ties:** [[Billy Bragg & Wilco - Mermaid avenue (Vol 1 & 2)]] · [[Feist]]
 

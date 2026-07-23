@@ -2,13 +2,16 @@
 type: "artist"
 category: "Country & Americana"
 subcategory: "Newgrass"
+rotation: "historical"
 album_count: 0
-tags: ["artist", "country-americana"]
+tags: ["artist", "country-americana", "rotation-historical"]
 ---
 
 # Stuart Duncan
 
 **Category:** Country & Americana › [[Newgrass]]
+
+**Rotation:** historical — never streamed.
 
 **Session ties:** [[Alison Brown]] · [[Béla Fleck]] · [[Iris DeMent]] · [[Russ Barenberg]]
 

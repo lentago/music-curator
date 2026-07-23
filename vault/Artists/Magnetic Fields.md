@@ -3,13 +3,16 @@ type: "artist"
 category: "Pop"
 subcategory: "Indie & Synth-Pop"
 era: "1990s-now"
+rotation: "historical"
 album_count: 7
-tags: ["artist", "pop"]
+tags: ["artist", "pop", "rotation-historical"]
 ---
 
 # Magnetic Fields
 
 **Category:** Pop › [[Indie & Synth-Pop]]
+
+**Rotation:** historical — never streamed.
 
 **Session ties:** [[The Magnetic Fields]]
 

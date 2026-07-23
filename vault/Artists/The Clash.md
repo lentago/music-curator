@@ -3,13 +3,18 @@ type: "artist"
 category: "Rock"
 subcategory: "Punk & Hardcore"
 era: "1976-1986"
+rotation: "historical"
+plays: 3
+last_played: "2023-03-25"
 album_count: 18
-tags: ["artist", "rock"]
+tags: ["artist", "rock", "rotation-historical"]
 ---
 
 # The Clash
 
 **Category:** Rock › [[Punk & Hardcore]]
+
+**Rotation:** historical — effectively absent from the stream. 3 lifetime plays, none recent, last on 2023-03-25.
 
 ## Albums (18)
 - Combat Rock

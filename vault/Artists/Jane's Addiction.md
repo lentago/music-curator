@@ -3,13 +3,16 @@ type: "artist"
 category: "Rock"
 subcategory: "Indie & Alternative"
 era: "1985-now"
+rotation: "historical"
 album_count: 3
-tags: ["artist", "rock"]
+tags: ["artist", "rock", "rotation-historical"]
 ---
 
 # Jane's Addiction
 
 **Category:** Rock › [[Indie & Alternative]]
+
+**Rotation:** historical — never streamed.
 
 **Session ties:** [[Thievery Corporation]]
 

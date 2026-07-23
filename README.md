@@ -38,6 +38,7 @@ The heuristics that drive Phase 4 — high-confidence discard tells, a **canon-t
   - [`music-inventory.json`](data/music-inventory.json) — the cleaned, tagged inventory (schema-validated in CI).
   - [`credits.json`](data/credits.json) — the per-album personnel layer that drives the session-tie edges.
   - [`discographies.json`](data/discographies.json) — the seeded full-discography layer: every known recording for selected anchor artists (owned or not), harvested from canonical discography pages and cross-matched against the collection by [`discography_merge.py`](discography_merge.py).
+  - [`streaming-summary.json`](data/streaming-summary.json) — the listening layer: per-artist play counts, minutes and per-year history from the Spotify Extended Streaming History export, merged in by [`streaming_merge.py`](streaming_merge.py), which also stamps a `rotation` class onto each artist. The raw export stays untracked — it carries per-play IP addresses.
 - **[`vault/`](vault/)** — the wiki itself: a generated Obsidian vault whose **graph view** turns the taste profile into a visual artist map. See below.
 - **[`obsidian_driver.py`](obsidian_driver.py)** — the driver that renders `data/` into `vault/`.
 - **[`examples/`](examples/)** — the original worked run, from a single ~25,000-file / 700-artist collection across **13 triage rounds** (16.8% discard rate):
@@ -67,7 +68,7 @@ nodes surface from the connectivity itself, since Obsidian sizes nodes by degree
 python obsidian_driver.py            # → vault/
 ```
 
-What comes out (from the collection's 554 active artists):
+What comes out (from the collection's 543 active artists):
 
 - **Artist notes** each link into exactly one branch of the category tree —
   subcategory hub where one exists, top-level hub otherwise — and every node in
@@ -87,6 +88,27 @@ What comes out (from the collection's 554 active artists):
   collection's hidden wiring.
 - **Untagged reservoir** artists (no category yet) hang off a single `Reservoir`
   hub, hidden from the default view so the taste map stays legible.
+- **Rotation** is a second, independent axis over the same graph: each artist
+  note carries its `current` / `dormant` / `historical` class from the streaming
+  layer, the evidence behind it, and a by-year play histogram. The `Rotation`
+  note collects the gap in both directions — artists in heavy rotation the
+  collection has no albums by, and deep shelf anchors that have fallen out of
+  play.
+
+### Graph presets
+
+The vault ships a switchable preset library in `.obsidian/graph-presets/`; the
+active one is installed as `graph.json`. Pick with `--graph`:
+
+| Preset | What it shows |
+|---|---|
+| `default` | The full taste map — every artist clustered under its category tree, colored by top-level genre. |
+| `artist-web` | Only the direct artist↔artist edges (collaborations and session ties), with the taxonomy stripped away. |
+| `rotation` | The same map recolored by listening rather than genre — green still in play, amber dormant, slate blue shelf-only. Where a cluster is all blue, the shelf has outlived the listening. |
+
+```bash
+python obsidian_driver.py --graph rotation
+```
 
 The vault ships pre-built at [`vault/`](vault/) so the graph is browsable
 without running anything. It is fully generated —

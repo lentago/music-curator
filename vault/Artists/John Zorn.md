@@ -2,13 +2,20 @@
 type: "artist"
 category: "Avant-Garde & Experimental"
 era: "1980s-now"
+rotation: "current"
+plays: 275
+last_played: "2025-12-20"
 album_count: 20
-tags: ["artist", "avant-garde-experimental"]
+tags: ["artist", "avant-garde-experimental", "rotation-current"]
 ---
 
 # John Zorn
 
 **Category:** [[Avant-Garde & Experimental]]
+
+**Rotation:** current — still in play. 163 plays in the trailing 18 months (275 lifetime, 19 h), last on 2025-12-20.
+
+**By year:** 2017 ▁1 · 2020 ▁1 · 2024 ▄90 · 2025 █183
 
 **Session ties:** [[Bar Kokhba Sextet]] · [[Bill Frisell]] · [[Cracow Klezmer Band]] · [[Cyro Baptista]] · [[Electric Masada]] · [[Fantômas]] · [[Greg Cohen]] · [[Herbie Hancock]] · [[Jeff Buckley]] · [[Joey Baron]] · [[John Zorn-Electric Masada]] · [[John Zorn-Masada Chamber Ensembles]] · [[Karsh Kale]] · [[Kenny Wollesen]] · [[Living Colour]] · [[Marc Ribot]] · [[Masada]] · [[Masada Quintet Featuring Joe Lovano]] · [[Medeski, Martin & Wood]] · [[Mike Patton]] · [[Mr. Bungle]] · [[Naked City]] · [[Pat Metheny]] · [[The Lounge Lizards]] · [[Trevor Dunn]]
 

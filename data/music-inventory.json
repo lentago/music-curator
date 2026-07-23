@@ -7582,49 +7582,56 @@
       "album_count": 0,
       "tagged": true,
       "category": "Avant-Garde & Experimental",
-      "note": "Person node — no owned albums under this name; enters the graph via personnel credits (John Zorn, Mr. Bungle, Tomahawk, Faith No More)"
+      "note": "Person node — no owned albums under this name; enters the graph via personnel credits (John Zorn, Mr. Bungle, Tomahawk, Faith No More)",
+      "rotation": "historical"
     },
     "Marc Ribot": {
       "albums": [],
       "album_count": 0,
       "tagged": true,
       "category": "Avant-Garde & Experimental",
-      "note": "Person node — no owned albums under this name; enters the graph via personnel credits (John Zorn, Tom Waits, Bar Kokhba Sextet, Electric Masada)"
+      "note": "Person node — no owned albums under this name; enters the graph via personnel credits (John Zorn, Tom Waits, Bar Kokhba Sextet, Electric Masada)",
+      "rotation": "dormant"
     },
     "Trevor Dunn": {
       "albums": [],
       "album_count": 0,
       "tagged": true,
       "category": "Avant-Garde & Experimental",
-      "note": "Person node — no owned albums under this name; enters the graph via personnel credits (John Zorn, Mr. Bungle, Electric Masada, John Zorn-Electric Masada)"
+      "note": "Person node — no owned albums under this name; enters the graph via personnel credits (John Zorn, Mr. Bungle, Electric Masada, John Zorn-Electric Masada)",
+      "rotation": "historical"
     },
     "Joey Baron": {
       "albums": [],
       "album_count": 0,
       "tagged": true,
       "category": "Jazz",
-      "note": "Person node — no owned albums under this name; enters the graph via personnel credits (John Zorn, Masada, Naked City, Bar Kokhba Sextet)"
+      "note": "Person node — no owned albums under this name; enters the graph via personnel credits (John Zorn, Masada, Naked City, Bar Kokhba Sextet)",
+      "rotation": "historical"
     },
     "Greg Cohen": {
       "albums": [],
       "album_count": 0,
       "tagged": true,
       "category": "Jazz",
-      "note": "Person node — no owned albums under this name; enters the graph via personnel credits (John Zorn, Masada, Tom Waits, Bar Kokhba Sextet)"
+      "note": "Person node — no owned albums under this name; enters the graph via personnel credits (John Zorn, Masada, Tom Waits, Bar Kokhba Sextet)",
+      "rotation": "historical"
     },
     "Cyro Baptista": {
       "albums": [],
       "album_count": 0,
       "tagged": true,
       "category": "Jazz",
-      "note": "Person node — no owned albums under this name; enters the graph via personnel credits (John Zorn, Bar Kokhba Sextet, Trey Anastasio Band, Electric Masada)"
+      "note": "Person node — no owned albums under this name; enters the graph via personnel credits (John Zorn, Bar Kokhba Sextet, Trey Anastasio Band, Electric Masada)",
+      "rotation": "historical"
     },
     "Kenny Wollesen": {
       "albums": [],
       "album_count": 0,
       "tagged": true,
       "category": "Jazz",
-      "note": "Person node — no owned albums under this name; enters the graph via personnel credits (John Zorn, Electric Masada, John Zorn-Electric Masada, Iron & Wine)"
+      "note": "Person node — no owned albums under this name; enters the graph via personnel credits (John Zorn, Electric Masada, John Zorn-Electric Masada, Iron & Wine)",
+      "rotation": "historical"
     },
     "Jerry Garcia": {
       "albums": [],
@@ -7632,7 +7639,8 @@
       "tagged": true,
       "category": "Country & Americana",
       "note": "Person node — no owned albums under this name; enters the graph via personnel credits (Grateful Dead, Jerry Garcia & David Grisman, Jerry Garcia-David Grisman-Tony Rice, Old & In the Way)",
-      "subcategory": "Newgrass"
+      "subcategory": "Newgrass",
+      "rotation": "historical"
     },
     "Edgar Meyer": {
       "albums": [],
@@ -7640,7 +7648,8 @@
       "tagged": true,
       "category": "Country & Americana",
       "note": "Person node — no owned albums under this name; enters the graph via personnel credits (Béla Fleck, Béla Fleck & the Flecktones, Edgar Meyer_Béla Fleck_Mike Marshall, Jerry Douglas_Russ Barenberg_Edgar Meyer)",
-      "subcategory": "Newgrass"
+      "subcategory": "Newgrass",
+      "rotation": "historical"
     },
     "Mike Marshall": {
       "albums": [],
@@ -7648,7 +7657,8 @@
       "tagged": true,
       "category": "Country & Americana",
       "note": "Person node — no owned albums under this name; enters the graph via personnel credits (Béla Fleck, Alison Brown, Anger_Marshall Band, Anonymous 4)",
-      "subcategory": "Newgrass"
+      "subcategory": "Newgrass",
+      "rotation": "historical"
     },
     "Tim O'Brien": {
       "albums": [],
@@ -7656,7 +7666,8 @@
       "tagged": true,
       "category": "Country & Americana",
       "note": "Person node — no owned albums under this name; enters the graph via personnel credits (Alison Brown, Jerry Douglas, Mark Knopfler, NewGrange)",
-      "subcategory": "Newgrass"
+      "subcategory": "Newgrass",
+      "rotation": "dormant"
     },
     "Darol Anger": {
       "albums": [],
@@ -7664,7 +7675,8 @@
       "tagged": true,
       "category": "Country & Americana",
       "note": "Person node — no owned albums under this name; enters the graph via personnel credits (Alison Brown, Anger_Marshall Band, Anonymous 4, David Grisman Quintet)",
-      "subcategory": "Newgrass"
+      "subcategory": "Newgrass",
+      "rotation": "historical"
     },
     "Stuart Duncan": {
       "albums": [],
@@ -7672,7 +7684,8 @@
       "tagged": true,
       "category": "Country & Americana",
       "note": "Person node — no owned albums under this name; enters the graph via personnel credits (Béla Fleck, Alison Brown, Iris DeMent, Russ Barenberg)",
-      "subcategory": "Newgrass"
+      "subcategory": "Newgrass",
+      "rotation": "historical"
     },
     "Maynard James Keenan": {
       "albums": [],
@@ -7680,7 +7693,8 @@
       "tagged": true,
       "category": "Rock",
       "note": "Person node — no owned albums under this name; enters the graph via personnel credits (Tool, A Perfect Circle, Deftones)",
-      "subcategory": "Metal"
+      "subcategory": "Metal",
+      "rotation": "historical"
     },
     "MF DOOM": {
       "albums": [],
@@ -7688,7 +7702,8 @@
       "tagged": true,
       "category": "Hip-Hop",
       "note": "Person node — no owned albums under this name; enters the graph via personnel credits (Madvillain, The Herbaliser, Vast Aire, dangerdoom)",
-      "subcategory": "Underground"
+      "subcategory": "Underground",
+      "rotation": "historical"
     }
   },
   "compilations": {
