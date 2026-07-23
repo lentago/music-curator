@@ -5,7 +5,4 @@ tags: ["moc", "reservoir"]
 
 # Reservoir
 
-The untagged reservoir — 1 artists kept in the collection but not yet assigned a category. These are exploration inventory, not confident taste signal: mine them before reaching for external recommendations. Give one a category and it graduates into the graph proper.
-
-## Artists
-- [[Compilations]]
+**The reservoir is empty.** Every artist in the collection now carries a category, so there is no untagged exploration inventory left to mine. New artists land here whenever they are ingested without a category; tagging one graduates it into the graph proper.

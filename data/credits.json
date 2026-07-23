@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "bullpen personnel research, 11 chunks (pilot + chunk-01..10); discography-seed personnel fan-out 2026-07-15 (Zorn/Aesop Rock/Waits/Talking Heads)",
-    "albums_researched": 1691,
-    "in_collection_links": 1965
+    "albums_researched": 1686,
+    "in_collection_links": 1963
   },
   "artists": {
     "10,000 Maniacs": {
@@ -7784,66 +7784,6 @@
             "in_collection": false
           }
         ]
-      }
-    },
-    "Compilations": {
-      "Den of Thieves - The Sound of Eighteenth": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "ESL Remixed": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "Leonard Cohen_ I'm Your Man (Motion Pict": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Rufus Wainwright",
-            "role": "featured performer",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Nick Cave",
-            "role": "featured performer",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "Nick Cave & the Bad Seeds"
-          },
-          {
-            "name": "Beth Orton",
-            "role": "featured performer",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "Beth Orton"
-          },
-          {
-            "name": "U2",
-            "role": "featured performer (Tower of Song)",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Antony Hegarty",
-            "role": "featured performer",
-            "confidence": "medium",
-            "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      },
-      "Re-Bop_ The Savoy Remixes": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "Verve Remixed 2": {
-        "status": "skipped",
-        "personnel": []
       }
     },
     "Corinne Bailey Rae": {

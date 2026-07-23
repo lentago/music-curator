@@ -614,16 +614,29 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None,
     reservoir_body = [
         frontmatter([("type", "moc"), ("tags", ["moc", "reservoir"])]), "",
         f"# {RESERVOIR_HUB}", "",
-        f"The untagged reservoir — {len(reservoir_members)} artists kept in the "
-        "collection but not yet assigned a category. These are exploration "
-        "inventory, not confident taste signal: mine them before reaching for "
-        "external recommendations. Give one a category and it graduates into the "
-        "graph proper.", "",
-        "## Artists",
     ]
-    reservoir_body.extend(
-        f"- {link(artist_base[m], m)}" for m in sorted(reservoir_members, key=str.lower)
-    )
+    if reservoir_members:
+        reservoir_body.extend([
+            f"The untagged reservoir — {len(reservoir_members)} artists kept in "
+            "the collection but not yet assigned a category. These are "
+            "exploration inventory, not confident taste signal: mine them before "
+            "reaching for external recommendations. Give one a category and it "
+            "graduates into the graph proper.", "",
+            "## Artists",
+        ])
+        reservoir_body.extend(
+            f"- {link(artist_base[m], m)}"
+            for m in sorted(reservoir_members, key=str.lower)
+        )
+    else:
+        # The hub stays even when empty — the home MOC links to it, and the
+        # reservoir refills whenever new artists are ingested untagged.
+        reservoir_body.append(
+            "**The reservoir is empty.** Every artist in the collection now "
+            "carries a category, so there is no untagged exploration inventory "
+            "left to mine. New artists land here whenever they are ingested "
+            "without a category; tagging one graduates it into the graph proper."
+        )
     write_note(out_dir, "", fixed[RESERVOIR_HUB], "\n".join(reservoir_body))
 
     # --- Rotation MOC ---------------------------------------------------------

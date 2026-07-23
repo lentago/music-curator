@@ -13,7 +13,7 @@ tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
-**Session ties:** [[Compilations]] · [[The Chemical Brothers]]
+**Session ties:** [[The Chemical Brothers]]
 
 ## Albums (8)
 - Central Reservation

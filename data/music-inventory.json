@@ -1,11 +1,11 @@
 {
   "meta": {
-    "total_unique_artists": 681,
+    "total_unique_artists": 680,
     "total_albums": 1342,
     "compilation_albums": 81,
     "unknown_artist_albums": 27,
     "tagged_artists": 547,
-    "untagged_artists": 134,
+    "untagged_artists": 133,
     "cruft_removed": [
       {
         "folder": "Ringtone Heaven",
@@ -1292,18 +1292,6 @@
       "era": "1990s",
       "category": "Hip-Hop",
       "subcategory": "Underground",
-      "rotation": "historical"
-    },
-    "Compilations": {
-      "albums": [
-        "Den of Thieves - The Sound of Eighteenth",
-        "ESL Remixed",
-        "Leonard Cohen_ I'm Your Man (Motion Pict",
-        "Re-Bop_ The Savoy Remixes",
-        "Verve Remixed 2"
-      ],
-      "album_count": 5,
-      "tagged": false,
       "rotation": "historical"
     },
     "Corinne Bailey Rae": {
