@@ -154,14 +154,17 @@ body (a JSON string), not a file:
   "recently_played": […], "counts": {…} }
 ```
 
-## Roll-up schema (v1)
+## Roll-up schema (v2)
 Each `data/harvests/YYYY-MM.json` the consumer commits is a per-artist aggregate
 over that month's daily snapshots — the compact, diffable signal the
 human-in-the-loop inventory fold reads:
 ```jsonc
-{ "month": "YYYY-MM", "generated_at", "source", "harvester", "schema": 1,
+{ "month": "YYYY-MM", "generated_at", "source", "harvester", "schema": 2,
   "snapshot_days",          // how many daily snapshots rolled up
+  "snapshot_first_day",     // v2: the window follow deltas are measured against
+  "snapshot_last_day",
   "profile", "playlists_count", "artist_count",
+  "followed_count", "new_follow_count",          // v2
   "artists": {              // keyed by artist name; keys sorted for stable diffs
     "<name>": {
       "days_seen",          // distinct snapshot days seen in any signal
@@ -169,6 +172,11 @@ human-in-the-loop inventory fold reads:
       "top_ranges",         // subset of short/medium/long_term where in top ARTISTS
       "in_top_artists_days", "in_top_tracks_days",
       "followed",           // followed at any point in the month
+      "followed_days",      // v2: distinct days observed in the follow list
+      "first_followed",     // v2: first day observed followed (null if never)
+      "last_followed",      // v2
+      "new_follow",         // v2: first_followed is after snapshot_first_day
+      "unfollowed",         // v2: last_followed is before snapshot_last_day
       "saved_tracks_max",   // max distinct saved tracks by the artist in a snapshot
       "plays",              // distinct recently-played `played_at`, de-duped across days
       "genres": […]
@@ -177,6 +185,28 @@ human-in-the-loop inventory fold reads:
 ```
 `plays` de-dupes by `played_at`, so the same play appearing in consecutive daily
 `recently_played` windows counts once — a real, non-inflated listen count.
+
+### Reading the follow fields (v2)
+
+**Spotify exposes no `followed_at`.** `GET /me/following` returns the current
+set with no timestamps, so a follow is only ever *first observed on day D*. An
+artist already followed when harvesting began is indistinguishable from one
+followed that same morning — which is why the deltas are anchored to the
+month's own snapshot window rather than presented as absolute follow dates:
+
+- **`new_follow`** — first observed followed *after* `snapshot_first_day`. This
+  is the only case the data can actually support, and it is the signal to act
+  on. Resolution is one day; the follow happened somewhere in the 24 h before
+  the snapshot that first saw it.
+- **`unfollowed`** — observed followed, then gone by `snapshot_last_day`.
+- An artist followed continuously across the whole window has
+  `new_follow: false` — correctly, since nothing new happened *within* the
+  window. Cross-month new follows come from diffing consecutive roll-ups'
+  `followed` sets, which the day fields do not replace.
+
+A month whose `snapshot_days` is small (a gap in the producer, or the month it
+was first deployed) makes `new_follow` unreliable in both directions — check
+`snapshot_first_day`/`snapshot_last_day` before trusting a delta.
 
 ## The merge principle
 The roll-up (`data/harvests/YYYY-MM.json`) and every harvest are **inputs**,
@@ -199,6 +229,8 @@ Phase-2 dedup logic.
   data API, opens a PR, arms squash auto-merge, then drains the queue — the drain
   only runs if the Code node succeeds, so a failure preserves the buffer.
   Verified: the first roll-up (`2026-07.json`) landed via an auto-merged PR.
+  Emits **roll-up schema v2** (follow deltas) since 2026-07-23; `2026-07.json`
+  predates it and carries v1, so it has no follow-day fields.
 - **Infra** — Redis (`redis:7-alpine`, `appendonly yes`) + env wiring live in
   `/opt/n8n/docker-compose.yml`; secrets in `/opt/n8n/.env` (mode 600):
   `SPOTIFY_CLIENT_ID`, `SPOTIFY_REFRESH_TOKEN`, `GITHUB_TOKEN`.
