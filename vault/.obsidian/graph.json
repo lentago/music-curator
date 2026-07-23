@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-tag:#moc",
   "showTags": false,
   "showAttachments": false,
@@ -101,7 +101,7 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -2.3,
+  "textFadeMultiplier": -0.5,
   "nodeSizeMultiplier": 1.1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
@@ -109,6 +109,6 @@
   "repelStrength": 12,
   "linkStrength": 1,
   "linkDistance": 220,
-  "scale": 0.47368667693814154,
-  "close": false
+  "scale": 0.5,
+  "close": true
 }
