@@ -1,6 +1,6 @@
 {
   "id": "spotifyRollup01",
-  "name": "Spotify monthly roll-up \u2192 GitHub (music-curator)",
+  "name": "Spotify monthly roll-up \u2192 GitHub PR (music-curator)",
   "nodes": [
     {
       "parameters": {
@@ -38,14 +38,20 @@
       "position": [
         600,
         300
-      ]
+      ],
+      "credentials": {
+        "redis": {
+          "id": "redisLocal01",
+          "name": "Redis (local)"
+        }
+      }
     },
     {
       "parameters": {
-        "jsCode": "// Spotify monthly roll-up -- music-curator. n8n Code node, \"Run Once for All Items\".\n// Input: the \"Read queue\" Redis Get node (keyType=list) put the raw list into\n// $json.queue as an array of snapshot JSON strings (each is one daily snapshot,\n// schema v1, as pushed by the producer's Redis node).\n// Output: one item per calendar month present in the queue, each carrying the\n// committable file { path, content, message } for the GitHub node.\n\nconst first = $input.first();\nconst rawQueue = (first && first.json && first.json.queue) || [];\nconst queue = Array.isArray(rawQueue) ? rawQueue : [rawQueue];\nif (!queue.length) {\n  // Nothing buffered -- emit no items so the GitHub/Delete nodes no-op.\n  return [];\n}\n\n// --- parse snapshots, tolerate the odd malformed string ---\nconst snapshots = [];\nfor (const entry of queue) {\n  try {\n    snapshots.push(typeof entry === 'string' ? JSON.parse(entry) : entry);\n  } catch (e) {\n    // skip an unparseable queue entry rather than fail the whole roll-up\n  }\n}\nif (!snapshots.length) return [];\n\n// --- helpers ---\nconst dayOf = (iso) => (iso || '').slice(0, 10);        // YYYY-MM-DD\nconst monthOf = (iso) => (iso || '').slice(0, 7);       // YYYY-MM\nconst RANGES = ['short_term', 'medium_term', 'long_term'];\n\n// month -> { snapshotDays:Set, profile, playlistsCount, artists: Map(name -> rec) }\nconst months = new Map();\nfunction bucket(month) {\n  if (!months.has(month)) {\n    months.set(month, { days: new Set(), profile: null, playlistsCount: 0, artists: new Map() });\n  }\n  return months.get(month);\n}\nfunction artistRec(b, name) {\n  if (!b.artists.has(name)) {\n    b.artists.set(name, {\n      name,\n      days: new Set(),            // distinct snapshot days seen in any signal\n      top_ranges: new Set(),      // ranges where in top ARTISTS\n      in_top_artists_days: new Set(),\n      in_top_tracks_days: new Set(),\n      followed: false,\n      saved_tracks_max: 0,\n      plays: new Set(),           // distinct recently_played `played_at` (de-duped)\n      genres: new Set(),\n    });\n  }\n  return b.artists.get(name);\n}\n\nfor (const snap of snapshots) {\n  const when = snap.harvested_at;\n  const month = monthOf(when);\n  const day = dayOf(when);\n  if (!month) continue;\n  const b = bucket(month);\n  b.days.add(day);\n  b.profile = snap.profile || b.profile;         // keep the latest profile seen\n  if (snap.playlists) b.playlistsCount = snap.playlists.length;\n\n  const mark = (name, day) => { const r = artistRec(b, name); r.days.add(day); return r; };\n\n  // top artists (the strongest rotation signal): name + range + genres\n  const top = snap.top || {};\n  for (const range of RANGES) {\n    for (const a of ((top.artists && top.artists[range]) || [])) {\n      if (!a || !a.name) continue;\n      const r = mark(a.name, day);\n      r.top_ranges.add(range);\n      r.in_top_artists_days.add(day);\n      (a.genres || []).forEach((g) => r.genres.add(g));\n    }\n    // top tracks -> credit each track's artists (weaker signal)\n    for (const t of ((top.tracks && top.tracks[range]) || [])) {\n      for (const nm of ((t && t.artists) || [])) mark(nm, day).in_top_tracks_days.add(day);\n    }\n  }\n\n  // followed artists\n  for (const a of (snap.followed_artists || [])) {\n    if (!a || !a.name) continue;\n    const r = mark(a.name, day);\n    r.followed = true;\n    (a.genres || []).forEach((g) => r.genres.add(g));\n  }\n\n  // saved library -- count distinct saved tracks per artist this snapshot, keep the max\n  const savedThisSnap = new Map();\n  for (const t of (snap.saved_tracks || [])) {\n    for (const nm of ((t && t.artists) || [])) savedThisSnap.set(nm, (savedThisSnap.get(nm) || 0) + 1);\n  }\n  for (const [nm, n] of savedThisSnap) {\n    const r = mark(nm, day);\n    if (n > r.saved_tracks_max) r.saved_tracks_max = n;\n  }\n\n  // recently played -- de-dupe real plays by played_at across the month\n  for (const t of (snap.recently_played || [])) {\n    for (const nm of ((t && t.artists) || [])) {\n      if (t.played_at) mark(nm, day).plays.add(t.played_at);\n    }\n  }\n}\n\n// --- emit one committable item per month ---\nconst now = new Date();\nconst out = [];\nfor (const [month, b] of months) {\n  const artists = {};\n  for (const [name, r] of [...b.artists.entries()].sort((a, c) => a[0].localeCompare(c[0]))) {\n    const days = [...r.days].sort();\n    artists[name] = {\n      days_seen: r.days.size,\n      first_seen: days[0],\n      last_seen: days[days.length - 1],\n      top_ranges: [...r.top_ranges].sort(),\n      in_top_artists_days: r.in_top_artists_days.size,\n      in_top_tracks_days: r.in_top_tracks_days.size,\n      followed: r.followed,\n      saved_tracks_max: r.saved_tracks_max,\n      plays: r.plays.size,\n      genres: [...r.genres].sort(),\n    };\n  }\n  const rollup = {\n    month,\n    generated_at: now.toISOString(),\n    source: 'spotify-web-api',\n    harvester: 'music-curator/n8n rollup',\n    schema: 1,\n    snapshot_days: b.days.size,\n    profile: b.profile,\n    playlists_count: b.playlistsCount,\n    artist_count: Object.keys(artists).length,\n    artists,\n  };\n  out.push({\n    json: {\n      path: `data/harvests/${month}.json`,\n      content: JSON.stringify(rollup, null, 2) + '\\n',\n      message: `chore(harvest): roll up ${month} Spotify snapshots (${b.days.size} days, ${rollup.artist_count} artists)`,\n    },\n  });\n}\nreturn out;\n"
+        "jsCode": "// Spotify monthly roll-up -- music-curator. n8n Code node, \"Run Once for All Items\".\n// Input: the \"Read queue\" Redis Get node (keyType=list) put the raw list into\n// $json.queue as an array of snapshot JSON strings (each one daily snapshot,\n// schema v1, as pushed by the producer).\n// Action: aggregate a per-artist roll-up per calendar month, then for each month\n// commit data/harvests/YYYY-MM.json to a branch, open a PR, and auto-merge it.\n// Output: one status item per month committed.\n\nconst helpers = this.helpers;\nconst TOKEN = $env.GITHUB_TOKEN;\nif (!TOKEN) throw new Error('Missing GITHUB_TOKEN in n8n env (fine-grained PAT, Contents + Pull requests write; set N8N_BLOCK_ENV_ACCESS_IN_NODE=false).');\nconst OWNER = 'lentago', REPO = 'music-curator', BASE = 'main';\nconst GH = 'https://api.github.com';\n\nconst first = $input.first();\nconst rawQueue = (first && first.json && first.json.queue) || [];\nconst queue = Array.isArray(rawQueue) ? rawQueue : [rawQueue];\nif (!queue.length) return [];\n\n// --- parse snapshots, tolerate the odd malformed string ---\nconst snapshots = [];\nfor (const entry of queue) {\n  try { snapshots.push(typeof entry === 'string' ? JSON.parse(entry) : entry); } catch (e) { /* skip */ }\n}\nif (!snapshots.length) return [];\n\n// --- aggregate ---\nconst dayOf = (iso) => (iso || '').slice(0, 10);\nconst monthOf = (iso) => (iso || '').slice(0, 7);\nconst RANGES = ['short_term', 'medium_term', 'long_term'];\nconst months = new Map();\nfunction bucket(m) {\n  if (!months.has(m)) months.set(m, { days: new Set(), profile: null, playlistsCount: 0, artists: new Map() });\n  return months.get(m);\n}\nfunction artistRec(b, name) {\n  if (!b.artists.has(name)) b.artists.set(name, {\n    name, days: new Set(), top_ranges: new Set(), in_top_artists_days: new Set(),\n    in_top_tracks_days: new Set(), followed: false, saved_tracks_max: 0, plays: new Set(), genres: new Set(),\n  });\n  return b.artists.get(name);\n}\nfor (const snap of snapshots) {\n  const month = monthOf(snap.harvested_at), day = dayOf(snap.harvested_at);\n  if (!month) continue;\n  const b = bucket(month);\n  b.days.add(day);\n  b.profile = snap.profile || b.profile;\n  if (snap.playlists) b.playlistsCount = snap.playlists.length;\n  const mark = (name, d) => { const r = artistRec(b, name); r.days.add(d); return r; };\n  const top = snap.top || {};\n  for (const range of RANGES) {\n    for (const a of ((top.artists && top.artists[range]) || [])) {\n      if (!a || !a.name) continue;\n      const r = mark(a.name, day); r.top_ranges.add(range); r.in_top_artists_days.add(day);\n      (a.genres || []).forEach((g) => r.genres.add(g));\n    }\n    for (const t of ((top.tracks && top.tracks[range]) || [])) {\n      for (const nm of ((t && t.artists) || [])) mark(nm, day).in_top_tracks_days.add(day);\n    }\n  }\n  for (const a of (snap.followed_artists || [])) {\n    if (!a || !a.name) continue;\n    const r = mark(a.name, day); r.followed = true; (a.genres || []).forEach((g) => r.genres.add(g));\n  }\n  const savedThisSnap = new Map();\n  for (const t of (snap.saved_tracks || [])) for (const nm of ((t && t.artists) || [])) savedThisSnap.set(nm, (savedThisSnap.get(nm) || 0) + 1);\n  for (const [nm, n] of savedThisSnap) { const r = mark(nm, day); if (n > r.saved_tracks_max) r.saved_tracks_max = n; }\n  for (const t of (snap.recently_played || [])) for (const nm of ((t && t.artists) || [])) if (t.played_at) mark(nm, day).plays.add(t.played_at);\n}\n\n// --- build committable payloads per month ---\nconst now = new Date();\nconst payloads = [];\nfor (const [month, b] of months) {\n  const artists = {};\n  for (const [name, r] of [...b.artists.entries()].sort((a, c) => a[0].localeCompare(c[0]))) {\n    const days = [...r.days].sort();\n    artists[name] = {\n      days_seen: r.days.size, first_seen: days[0], last_seen: days[days.length - 1],\n      top_ranges: [...r.top_ranges].sort(), in_top_artists_days: r.in_top_artists_days.size,\n      in_top_tracks_days: r.in_top_tracks_days.size, followed: r.followed,\n      saved_tracks_max: r.saved_tracks_max, plays: r.plays.size, genres: [...r.genres].sort(),\n    };\n  }\n  const rollup = {\n    month, generated_at: now.toISOString(), source: 'spotify-web-api', harvester: 'music-curator/n8n rollup',\n    schema: 1, snapshot_days: b.days.size, profile: b.profile, playlists_count: b.playlistsCount,\n    artist_count: Object.keys(artists).length, artists,\n  };\n  payloads.push({\n    month, path: `data/harvests/${month}.json`, content: JSON.stringify(rollup, null, 2) + '\\n',\n    branch: `harvest/rollup-${month}`,\n    message: `chore(harvest): roll up ${month} Spotify snapshots (${b.days.size} days, ${rollup.artist_count} artists)`,\n    prTitle: `chore(harvest): ${month} Spotify roll-up`,\n    prBody: `Automated monthly Spotify roll-up for ${month} (${b.days.size} snapshot days, ${rollup.artist_count} artists).\\n\\nGenerated by the music-curator n8n consumer from the durable Redis queue. Inputs only -- does not rewrite the curated inventory.`,\n  });\n}\n\n// --- git helpers (low-level data API -> no base64 needed) ---\nasync function gh(method, path, body) {\n  return await helpers.httpRequest({\n    method, url: GH + path,\n    headers: { Authorization: 'Bearer ' + TOKEN, Accept: 'application/vnd.github+json', 'User-Agent': 'music-curator-n8n', 'X-GitHub-Api-Version': '2022-11-28' },\n    body: body ? JSON.stringify(body) : undefined, json: true,\n  });\n}\n\nconst results = [];\nfor (const p of payloads) {\n  // 1. base commit + its tree\n  const ref = await gh('GET', `/repos/${OWNER}/${REPO}/git/ref/heads/${BASE}`);\n  const baseSha = ref.object.sha;\n  const baseCommit = await gh('GET', `/repos/${OWNER}/${REPO}/git/commits/${baseSha}`);\n  // 2. blob (utf-8), tree, commit\n  const blob = await gh('POST', `/repos/${OWNER}/${REPO}/git/blobs`, { content: p.content, encoding: 'utf-8' });\n  const tree = await gh('POST', `/repos/${OWNER}/${REPO}/git/trees`, { base_tree: baseCommit.tree.sha, tree: [{ path: p.path, mode: '100644', type: 'blob', sha: blob.sha }] });\n  const commit = await gh('POST', `/repos/${OWNER}/${REPO}/git/commits`, { message: p.message, tree: tree.sha, parents: [baseSha] });\n  // 3. branch ref pointing at the new commit\n  await gh('POST', `/repos/${OWNER}/${REPO}/git/refs`, { ref: `refs/heads/${p.branch}`, sha: commit.sha });\n  // 4. open PR\n  const pr = await gh('POST', `/repos/${OWNER}/${REPO}/pulls`, { title: p.prTitle, head: p.branch, base: BASE, body: p.prBody });\n  // 5. auto-merge when green (GraphQL). GraphQL logic errors return HTTP 200 with an\n  //    `errors` array -- e.g. \"Pull request is in clean status\" when nothing gates it.\n  //    In that case merge directly (squash). If neither works, leave the PR open.\n  let outcome = 'auto_merge_armed';\n  const gql = await helpers.httpRequest({\n    method: 'POST', url: GH + '/graphql',\n    headers: { Authorization: 'Bearer ' + TOKEN, 'User-Agent': 'music-curator-n8n' },\n    body: JSON.stringify({ query: 'mutation($id:ID!){enablePullRequestAutoMerge(input:{pullRequestId:$id,mergeMethod:SQUASH}){pullRequest{number}}}', variables: { id: pr.node_id } }),\n    json: true,\n  });\n  if (gql && gql.errors && gql.errors.length) {\n    try { await gh('PUT', `/repos/${OWNER}/${REPO}/pulls/${pr.number}/merge`, { merge_method: 'squash' }); outcome = 'merged_directly'; }\n    catch (e) { outcome = 'pr_open_manual_merge'; }\n  }\n  results.push({ json: { month: p.month, pr: pr.number, branch: p.branch, outcome } });\n}\nreturn results;\n"
       },
       "id": "b1000000-0000-4000-8000-000000000003",
-      "name": "Aggregate roll-up",
+      "name": "Roll up + commit PR",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
       "position": [
@@ -55,46 +61,24 @@
     },
     {
       "parameters": {
-        "resource": "file",
-        "operation": "create",
-        "owner": {
-          "__rl": true,
-          "value": "lentago",
-          "mode": "name"
-        },
-        "repository": {
-          "__rl": true,
-          "value": "music-curator",
-          "mode": "name"
-        },
-        "filePath": "={{ $json.path }}",
-        "fileContent": "={{ $json.content }}",
-        "commitMessage": "={{ $json.message }}",
-        "additionalParameters": {}
-      },
-      "id": "b1000000-0000-4000-8000-000000000004",
-      "name": "Commit roll-up",
-      "type": "n8n-nodes-base.github",
-      "typeVersion": 1,
-      "position": [
-        1040,
-        300
-      ]
-    },
-    {
-      "parameters": {
         "operation": "delete",
         "key": "spotify:harvests",
         "options": {}
       },
-      "id": "b1000000-0000-4000-8000-000000000005",
+      "id": "b1000000-0000-4000-8000-000000000004",
       "name": "Drain queue",
       "type": "n8n-nodes-base.redis",
       "typeVersion": 1,
       "position": [
-        1260,
+        1040,
         300
-      ]
+      ],
+      "credentials": {
+        "redis": {
+          "id": "redisLocal01",
+          "name": "Redis (local)"
+        }
+      }
     }
   ],
   "connections": {
@@ -113,25 +97,14 @@
       "main": [
         [
           {
-            "node": "Aggregate roll-up",
+            "node": "Roll up + commit PR",
             "type": "main",
             "index": 0
           }
         ]
       ]
     },
-    "Aggregate roll-up": {
-      "main": [
-        [
-          {
-            "node": "Commit roll-up",
-            "type": "main",
-            "index": 0
-          }
-        ]
-      ]
-    },
-    "Commit roll-up": {
+    "Roll up + commit PR": {
       "main": [
         [
           {
