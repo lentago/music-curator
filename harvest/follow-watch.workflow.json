@@ -1,0 +1,183 @@
+{
+  "id": "spotifyFollowWatch01",
+  "name": "Spotify follow watcher \u2192 Redis (music-curator)",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "minutes",
+              "minutesInterval": 15
+            }
+          ]
+        }
+      },
+      "id": "c1000000-0000-4000-8000-000000000001",
+      "name": "Every 15 minutes",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        380,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "get",
+        "propertyName": "prev",
+        "key": "spotify:follows:last",
+        "keyType": "automatic",
+        "options": {}
+      },
+      "id": "c1000000-0000-4000-8000-000000000002",
+      "name": "Read baseline",
+      "type": "n8n-nodes-base.redis",
+      "typeVersion": 1,
+      "credentials": {
+        "redis": {
+          "id": "redisLocal01",
+          "name": "Redis (local)"
+        }
+      },
+      "position": [
+        600,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Spotify follow watcher -- music-curator. n8n Code node, \"Run Once for All Items\".\n// Input: the \"Read baseline\" Redis Get node put the previous follow set into\n// $json.prev (a JSON array string written by this workflow's own Set node).\n// Action: diff the live follow list against the baseline; for each change,\n// capture what is playing right now (plus a short recently-played tail as a\n// fallback for a follow made a few minutes ago).\n// Output: ONE item carrying the events and the new baseline. The fan-out node\n// downstream turns events into individual Redis pushes.\n//\n// Secrets come from the n8n host env (needs N8N_BLOCK_ENV_ACCESS_IN_NODE=false):\n//   SPOTIFY_CLIENT_ID, SPOTIFY_REFRESH_TOKEN   (see harvest/README.md)\n// PKCE public-client refresh: no client secret is used anywhere.\nconst helpers = this.helpers;\nconst CID = $env.SPOTIFY_CLIENT_ID;\nconst RT = $env.SPOTIFY_REFRESH_TOKEN;\nif (!CID || !RT) {\n  throw new Error('Missing SPOTIFY_CLIENT_ID / SPOTIFY_REFRESH_TOKEN in n8n env (set N8N_BLOCK_ENV_ACCESS_IN_NODE=false).');\n}\n\nconst sleep = (ms) => (typeof setTimeout === 'function' ? new Promise((r) => setTimeout(r, ms)) : Promise.resolve());\n\n// --- baseline ---\n// A missing baseline is a hard error, not a bootstrap: treating an empty\n// previous set as \"everything is new\" would emit a false follow event for every\n// artist already followed. Seed the key once at deploy time (see README).\nconst first = $input.first();\nconst rawPrev = (first && first.json && first.json.prev);\nif (rawPrev === undefined || rawPrev === null || rawPrev === '') {\n  throw new Error('No baseline at spotify:follows:last -- seed it before activating (see harvest/README.md, follow watcher deploy).');\n}\nlet prevList;\ntry { prevList = typeof rawPrev === 'string' ? JSON.parse(rawPrev) : rawPrev; }\ncatch (e) { throw new Error('Baseline at spotify:follows:last is not JSON: ' + String(rawPrev).slice(0, 120)); }\nif (!Array.isArray(prevList)) throw new Error('Baseline at spotify:follows:last is not a JSON array.');\nconst prev = new Set(prevList);\n\n// --- refresh the access token ---\nlet tokenResp = await helpers.httpRequest({\n  method: 'POST',\n  url: 'https://accounts.spotify.com/api/token',\n  headers: { 'content-type': 'application/x-www-form-urlencoded' },\n  // Manual form-encode: the Code-node sandbox has no URLSearchParams.\n  body: 'grant_type=refresh_token&refresh_token=' + encodeURIComponent(RT) + '&client_id=' + encodeURIComponent(CID),\n});\nif (typeof tokenResp === 'string') tokenResp = JSON.parse(tokenResp);\nconst access = tokenResp.access_token;\nif (!access) throw new Error('No access_token from refresh: ' + JSON.stringify(tokenResp));\n\n// --- GET helper with 429 backoff. Returns null on 204 (nothing playing). ---\nasync function api(url, qs) {\n  for (let attempt = 0; attempt < 5; attempt++) {\n    try {\n      const r = await helpers.httpRequest({ method: 'GET', url, qs, headers: { Authorization: 'Bearer ' + access }, json: true });\n      return (r === '' || r === undefined) ? null : r;\n    } catch (e) {\n      const sc = e.statusCode || e.httpCode || (e.response && e.response.statusCode);\n      if (sc === 429) {\n        const ra = Number((e.response && e.response.headers && e.response.headers['retry-after']) || 2);\n        await sleep((ra + 1) * 1000);\n        continue;\n      }\n      if (sc === 204 || sc === 404) return null;   // nothing playing / no active device\n      throw e;\n    }\n  }\n  throw new Error('Too many 429s for ' + url);\n}\n\n// --- the live follow set ---\nconst API = 'https://api.spotify.com/v1';\nconst followed = [];\nlet page = await api(API + '/me/following', { type: 'artist', limit: 50 });\nwhile (page && page.artists) {\n  followed.push(...(page.artists.items || []).map((a) => ({ id: a.id, name: a.name, genres: a.genres || [] })));\n  const next = page.artists.next;\n  if (!next || followed.length > 5000) break;\n  page = await api(next);\n}\nif (!followed.length) throw new Error('Follow list came back empty -- refusing to treat that as 64 unfollows.');\n\nconst nowNames = followed.map((a) => a.name);\nconst nowSet = new Set(nowNames);\nconst added = followed.filter((a) => !prev.has(a.name));\nconst removed = [...prev].filter((n) => !nowSet.has(n));\n\n// --- capture the moment, only when something actually changed ---\nconst detected_at = new Date().toISOString();\nlet nowPlaying = null, recent = [];\nif (added.length) {\n  const cur = await api(API + '/me/player/currently-playing');\n  if (cur && cur.item) {\n    nowPlaying = {\n      track: cur.item.name,\n      artists: (cur.item.artists || []).map((x) => x.name),\n      album: cur.item.album && cur.item.album.name,\n      uri: cur.item.uri,\n      progress_ms: cur.progress_ms,\n      is_playing: Boolean(cur.is_playing),\n    };\n  }\n  // Fallback for a follow made a few minutes ago: the tail of recently-played.\n  const rp = await api(API + '/me/player/recently-played', { limit: 5 });\n  recent = ((rp && rp.items) || []).map((it) => ({\n    track: it.track && it.track.name,\n    artists: ((it.track && it.track.artists) || []).map((x) => x.name),\n    album: it.track && it.track.album && it.track.album.name,\n    uri: it.track && it.track.uri,\n    played_at: it.played_at,\n  }));\n}\n\nconst events = [];\nfor (const a of added) {\n  // `trigger` is the honest label: what was playing when the follow was\n  // DETECTED, within one watcher interval of the follow itself. If the artist\n  // appears in now-playing or the recent tail, that is near-certainly the song\n  // that caused the follow -- flagged so the consumer needn't re-derive it.\n  const byArtist = (t) => (t.artists || []).indexOf(a.name) !== -1;\n  const selfMatch = (nowPlaying && byArtist(nowPlaying)) ? 'now_playing'\n    : (recent.find(byArtist) ? 'recently_played' : null);\n  events.push({\n    type: 'follow', artist: a.name, artist_id: a.id, genres: a.genres,\n    detected_at, now_playing: nowPlaying,\n    recent_tail: recent,\n    trigger_confidence: selfMatch ? 'high' : 'low',\n    trigger_source: selfMatch,\n    trigger_track: selfMatch === 'now_playing' ? nowPlaying\n      : (selfMatch === 'recently_played' ? recent.find(byArtist) : null),\n  });\n}\nfor (const name of removed) {\n  events.push({ type: 'unfollow', artist: name, detected_at });\n}\n\nreturn [{\n  json: {\n    detected_at,\n    changed: events.length > 0,\n    added: added.length,\n    removed: removed.length,\n    followed_total: followed.length,\n    events: JSON.stringify(events),\n    baseline: JSON.stringify(nowNames.slice().sort()),\n  },\n}];\n"
+      },
+      "id": "c1000000-0000-4000-8000-000000000003",
+      "name": "Detect follow changes",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        820,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Fan out the detected events into one item each. No changes -> no items ->\n// neither the Redis push nor the baseline write runs this cycle.\nconst first = $input.first();\nconst j = (first && first.json) || {};\nlet events = [];\ntry { events = JSON.parse(j.events || '[]'); } catch (e) { events = []; }\nif (!events.length) return [];\nreturn events.map((e) => ({ json: { event: JSON.stringify(e), baseline: j.baseline } }));\n"
+      },
+      "id": "c1000000-0000-4000-8000-000000000004",
+      "name": "Fan out events",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1040,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "push",
+        "list": "spotify:follow-events",
+        "messageData": "={{ $json.event }}",
+        "tail": true,
+        "options": {}
+      },
+      "id": "c1000000-0000-4000-8000-000000000005",
+      "name": "Publish follow events",
+      "type": "n8n-nodes-base.redis",
+      "typeVersion": 1,
+      "credentials": {
+        "redis": {
+          "id": "redisLocal01",
+          "name": "Redis (local)"
+        }
+      },
+      "position": [
+        1260,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "set",
+        "key": "spotify:follows:last",
+        "value": "={{ $json.baseline }}",
+        "keyType": "string",
+        "options": {}
+      },
+      "id": "c1000000-0000-4000-8000-000000000006",
+      "name": "Save baseline",
+      "type": "n8n-nodes-base.redis",
+      "typeVersion": 1,
+      "credentials": {
+        "redis": {
+          "id": "redisLocal01",
+          "name": "Redis (local)"
+        }
+      },
+      "position": [
+        1480,
+        300
+      ]
+    }
+  ],
+  "connections": {
+    "Every 15 minutes": {
+      "main": [
+        [
+          {
+            "node": "Read baseline",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read baseline": {
+      "main": [
+        [
+          {
+            "node": "Detect follow changes",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Detect follow changes": {
+      "main": [
+        [
+          {
+            "node": "Fan out events",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Fan out events": {
+      "main": [
+        [
+          {
+            "node": "Publish follow events",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Publish follow events": {
+      "main": [
+        [
+          {
+            "node": "Save baseline",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true
+  },
+  "active": false
+}

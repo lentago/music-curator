@@ -44,6 +44,7 @@ The heuristics that drive Phase 4 — high-confidence discard tells, a **canon-t
 - **[`examples/`](examples/)** — the original worked run, from a single ~25,000-file / 700-artist collection across **13 triage rounds** (16.8% discard rate):
   - [`chris-music-profile.md`](examples/chris-music-profile.md) — the distilled taste profile: foundational anchors, confirmed signal lanes, threads queued for exploration.
   - [`music-tree`](examples/music-tree) — the raw library tree that was fed in, kept as an input fixture so the before/after is visible.
+- **[`harvest/`](harvest/)** — the live Spotify harvester that keeps the data source growing: a daily snapshot producer, a monthly roll-up consumer that commits `data/harvests/YYYY-MM.json` via an auto-merged PR, and a 15-minute follow watcher that records new follows together with what was playing when you made them. Three n8n workflows, each generated from a Python source-of-truth script. See [`harvest/README.md`](harvest/README.md).
 - **[`roadmap/roadmap.md`](roadmap/roadmap.md)** — planned capabilities (periodic Spotify harvest, streaming + collection merge, packaging as a Claude skill), grounded in threads that surfaced during the original run.
 
 ## Obsidian graph vault

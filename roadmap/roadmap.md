@@ -88,7 +88,22 @@ repo gets one roll-up commit per month, not one per day.
 and append new artists; they never silently resurrect discarded entries; each
 harvest is date-stamped so rotation drift stays visible.
 
+**Follow watcher (shipped 2026-07-23):** a third workflow
+(`spotifyFollowWatch01`) runs every 15 minutes, diffs `/me/following` against a
+Redis-held baseline, and on any change captures what is playing at that moment
+— the one signal in the family that cannot be reconstructed later. Events land
+on `spotify:follow-events`. Motivation: a follow is a *deliberate* act and so a
+stronger taste signal than a play, and 48 of the 64 currently-followed artists
+are absent from the inventory entirely. Roll-up **schema v2** carries the
+day-resolution companion (`first_followed`, `new_follow`, `unfollowed`).
+
 **Remaining / follow-ups:**
+- **The follow-event ingest path** — nothing drains `spotify:follow-events`
+  yet. The intended behaviour is that a follow *seeds* the inventory: the artist
+  is appended untagged (Spotify's `genres` now comes back empty, so there is
+  nothing to auto-categorize from and the reservoir is the honest destination),
+  with the triggering song recorded as provenance. Until this lands, events
+  accumulate durably in Redis and nothing is lost.
 - Rotate `GITHUB_TOKEN` before its **2026-08-22** expiry, or the September
   consumer run 403s.
 - Add an n8n **Error Trigger + notifier** so a silent failure can't run unnoticed
