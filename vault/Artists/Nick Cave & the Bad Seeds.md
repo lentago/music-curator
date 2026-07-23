@@ -18,7 +18,7 @@ tags: ["artist", "pop", "rotation-dormant"]
 
 **By year:** 2017 ▂1 · 2018 ▂1 · 2019 █11
 
-**Session ties:** [[Cat Power]] · [[Compilations]] · [[Johnny Cash]] · [[The Pogues]]
+**Session ties:** [[Cat Power]] · [[Johnny Cash]] · [[The Pogues]]
 
 ## Albums (2)
 - Murder Ballads

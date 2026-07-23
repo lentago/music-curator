@@ -17,7 +17,7 @@ Open the **graph view** with the `rotation` preset to see these colors laid over
 
 - **37** current — still in play
 - **74** dormant — played, but not lately
-- **432** historical — effectively absent from the stream
+- **431** historical — effectively absent from the stream
 
 ## Current (37)
 
@@ -140,7 +140,7 @@ Streamed, but not lately — the re-entry candidates.
 - [[Trombone Shorty]]
 - [[Vince Guaraldi]]
 
-## Historical (432)
+## Historical (431)
 
 Owned but effectively unstreamed — too many to list; browse them with the `rotation` graph preset or the `#rotation-historical` tag.
 
@@ -190,7 +190,7 @@ Artists above the current-rotation bar that the collection has **no** albums by 
 - **48** recent plays — Gustav Mahler
 - *…and 295 more below the top 40.*
 
-## Anchors off the rotation (50)
+## Anchors off the rotation (49)
 
 Deep shelf presence, absent from current play — the other half of the gap. Sorted by shelf weight.
 
@@ -223,7 +223,6 @@ Deep shelf presence, absent from current play — the other half of the gap. Sor
 | [[Built to Spill]] | 5 | historical | 2024-11-24 |
 | [[Béla Fleck & the Flecktones]] | 5 | historical | never |
 | [[Cat Power]] | 5 | historical | never |
-| [[Compilations]] | 5 | historical | never |
 | [[My Morning Jacket]] | 5 | historical | 2026-06-24 |
 | [[Talking Heads]] | 5 | dormant | 2025-11-10 |
 | [[Wovenhand]] | 5 | historical | never |
