@@ -40,6 +40,8 @@ run's static artifacts (distilled profile + raw input tree).
 | `vault/` | **The wiki.** Generated Obsidian vault — regenerate with the driver, don't hand-edit. Ships a pre-styled `.obsidian/graph.json` plus a switchable preset library in `.obsidian/graph-presets/` (`default` = full taste map, `artist-web` = artist↔artist edges only, `rotation` = recolored by listening; pick with the driver's `--graph` flag). Guarded by a `.generated-by-music-curator` marker. |
 | `examples/chris-music-profile.md` | The original worked run's distilled taste profile (anchors, signal lanes, exploration threads). The analog of reference-checker's `reports/`. |
 | `examples/music-tree` | The raw library tree fed in, kept as an input fixture. |
+| `harvest/` | The live Spotify harvester — three n8n workflows on LXC 113, each generated from a `gen_*.py` (edit the generator, never the emitted JSON): a **daily producer** → Redis queue, a **monthly consumer** that rolls up and lands `data/harvests/YYYY-MM.json` via an auto-merged PR, and a 15-minute **follow watcher** that captures new follows plus what was playing at the time. See `harvest/README.md` for the schemas and the redeploy gotchas. |
+| `data/harvests/` | Committed monthly roll-ups (`YYYY-MM.json`, schema v2). Raw daily snapshots are gitignored and live only in Redis until drained. **Nothing reads these yet** — folding them into the inventory is deliberate and human-in-the-loop, never an automatic rewrite. |
 | `roadmap/roadmap.md` | Planned capabilities, grounded in threads from the original run (periodic Spotify harvest, streaming + collection merge, skill packaging). |
 
 ## Conventions to respect

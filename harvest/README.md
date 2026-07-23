@@ -19,6 +19,11 @@ Daily    Schedule → Code (fetch snapshot) → Redis Push ─┐
 Monthly  Schedule → Redis Get (list) → Code (aggregate → git commit → PR → auto-merge) → Redis Delete (drain)
                                                         ▼
                                         music-curator/data/harvests/YYYY-MM.json
+
+15 min   Schedule → Redis Get (baseline) → Code (diff follows + capture now-playing)
+                  → Code (fan out) → Redis Push → Redis Set (new baseline)
+                                                        ▼
+                                        Redis list  "spotify:follow-events"
 ```
 
 **Why a queue, not a file share.** The earlier design wrote dated JSON files to
@@ -48,6 +53,8 @@ a single roll-up, instead of a commit per day.
 | `spotify-harvest.workflow.json` | Importable n8n **producer** workflow (generated): Schedule → Code → Redis Push. |
 | `gen_rollup.py` | Source of truth for the **monthly consumer** workflow (readable Code-node JS + emitter). Edit here, regenerate — don't hand-edit the JSON. |
 | `rollup.workflow.json` | Importable n8n **monthly consumer** workflow (generated): Schedule → Redis Get (list) → Code (aggregate + git commit + auto-merged PR) → Redis Delete. |
+| `gen_followwatch.py` | Source of truth for the **follow watcher** workflow (readable Code-node JS + emitter). Edit here, regenerate — don't hand-edit the JSON. |
+| `follow-watch.workflow.json` | Importable n8n **follow watcher** workflow (generated): Schedule (15 min) → Redis Get → Code (diff + capture) → Code (fan out) → Redis Push → Redis Set. |
 
 ## Deploy runbook
 
@@ -110,12 +117,27 @@ requires PRs with zero bypass — so the consumer commits to a
 `harvest/rollup-YYYY-MM` branch, opens a PR, and arms squash auto-merge.
 
 ### 5. Import the workflows
-Both are already imported (see the pre-staged note above). If you ever need to
-re-import: Editor → **Import from File** → `spotify-harvest.workflow.json` and
-`rollup.workflow.json`, or via CLI
+All three are already imported (see the pre-staged note above). If you ever need
+to re-import: Editor → **Import from File**, or via CLI
 `docker exec n8n n8n import:workflow --input=/tmp/<file>` (the JSON carries a
-stable `id`, so a re-import updates in place rather than duplicating). Assign the
-credentials to the Redis/GitHub nodes.
+stable `id`, so a re-import updates in place rather than duplicating). The
+generated JSON now names the `redisLocal01` credential inline, so no UI step is
+needed to make the Redis nodes runnable.
+
+> **Redeploy gotchas — both cost real time to rediscover:**
+>
+> 1. **`import:workflow` deactivates the workflow it imports** (it says so in
+>    the log). Follow every import with
+>    `n8n update:workflow --id=<id> --active=true` *and* a
+>    `docker compose restart n8n` — the CLI warns that activation "will not take
+>    effect if n8n is running", and it means it.
+> 2. **The sqlite DB is in WAL mode.** `docker cp`-ing `database.sqlite` alone
+>    gives a stale snapshot that can be hours behind — a just-imported workflow
+>    simply will not appear. Copy `database.sqlite-wal` and `-shm` alongside it
+>    before querying `workflow_entity.active`.
+> 3. **`n8n execute --id=…` cannot run while the server is up** ("Task Broker's
+>    port 5679 is already in use"). To smoke-test, activate and let the schedule
+>    fire, then inspect `execution_entity`.
 
 ### 6. Test, then activate
 Execute the producer once; confirm one item lands on the `spotify:harvests`
@@ -208,6 +230,57 @@ A month whose `snapshot_days` is small (a gap in the producer, or the month it
 was first deployed) makes `new_follow` unreliable in both directions — check
 `snapshot_first_day`/`snapshot_last_day` before trusting a delta.
 
+## The follow watcher
+
+The only latency-sensitive workflow in the family. The producer and consumer
+work on aggregates that can be rebuilt from a later export; this one captures
+something **ephemeral** — what was playing at the moment a follow happened —
+which is gone forever if not caught close to the event. That is why it runs
+every 15 minutes rather than daily: a follow is a deliberate act, and the song
+that caused it is the context that makes it legible later.
+
+**How a follow is detected.** Spotify exposes no `followed_at` anywhere, so the
+only way to notice a follow is to diff the current list against a remembered
+one. Redis holds that baseline at `spotify:follows:last` (a JSON array of artist
+names); each run compares, emits one event per change, then advances the
+baseline.
+
+**Event shape** (pushed as JSON strings onto `spotify:follow-events`):
+```jsonc
+{ "type": "follow" | "unfollow", "artist", "artist_id", "genres": […],
+  "detected_at",                 // ISO — when the DIFF ran, not when you clicked
+  "now_playing": {…} | null,     // currently-playing at detection
+  "recent_tail": […],            // last 5 played, with played_at
+  "trigger_confidence": "high" | "low",
+  "trigger_source": "now_playing" | "recently_played" | null,
+  "trigger_track": {…} | null }
+```
+`trigger_*` is set when the newly-followed artist appears in now-playing or the
+recent tail — i.e. you followed them *while listening to them*, the common case,
+and the strongest available evidence for which song caused the follow. When the
+artist is nowhere in the window, confidence is `low` and `trigger_track` is
+null; the surrounding context is still recorded rather than guessed at.
+
+**Ordering.** Events are pushed **before** the baseline moves. A crash between
+the two re-detects the change next cycle — a duplicate event, dedupable on
+`artist` + `detected_at`. The reverse order would lose the capture permanently,
+and an unrecoverable capture is exactly what this workflow exists to prevent.
+
+**Two refusals.** A missing baseline throws rather than treating an empty
+previous set as "everything is new" (that would emit a false follow event for
+every artist already followed). An empty follow list from the API throws rather
+than being read as a mass unfollow.
+
+**Deploy.** Seed the baseline once before activating, or the first run throws:
+```bash
+# from a JSON array of the artist names you currently follow
+docker cp baseline.json redis:/tmp/baseline.json
+docker exec redis sh -lc 'redis-cli -x SET spotify:follows:last < /tmp/baseline.json'
+```
+Skipping a cycle is harmless: when the follow set is unchanged the fan-out emits
+zero items, which short-circuits both the push and the baseline write — safe
+precisely because an unchanged set means the stored baseline is already correct.
+
 ## The merge principle
 The roll-up (`data/harvests/YYYY-MM.json`) and every harvest are **inputs**,
 never a live rewrite of the curated inventory. Folding a harvest into
@@ -231,6 +304,12 @@ Phase-2 dedup logic.
   Verified: the first roll-up (`2026-07.json`) landed via an auto-merged PR.
   Emits **roll-up schema v2** (follow deltas) since 2026-07-23; `2026-07.json`
   predates it and carries v1, so it has no follow-day fields.
+- **Follow watcher** (15 min → Redis) — **active** (`spotifyFollowWatch01`),
+  every 15 minutes. Diffs `/me/following` against the `spotify:follows:last`
+  baseline and pushes change events to `spotify:follow-events`. Baseline seeded
+  2026-07-23 with the then-current 64 follows. The event queue is **not yet
+  drained by anything** — the ingest path that folds follows into the inventory
+  is the next piece of work; until then events accumulate durably in Redis.
 - **Infra** — Redis (`redis:7-alpine`, `appendonly yes`) + env wiring live in
   `/opt/n8n/docker-compose.yml`; secrets in `/opt/n8n/.env` (mode 600):
   `SPOTIFY_CLIENT_ID`, `SPOTIFY_REFRESH_TOKEN`, `GITHUB_TOKEN`.
