@@ -2,9 +2,9 @@
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/lentago/music-curator)
 
-A prompt-engineered methodology for turning a low-effort dump of someone's music collection — a directory tree, a Spotify export, a plain list of artists — into a clean, queryable **taste profile** that a language model can mine for personalized discovery across conversations.
+Music Curator turns a messy personal music collection — a directory tree, a Spotify export, a plain list of artists — into a queryable **Obsidian vault**: a Python toolchain (`curator_lib.py`, `obsidian_driver.py`, `validate.py`) dedups and merges directory-tree rips, Spotify follows, discography pulls, and per-album credit research into a single inventory, then renders it into an artist graph with credit-derived person nodes and session-tie edges. A 15-minute Spotify follow watcher and a daily fold GitHub Action keep the follow layer current automatically. The conceptual core — the five-phase triage that turns a raw collection dump into the cleaned, tagged inventory everything else builds on — lives in [`music-curation-methodology.md`](music-curation-methodology.md) and still drives the initial pass on any new collection.
 
-**Authorship:** The methodology, documentation, and worked example in this repo are co-written with [Claude](https://claude.ai) (Anthropic). I direct the work and review the output; Claude writes the prompts and prose. I'm an infrastructure operator, not a software engineer — please don't read this repo as a portfolio of coding ability.
+**Authorship:** The methodology, tooling, and documentation in this repo are co-written with [Claude](https://claude.ai) (Anthropic). I direct the work and review the output; Claude writes the code and prose. I'm an infrastructure operator, not a software engineer — please don't read this repo as a portfolio of coding ability.
 
 ## The Problem
 
@@ -15,11 +15,11 @@ Streaming services already build algorithmic taste profiles, but they only see y
 - **Compilation fragmentation** — one comp ripped with each track filed under its own artist folder, masquerading as a dozen artists nobody actually collects.
 - **Other people's files mixed in** — a partner's pop, a friend's bachelor-party lounge comps, hype-cycle singletons grabbed once and never revisited.
 
-Feed that raw mess to a recommender and you get noise-driven guesses. This methodology cleans it into a structured data source first, then uses it to ground discovery in *the listener's actual taste* rather than algorithmic inference.
+Feed that raw mess to a recommender and you get noise-driven guesses. The initial triage cleans it into a structured data source first; the toolchain then keeps that data source alive and grows it, so discovery grounds in *the listener's actual taste* rather than algorithmic inference.
 
-## How It Works
+## How the initial triage works
 
-A five-phase workflow, run conversationally with the listener in the loop:
+Turning a raw dump into the cleaned inventory is a five-phase workflow, run conversationally with the listener in the loop. It's the conceptual core of the whole system — everything else in this repo (the merge layers, the graph, the automation) operates on the inventory this workflow produces:
 
 | Phase | What happens |
 |---|---|
@@ -31,9 +31,20 @@ A five-phase workflow, run conversationally with the listener in the loop:
 
 The heuristics that drive Phase 4 — high-confidence discard tells, a **canon-tolerance** exception (sole greatest-hits comps from foundational figures stay), the **lesser-album rule**, genre-orthogonality and compilation-fragmentation tests — are the substance of the method. They live in [`music-curation-methodology.md`](music-curation-methodology.md).
 
+## The Toolchain
+
+Everything past the initial triage is stdlib-only Python, no dependencies beyond `jsonschema` for validation:
+
+- **[`curator_lib.py`](curator_lib.py)** — shared primitives every other tool imports, chiefly `alnum()`, the accent-folding dedup key that lets the merge layers and the driver join to the roster consistently.
+- **[`validate.py`](validate.py)** — validates `data/music-inventory.json` against [`schema/music-inventory.schema.json`](schema/music-inventory.schema.json) plus cross-field integrity checks (count reconciliation, near-duplicate artist-key detection). Runs in CI on every change to the inventory, schema, or validator.
+- **Merge layers** — each is a sibling stdlib tool that folds one research or harvest source into a `data/` sidecar, keyed to the roster by `alnum()`: [`discography_merge.py`](discography_merge.py) (full-catalog research → `discographies.json`), [`streaming_merge.py`](streaming_merge.py) (GDPR streaming export → `streaming-summary.json` + a `rotation` stamp on the inventory), and [`harvest_merge.py`](harvest_merge.py) (live follow events → `follows.json`, with reservoir auto-seeding for new artists).
+- **[`obsidian_driver.py`](obsidian_driver.py)** — renders `data/` into the `vault/` graph: artist notes, category hubs, collaboration edges, and credit-derived session-tie edges (including person nodes for credited players who own no albums themselves — see [below](#obsidian-graph-vault)).
+- **Automation** — a 15-minute n8n follow watcher captures new Spotify follows plus the triggering track, a daily n8n job drains that log into a PR, and the `follow-fold` GitHub Action folds it into the inventory and auto-merges — but only when every event is a safe reservoir seed or provenance stamp; a follow of a discarded artist or an unfollow holds the PR for human review. See [`harvest/`](harvest/) for the full pipeline and [`roadmap/roadmap.md`](roadmap/roadmap.md) for what's shipped versus planned.
+
 ## What's Here
 
-- **[`music-curation-methodology.md`](music-curation-methodology.md)** — the reusable skill: phases, discard heuristics, pacing, anti-patterns, and exit criteria, written to be inherited by a future session with no memory of the original run.
+- **[`music-curation-methodology.md`](music-curation-methodology.md)** — the conceptual core: phases, discard heuristics, pacing, anti-patterns, and exit criteria, written to be inherited by a future session with no memory of the original run.
+- **[`curator_lib.py`](curator_lib.py)**, **[`validate.py`](validate.py)**, **[`schema/`](schema/)** — the engineering spine: shared dedup primitives, schema validation, and the JSON Schema itself.
 - **[`data/`](data/)** — the living data source the wiki is rendered from:
   - [`music-inventory.json`](data/music-inventory.json) — the cleaned, tagged inventory (schema-validated in CI).
   - [`credits.json`](data/credits.json) — the per-album personnel layer that drives the session-tie edges.
@@ -88,6 +99,12 @@ What comes out (from the collection's 543 active artists):
   per-album personnel layer researched and cross-referenced against the roster;
   only roster artists become ties. They cross the category clusters — the
   collection's hidden wiring.
+- **Person nodes** are artists who own no albums in the collection but earn a
+  note anyway because they're credited on other people's — Mike Patton wiring
+  Faith No More to Mr. Bungle to John Zorn, Edgar Meyer showing up across half
+  the bluegrass web. `build_personnel_edges` re-resolves these against the live
+  roster by `alnum`, so a newly-seeded artist wires in via existing credits
+  without re-running the research.
 - **Untagged reservoir** artists (no category yet) hang off a single `Reservoir`
   hub, hidden from the default view so the taste map stays legible.
 - **Rotation** is a second, independent axis over the same graph: each artist
@@ -120,8 +137,8 @@ regenerate rather than hand-editing. Discarded artists are dropped by default;
 
 ## Origin
 
-Distilled from a single long Claude conversation that started as "can Claude connect to Spotify?", discovered that recent-play history was too thin a sample to be meaningful, and pivoted into a full triage of an owned MP3 collection. The methodology is the generalizable part; the `examples/` are one person's actual run, published as a demonstration rather than scrubbed away.
+Distilled from a single long Claude conversation that started as "can Claude connect to Spotify?", discovered that recent-play history was too thin a sample to be meaningful, and pivoted into a full triage of an owned MP3 collection. That triage is still the generalizable part; the repo has since grown around it into the toolchain and automation described above. The `examples/` are one person's actual run, published as a demonstration rather than scrubbed away.
 
 ---
 
-*Part of the [Lentago Labs](https://github.com/lentago) portfolio of prompt-engineered systems — a sibling to [reference-checker](https://github.com/lentago/reference-checker).*
+*Part of the [Lentago Labs](https://github.com/lentago) portfolio — a sibling to [reference-checker](https://github.com/lentago/reference-checker).*
