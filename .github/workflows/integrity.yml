@@ -1,0 +1,63 @@
+name: integrity
+
+# The repo's data integrity check. Two assertions about the merge commit:
+#
+#   1. data/music-inventory.json validates against the schema, and passes the
+#      cross-field checks in validate.py.
+#   2. vault/ matches what obsidian_driver.py renders from data/.
+#
+# (2) enforces an invariant CLAUDE.md already states — "regenerate with the
+# driver, don't hand-edit" — which until now was honour-system. A single
+# recategorisation in data/ ripples into the artist note, the category hub,
+# and all three .obsidian graph configs, so a hand-maintained vault drifts
+# from the data it claims to render without anyone noticing.
+#
+# Deliberately NOT path-filtered. The predecessor (validate.yml) filtered on
+# data/schema/validator paths, which meant it never ran on a docs-only PR and
+# so could never serve as a required status check: a required check whose
+# workflow does not trigger is held "Expected" forever. See lentago/.github#27.
+# Both assertions are cheap (~4s total), so they run on every PR and make a
+# real claim every time rather than being skipped into a no-op.
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  integrity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements-validate.txt
+
+      - name: Validate the inventory against the schema
+        run: python validate.py data/music-inventory.json
+
+      - name: Regenerate the vault from data/
+        run: python obsidian_driver.py
+
+      - name: Assert the committed vault matches the driver output
+        run: |
+          if git diff --quiet -- vault/; then
+            echo "vault/ is in sync with data/"
+            exit 0
+          fi
+          echo "::error::vault/ is out of sync with data/ — regenerate it with 'python obsidian_driver.py' and commit the result. Do not hand-edit the vault (see CLAUDE.md)."
+          echo
+          echo "--- files that differ ---"
+          git diff --stat -- vault/
+          echo
+          echo "--- diff (first 200 lines) ---"
+          git diff -- vault/ | head -200
+          exit 1

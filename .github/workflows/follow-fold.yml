@@ -9,10 +9,20 @@ name: Fold follow events
 # unfollow, holds the PR open for a human — matching the agreed rule that only
 # additive reservoir seeding auto-merges.
 #
-# Safety: `main` has no required status checks, so the merge gate is this job.
-# It runs harvest_merge.py + validate.py; if either fails the job fails and
-# nothing merges. The fold is idempotent, so a re-trigger from its own push is a
-# harmless no-op that finds no changes.
+# Safety: this job is the merge gate. It runs harvest_merge.py + validate.py and
+# regenerates the vault; if any step fails the job fails and nothing merges. The
+# fold is idempotent, so a re-trigger from its own push is a harmless no-op that
+# finds no changes.
+#
+# NOTE on required status checks: `main` currently has none, which is why this
+# job can merge directly. If the `integrity` check is ever made *required*, this
+# direct `gh pr merge --squash` will start failing here — the fold's own push
+# uses GITHUB_TOKEN, and pushes made with GITHUB_TOKEN do not trigger new
+# workflow runs, so the required check would never report on the commit this job
+# creates and the PR would block forever. Making `integrity` required therefore
+# has to be sequenced with pushing this commit under a token that re-triggers CI
+# (a PAT), or with accepting that folded PRs wait for a human merge.
+# See lentago/music-curator#9.
 
 on:
   pull_request:
@@ -55,11 +65,19 @@ jobs:
       - name: Validate the mutated inventory
         run: python validate.py data/music-inventory.json
 
+      # A fold seeds new artists into the reservoir, so it changes what the
+      # driver renders. Committing data/ without the vault would land a commit
+      # whose vault/ no longer matches its own data/ — the drift the integrity
+      # workflow exists to catch. Regenerate here so the fold commit is
+      # self-consistent.
+      - name: Regenerate the vault from the folded data
+        run: python obsidian_driver.py
+
       - name: Commit the fold onto the PR branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/music-inventory.json data/follows.json
+          git add data/music-inventory.json data/follows.json vault/
           if git diff --cached --quiet; then
             echo "fold produced no inventory change (already folded); nothing to commit"
           else
