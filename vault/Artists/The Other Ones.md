@@ -14,7 +14,7 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
-**Session ties:** [[The Grateful Dead]]
+**Session ties:** [[Grateful Dead]]
 
 ## Albums (2)
 - The Strange Remain Disc 1

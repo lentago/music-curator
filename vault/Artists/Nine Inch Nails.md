@@ -14,7 +14,7 @@ tags: ["artist", "electronic", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
-**Session ties:** [[Dresden Dolls]]
+**Session ties:** [[The Dresden Dolls]]
 
 ## Albums (2)
 - Ghosts I-IV

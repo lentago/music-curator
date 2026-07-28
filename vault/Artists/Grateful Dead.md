@@ -18,14 +18,14 @@ tags: ["artist", "rock", "rotation-current"]
 
 **By year:** 2019 ▁2 · 2021 ▁1 · 2023 ▄23 · 2024 ▁3 · 2025 ▁3 · 2026 █54
 
-**Session ties:** [[Jerry Garcia]]
+**Session ties:** [[Jerry Garcia]] · [[Phil & Phriends]] · [[The Other Ones]]
 
 ## Albums (8)
 - Dick's Picks, Vol. 12 Disc 1
 - Dick's Picks, Vol. 12 Disc 2
 - Dick's Picks, Vol. 12 Disc 3
 - Live at Fillmore East 2-11-69 Disc 1
-- Skeletons from the Closet The Best of G
+- Live-Dead
 - Skeletons from the Closet- The Best of Grateful Dead [Warner Bros.]
 - Without a Net Disc 1
 - Without a Net Disc 2

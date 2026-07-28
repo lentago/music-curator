@@ -14,7 +14,7 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
-**Session ties:** [[The Grateful Dead]]
+**Session ties:** [[Grateful Dead]]
 
 ## Albums (6)
 - 1999 04 15 II The Warfield

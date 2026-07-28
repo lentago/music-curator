@@ -1,13 +1,13 @@
 ---
 type: "subcategory"
 category: "Rock"
-member_count: 20
+member_count: 18
 tags: ["subcategory", "rock"]
 ---
 
 # Jam
 
-*Subcategory of [[Rock]] — 20 artists.*
+*Subcategory of [[Rock]] — 18 artists.*
 
 ## Artists
 - [[Dave Matthews Band]]
@@ -21,9 +21,7 @@ tags: ["subcategory", "rock"]
 - [[Robert Randolph & The Family Band]]
 - [[Tea Leaf Green]]
 - [[The Allman Brothers Band]]
-- [[The Dave Matthews Band]]
 - [[The Derek Trucks Band]]
-- [[The Grateful Dead]]
 - [[The Other Ones]]
 - [[The String Cheese Incident]]
 - [[Trey Anastasio]]

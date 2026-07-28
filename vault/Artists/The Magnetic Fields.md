@@ -6,7 +6,7 @@ era: "1990s-now"
 rotation: "dormant"
 plays: 73
 last_played: "2021-07-25"
-album_count: 2
+album_count: 6
 tags: ["artist", "pop", "rotation-dormant"]
 ---
 
@@ -18,8 +18,10 @@ tags: ["artist", "pop", "rotation-dormant"]
 
 **By year:** 2017 █36 · 2018 ▅20 · 2020 ▄16 · 2021 ▁1
 
-**Session ties:** [[Magnetic Fields]]
-
-## Albums (2)
+## Albums (6)
+- 69 Love Songs Vol. 1
+- 69 Love Songs Vol. 2
+- 69 Love Songs Vol. 3
 - Get Lost
+- Holiday
 - The Charm Of The Highway Strip

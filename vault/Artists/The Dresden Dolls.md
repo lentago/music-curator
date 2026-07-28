@@ -14,5 +14,7 @@ tags: ["artist", "pop", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
+**Session ties:** [[Nine Inch Nails]]
+
 ## Albums (1)
 - Dresden Dolls

@@ -15,6 +15,6 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Rotation:** historical — effectively absent from the stream. 4 plays in the trailing 18 months (5 lifetime), last on 2025-04-19.
 
-**Session ties:** [[Grateful Dead]] · [[Jerry Garcia & David Grisman]] · [[Jerry Garcia-David Grisman-Tony Rice]] · [[Old & In the Way]] · [[Old & in the Way-Jerry Garcia-David Grisman]] · [[The Grateful Dead]]
+**Session ties:** [[Grateful Dead]] · [[Jerry Garcia & David Grisman]] · [[Jerry Garcia-David Grisman-Tony Rice]] · [[Old & In the Way]]
 
 > Person node — no owned albums under this name; enters the graph via personnel credits (Grateful Dead, Jerry Garcia & David Grisman, Jerry Garcia-David Grisman-Tony Rice, Old & In the Way)

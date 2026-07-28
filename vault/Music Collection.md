@@ -9,11 +9,11 @@ A taste map of the collection. Open the **graph view** (Ctrl/Cmd-G): every artis
 
 ## By the numbers
 
-- **590** artists
+- **573** artists
 - **13** top-level categories · **25** subcategories
-- **47** collaboration edges · **463** session-tie edges (shared personnel)
+- **44** collaboration edges · **447** session-tie edges (shared personnel)
 - **0** in the untagged [[Reservoir]]
-- **37** current · **74** dormant · **431** historical in [[Rotation]]
+- **54** current · **85** dormant · **434** historical in [[Rotation]]
 - **916** recordings in seeded full discographies ([[Aesop Rock]], [[John Zorn]], [[Talking Heads]], [[Tom Waits]])
 
 ## Start here
@@ -24,23 +24,23 @@ A taste map of the collection. Open the **graph view** (Ctrl/Cmd-G): every artis
 
 ## Categories
 
-- [[Rock]] (134)
-    - [[Classic Rock]] (16)
-    - [[Indie & Alternative]] (51)
-    - [[Jam]] (20)
+- [[Rock]] (127)
+    - [[Classic Rock]] (15)
+    - [[Indie & Alternative]] (48)
+    - [[Jam]] (18)
     - [[Metal]] (19)
-    - [[Post-Rock]] (5)
+    - [[Post-Rock]] (4)
     - [[Progressive]] (10)
     - [[Punk & Hardcore]] (13)
-- [[Hip-Hop]] (104)
+- [[Hip-Hop]] (103)
     - [[Golden Age]] (9)
     - [[Mainstream]] (7)
-    - [[Turntablism & Beats]] (25)
+    - [[Turntablism & Beats]] (24)
     - [[Underground]] (62)
-- [[Country & Americana]] (76)
+- [[Country & Americana]] (72)
     - [[Bluegrass]] (9)
-    - [[Gothic Americana]] (6)
-    - [[Newgrass]] (31)
+    - [[Gothic Americana]] (5)
+    - [[Newgrass]] (29)
 - [[Electronic]] (48)
     - [[Industrial & EBM]] (6)
     - [[Trip-Hop & Downtempo]] (23)
@@ -52,13 +52,13 @@ A taste map of the collection. Open the **graph view** (Ctrl/Cmd-G): every artis
 - [[Soul, Funk & R&B]] (41)
     - [[Gospel]] (2)
     - [[New Orleans Funk]] (4)
-- [[Pop]] (36)
-    - [[Art-Pop & New Wave]] (22)
-    - [[Indie & Synth-Pop]] (12)
+- [[Pop]] (34)
+    - [[Art-Pop & New Wave]] (21)
+    - [[Indie & Synth-Pop]] (11)
 - [[Folk & Singer-Songwriter]] (33)
 - [[Avant-Garde & Experimental]] (23)
-- [[World]] (16)
+- [[World]] (15)
     - [[Reggae & Dub]] (1)
-- [[Latin]] (14)
-- [[Blues]] (12)
+- [[Latin]] (13)
+- [[Blues]] (11)
 - [[Classical]] (6)

@@ -8,7 +8,7 @@
     "current_min_recent_plays": 10,
     "floor_plays": 10,
     "streamed_artists_total": 5233,
-    "entries": 909
+    "entries": 925
   },
   "artists": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "artist": "The Motet",
-      "inventory_key": null,
+      "inventory_key": "The Motet",
       "plays": 578,
       "minutes": 2759.7,
       "recent_plays": 2,
@@ -94,7 +94,7 @@
     },
     {
       "artist": "Orgone",
-      "inventory_key": null,
+      "inventory_key": "Orgone",
       "plays": 318,
       "minutes": 1302.7,
       "recent_plays": 42,
@@ -269,7 +269,7 @@
     },
     {
       "artist": "The Budos Band",
-      "inventory_key": null,
+      "inventory_key": "The Budos Band",
       "plays": 287,
       "minutes": 872.7,
       "recent_plays": 25,
@@ -395,7 +395,7 @@
     },
     {
       "artist": "Lice",
-      "inventory_key": null,
+      "inventory_key": "Lice",
       "plays": 212,
       "minutes": 688.0,
       "recent_plays": 208,
@@ -448,7 +448,7 @@
     },
     {
       "artist": "Brad Mehldau",
-      "inventory_key": null,
+      "inventory_key": "Brad Mehldau",
       "plays": 157,
       "minutes": 667.8,
       "recent_plays": 156,
@@ -518,7 +518,7 @@
     },
     {
       "artist": "Homeboy Sandman",
-      "inventory_key": null,
+      "inventory_key": "Homeboy Sandman",
       "plays": 182,
       "minutes": 542.3,
       "recent_plays": 182,
@@ -694,7 +694,7 @@
     },
     {
       "artist": "Tingvall Trio",
-      "inventory_key": null,
+      "inventory_key": "Tingvall Trio",
       "plays": 115,
       "minutes": 480.1,
       "recent_plays": 115,
@@ -1042,7 +1042,7 @@
     },
     {
       "artist": "Childish Gambino",
-      "inventory_key": null,
+      "inventory_key": "Childish Gambino",
       "plays": 97,
       "minutes": 359.2,
       "recent_plays": 1,
@@ -1061,7 +1061,7 @@
     },
     {
       "artist": "The Filthy Six",
-      "inventory_key": null,
+      "inventory_key": "The Filthy Six",
       "plays": 67,
       "minutes": 355.4,
       "recent_plays": 0,
@@ -1337,7 +1337,7 @@
     },
     {
       "artist": "Hail Mary Mallon",
-      "inventory_key": null,
+      "inventory_key": "Hail Mary Mallon",
       "plays": 104,
       "minutes": 300.5,
       "recent_plays": 79,
@@ -1559,7 +1559,7 @@
     },
     {
       "artist": "GRiZ",
-      "inventory_key": null,
+      "inventory_key": "GRiZ",
       "plays": 61,
       "minutes": 263.3,
       "recent_plays": 4,
@@ -1745,7 +1745,7 @@
     },
     {
       "artist": "BUSDRIVER",
-      "inventory_key": null,
+      "inventory_key": "BUSDRIVER",
       "plays": 88,
       "minutes": 228.7,
       "recent_plays": 62,
@@ -1886,7 +1886,7 @@
     },
     {
       "artist": "OSI",
-      "inventory_key": null,
+      "inventory_key": "OSI",
       "plays": 62,
       "minutes": 220.2,
       "recent_plays": 15,
@@ -2283,7 +2283,7 @@
     },
     {
       "artist": "Prof",
-      "inventory_key": null,
+      "inventory_key": "Prof",
       "plays": 74,
       "minutes": 191.9,
       "recent_plays": 16,
@@ -2368,7 +2368,7 @@
     },
     {
       "artist": "The Main Squeeze",
-      "inventory_key": null,
+      "inventory_key": "The Main Squeeze",
       "plays": 50,
       "minutes": 188.3,
       "recent_plays": 8,
@@ -2676,7 +2676,7 @@
     },
     {
       "artist": "Portico Quartet",
-      "inventory_key": null,
+      "inventory_key": "Portico Quartet",
       "plays": 36,
       "minutes": 164.1,
       "recent_plays": 13,
@@ -3030,7 +3030,7 @@
     },
     {
       "artist": "Joey Eppard",
-      "inventory_key": null,
+      "inventory_key": "Joey Eppard",
       "plays": 50,
       "minutes": 145.2,
       "recent_plays": 4,
@@ -3324,7 +3324,7 @@
     },
     {
       "artist": "Polyphia",
-      "inventory_key": null,
+      "inventory_key": "Polyphia",
       "plays": 39,
       "minutes": 127.1,
       "recent_plays": 22,
@@ -3572,7 +3572,7 @@
     },
     {
       "artist": "Bad Bunny",
-      "inventory_key": null,
+      "inventory_key": "Bad Bunny",
       "plays": 36,
       "minutes": 117.1,
       "recent_plays": 36,
@@ -4382,7 +4382,7 @@
     },
     {
       "artist": "Sturgill Simpson",
-      "inventory_key": null,
+      "inventory_key": "Sturgill Simpson",
       "plays": 36,
       "minutes": 91.8,
       "recent_plays": 1,
@@ -4522,7 +4522,7 @@
     },
     {
       "artist": "Sleepytime Gorilla Museum",
-      "inventory_key": null,
+      "inventory_key": "Sleepytime Gorilla Museum",
       "plays": 21,
       "minutes": 89.4,
       "recent_plays": 1,
@@ -5234,7 +5234,7 @@
     },
     {
       "artist": "Kenny Segal",
-      "inventory_key": null,
+      "inventory_key": "Kenny Segal",
       "plays": 24,
       "minutes": 77.9,
       "recent_plays": 24,
@@ -5367,7 +5367,7 @@
     },
     {
       "artist": "St. Paul & The Broken Bones",
-      "inventory_key": null,
+      "inventory_key": "St. Paul & The Broken Bones",
       "plays": 23,
       "minutes": 74.5,
       "recent_plays": 2,
@@ -5447,7 +5447,7 @@
     },
     {
       "artist": "Hemlock Ernst",
-      "inventory_key": null,
+      "inventory_key": "Hemlock Ernst",
       "plays": 22,
       "minutes": 73.3,
       "recent_plays": 22,
@@ -7837,7 +7837,7 @@
     },
     {
       "artist": "Ishmael Ensemble",
-      "inventory_key": null,
+      "inventory_key": "Ishmael Ensemble",
       "plays": 15,
       "minutes": 50.0,
       "recent_plays": 15,
@@ -8118,7 +8118,7 @@
     },
     {
       "artist": "Blackfield",
-      "inventory_key": null,
+      "inventory_key": "Blackfield",
       "plays": 16,
       "minutes": 48.2,
       "recent_plays": 0,
@@ -10020,7 +10020,7 @@
     },
     {
       "artist": "Twelve Foot Ninja",
-      "inventory_key": null,
+      "inventory_key": "Twelve Foot Ninja",
       "plays": 10,
       "minutes": 35.5,
       "recent_plays": 0,
@@ -10057,6 +10057,20 @@
       "plays_by_year": {
         "2025": 5,
         "2026": 7
+      }
+    },
+    {
+      "artist": "Hiromi",
+      "inventory_key": "Hiromi",
+      "plays": 9,
+      "minutes": 35.3,
+      "recent_plays": 9,
+      "recent_minutes": 35.3,
+      "first_played": "2025-06-01T01:32:38Z",
+      "last_played": "2026-03-05T14:14:10Z",
+      "plays_by_year": {
+        "2025": 5,
+        "2026": 4
       }
     },
     {
@@ -10310,7 +10324,7 @@
     },
     {
       "artist": "Jonah Tolchin",
-      "inventory_key": null,
+      "inventory_key": "Jonah Tolchin",
       "plays": 11,
       "minutes": 34.4,
       "recent_plays": 11,
@@ -11130,6 +11144,21 @@
       }
     },
     {
+      "artist": "Greydon Square",
+      "inventory_key": "Greydon Square",
+      "plays": 9,
+      "minutes": 27.8,
+      "recent_plays": 7,
+      "recent_minutes": 23.7,
+      "first_played": "2023-03-25T01:06:06Z",
+      "last_played": "2026-07-06T15:25:52Z",
+      "plays_by_year": {
+        "2023": 1,
+        "2024": 1,
+        "2026": 7
+      }
+    },
+    {
       "artist": "The Duck",
       "inventory_key": null,
       "plays": 10,
@@ -11743,6 +11772,20 @@
       }
     },
     {
+      "artist": "All Them Witches",
+      "inventory_key": "All Them Witches",
+      "plays": 8,
+      "minutes": 20.9,
+      "recent_plays": 0,
+      "recent_minutes": 0.0,
+      "first_played": "2021-08-26T14:37:54Z",
+      "last_played": "2023-03-26T17:51:24Z",
+      "plays_by_year": {
+        "2021": 1,
+        "2023": 7
+      }
+    },
+    {
       "artist": "The Little 'uns",
       "inventory_key": null,
       "plays": 13,
@@ -11768,6 +11811,21 @@
       "plays_by_year": {
         "2025": 2,
         "2026": 8
+      }
+    },
+    {
+      "artist": "Justin Townes Earle",
+      "inventory_key": "Justin Townes Earle",
+      "plays": 5,
+      "minutes": 20.3,
+      "recent_plays": 4,
+      "recent_minutes": 19.4,
+      "first_played": "2019-12-27T13:29:43Z",
+      "last_played": "2026-02-23T16:06:35Z",
+      "plays_by_year": {
+        "2019": 1,
+        "2025": 3,
+        "2026": 1
       }
     },
     {
@@ -12104,6 +12162,20 @@
       }
     },
     {
+      "artist": "Say She She",
+      "inventory_key": "Say She She",
+      "plays": 4,
+      "minutes": 15.8,
+      "recent_plays": 4,
+      "recent_minutes": 15.8,
+      "first_played": "2025-07-27T16:46:58Z",
+      "last_played": "2026-03-14T16:54:40Z",
+      "plays_by_year": {
+        "2025": 3,
+        "2026": 1
+      }
+    },
+    {
       "artist": "Willy Porter",
       "inventory_key": "Willy Porter",
       "plays": 6,
@@ -12127,6 +12199,20 @@
       "last_played": "2025-11-29T17:45:32Z",
       "plays_by_year": {
         "2025": 16
+      }
+    },
+    {
+      "artist": "Murs",
+      "inventory_key": "Murs",
+      "plays": 6,
+      "minutes": 15.3,
+      "recent_plays": 3,
+      "recent_minutes": 7.2,
+      "first_played": "2022-10-14T22:24:12Z",
+      "last_played": "2025-12-10T22:21:20Z",
+      "plays_by_year": {
+        "2022": 3,
+        "2025": 3
       }
     },
     {
@@ -12256,6 +12342,21 @@
       }
     },
     {
+      "artist": "Sage Francis",
+      "inventory_key": "Sage Francis",
+      "plays": 5,
+      "minutes": 14.0,
+      "recent_plays": 4,
+      "recent_minutes": 13.2,
+      "first_played": "2022-12-28T21:57:05Z",
+      "last_played": "2026-07-05T20:19:33Z",
+      "plays_by_year": {
+        "2022": 1,
+        "2025": 3,
+        "2026": 1
+      }
+    },
+    {
       "artist": "Ali Dee",
       "inventory_key": null,
       "plays": 14,
@@ -12356,6 +12457,34 @@
         "2021": 2,
         "2022": 2,
         "2025": 1
+      }
+    },
+    {
+      "artist": "Eyedea & Abilities",
+      "inventory_key": "Eyedea & Abilities",
+      "plays": 4,
+      "minutes": 11.2,
+      "recent_plays": 1,
+      "recent_minutes": 2.5,
+      "first_played": "2019-08-01T21:29:47Z",
+      "last_played": "2025-03-19T23:27:06Z",
+      "plays_by_year": {
+        "2019": 1,
+        "2022": 2,
+        "2025": 1
+      }
+    },
+    {
+      "artist": "Zion I",
+      "inventory_key": "Zion I",
+      "plays": 4,
+      "minutes": 11.1,
+      "recent_plays": 0,
+      "recent_minutes": 0.0,
+      "first_played": "2022-12-27T21:44:51Z",
+      "last_played": "2022-12-27T22:09:58Z",
+      "plays_by_year": {
+        "2022": 4
       }
     },
     {
@@ -12834,6 +12963,19 @@
       }
     },
     {
+      "artist": "Vince Staples",
+      "inventory_key": "Vince Staples",
+      "plays": 2,
+      "minutes": 6.1,
+      "recent_plays": 2,
+      "recent_minutes": 6.1,
+      "first_played": "2026-05-20T16:48:11Z",
+      "last_played": "2026-07-07T15:37:41Z",
+      "plays_by_year": {
+        "2026": 2
+      }
+    },
+    {
       "artist": "Feist",
       "inventory_key": "Feist",
       "plays": 3,
@@ -12941,6 +13083,19 @@
         "2023": 1,
         "2024": 1,
         "2025": 1
+      }
+    },
+    {
+      "artist": "Zach Bryan",
+      "inventory_key": "Zach Bryan",
+      "plays": 2,
+      "minutes": 5.1,
+      "recent_plays": 0,
+      "recent_minutes": 0.0,
+      "first_played": "2024-01-04T22:58:17Z",
+      "last_played": "2024-01-09T21:24:08Z",
+      "plays_by_year": {
+        "2024": 2
       }
     },
     {
@@ -13194,6 +13349,19 @@
       "plays_by_year": {
         "2020": 1,
         "2026": 1
+      }
+    },
+    {
+      "artist": "Type O Negative",
+      "inventory_key": "Type O Negative",
+      "plays": 2,
+      "minutes": 4.0,
+      "recent_plays": 0,
+      "recent_minutes": 0.0,
+      "first_played": "2023-03-25T05:57:05Z",
+      "last_played": "2023-03-25T06:03:07Z",
+      "plays_by_year": {
+        "2023": 2
       }
     },
     {
@@ -13578,6 +13746,19 @@
       }
     },
     {
+      "artist": "Wobbler",
+      "inventory_key": "Wobbler",
+      "plays": 1,
+      "minutes": 2.5,
+      "recent_plays": 1,
+      "recent_minutes": 2.5,
+      "first_played": "2026-03-09T21:36:46Z",
+      "last_played": "2026-03-09T21:36:46Z",
+      "plays_by_year": {
+        "2026": 1
+      }
+    },
+    {
       "artist": "Quasimoto",
       "inventory_key": "Quasimoto",
       "plays": 1,
@@ -13680,6 +13861,19 @@
       "plays_by_year": {
         "2021": 1,
         "2022": 1
+      }
+    },
+    {
+      "artist": "Bill Laswell",
+      "inventory_key": "Bill Laswell",
+      "plays": 1,
+      "minutes": 1.4,
+      "recent_plays": 0,
+      "recent_minutes": 0.0,
+      "first_played": "2020-03-01T05:30:15Z",
+      "last_played": "2020-03-01T05:30:15Z",
+      "plays_by_year": {
+        "2020": 1
       }
     },
     {
@@ -13823,6 +14017,32 @@
       "last_played": "2022-09-17T18:33:33Z",
       "plays_by_year": {
         "2022": 1
+      }
+    },
+    {
+      "artist": "David Krakauer",
+      "inventory_key": "David Krakauer",
+      "plays": 1,
+      "minutes": 0.7,
+      "recent_plays": 1,
+      "recent_minutes": 0.7,
+      "first_played": "2026-01-25T19:35:20Z",
+      "last_played": "2026-01-25T19:35:20Z",
+      "plays_by_year": {
+        "2026": 1
+      }
+    },
+    {
+      "artist": "Painkiller",
+      "inventory_key": "Painkiller",
+      "plays": 1,
+      "minutes": 0.6,
+      "recent_plays": 0,
+      "recent_minutes": 0.0,
+      "first_played": "2024-12-14T18:44:40Z",
+      "last_played": "2024-12-14T18:44:40Z",
+      "plays_by_year": {
+        "2024": 1
       }
     },
     {

@@ -123,148 +123,6 @@
         ]
       }
     },
-    "16 Horsepower": {
-      "blush_music": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "consider_the_birds": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "folklore": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "David Eugene Edwards",
-            "role": "vocals, guitar, banjo, concertina",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Pascal Humbert",
-            "role": "bass, upright bass",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Jean-Yves Tola",
-            "role": "drums, percussion",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          }
-        ]
-      },
-      "hoarse": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "David Eugene Edwards",
-            "role": "vocals, guitar, banjo",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Pascal Humbert",
-            "role": "bass",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Jean-Yves Tola",
-            "role": "drums",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Steve Taylor",
-            "role": "guitar (live performances 1998)",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Bertrand Cantat",
-            "role": "guest vocals ('Fire Spirit')",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          }
-        ]
-      },
-      "sackcloth_'n'_ashes": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "David Eugene Edwards",
-            "role": "vocals, banjo, guitar, bandoneon, lap steel guitar",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Jean-Yves Tola",
-            "role": "drums, backing vocals",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Keven Soll",
-            "role": "upright bass, cello, backing vocals",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Gordon Gano",
-            "role": "fiddle (guest)",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          }
-        ]
-      },
-      "secret_south": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "David Eugene Edwards",
-            "role": "vocals, guitar, piano, banjo, concertina",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Steve Taylor",
-            "role": "backing vocals, guitar, organ",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Jean-Yves Tola",
-            "role": "drums, percussion",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Pascal Humbert",
-            "role": "bass, bass fiddle",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          }
-        ]
-      }
-    },
     "A Perfect Circle": {
       "emotive": {
         "status": "verified",
@@ -4065,44 +3923,6 @@
             "name": "Julia Kent",
             "role": "cello (tracks 1, 11)",
             "confidence": "medium",
-            "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      }
-    },
-    "Beat Junkies": {
-      "The World Famous Beat Junkies, Vol. 3": {
-        "status": "verified",
-        "notes": "DJ compilation featuring Beat Junkies crew with various guest artists on tracks",
-        "personnel": [
-          {
-            "name": "DJ Melo-D",
-            "role": "featured DJ (Beat Junkies member)",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Quasimoto (Madlib)",
-            "role": "track artist",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "Quasimoto"
-          },
-          {
-            "name": "LMNO",
-            "role": "track artist",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "LMNO"
-          },
-          {
-            "name": "Defari",
-            "role": "track artist",
-            "confidence": "high",
             "source": "discogs",
             "in_collection": false
           }
@@ -9559,62 +9379,6 @@
         ]
       }
     },
-    "Dave Matthews Band": {
-      "Under The Table And Dreaming": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Dave Matthews",
-            "role": "guitar, vocals",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Carter Beauford",
-            "role": "drums, percussion, vocals",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Stefan Lessard",
-            "role": "bass",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "LeRoi Moore",
-            "role": "alto, soprano, and tenor saxophone, flute, vocals",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Boyd Tinsley",
-            "role": "violin, vocals",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Tim Reynolds",
-            "role": "acoustic guitar",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Steve Lillywhite",
-            "role": "producer",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      }
-    },
     "David Byrne": {
       "Feelings": {
         "status": "verified",
@@ -11248,34 +11012,6 @@
             "source": "knowledge",
             "in_collection": true,
             "collection_match": "DJ Shadow"
-          }
-        ]
-      }
-    },
-    "Dresden Dolls": {
-      "Dresden Dolls": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Amanda Palmer",
-            "role": "piano, toy piano, vocals, songwriter",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Brian Viglione",
-            "role": "drums, guitar, vocals, percussion",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Martin Bisi",
-            "role": "producer, engineer",
-            "confidence": "medium",
-            "source": "knowledge",
-            "in_collection": false
           }
         ]
       }
@@ -14016,142 +13752,6 @@
             "role": "dobro (Grievous Angel)",
             "confidence": "medium",
             "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      }
-    },
-    "Grateful Dead": {
-      "Dick's Picks, Vol. 12 Disc 1": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "Dick's Picks, Vol. 12 Disc 2": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "Dick's Picks, Vol. 12 Disc 3": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "Live at Fillmore East 2-11-69 Disc 1": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "Skeletons from the Closet_ The Best of G": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "Skeletons from the Closet- The Best of Grateful Dead [Warner Bros.]": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "Without a Net Disc 1": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Jerry Garcia",
-            "role": "guitar, vocals",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": true,
-            "collection_match": "Jerry Garcia"
-          },
-          {
-            "name": "Bob Weir",
-            "role": "guitar, vocals",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": false
-          },
-          {
-            "name": "Phil Lesh",
-            "role": "bass, vocals",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": false
-          },
-          {
-            "name": "Brent Mydland",
-            "role": "keyboards, vocals",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": false
-          },
-          {
-            "name": "Bill Kreutzmann",
-            "role": "drums",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": false
-          },
-          {
-            "name": "Mickey Hart",
-            "role": "drums, percussion",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": false
-          },
-          {
-            "name": "Branford Marsalis",
-            "role": "saxophone (guest on 'Eyes of the World')",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": false
-          }
-        ]
-      },
-      "Without a Net Disc 2": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Jerry Garcia",
-            "role": "guitar, vocals",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": true,
-            "collection_match": "Jerry Garcia"
-          },
-          {
-            "name": "Bob Weir",
-            "role": "guitar, vocals",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": false
-          },
-          {
-            "name": "Phil Lesh",
-            "role": "bass, vocals",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": false
-          },
-          {
-            "name": "Brent Mydland",
-            "role": "keyboards, vocals",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": false
-          },
-          {
-            "name": "Bill Kreutzmann",
-            "role": "drums",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": false
-          },
-          {
-            "name": "Mickey Hart",
-            "role": "drums, percussion",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": false
-          },
-          {
-            "name": "Branford Marsalis",
-            "role": "saxophone (guest)",
-            "confidence": "high",
-            "source": "wikipedia",
             "in_collection": false
           }
         ]
@@ -40394,7 +39994,7 @@
             "confidence": "high",
             "source": "knowledge",
             "in_collection": true,
-            "collection_match": "The Red Hot Chili Peppers"
+            "collection_match": "Red Hot Chili Peppers"
           },
           {
             "name": "Lindsey Buckingham",
@@ -40487,251 +40087,6 @@
             "source": "Wikipedia: Closer (Josh Groban album)",
             "in_collection": true,
             "collection_match": "Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall"
-          }
-        ]
-      }
-    },
-    "Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall": {
-      "Short Trip Home": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Joshua Bell",
-            "role": "violin",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "Joshua Bell_Edgar Meyer_Sam Bush_Mike Ma"
-          },
-          {
-            "name": "Edgar Meyer",
-            "role": "double bass, composer, producer",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "Edgar Meyer"
-          },
-          {
-            "name": "Sam Bush",
-            "role": "mandolin",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "Sam Bush"
-          },
-          {
-            "name": "Mike Marshall",
-            "role": "guitar / mandola",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "Mike Marshall"
-          }
-        ]
-      }
-    },
-    "Joshua Bell_Edgar Meyer_Sam Bush_Mike Ma": {
-      "Short Trip Home": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Joshua Bell",
-            "role": "violin",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": true,
-            "collection_match": "Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall"
-          },
-          {
-            "name": "Edgar Meyer",
-            "role": "double bass, producer",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": true,
-            "collection_match": "Edgar Meyer"
-          },
-          {
-            "name": "Sam Bush",
-            "role": "mandolin, violin",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": true,
-            "collection_match": "Sam Bush"
-          },
-          {
-            "name": "Mike Marshall",
-            "role": "mandolin, guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": true,
-            "collection_match": "Mike Marshall"
-          }
-        ]
-      }
-    },
-    "Juan Luis Guerra 440": {
-      "Bachata Rosa": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Juan Luis Guerra",
-            "role": "vocals, guitar, producer, composer, arranger",
-            "confidence": "high",
-            "source": "Wikipedia / album liner notes via WebFetch",
-            "in_collection": true,
-            "collection_match": "Juan Luis Guerra 440"
-          },
-          {
-            "name": "Elvis Cabrera",
-            "role": "piano, synthesizer",
-            "confidence": "high",
-            "source": "Wikipedia personnel credits",
-            "in_collection": false
-          },
-          {
-            "name": "Osvaldo Cesa",
-            "role": "bass",
-            "confidence": "high",
-            "source": "Wikipedia personnel credits",
-            "in_collection": false
-          },
-          {
-            "name": "Pedro Peralta",
-            "role": "congas",
-            "confidence": "high",
-            "source": "Wikipedia personnel credits",
-            "in_collection": false
-          },
-          {
-            "name": "Rafael Guzmán",
-            "role": "güira",
-            "confidence": "high",
-            "source": "Wikipedia personnel credits",
-            "in_collection": false
-          },
-          {
-            "name": "Juan de la Cruz",
-            "role": "timbal, tambora, batá",
-            "confidence": "high",
-            "source": "Wikipedia personnel credits",
-            "in_collection": false
-          },
-          {
-            "name": "Roberto Olea",
-            "role": "trombone",
-            "confidence": "high",
-            "source": "Wikipedia personnel credits",
-            "in_collection": false
-          },
-          {
-            "name": "Armando Beltre",
-            "role": "trumpet",
-            "confidence": "high",
-            "source": "Wikipedia personnel credits",
-            "in_collection": false
-          },
-          {
-            "name": "Gonzalo Rubalcaba",
-            "role": "piano (guest)",
-            "confidence": "medium",
-            "source": "WebSearch result confirming his participation on the album",
-            "in_collection": false
-          },
-          {
-            "name": "Adalgisa Pantaleón",
-            "role": "vocals on 'Reforéstame'",
-            "confidence": "high",
-            "source": "Wikipedia personnel credits",
-            "in_collection": false
-          }
-        ]
-      }
-    },
-    "Juan Luis Guerra y 440": {
-      "Ni Es Lo Mismo Ni Es Igual": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Juan Luis Guerra",
-            "role": "guitar, arranger, producer",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Arturo Sandoval",
-            "role": "trumpet, flugelhorn",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Ed Calle",
-            "role": "baritone saxophone",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Lee Levin",
-            "role": "drums, programming",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Mariela Mercado",
-            "role": "vocals",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Eric Schilling",
-            "role": "engineer, mixing",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          }
-        ]
-      },
-      "Ojalá Que Llueva Café": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Juan Luis Guerra",
-            "role": "guitar, vocals, composer, producer",
-            "confidence": "high",
-            "source": "allmusic",
-            "in_collection": false
-          },
-          {
-            "name": "Gonzalo Rubalcaba",
-            "role": "piano",
-            "confidence": "high",
-            "source": "allmusic",
-            "in_collection": false
-          },
-          {
-            "name": "Mariela Mercado",
-            "role": "lead vocals",
-            "confidence": "high",
-            "source": "allmusic",
-            "in_collection": false
-          },
-          {
-            "name": "Jaime Querol",
-            "role": "bass",
-            "confidence": "high",
-            "source": "allmusic",
-            "in_collection": false
-          },
-          {
-            "name": "Guy Frometa",
-            "role": "drums",
-            "confidence": "high",
-            "source": "allmusic",
-            "in_collection": false
           }
         ]
       }
@@ -42788,349 +42143,6 @@
             "confidence": "high",
             "source": "Wikipedia Madvillainy personnel",
             "in_collection": false
-          }
-        ]
-      }
-    },
-    "Magnetic Fields": {
-      "69 Love Songs": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Stephin Merritt",
-            "role": "songwriter, producer, vocals, multi-instrumentalist",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "Claudia Gonson",
-            "role": "piano, drums, vocals, arrangement",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "Sam Davol",
-            "role": "cello, flute",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "John Woo",
-            "role": "guitar, banjo, mandolin, bass",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "LD Beghtol",
-            "role": "harmonium, lead vocals (multiple tracks)",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Dudley Klute",
-            "role": "lead vocals (multiple tracks)",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Shirley Simms",
-            "role": "vocals, duets",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Daniel Handler",
-            "role": "accordion",
-            "confidence": "medium",
-            "source": "musicbrainz",
-            "in_collection": false
-          }
-        ]
-      },
-      "69 Love Songs Vol. 1": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Stephin Merritt",
-            "role": "songwriter, producer, vocals, multi-instrumentalist",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "Claudia Gonson",
-            "role": "piano, drums, vocals, arrangement",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "Sam Davol",
-            "role": "cello, flute",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "John Woo",
-            "role": "guitar, banjo, mandolin, bass",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "LD Beghtol",
-            "role": "harmonium, lead vocals (multiple tracks)",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Dudley Klute",
-            "role": "lead vocals (multiple tracks)",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Shirley Simms",
-            "role": "vocals, duets",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          }
-        ]
-      },
-      "69 Love Songs Vol. 2": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Stephin Merritt",
-            "role": "songwriter, producer, vocals, multi-instrumentalist",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "Claudia Gonson",
-            "role": "piano, drums, vocals, arrangement",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "Sam Davol",
-            "role": "cello, flute",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "John Woo",
-            "role": "guitar, banjo, mandolin, bass",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "LD Beghtol",
-            "role": "harmonium, lead vocals (multiple tracks)",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Dudley Klute",
-            "role": "lead vocals (multiple tracks)",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Shirley Simms",
-            "role": "vocals, duets",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          }
-        ]
-      },
-      "69 Love Songs Vol. 3": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Stephin Merritt",
-            "role": "songwriter, producer, vocals, multi-instrumentalist",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "Claudia Gonson",
-            "role": "piano, drums, vocals, arrangement",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "Sam Davol",
-            "role": "cello, flute",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "John Woo",
-            "role": "guitar, banjo, mandolin, bass",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "LD Beghtol",
-            "role": "harmonium, lead vocals (multiple tracks)",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Dudley Klute",
-            "role": "lead vocals (multiple tracks)",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Shirley Simms",
-            "role": "vocals, duets",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          }
-        ]
-      },
-      "Get Lost": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Stephin Merritt",
-            "role": "producer, vocals, instrumentation",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "Claudia Gonson",
-            "role": "drums, vocals, ukulele",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "Sam Davol",
-            "role": "cello, flute",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "John Woo",
-            "role": "guitar, banjo",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "Julie Cooper",
-            "role": "bass guitar",
-            "confidence": "medium",
-            "source": "musicbrainz",
-            "in_collection": false
-          }
-        ]
-      },
-      "Holiday": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Stephin Merritt",
-            "role": "producer, vocals, instrumentation",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "Claudia Gonson",
-            "role": "management, toys",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "Sam Davol",
-            "role": "cello",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          }
-        ]
-      },
-      "The Charm Of The Highway Strip": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Stephin Merritt",
-            "role": "producer, vocals, instrumentation",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "Claudia Gonson",
-            "role": "management",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "Sam Davol",
-            "role": "cello",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
           }
         ]
       }
@@ -45271,24 +44283,6 @@
             "in_collection": false
           }
         ]
-      }
-    },
-    "Microphones": {
-      "The Glow, pt. 2": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Phil Elverum",
-            "role": "vocals, all instruments, producer",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          }
-        ]
-      },
-      "Unknown Album": {
-        "status": "skipped",
-        "personnel": []
       }
     },
     "Miles Davis": {
@@ -47954,127 +46948,6 @@
         ]
       }
     },
-    "Neko Case & Her Boyfriends": {
-      "Furnace Room Lullaby": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Neko Case",
-            "role": "vocals",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": true,
-            "collection_match": "Neko Case"
-          },
-          {
-            "name": "Darryl Neudorf",
-            "role": "producer, acoustic guitar",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": false
-          },
-          {
-            "name": "John Ramberg",
-            "role": "electric guitar, baritone guitar",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": false
-          },
-          {
-            "name": "Scott Betts",
-            "role": "bass",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": false
-          },
-          {
-            "name": "Joel Trueblood",
-            "role": "drums",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": false
-          },
-          {
-            "name": "Kelly Hogan",
-            "role": "backing vocals",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": false
-          },
-          {
-            "name": "Travis Good",
-            "role": "guitar, mandolin, fiddle",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": false
-          }
-        ]
-      }
-    },
-    "Neko Case And Her Boyfriends": {
-      "Furnace Room Lullaby": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Darryl Neudorf",
-            "role": "recording engineer",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Neko Case",
-            "role": "lead vocals",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": true,
-            "collection_match": "Neko Case"
-          },
-          {
-            "name": "Kelly Hogan",
-            "role": "guest backing vocals",
-            "confidence": "medium",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Carl Newman",
-            "role": "guest musician (A.C. Newman, New Pornographers)",
-            "confidence": "medium",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Ron Sexsmith",
-            "role": "guest vocalist/songwriter contribution",
-            "confidence": "medium",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Dallas Good",
-            "role": "guest musician (The Sadies)",
-            "confidence": "medium",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Travis Good",
-            "role": "guest musician (The Sadies)",
-            "confidence": "medium",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Bob Egan",
-            "role": "guest musician (pedal steel)",
-            "confidence": "medium",
-            "source": "knowledge",
-            "in_collection": false
-          }
-        ]
-      }
-    },
     "Nellie McKay": {
       "Get Away from Me Disc 1": {
         "status": "unverified",
@@ -48481,7 +47354,7 @@
             "confidence": "high",
             "source": "musicbrainz",
             "in_collection": true,
-            "collection_match": "Dresden Dolls"
+            "collection_match": "The Dresden Dolls"
           },
           {
             "name": "Alan Moulder",
@@ -48713,100 +47586,6 @@
       "Love Is The Subject": {
         "status": "unverified",
         "personnel": []
-      }
-    },
-    "Old & In the Way": {
-      "Breakdown_ Live Recordings 1973": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "Old & In the Way": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Jerry Garcia",
-            "role": "banjo, vocals",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "Jerry Garcia"
-          },
-          {
-            "name": "David Grisman",
-            "role": "mandolin, vocals",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "David Grisman"
-          },
-          {
-            "name": "Peter Rowan",
-            "role": "guitar, lead vocals",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "Peter Rowan & Jerry Douglas"
-          },
-          {
-            "name": "Vassar Clements",
-            "role": "fiddle",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "John Kahn",
-            "role": "bass",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      }
-    },
-    "Old & in the Way-Jerry Garcia-David Grisman": {
-      "Breakdown- Live Recordings 1973": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Jerry Garcia",
-            "role": "banjo, vocals",
-            "confidence": "high",
-            "source": "jerrygarcia.com band page / Wikipedia Old & In the Way",
-            "in_collection": true,
-            "collection_match": "Jerry Garcia"
-          },
-          {
-            "name": "David Grisman",
-            "role": "mandolin, vocals, producer",
-            "confidence": "high",
-            "source": "jerrygarcia.com band page / Wikipedia Old & In the Way",
-            "in_collection": true,
-            "collection_match": "David Grisman; David Grisman Quintet; Jerry Garcia & David Grisman; Jerry Garcia-David Grisman-Tony Rice; Old & in the Way-Jerry Garcia-David Grisman"
-          },
-          {
-            "name": "Peter Rowan",
-            "role": "guitar, vocals",
-            "confidence": "high",
-            "source": "jerrygarcia.com band page / Wikipedia Old & In the Way",
-            "in_collection": true,
-            "collection_match": "Peter Rowan & Jerry Douglas"
-          },
-          {
-            "name": "Vassar Clements",
-            "role": "fiddle",
-            "confidence": "high",
-            "source": "jerrygarcia.com band page / Wikipedia Old & In the Way",
-            "in_collection": false
-          },
-          {
-            "name": "John Kahn",
-            "role": "bass",
-            "confidence": "high",
-            "source": "jerrygarcia.com band page / Wikipedia Old & In the Way",
-            "in_collection": false
-          }
-        ]
       }
     },
     "Old 97's": {
@@ -51867,48 +50646,6 @@
         ]
       }
     },
-    "Red Hot Chili Peppers": {
-      "Mother's Milk": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Anthony Kiedis",
-            "role": "vocals",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Flea",
-            "role": "bass",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "John Frusciante",
-            "role": "guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Chad Smith",
-            "role": "drums",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Michael Beinhorn",
-            "role": "producer",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          }
-        ]
-      }
-    },
     "Regina Spektor": {
       "Begin To Hope": {
         "status": "verified",
@@ -53257,426 +51994,6 @@
         ]
       }
     },
-    "Sigur Ros": {
-      "Hvarf - Heim": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Jónsi (Jón Þór Birgisson)",
-            "role": "vocals, guitar with bow",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": true,
-            "collection_match": "Jónsi"
-          },
-          {
-            "name": "Georg Hólm",
-            "role": "bass",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Kjartan Sveinsson",
-            "role": "keyboards, piano",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Orri Páll Dýrason",
-            "role": "drums",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          }
-        ]
-      },
-      "Med sud I eyrum vid spilum endalaust": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Jónsi (Jón Þór Birgisson)",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": true,
-            "collection_match": "Jónsi"
-          },
-          {
-            "name": "Georg Hólm",
-            "role": "bass",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Kjartan Sveinsson",
-            "role": "keyboards",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Orri Páll Dýrason",
-            "role": "drums",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          }
-        ]
-      },
-      "Takk.._": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Jónsi (Jón Þór Birgisson)",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": true,
-            "collection_match": "Jónsi"
-          },
-          {
-            "name": "Georg Hólm",
-            "role": "bass",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Kjartan Sveinsson",
-            "role": "keyboards",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Orri Páll Dýrason",
-            "role": "drums",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          }
-        ]
-      }
-    },
-    "Sigur Rós": {
-      "Ágætis Byrjun": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Jón Þór \"Jónsi\" Birgisson",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Georg Hólm",
-            "role": "bass guitar",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Kjartan Sveinsson",
-            "role": "keyboards",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Ágúst Ævar Gunnarsson",
-            "role": "drums",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Ken Thomas",
-            "role": "producer",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      },
-      "Hlemmur": {
-        "status": "unverified",
-        "personnel": []
-      },
-      "Hvarf - Heim": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Jón Þór \"Jónsi\" Birgisson",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Georg Hólm",
-            "role": "bass guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Kjartan Sveinsson",
-            "role": "keyboards",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Orri Páll Dýrason",
-            "role": "drums",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Amiina",
-            "role": "string quartet (guest, Heim disc)",
-            "confidence": "medium",
-            "source": "allmusic",
-            "in_collection": false
-          }
-        ]
-      },
-      "Hvarf-Heim [Disc 1] (Hvarf)": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Jón Þór \"Jónsi\" Birgisson",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Georg Hólm",
-            "role": "bass guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Kjartan Sveinsson",
-            "role": "keyboards",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Orri Páll Dýrason",
-            "role": "drums",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          }
-        ]
-      },
-      "Hvarf-Heim [Disc 2] (Heim)": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Jón Þór \"Jónsi\" Birgisson",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Georg Hólm",
-            "role": "bass guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Kjartan Sveinsson",
-            "role": "keyboards",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Orri Páll Dýrason",
-            "role": "drums",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Amiina",
-            "role": "string quartet (live acoustic performance)",
-            "confidence": "medium",
-            "source": "allmusic",
-            "in_collection": false
-          }
-        ]
-      },
-      "Med sud I eyrum vid spilum endalaust": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Jón Þór \"Jónsi\" Birgisson",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Georg Hólm",
-            "role": "bass guitar",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Kjartan Sveinsson",
-            "role": "keyboards",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Orri Páll Dýrason",
-            "role": "drums",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Flood",
-            "role": "co-producer",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      },
-      "Með Suð Í Eyrum Við Spilum Endalaust": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Jón Þór \"Jónsi\" Birgisson",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Georg Hólm",
-            "role": "bass guitar",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Kjartan Sveinsson",
-            "role": "keyboards",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Orri Páll Dýrason",
-            "role": "drums",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Flood",
-            "role": "co-producer",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      },
-      "Takk.._": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Jón Þór \"Jónsi\" Birgisson",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Georg Hólm",
-            "role": "bass guitar",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Kjartan Sveinsson",
-            "role": "keyboards",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Orri Páll Dýrason",
-            "role": "drums",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Ken Thomas",
-            "role": "co-producer, engineer, mixer",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Amiina",
-            "role": "string quartet (guest)",
-            "confidence": "medium",
-            "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      },
-      "The Peel Sessions": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "Von": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Jón Þór \"Jónsi\" Birgisson",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Georg Hólm",
-            "role": "bass guitar",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Ágúst Ævar Gunnarsson",
-            "role": "drums",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      }
-    },
     "Simon & Garfunkel": {
       "The Concert In Central Park": {
         "status": "skipped",
@@ -53738,342 +52055,6 @@
             "source": "https://en.wikipedia.org/wiki/The_Concert_in_Central_Park",
             "in_collection": true,
             "collection_match": "Simon & Garfunkel"
-          }
-        ]
-      }
-    },
-    "Sixteen Horsepower": {
-      "Folklore": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "David Eugene Edwards",
-            "role": "vocals, guitar, banjo",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Jean-Yves Tola",
-            "role": "drums",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Pascal Humbert",
-            "role": "bass",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Bob Ferbrache",
-            "role": "engineer, mastering (Absinthe Studio)",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "16 Horsepower (band)",
-            "role": "self-produced",
-            "confidence": "medium",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "16 Horsepower"
-          }
-        ]
-      },
-      "Hoarse": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "David Eugene Edwards",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Jean-Yves Tola",
-            "role": "drums",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Pascal Humbert",
-            "role": "bass",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Bob Ferbrache",
-            "role": "producer, recording, mixing, mastering",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Shane Hotle",
-            "role": "engineer (front of house, live)",
-            "confidence": "medium",
-            "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      },
-      "Low estate": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "David Eugene Edwards",
-            "role": "vocals, banjo, concertina, hurdy gurdy, guitar",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Jean-Yves Tola",
-            "role": "drums",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Pascal Humbert",
-            "role": "bass",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Jeffrey-Paul Norlander",
-            "role": "guitar",
-            "confidence": "medium",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "John Parish",
-            "role": "producer (most tracks)",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Shane Hotle",
-            "role": "producer/engineer (select tracks)",
-            "confidence": "medium",
-            "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      },
-      "Low Estate (Nouvelle)": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "David Eugene Edwards",
-            "role": "vocals, banjo, concertina, hurdy gurdy, guitar",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Jean-Yves Tola",
-            "role": "drums",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Pascal Humbert",
-            "role": "bass",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Jeffrey-Paul Norlander",
-            "role": "guitar",
-            "confidence": "medium",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "John Parish",
-            "role": "producer (most tracks)",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Shane Hotle",
-            "role": "producer/engineer (select tracks)",
-            "confidence": "medium",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Bertrand Cantat",
-            "role": "guest vocals (\"Fire Spirit\", \"The Partisan\")",
-            "confidence": "medium",
-            "source": "knowledge",
-            "in_collection": false
-          }
-        ]
-      },
-      "Low Estate Tour Promo": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "Olden": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "David Eugene Edwards",
-            "role": "vocals, guitar, banjo, bandoneon",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Keven Soll",
-            "role": "acoustic bass, double bass, vocals",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Jean-Yves Tola",
-            "role": "drums",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Michael E. Moyers",
-            "role": "engineer (early tracks)",
-            "confidence": "medium",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Tom Payeta",
-            "role": "engineer (mid tracks)",
-            "confidence": "medium",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Shane Hotle",
-            "role": "engineer (later tracks)",
-            "confidence": "medium",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Bob Ferbrache",
-            "role": "mastering",
-            "confidence": "medium",
-            "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      },
-      "Sackcloth 'n' Ashes": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "David Eugene Edwards",
-            "role": "vocals, banjo, guitar, bandoneon, lap steel guitar",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Jean-Yves Tola",
-            "role": "drums, backing vocals",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Keven Soll",
-            "role": "upright bass, flattop acoustic bass, cello, backing vocals",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Warren Bruleigh",
-            "role": "producer",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Gordon Gano",
-            "role": "guest fiddle",
-            "confidence": "medium",
-            "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      },
-      "Secret South": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "David Eugene Edwards",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Jean-Yves Tola",
-            "role": "drums",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Pascal Humbert",
-            "role": "bass",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Steven Taylor",
-            "role": "guitar",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Bob Ferbrache",
-            "role": "engineer",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Paul Corkett",
-            "role": "mixing engineer",
-            "confidence": "medium",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Elin Palmer",
-            "role": "guest strings",
-            "confidence": "medium",
-            "source": "discogs",
-            "in_collection": false
           }
         ]
       }
@@ -54262,84 +52243,6 @@
             "role": "producer",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      }
-    },
-    "Sonny Terry with Johnny Winter& Willie D": {
-      "Whoopin'": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Sonny Terry",
-            "role": "harmonica, vocals",
-            "confidence": "high",
-            "source": "Discogs release / Wikipedia Whoopin' article",
-            "in_collection": true,
-            "collection_match": "Sonny Terry with Johnny Winter& Willie D; Sonny Terry with Johnny Winter& Willie Dixon"
-          },
-          {
-            "name": "Johnny Winter",
-            "role": "guitar, piano, producer",
-            "confidence": "high",
-            "source": "Discogs release / Wikipedia Whoopin' article",
-            "in_collection": false
-          },
-          {
-            "name": "Willie Dixon",
-            "role": "bass",
-            "confidence": "high",
-            "source": "Discogs release / Wikipedia Whoopin' article",
-            "in_collection": false
-          },
-          {
-            "name": "Styve Homnick",
-            "role": "drums",
-            "confidence": "high",
-            "source": "Discogs release full artist credit: 'Sonny Terry, Johnny Winter, Willie Dixon, Styve Homnick'",
-            "in_collection": false
-          }
-        ]
-      }
-    },
-    "Sonny Terry with Johnny Winter& Willie Dixon": {
-      "Whoopin'": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Sonny Terry",
-            "role": "harmonica, vocals",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": false
-          },
-          {
-            "name": "Johnny Winter",
-            "role": "guitar, piano, producer",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": false
-          },
-          {
-            "name": "Willie Dixon",
-            "role": "bass, songwriter",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": false
-          },
-          {
-            "name": "Styve Homnick",
-            "role": "drums",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Dave Still",
-            "role": "recording engineer",
-            "confidence": "high",
-            "source": "wikipedia",
             "in_collection": false
           }
         ]
@@ -57084,198 +54987,6 @@
         ]
       }
     },
-    "The Beat Junkies": {
-      "The World Famous Beat Junkies, Vol. 2 Di": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "The World Famous Beat Junkies, Vol. 2 Disc 1": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "The World Famous Beat Junkies, Vol. 2 Disc 2": {
-        "status": "skipped",
-        "personnel": []
-      }
-    },
-    "The Beatles": {
-      "Abbey Road (2009 Stereo Remast": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "John Lennon",
-            "role": "vocals, guitar, piano",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Paul McCartney",
-            "role": "vocals, bass, piano",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "George Harrison",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Ringo Starr",
-            "role": "drums, percussion",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "George Martin",
-            "role": "producer, arranger",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Billy Preston",
-            "role": "Hammond organ (I Want You, Something)",
-            "confidence": "medium",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "Billy Preston"
-          }
-        ]
-      },
-      "Help! [UK]": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "John Lennon",
-            "role": "vocals, guitar, harmonica",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Paul McCartney",
-            "role": "vocals, bass",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "George Harrison",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Ringo Starr",
-            "role": "drums",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "George Martin",
-            "role": "producer, string arrangements",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          }
-        ]
-      },
-      "The Beatles Disc 1 (2009 Stere": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "John Lennon",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Paul McCartney",
-            "role": "vocals, bass",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "George Harrison",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Ringo Starr",
-            "role": "drums",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "George Martin",
-            "role": "producer",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Eric Clapton",
-            "role": "lead guitar (While My Guitar Gently Weeps)",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "Eric Clapton And Steve Winwood"
-          }
-        ]
-      },
-      "The Beatles Disc 2 (2009 Stere": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "John Lennon",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Paul McCartney",
-            "role": "vocals, bass",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "George Harrison",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Ringo Starr",
-            "role": "drums",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "George Martin",
-            "role": "producer",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          }
-        ]
-      }
-    },
     "The Beta Band": {
       "Heroes To Zeros": {
         "status": "verified",
@@ -58128,55 +55839,6 @@
         ]
       }
     },
-    "The Dave Matthews Band": {
-      "Remember Two Things": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Dave Matthews",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "allmusic",
-            "in_collection": false
-          },
-          {
-            "name": "Stefan Lessard",
-            "role": "bass guitar",
-            "confidence": "high",
-            "source": "allmusic",
-            "in_collection": false
-          },
-          {
-            "name": "Carter Beauford",
-            "role": "drums",
-            "confidence": "high",
-            "source": "allmusic",
-            "in_collection": false
-          },
-          {
-            "name": "LeRoi Moore",
-            "role": "saxophone",
-            "confidence": "high",
-            "source": "allmusic",
-            "in_collection": false
-          },
-          {
-            "name": "Boyd Tinsley",
-            "role": "violin",
-            "confidence": "high",
-            "source": "allmusic",
-            "in_collection": false
-          },
-          {
-            "name": "Tim Reynolds",
-            "role": "guest guitar (4 tracks)",
-            "confidence": "medium",
-            "source": "allmusic",
-            "in_collection": false
-          }
-        ]
-      }
-    },
     "The Departed Soundtrack": {
       "Music From The Motion Picture The Depart": {
         "status": "verified",
@@ -58414,34 +56076,6 @@
         ]
       }
     },
-    "The Dresden Dolls": {
-      "Dresden Dolls": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Amanda Palmer",
-            "role": "vocals, piano",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Brian Viglione",
-            "role": "drums, guitar, bass",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Martin Bisi",
-            "role": "producer",
-            "confidence": "medium",
-            "source": "knowledge",
-            "in_collection": false
-          }
-        ]
-      }
-    },
     "The Egg": {
       "Forwards": {
         "status": "verified",
@@ -58670,68 +56304,6 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": false
-          }
-        ]
-      }
-    },
-    "The Grateful Dead": {
-      "Live-Dead": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Jerry Garcia",
-            "role": "lead guitar, vocals",
-            "confidence": "high",
-            "source": "Wikipedia Live/Dead",
-            "in_collection": true,
-            "collection_match": "Jerry Garcia"
-          },
-          {
-            "name": "Bob Weir",
-            "role": "rhythm guitar, vocals",
-            "confidence": "high",
-            "source": "Wikipedia Live/Dead",
-            "in_collection": true,
-            "collection_match": "The Grateful Dead"
-          },
-          {
-            "name": "Phil Lesh",
-            "role": "electric bass, vocals",
-            "confidence": "high",
-            "source": "Wikipedia Live/Dead",
-            "in_collection": true,
-            "collection_match": "The Grateful Dead; Phil & Phriends"
-          },
-          {
-            "name": "Bill Kreutzmann",
-            "role": "drums, percussion",
-            "confidence": "high",
-            "source": "Wikipedia Live/Dead",
-            "in_collection": true,
-            "collection_match": "The Grateful Dead"
-          },
-          {
-            "name": "Mickey Hart",
-            "role": "drums, percussion",
-            "confidence": "high",
-            "source": "Wikipedia Live/Dead — Hart was a full member by 1968",
-            "in_collection": true,
-            "collection_match": "The Grateful Dead"
-          },
-          {
-            "name": "Tom Constanten",
-            "role": "organ",
-            "confidence": "high",
-            "source": "Wikipedia Live/Dead",
-            "in_collection": false
-          },
-          {
-            "name": "Ron 'Pigpen' McKernan",
-            "role": "vocals, congas, organ (on 'Death Don't Have No Mercy')",
-            "confidence": "high",
-            "source": "Wikipedia Live/Dead",
-            "in_collection": true,
-            "collection_match": "The Grateful Dead"
           }
         ]
       }
@@ -59259,76 +56831,6 @@
         "personnel": []
       }
     },
-    "The Magnetic Fields": {
-      "Get Lost": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Stephin Merritt",
-            "role": "vocals, production, songwriting",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "Sam Davol",
-            "role": "cello, flute",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "John Woo",
-            "role": "guitar, banjo",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Claudia Gonson",
-            "role": "drums, vocals, ukulele",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Julie Cooper",
-            "role": "bass guitar",
-            "confidence": "medium",
-            "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      },
-      "The Charm Of The Highway Strip": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Stephin Merritt",
-            "role": "vocals, instrumentation, producer",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "The Magnetic Fields"
-          },
-          {
-            "name": "Sam Davol",
-            "role": "cello",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Claudia Gonson",
-            "role": "management/performer",
-            "confidence": "medium",
-            "source": "musicbrainz",
-            "in_collection": false
-          }
-        ]
-      }
-    },
     "The Mars Volta": {
       "Noctourniquet": {
         "status": "verified",
@@ -59428,21 +56930,6 @@
             "role": "percussion, keyboards",
             "confidence": "medium",
             "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      }
-    },
-    "The Microphones": {
-      "The Glow, pt. 2": {
-        "status": "verified",
-        "notes": "Same album as 'Microphones / The Glow, pt. 2' — two roster keys for the same Phil Elverum project",
-        "personnel": [
-          {
-            "name": "Phil Elverum",
-            "role": "vocals, all instruments, producer",
-            "confidence": "high",
-            "source": "knowledge",
             "in_collection": false
           }
         ]
@@ -59581,7 +57068,7 @@
             "confidence": "high",
             "source": "https://en.wikipedia.org/wiki/The_Strange_Remain",
             "in_collection": true,
-            "collection_match": "The Grateful Dead"
+            "collection_match": "Grateful Dead"
           },
           {
             "name": "Phil Lesh",
@@ -59589,7 +57076,7 @@
             "confidence": "high",
             "source": "https://en.wikipedia.org/wiki/The_Strange_Remain",
             "in_collection": true,
-            "collection_match": "The Grateful Dead"
+            "collection_match": "Grateful Dead"
           },
           {
             "name": "Mickey Hart",
@@ -59597,7 +57084,7 @@
             "confidence": "high",
             "source": "https://en.wikipedia.org/wiki/The_Strange_Remain",
             "in_collection": true,
-            "collection_match": "The Grateful Dead"
+            "collection_match": "Grateful Dead"
           },
           {
             "name": "Bruce Hornsby",
@@ -59645,7 +57132,7 @@
             "confidence": "high",
             "source": "https://en.wikipedia.org/wiki/The_Strange_Remain",
             "in_collection": true,
-            "collection_match": "The Grateful Dead"
+            "collection_match": "Grateful Dead"
           },
           {
             "name": "Phil Lesh",
@@ -59653,7 +57140,7 @@
             "confidence": "high",
             "source": "https://en.wikipedia.org/wiki/The_Strange_Remain",
             "in_collection": true,
-            "collection_match": "The Grateful Dead"
+            "collection_match": "Grateful Dead"
           },
           {
             "name": "Mickey Hart",
@@ -59661,7 +57148,7 @@
             "confidence": "high",
             "source": "https://en.wikipedia.org/wiki/The_Strange_Remain",
             "in_collection": true,
-            "collection_match": "The Grateful Dead"
+            "collection_match": "Grateful Dead"
           },
           {
             "name": "Bruce Hornsby",
@@ -60015,48 +57502,6 @@
             "role": "engineer",
             "confidence": "medium",
             "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      }
-    },
-    "The Red Hot Chili Peppers": {
-      "Freaky Styley": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Anthony Kiedis",
-            "role": "vocals",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Flea",
-            "role": "bass",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Hillel Slovak",
-            "role": "guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Cliff Martinez",
-            "role": "drums",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "George Clinton",
-            "role": "producer",
-            "confidence": "high",
-            "source": "knowledge",
             "in_collection": false
           }
         ]
@@ -60697,154 +58142,6 @@
             "confidence": "medium",
             "source": "discogs",
             "in_collection": false
-          }
-        ]
-      }
-    },
-    "The xx": {
-      "Coexist": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Romy Madley Croft",
-            "role": "guitar, vocals",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Oliver Sim",
-            "role": "bass, vocals",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Jamie Smith (Jamie xx)",
-            "role": "production, drums, programming",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      }
-    },
-    "TheBeatles-WhiteAbum-2009StereoRemaster": {
-      "Disc 1": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "John Lennon",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": true,
-            "collection_match": "The Beatles"
-          },
-          {
-            "name": "Paul McCartney",
-            "role": "vocals, bass, guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": true,
-            "collection_match": "The Beatles"
-          },
-          {
-            "name": "George Harrison",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": true,
-            "collection_match": "The Beatles"
-          },
-          {
-            "name": "Ringo Starr",
-            "role": "drums, vocals",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": true,
-            "collection_match": "The Beatles"
-          },
-          {
-            "name": "George Martin",
-            "role": "producer",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Geoff Emerick",
-            "role": "engineer",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Eric Clapton",
-            "role": "guest guitar (\"While My Guitar Gently Weeps\")",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": true,
-            "collection_match": "Eric Clapton And Steve Winwood"
-          }
-        ]
-      },
-      "Disc 2": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "John Lennon",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": true,
-            "collection_match": "The Beatles"
-          },
-          {
-            "name": "Paul McCartney",
-            "role": "vocals, bass, guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": true,
-            "collection_match": "The Beatles"
-          },
-          {
-            "name": "George Harrison",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": true,
-            "collection_match": "The Beatles"
-          },
-          {
-            "name": "Ringo Starr",
-            "role": "drums, vocals",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": true,
-            "collection_match": "The Beatles"
-          },
-          {
-            "name": "George Martin",
-            "role": "producer",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Geoff Emerick",
-            "role": "engineer",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Eric Clapton",
-            "role": "guest guitar (\"While My Guitar Gently Weeps\")",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": true,
-            "collection_match": "Eric Clapton And Steve Winwood"
           }
         ]
       }
@@ -64860,63 +62157,6 @@
         ]
       }
     },
-    "Vishwa Mohan Bhatt With Bela Fleck and J": {
-      "Tabula Rasa": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Vishwa Mohan Bhatt",
-            "role": "mohan veena",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Béla Fleck",
-            "role": "banjo",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": true,
-            "collection_match": "Béla Fleck"
-          },
-          {
-            "name": "Jie-Bing Chen",
-            "role": "erhu",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          }
-        ]
-      }
-    },
-    "Vishwa Mohan Bhatt With Bela Fleck and Jie Bing Chen": {
-      "Tabula Rasa": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Vishwa Mohan Bhatt",
-            "role": "Mohan Veena (modified slide guitar)",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Béla Fleck",
-            "role": "banjo",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Jie-Bing Chen",
-            "role": "erhu (Chinese fiddle)",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          }
-        ]
-      }
-    },
     "Vishwa Mohan Bhatt-Jerry Douglas": {
       "Bourbon & Rosewater": {
         "status": "verified",
@@ -65976,48 +63216,6 @@
         ]
       }
     },
-    "Xx": {
-      "The XX": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Romy Madley Croft",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Oliver Sim",
-            "role": "vocals, bass guitar",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Jamie Smith (Jamie xx)",
-            "role": "beats, MPC, production",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Baria Qureshi",
-            "role": "keyboards, additional guitar",
-            "confidence": "medium",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Rodaidh McDonald",
-            "role": "engineer/co-producer",
-            "confidence": "medium",
-            "source": "knowledge",
-            "in_collection": false
-          }
-        ]
-      }
-    },
     "Xzibit": {
       "Restless": {
         "status": "verified",
@@ -66998,6 +64196,2198 @@
           }
         ],
         "notes": "One-off quintet on Avant (Avan 043); packaging with graphics by Nayland Blake and text by Dennis Cooper."
+      }
+    },
+    "16 Horsepower": {
+      "folklore": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "David Eugene Edwards",
+            "role": "vocals, guitar, banjo, concertina",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Pascal Humbert",
+            "role": "bass, upright bass",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Jean-Yves Tola",
+            "role": "drums, percussion",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          }
+        ]
+      },
+      "hoarse": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "David Eugene Edwards",
+            "role": "vocals, guitar, banjo",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Pascal Humbert",
+            "role": "bass",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Jean-Yves Tola",
+            "role": "drums",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Steve Taylor",
+            "role": "guitar (live performances 1998)",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Bertrand Cantat",
+            "role": "guest vocals ('Fire Spirit')",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          }
+        ]
+      },
+      "sackcloth_'n'_ashes": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "David Eugene Edwards",
+            "role": "vocals, banjo, guitar, bandoneon, lap steel guitar",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Jean-Yves Tola",
+            "role": "drums, backing vocals",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Keven Soll",
+            "role": "upright bass, cello, backing vocals",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Gordon Gano",
+            "role": "fiddle (guest)",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          }
+        ]
+      },
+      "secret_south": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "David Eugene Edwards",
+            "role": "vocals, guitar, piano, banjo, concertina",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Steve Taylor",
+            "role": "backing vocals, guitar, organ",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Jean-Yves Tola",
+            "role": "drums, percussion",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Pascal Humbert",
+            "role": "bass, bass fiddle",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          }
+        ]
+      },
+      "Folklore": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "David Eugene Edwards",
+            "role": "vocals, guitar, banjo",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Jean-Yves Tola",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Pascal Humbert",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Bob Ferbrache",
+            "role": "engineer, mastering (Absinthe Studio)",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "16 Horsepower (band)",
+            "role": "self-produced",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "16 Horsepower"
+          }
+        ]
+      },
+      "Hoarse": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "David Eugene Edwards",
+            "role": "vocals, guitar",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Jean-Yves Tola",
+            "role": "drums",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Pascal Humbert",
+            "role": "bass",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Bob Ferbrache",
+            "role": "producer, recording, mixing, mastering",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Shane Hotle",
+            "role": "engineer (front of house, live)",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Low estate": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "David Eugene Edwards",
+            "role": "vocals, banjo, concertina, hurdy gurdy, guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Jean-Yves Tola",
+            "role": "drums",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Pascal Humbert",
+            "role": "bass",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Jeffrey-Paul Norlander",
+            "role": "guitar",
+            "confidence": "medium",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "John Parish",
+            "role": "producer (most tracks)",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Shane Hotle",
+            "role": "producer/engineer (select tracks)",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Low Estate (Nouvelle)": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "David Eugene Edwards",
+            "role": "vocals, banjo, concertina, hurdy gurdy, guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Jean-Yves Tola",
+            "role": "drums",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Pascal Humbert",
+            "role": "bass",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Jeffrey-Paul Norlander",
+            "role": "guitar",
+            "confidence": "medium",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "John Parish",
+            "role": "producer (most tracks)",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Shane Hotle",
+            "role": "producer/engineer (select tracks)",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Bertrand Cantat",
+            "role": "guest vocals (\"Fire Spirit\", \"The Partisan\")",
+            "confidence": "medium",
+            "source": "knowledge",
+            "in_collection": false
+          }
+        ]
+      },
+      "Low Estate Tour Promo": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Olden": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "David Eugene Edwards",
+            "role": "vocals, guitar, banjo, bandoneon",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Keven Soll",
+            "role": "acoustic bass, double bass, vocals",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Jean-Yves Tola",
+            "role": "drums",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Michael E. Moyers",
+            "role": "engineer (early tracks)",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Tom Payeta",
+            "role": "engineer (mid tracks)",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Shane Hotle",
+            "role": "engineer (later tracks)",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Bob Ferbrache",
+            "role": "mastering",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Sackcloth 'n' Ashes": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "David Eugene Edwards",
+            "role": "vocals, banjo, guitar, bandoneon, lap steel guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Jean-Yves Tola",
+            "role": "drums, backing vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Keven Soll",
+            "role": "upright bass, flattop acoustic bass, cello, backing vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Warren Bruleigh",
+            "role": "producer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Gordon Gano",
+            "role": "guest fiddle",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Secret South": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "David Eugene Edwards",
+            "role": "vocals, guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Jean-Yves Tola",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Pascal Humbert",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Steven Taylor",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Bob Ferbrache",
+            "role": "engineer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Paul Corkett",
+            "role": "mixing engineer",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Elin Palmer",
+            "role": "guest strings",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "The Beat Junkies": {
+      "The World Famous Beat Junkies, Vol. 3": {
+        "status": "verified",
+        "notes": "DJ compilation featuring Beat Junkies crew with various guest artists on tracks",
+        "personnel": [
+          {
+            "name": "DJ Melo-D",
+            "role": "featured DJ (Beat Junkies member)",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Quasimoto (Madlib)",
+            "role": "track artist",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Quasimoto"
+          },
+          {
+            "name": "LMNO",
+            "role": "track artist",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "LMNO"
+          },
+          {
+            "name": "Defari",
+            "role": "track artist",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "The World Famous Beat Junkies, Vol. 2 Disc 1": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "The World Famous Beat Junkies, Vol. 2 Disc 2": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "Dave Matthews Band": {
+      "Under The Table And Dreaming": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Dave Matthews",
+            "role": "guitar, vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Carter Beauford",
+            "role": "drums, percussion, vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Stefan Lessard",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "LeRoi Moore",
+            "role": "alto, soprano, and tenor saxophone, flute, vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Boyd Tinsley",
+            "role": "violin, vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Tim Reynolds",
+            "role": "acoustic guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Steve Lillywhite",
+            "role": "producer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Remember Two Things": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Dave Matthews",
+            "role": "vocals, guitar",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Stefan Lessard",
+            "role": "bass guitar",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Carter Beauford",
+            "role": "drums",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "LeRoi Moore",
+            "role": "saxophone",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Boyd Tinsley",
+            "role": "violin",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Tim Reynolds",
+            "role": "guest guitar (4 tracks)",
+            "confidence": "medium",
+            "source": "allmusic",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "The Dresden Dolls": {
+      "Dresden Dolls": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Amanda Palmer",
+            "role": "vocals, piano",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Brian Viglione",
+            "role": "drums, guitar, bass",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Martin Bisi",
+            "role": "producer",
+            "confidence": "medium",
+            "source": "knowledge",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "Grateful Dead": {
+      "Dick's Picks, Vol. 12 Disc 1": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Dick's Picks, Vol. 12 Disc 2": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Dick's Picks, Vol. 12 Disc 3": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Live at Fillmore East 2-11-69 Disc 1": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Skeletons from the Closet_ The Best of G": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Skeletons from the Closet- The Best of Grateful Dead [Warner Bros.]": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Without a Net Disc 1": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Jerry Garcia",
+            "role": "guitar, vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Jerry Garcia"
+          },
+          {
+            "name": "Bob Weir",
+            "role": "guitar, vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Phil Lesh",
+            "role": "bass, vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Brent Mydland",
+            "role": "keyboards, vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Bill Kreutzmann",
+            "role": "drums",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Mickey Hart",
+            "role": "drums, percussion",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Branford Marsalis",
+            "role": "saxophone (guest on 'Eyes of the World')",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      },
+      "Without a Net Disc 2": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Jerry Garcia",
+            "role": "guitar, vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": true,
+            "collection_match": "Jerry Garcia"
+          },
+          {
+            "name": "Bob Weir",
+            "role": "guitar, vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Phil Lesh",
+            "role": "bass, vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Brent Mydland",
+            "role": "keyboards, vocals",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Bill Kreutzmann",
+            "role": "drums",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Mickey Hart",
+            "role": "drums, percussion",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          },
+          {
+            "name": "Branford Marsalis",
+            "role": "saxophone (guest)",
+            "confidence": "high",
+            "source": "wikipedia",
+            "in_collection": false
+          }
+        ]
+      },
+      "Live-Dead": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Jerry Garcia",
+            "role": "lead guitar, vocals",
+            "confidence": "high",
+            "source": "Wikipedia Live/Dead",
+            "in_collection": true,
+            "collection_match": "Jerry Garcia"
+          },
+          {
+            "name": "Bob Weir",
+            "role": "rhythm guitar, vocals",
+            "confidence": "high",
+            "source": "Wikipedia Live/Dead",
+            "in_collection": true,
+            "collection_match": "Grateful Dead"
+          },
+          {
+            "name": "Phil Lesh",
+            "role": "electric bass, vocals",
+            "confidence": "high",
+            "source": "Wikipedia Live/Dead",
+            "in_collection": true,
+            "collection_match": "The Grateful Dead; Phil & Phriends"
+          },
+          {
+            "name": "Bill Kreutzmann",
+            "role": "drums, percussion",
+            "confidence": "high",
+            "source": "Wikipedia Live/Dead",
+            "in_collection": true,
+            "collection_match": "Grateful Dead"
+          },
+          {
+            "name": "Mickey Hart",
+            "role": "drums, percussion",
+            "confidence": "high",
+            "source": "Wikipedia Live/Dead — Hart was a full member by 1968",
+            "in_collection": true,
+            "collection_match": "Grateful Dead"
+          },
+          {
+            "name": "Tom Constanten",
+            "role": "organ",
+            "confidence": "high",
+            "source": "Wikipedia Live/Dead",
+            "in_collection": false
+          },
+          {
+            "name": "Ron 'Pigpen' McKernan",
+            "role": "vocals, congas, organ (on 'Death Don't Have No Mercy')",
+            "confidence": "high",
+            "source": "Wikipedia Live/Dead",
+            "in_collection": true,
+            "collection_match": "Grateful Dead"
+          }
+        ]
+      }
+    },
+    "The Magnetic Fields": {
+      "69 Love Songs Vol. 1": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Stephin Merritt",
+            "role": "songwriter, producer, vocals, multi-instrumentalist",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": true,
+            "collection_match": "The Magnetic Fields"
+          },
+          {
+            "name": "Claudia Gonson",
+            "role": "piano, drums, vocals, arrangement",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": true,
+            "collection_match": "The Magnetic Fields"
+          },
+          {
+            "name": "Sam Davol",
+            "role": "cello, flute",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": true,
+            "collection_match": "The Magnetic Fields"
+          },
+          {
+            "name": "John Woo",
+            "role": "guitar, banjo, mandolin, bass",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": true,
+            "collection_match": "The Magnetic Fields"
+          },
+          {
+            "name": "LD Beghtol",
+            "role": "harmonium, lead vocals (multiple tracks)",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Dudley Klute",
+            "role": "lead vocals (multiple tracks)",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Shirley Simms",
+            "role": "vocals, duets",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          }
+        ]
+      },
+      "69 Love Songs Vol. 2": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Stephin Merritt",
+            "role": "songwriter, producer, vocals, multi-instrumentalist",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": true,
+            "collection_match": "The Magnetic Fields"
+          },
+          {
+            "name": "Claudia Gonson",
+            "role": "piano, drums, vocals, arrangement",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": true,
+            "collection_match": "The Magnetic Fields"
+          },
+          {
+            "name": "Sam Davol",
+            "role": "cello, flute",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": true,
+            "collection_match": "The Magnetic Fields"
+          },
+          {
+            "name": "John Woo",
+            "role": "guitar, banjo, mandolin, bass",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": true,
+            "collection_match": "The Magnetic Fields"
+          },
+          {
+            "name": "LD Beghtol",
+            "role": "harmonium, lead vocals (multiple tracks)",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Dudley Klute",
+            "role": "lead vocals (multiple tracks)",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Shirley Simms",
+            "role": "vocals, duets",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          }
+        ]
+      },
+      "69 Love Songs Vol. 3": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Stephin Merritt",
+            "role": "songwriter, producer, vocals, multi-instrumentalist",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": true,
+            "collection_match": "The Magnetic Fields"
+          },
+          {
+            "name": "Claudia Gonson",
+            "role": "piano, drums, vocals, arrangement",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": true,
+            "collection_match": "The Magnetic Fields"
+          },
+          {
+            "name": "Sam Davol",
+            "role": "cello, flute",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": true,
+            "collection_match": "The Magnetic Fields"
+          },
+          {
+            "name": "John Woo",
+            "role": "guitar, banjo, mandolin, bass",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": true,
+            "collection_match": "The Magnetic Fields"
+          },
+          {
+            "name": "LD Beghtol",
+            "role": "harmonium, lead vocals (multiple tracks)",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Dudley Klute",
+            "role": "lead vocals (multiple tracks)",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Shirley Simms",
+            "role": "vocals, duets",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          }
+        ]
+      },
+      "Get Lost": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Stephin Merritt",
+            "role": "vocals, production, songwriting",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "The Magnetic Fields"
+          },
+          {
+            "name": "Sam Davol",
+            "role": "cello, flute",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "John Woo",
+            "role": "guitar, banjo",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Claudia Gonson",
+            "role": "drums, vocals, ukulele",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Julie Cooper",
+            "role": "bass guitar",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Holiday": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Stephin Merritt",
+            "role": "producer, vocals, instrumentation",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": true,
+            "collection_match": "The Magnetic Fields"
+          },
+          {
+            "name": "Claudia Gonson",
+            "role": "management, toys",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": true,
+            "collection_match": "The Magnetic Fields"
+          },
+          {
+            "name": "Sam Davol",
+            "role": "cello",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": true,
+            "collection_match": "The Magnetic Fields"
+          }
+        ]
+      },
+      "The Charm Of The Highway Strip": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Stephin Merritt",
+            "role": "vocals, instrumentation, producer",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": true,
+            "collection_match": "The Magnetic Fields"
+          },
+          {
+            "name": "Sam Davol",
+            "role": "cello",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Claudia Gonson",
+            "role": "management/performer",
+            "confidence": "medium",
+            "source": "musicbrainz",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "The Microphones": {
+      "The Glow, pt. 2": {
+        "status": "verified",
+        "notes": "Same album as 'Microphones / The Glow, pt. 2' — two roster keys for the same Phil Elverum project",
+        "personnel": [
+          {
+            "name": "Phil Elverum",
+            "role": "vocals, all instruments, producer",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          }
+        ]
+      },
+      "Unknown Album": {
+        "status": "skipped",
+        "personnel": []
+      }
+    },
+    "Red Hot Chili Peppers": {
+      "Mother's Milk": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Anthony Kiedis",
+            "role": "vocals",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Flea",
+            "role": "bass",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "John Frusciante",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Chad Smith",
+            "role": "drums",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Michael Beinhorn",
+            "role": "producer",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          }
+        ]
+      },
+      "Freaky Styley": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Anthony Kiedis",
+            "role": "vocals",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Flea",
+            "role": "bass",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Hillel Slovak",
+            "role": "guitar",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Cliff Martinez",
+            "role": "drums",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "George Clinton",
+            "role": "producer",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "Sigur Rós": {
+      "Med sud I eyrum vid spilum endalaust": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Jón Þór \"Jónsi\" Birgisson",
+            "role": "vocals, guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Georg Hólm",
+            "role": "bass guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Kjartan Sveinsson",
+            "role": "keyboards",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Orri Páll Dýrason",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Flood",
+            "role": "co-producer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Takk.._": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Jón Þór \"Jónsi\" Birgisson",
+            "role": "vocals, guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Georg Hólm",
+            "role": "bass guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Kjartan Sveinsson",
+            "role": "keyboards",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Orri Páll Dýrason",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Ken Thomas",
+            "role": "co-producer, engineer, mixer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Amiina",
+            "role": "string quartet (guest)",
+            "confidence": "medium",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Ágætis Byrjun": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Jón Þór \"Jónsi\" Birgisson",
+            "role": "vocals, guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Georg Hólm",
+            "role": "bass guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Kjartan Sveinsson",
+            "role": "keyboards",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Ágúst Ævar Gunnarsson",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Ken Thomas",
+            "role": "producer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Hlemmur": {
+        "status": "unverified",
+        "personnel": []
+      },
+      "Hvarf-Heim [Disc 1] (Hvarf)": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Jón Þór \"Jónsi\" Birgisson",
+            "role": "vocals, guitar",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Georg Hólm",
+            "role": "bass guitar",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Kjartan Sveinsson",
+            "role": "keyboards",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Orri Páll Dýrason",
+            "role": "drums",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          }
+        ]
+      },
+      "Hvarf-Heim [Disc 2] (Heim)": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Jón Þór \"Jónsi\" Birgisson",
+            "role": "vocals, guitar",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Georg Hólm",
+            "role": "bass guitar",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Kjartan Sveinsson",
+            "role": "keyboards",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Orri Páll Dýrason",
+            "role": "drums",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Amiina",
+            "role": "string quartet (live acoustic performance)",
+            "confidence": "medium",
+            "source": "allmusic",
+            "in_collection": false
+          }
+        ]
+      },
+      "Með Suð Í Eyrum Við Spilum Endalaust": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Jón Þór \"Jónsi\" Birgisson",
+            "role": "vocals, guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Georg Hólm",
+            "role": "bass guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Kjartan Sveinsson",
+            "role": "keyboards",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Orri Páll Dýrason",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Flood",
+            "role": "co-producer",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "The Peel Sessions": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Von": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Jón Þór \"Jónsi\" Birgisson",
+            "role": "vocals, guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Georg Hólm",
+            "role": "bass guitar",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Ágúst Ævar Gunnarsson",
+            "role": "drums",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "The xx": {
+      "Coexist": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Romy Madley Croft",
+            "role": "guitar, vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Oliver Sim",
+            "role": "bass, vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "Jamie Smith (Jamie xx)",
+            "role": "production, drums, programming",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "The XX": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Romy Madley Croft",
+            "role": "vocals, guitar",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Oliver Sim",
+            "role": "vocals, bass guitar",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Jamie Smith (Jamie xx)",
+            "role": "beats, MPC, production",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Baria Qureshi",
+            "role": "keyboards, additional guitar",
+            "confidence": "medium",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Rodaidh McDonald",
+            "role": "engineer/co-producer",
+            "confidence": "medium",
+            "source": "knowledge",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "Neko Case & Her Boyfriends": {
+      "Furnace Room Lullaby": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Darryl Neudorf",
+            "role": "recording engineer",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Neko Case",
+            "role": "lead vocals",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": true,
+            "collection_match": "Neko Case"
+          },
+          {
+            "name": "Kelly Hogan",
+            "role": "guest backing vocals",
+            "confidence": "medium",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Carl Newman",
+            "role": "guest musician (A.C. Newman, New Pornographers)",
+            "confidence": "medium",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Ron Sexsmith",
+            "role": "guest vocalist/songwriter contribution",
+            "confidence": "medium",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Dallas Good",
+            "role": "guest musician (The Sadies)",
+            "confidence": "medium",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Travis Good",
+            "role": "guest musician (The Sadies)",
+            "confidence": "medium",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Bob Egan",
+            "role": "guest musician (pedal steel)",
+            "confidence": "medium",
+            "source": "knowledge",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "Juan Luis Guerra 440": {
+      "Bachata Rosa": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Juan Luis Guerra",
+            "role": "vocals, guitar, producer, composer, arranger",
+            "confidence": "high",
+            "source": "Wikipedia / album liner notes via WebFetch",
+            "in_collection": true,
+            "collection_match": "Juan Luis Guerra 440"
+          },
+          {
+            "name": "Elvis Cabrera",
+            "role": "piano, synthesizer",
+            "confidence": "high",
+            "source": "Wikipedia personnel credits",
+            "in_collection": false
+          },
+          {
+            "name": "Osvaldo Cesa",
+            "role": "bass",
+            "confidence": "high",
+            "source": "Wikipedia personnel credits",
+            "in_collection": false
+          },
+          {
+            "name": "Pedro Peralta",
+            "role": "congas",
+            "confidence": "high",
+            "source": "Wikipedia personnel credits",
+            "in_collection": false
+          },
+          {
+            "name": "Rafael Guzmán",
+            "role": "güira",
+            "confidence": "high",
+            "source": "Wikipedia personnel credits",
+            "in_collection": false
+          },
+          {
+            "name": "Juan de la Cruz",
+            "role": "timbal, tambora, batá",
+            "confidence": "high",
+            "source": "Wikipedia personnel credits",
+            "in_collection": false
+          },
+          {
+            "name": "Roberto Olea",
+            "role": "trombone",
+            "confidence": "high",
+            "source": "Wikipedia personnel credits",
+            "in_collection": false
+          },
+          {
+            "name": "Armando Beltre",
+            "role": "trumpet",
+            "confidence": "high",
+            "source": "Wikipedia personnel credits",
+            "in_collection": false
+          },
+          {
+            "name": "Gonzalo Rubalcaba",
+            "role": "piano (guest)",
+            "confidence": "medium",
+            "source": "WebSearch result confirming his participation on the album",
+            "in_collection": false
+          },
+          {
+            "name": "Adalgisa Pantaleón",
+            "role": "vocals on 'Reforéstame'",
+            "confidence": "high",
+            "source": "Wikipedia personnel credits",
+            "in_collection": false
+          }
+        ]
+      },
+      "Ni Es Lo Mismo Ni Es Igual": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Juan Luis Guerra",
+            "role": "guitar, arranger, producer",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Arturo Sandoval",
+            "role": "trumpet, flugelhorn",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Ed Calle",
+            "role": "baritone saxophone",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Lee Levin",
+            "role": "drums, programming",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Mariela Mercado",
+            "role": "vocals",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          },
+          {
+            "name": "Eric Schilling",
+            "role": "engineer, mixing",
+            "confidence": "high",
+            "source": "musicbrainz",
+            "in_collection": false
+          }
+        ]
+      },
+      "Ojalá Que Llueva Café": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Juan Luis Guerra",
+            "role": "guitar, vocals, composer, producer",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Gonzalo Rubalcaba",
+            "role": "piano",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Mariela Mercado",
+            "role": "lead vocals",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Jaime Querol",
+            "role": "bass",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          },
+          {
+            "name": "Guy Frometa",
+            "role": "drums",
+            "confidence": "high",
+            "source": "allmusic",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "Sonny Terry with Johnny Winter & Willie Dixon": {
+      "Whoopin'": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Sonny Terry",
+            "role": "harmonica, vocals",
+            "confidence": "high",
+            "source": "Discogs release / Wikipedia Whoopin' article",
+            "in_collection": true,
+            "collection_match": "Sonny Terry with Johnny Winter& Willie D; Sonny Terry with Johnny Winter& Willie Dixon"
+          },
+          {
+            "name": "Johnny Winter",
+            "role": "guitar, piano, producer",
+            "confidence": "high",
+            "source": "Discogs release / Wikipedia Whoopin' article",
+            "in_collection": false
+          },
+          {
+            "name": "Willie Dixon",
+            "role": "bass",
+            "confidence": "high",
+            "source": "Discogs release / Wikipedia Whoopin' article",
+            "in_collection": false
+          },
+          {
+            "name": "Styve Homnick",
+            "role": "drums",
+            "confidence": "high",
+            "source": "Discogs release full artist credit: 'Sonny Terry, Johnny Winter, Willie Dixon, Styve Homnick'",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall": {
+      "Short Trip Home": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Joshua Bell",
+            "role": "violin",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": true,
+            "collection_match": "Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall"
+          },
+          {
+            "name": "Edgar Meyer",
+            "role": "double bass, producer",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": true,
+            "collection_match": "Edgar Meyer"
+          },
+          {
+            "name": "Sam Bush",
+            "role": "mandolin, violin",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": true,
+            "collection_match": "Sam Bush"
+          },
+          {
+            "name": "Mike Marshall",
+            "role": "mandolin, guitar",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": true,
+            "collection_match": "Mike Marshall"
+          }
+        ]
+      }
+    },
+    "Vishwa Mohan Bhatt With Bela Fleck and Jie Bing Chen": {
+      "Tabula Rasa": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Vishwa Mohan Bhatt",
+            "role": "mohan veena",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Béla Fleck",
+            "role": "banjo",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": true,
+            "collection_match": "Béla Fleck"
+          },
+          {
+            "name": "Jie-Bing Chen",
+            "role": "erhu",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          }
+        ]
+      }
+    },
+    "The Beatles": {
+      "Abbey Road (2009 Stereo Remast": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Lennon",
+            "role": "vocals, guitar, piano",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Paul McCartney",
+            "role": "vocals, bass, piano",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "George Harrison",
+            "role": "vocals, guitar",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Ringo Starr",
+            "role": "drums, percussion",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "George Martin",
+            "role": "producer, arranger",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Billy Preston",
+            "role": "Hammond organ (I Want You, Something)",
+            "confidence": "medium",
+            "source": "musicbrainz",
+            "in_collection": true,
+            "collection_match": "Billy Preston"
+          }
+        ]
+      },
+      "Help! [UK]": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Lennon",
+            "role": "vocals, guitar, harmonica",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Paul McCartney",
+            "role": "vocals, bass",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "George Harrison",
+            "role": "vocals, guitar",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Ringo Starr",
+            "role": "drums",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "George Martin",
+            "role": "producer, string arrangements",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          }
+        ]
+      },
+      "The Beatles [White Album] Disc 1": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Lennon",
+            "role": "vocals, guitar",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": true,
+            "collection_match": "The Beatles"
+          },
+          {
+            "name": "Paul McCartney",
+            "role": "vocals, bass, guitar",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": true,
+            "collection_match": "The Beatles"
+          },
+          {
+            "name": "George Harrison",
+            "role": "vocals, guitar",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": true,
+            "collection_match": "The Beatles"
+          },
+          {
+            "name": "Ringo Starr",
+            "role": "drums, vocals",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": true,
+            "collection_match": "The Beatles"
+          },
+          {
+            "name": "George Martin",
+            "role": "producer",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Geoff Emerick",
+            "role": "engineer",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Eric Clapton",
+            "role": "guest guitar (\"While My Guitar Gently Weeps\")",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": true,
+            "collection_match": "Eric Clapton And Steve Winwood"
+          }
+        ]
+      },
+      "The Beatles [White Album] Disc 2": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "John Lennon",
+            "role": "vocals, guitar",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": true,
+            "collection_match": "The Beatles"
+          },
+          {
+            "name": "Paul McCartney",
+            "role": "vocals, bass, guitar",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": true,
+            "collection_match": "The Beatles"
+          },
+          {
+            "name": "George Harrison",
+            "role": "vocals, guitar",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": true,
+            "collection_match": "The Beatles"
+          },
+          {
+            "name": "Ringo Starr",
+            "role": "drums, vocals",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": true,
+            "collection_match": "The Beatles"
+          },
+          {
+            "name": "George Martin",
+            "role": "producer",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Geoff Emerick",
+            "role": "engineer",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": false
+          },
+          {
+            "name": "Eric Clapton",
+            "role": "guest guitar (\"While My Guitar Gently Weeps\")",
+            "confidence": "high",
+            "source": "knowledge",
+            "in_collection": true,
+            "collection_match": "Eric Clapton And Steve Winwood"
+          }
+        ]
+      }
+    },
+    "Old & In the Way": {
+      "Breakdown_ Live Recordings 1973": {
+        "status": "skipped",
+        "personnel": []
+      },
+      "Old & In the Way": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Jerry Garcia",
+            "role": "banjo, vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Jerry Garcia"
+          },
+          {
+            "name": "David Grisman",
+            "role": "mandolin, vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "David Grisman"
+          },
+          {
+            "name": "Peter Rowan",
+            "role": "guitar, lead vocals",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": true,
+            "collection_match": "Peter Rowan & Jerry Douglas"
+          },
+          {
+            "name": "Vassar Clements",
+            "role": "fiddle",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          },
+          {
+            "name": "John Kahn",
+            "role": "bass",
+            "confidence": "high",
+            "source": "discogs",
+            "in_collection": false
+          }
+        ]
+      },
+      "Breakdown- Live Recordings 1973": {
+        "status": "verified",
+        "personnel": [
+          {
+            "name": "Jerry Garcia",
+            "role": "banjo, vocals",
+            "confidence": "high",
+            "source": "jerrygarcia.com band page / Wikipedia Old & In the Way",
+            "in_collection": true,
+            "collection_match": "Jerry Garcia"
+          },
+          {
+            "name": "David Grisman",
+            "role": "mandolin, vocals, producer",
+            "confidence": "high",
+            "source": "jerrygarcia.com band page / Wikipedia Old & In the Way",
+            "in_collection": true,
+            "collection_match": "David Grisman; David Grisman Quintet; Jerry Garcia & David Grisman; Jerry Garcia-David Grisman-Tony Rice; Old & in the Way-Jerry Garcia-David Grisman"
+          },
+          {
+            "name": "Peter Rowan",
+            "role": "guitar, vocals",
+            "confidence": "high",
+            "source": "jerrygarcia.com band page / Wikipedia Old & In the Way",
+            "in_collection": true,
+            "collection_match": "Peter Rowan & Jerry Douglas"
+          },
+          {
+            "name": "Vassar Clements",
+            "role": "fiddle",
+            "confidence": "high",
+            "source": "jerrygarcia.com band page / Wikipedia Old & In the Way",
+            "in_collection": false
+          },
+          {
+            "name": "John Kahn",
+            "role": "bass",
+            "confidence": "high",
+            "source": "jerrygarcia.com band page / Wikipedia Old & In the Way",
+            "in_collection": false
+          }
+        ]
       }
     }
   }

@@ -1,13 +1,13 @@
 ---
 type: "subcategory"
 category: "Rock"
-member_count: 51
+member_count: 48
 tags: ["subcategory", "rock"]
 ---
 
 # Indie & Alternative
 
-*Subcategory of [[Rock]] — 51 artists.*
+*Subcategory of [[Rock]] — 48 artists.*
 
 ## Artists
 - [[10,000 Maniacs]]
@@ -32,7 +32,6 @@ tags: ["subcategory", "rock"]
 - [[Kings Of Leon]]
 - [[Liz Phair]]
 - [[Metric]]
-- [[Microphones]]
 - [[Mindfunk]]
 - [[Minus the Bear]]
 - [[Modest Mouse]]
@@ -52,12 +51,10 @@ tags: ["subcategory", "rock"]
 - [[The Hold Steady]]
 - [[The Microphones]]
 - [[The Raconteurs]]
-- [[The Red Hot Chili Peppers]]
 - [[The Smithereens]]
 - [[The xx]]
 - [[They Might Be Giants]]
 - [[TV On The Radio]]
 - [[Urban Dance Squad]]
 - [[Wilco]]
-- [[Xx]]
 - [[Young The Giant]]

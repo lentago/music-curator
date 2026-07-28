@@ -1,10 +1,10 @@
 {
   "meta": {
-    "total_unique_artists": 728,
-    "total_albums": 1342,
+    "total_unique_artists": 711,
+    "total_albums": 1289,
     "compilation_albums": 81,
     "unknown_artist_albums": 27,
-    "tagged_artists": 595,
+    "tagged_artists": 578,
     "untagged_artists": 133,
     "cruft_removed": [
       {
@@ -102,14 +102,16 @@
     },
     "16 Horsepower": {
       "albums": [
-        "blush_music",
-        "consider_the_birds",
-        "folklore",
-        "hoarse",
-        "sackcloth_'n'_ashes",
-        "secret_south"
+        "Folklore",
+        "Hoarse",
+        "Low Estate (Nouvelle)",
+        "Low Estate Tour Promo",
+        "Low estate",
+        "Olden",
+        "Sackcloth 'n' Ashes",
+        "Secret South"
       ],
-      "album_count": 6,
+      "album_count": 8,
       "era": "1992-2005",
       "tagged": true,
       "category": "Country & Americana",
@@ -617,11 +619,13 @@
       "subcategory": "Gothic Americana",
       "rotation": "historical"
     },
-    "Beat Junkies": {
+    "The Beat Junkies": {
       "albums": [
+        "The World Famous Beat Junkies, Vol. 2 Disc 1",
+        "The World Famous Beat Junkies, Vol. 2 Disc 2",
         "The World Famous Beat Junkies, Vol. 3"
       ],
-      "album_count": 1,
+      "album_count": 3,
       "tagged": true,
       "era": "1990s-now",
       "category": "Hip-Hop",
@@ -1626,9 +1630,10 @@
     },
     "Dave Matthews Band": {
       "albums": [
+        "Remember Two Things",
         "Under The Table And Dreaming"
       ],
-      "album_count": 1,
+      "album_count": 2,
       "tagged": true,
       "era": "1990s-now",
       "category": "Rock",
@@ -1944,7 +1949,7 @@
       "subcategory": "Underground",
       "rotation": "historical"
     },
-    "Dresden Dolls": {
+    "The Dresden Dolls": {
       "albums": [
         "Dresden Dolls"
       ],
@@ -2705,7 +2710,7 @@
         "Dick's Picks, Vol. 12 Disc 2",
         "Dick's Picks, Vol. 12 Disc 3",
         "Live at Fillmore East 2-11-69 Disc 1",
-        "Skeletons from the Closet_ The Best of G",
+        "Live-Dead",
         "Skeletons from the Closet- The Best of Grateful Dead [Warner Bros.]",
         "Without a Net Disc 1",
         "Without a Net Disc 2"
@@ -3472,18 +3477,8 @@
       "tagged": true,
       "category": "Country & Americana",
       "subcategory": "Newgrass",
-      "rotation": "historical"
-    },
-    "Joshua Bell_Edgar Meyer_Sam Bush_Mike Ma": {
-      "albums": [
-        "Short Trip Home"
-      ],
-      "album_count": 1,
-      "tagged": true,
-      "era": "1990s-now",
-      "category": "Country & Americana",
-      "subcategory": "Newgrass",
-      "rotation": "historical"
+      "rotation": "historical",
+      "era": "1990s-now"
     },
     "Joss Stone": {
       "albums": [
@@ -3496,20 +3491,11 @@
     },
     "Juan Luis Guerra 440": {
       "albums": [
-        "Bachata Rosa"
-      ],
-      "album_count": 1,
-      "tagged": true,
-      "era": "1990s-now",
-      "category": "Latin",
-      "rotation": "historical"
-    },
-    "Juan Luis Guerra y 440": {
-      "albums": [
+        "Bachata Rosa",
         "Ni Es Lo Mismo Ni Es Igual",
         "Ojalá Que Llueva Café"
       ],
-      "album_count": 2,
+      "album_count": 3,
       "tagged": true,
       "era": "1990s-now",
       "category": "Latin",
@@ -3997,9 +3983,8 @@
       "subcategory": "Underground",
       "rotation": "historical"
     },
-    "Magnetic Fields": {
+    "The Magnetic Fields": {
       "albums": [
-        "69 Love Songs",
         "69 Love Songs Vol. 1",
         "69 Love Songs Vol. 2",
         "69 Love Songs Vol. 3",
@@ -4007,12 +3992,12 @@
         "Holiday",
         "The Charm Of The Highway Strip"
       ],
-      "album_count": 7,
+      "album_count": 6,
       "tagged": true,
       "era": "1990s-now",
       "category": "Pop",
       "subcategory": "Indie & Synth-Pop",
-      "rotation": "historical"
+      "rotation": "dormant"
     },
     "Marc Maron": {
       "albums": [
@@ -4237,7 +4222,7 @@
       "category": "Pop",
       "rotation": "historical"
     },
-    "Microphones": {
+    "The Microphones": {
       "albums": [
         "The Glow, pt. 2",
         "Unknown Album"
@@ -4573,16 +4558,6 @@
       "category": "Country & Americana",
       "rotation": "historical"
     },
-    "Neko Case And Her Boyfriends": {
-      "albums": [
-        "Furnace Room Lullaby"
-      ],
-      "album_count": 1,
-      "tagged": true,
-      "era": "1990s-2000s",
-      "category": "Country & Americana",
-      "rotation": "historical"
-    },
     "Nellie McKay": {
       "albums": [
         "Get Away from Me Disc 1",
@@ -4741,22 +4716,12 @@
     },
     "Old & In the Way": {
       "albums": [
-        "Breakdown_ Live Recordings 1973",
+        "Breakdown- Live Recordings 1973",
         "Old & In the Way"
       ],
       "album_count": 2,
       "tagged": true,
       "era": "1970s",
-      "category": "Country & Americana",
-      "subcategory": "Newgrass",
-      "rotation": "historical"
-    },
-    "Old & in the Way-Jerry Garcia-David Grisman": {
-      "albums": [
-        "Breakdown- Live Recordings 1973"
-      ],
-      "album_count": 1,
-      "tagged": true,
       "category": "Country & Americana",
       "subcategory": "Newgrass",
       "rotation": "historical"
@@ -5237,9 +5202,10 @@
     },
     "Red Hot Chili Peppers": {
       "albums": [
+        "Freaky Styley",
         "Mother's Milk"
       ],
-      "album_count": 1,
+      "album_count": 2,
       "tagged": true,
       "era": "1980s-now",
       "category": "Rock",
@@ -5586,35 +5552,20 @@
       "category": "Jazz",
       "rotation": "historical"
     },
-    "Sigur Ros": {
-      "albums": [
-        "Hvarf - Heim",
-        "Med sud I eyrum vid spilum endalaust",
-        "Takk.._"
-      ],
-      "album_count": 3,
-      "tagged": true,
-      "era": "1990s-now",
-      "category": "Rock",
-      "subcategory": "Post-Rock",
-      "rotation": "historical"
-    },
     "Sigur Rós": {
       "albums": [
-        "Ágætis Byrjun",
         "Hlemmur",
-        "Hvarf - Heim",
         "Hvarf-Heim [Disc 1] (Hvarf)",
         "Hvarf-Heim [Disc 2] (Heim)",
-        "Med sud I eyrum vid spilum endalaust",
         "Með Suð Í Eyrum Við Spilum Endalaust",
         "Takk.._",
         "The Peel Sessions",
-        "Von"
+        "Von",
+        "Ágætis Byrjun"
       ],
-      "album_count": 10,
-      "era": "1994-now",
+      "album_count": 8,
       "tagged": true,
+      "era": "1990s-now",
       "category": "Rock",
       "subcategory": "Post-Rock",
       "rotation": "historical"
@@ -5639,24 +5590,6 @@
       "tagged": false,
       "discard": true,
       "discard_reason": "confirmed by Chris (round 5)"
-    },
-    "Sixteen Horsepower": {
-      "albums": [
-        "Folklore",
-        "Hoarse",
-        "Low estate",
-        "Low Estate (Nouvelle)",
-        "Low Estate Tour Promo",
-        "Olden",
-        "Sackcloth 'n' Ashes",
-        "Secret South"
-      ],
-      "album_count": 8,
-      "era": "1992-2005",
-      "tagged": true,
-      "category": "Country & Americana",
-      "subcategory": "Gothic Americana",
-      "rotation": "historical"
     },
     "Skinny Puppy": {
       "albums": [
@@ -5713,17 +5646,7 @@
       "subcategory": "Indie & Synth-Pop",
       "rotation": "historical"
     },
-    "Sonny Terry with Johnny Winter& Willie D": {
-      "albums": [
-        "Whoopin'"
-      ],
-      "album_count": 1,
-      "tagged": true,
-      "era": "1980s",
-      "category": "Blues",
-      "rotation": "historical"
-    },
-    "Sonny Terry with Johnny Winter& Willie Dixon": {
+    "Sonny Terry with Johnny Winter & Willie Dixon": {
       "albums": [
         "Whoopin'"
       ],
@@ -6061,25 +5984,12 @@
       "category": "Country & Americana",
       "rotation": "dormant"
     },
-    "The Beat Junkies": {
-      "albums": [
-        "The World Famous Beat Junkies, Vol. 2 Di",
-        "The World Famous Beat Junkies, Vol. 2 Disc 1",
-        "The World Famous Beat Junkies, Vol. 2 Disc 2"
-      ],
-      "album_count": 3,
-      "tagged": true,
-      "era": "1990s-now",
-      "category": "Hip-Hop",
-      "subcategory": "Turntablism & Beats",
-      "rotation": "historical"
-    },
     "The Beatles": {
       "albums": [
         "Abbey Road (2009 Stereo Remast",
         "Help! [UK]",
-        "The Beatles Disc 1 (2009 Stere",
-        "The Beatles Disc 2 (2009 Stere"
+        "The Beatles [White Album] Disc 1",
+        "The Beatles [White Album] Disc 2"
       ],
       "album_count": 4,
       "tagged": true,
@@ -6230,17 +6140,6 @@
       "discard": true,
       "discard_reason": "confirmed by Chris (round 6)"
     },
-    "The Dave Matthews Band": {
-      "albums": [
-        "Remember Two Things"
-      ],
-      "album_count": 1,
-      "tagged": true,
-      "era": "1990s-now",
-      "category": "Rock",
-      "subcategory": "Jam",
-      "rotation": "historical"
-    },
     "The Departed Soundtrack": {
       "albums": [
         "Music From The Motion Picture The Depart",
@@ -6281,17 +6180,6 @@
       "tagged": true,
       "era": "1990s",
       "category": "Hip-Hop",
-      "rotation": "historical"
-    },
-    "The Dresden Dolls": {
-      "albums": [
-        "Dresden Dolls"
-      ],
-      "album_count": 1,
-      "tagged": true,
-      "era": "2000s-now",
-      "category": "Pop",
-      "subcategory": "Art-Pop & New Wave",
       "rotation": "historical"
     },
     "The Egg": {
@@ -6337,17 +6225,6 @@
       "tagged": true,
       "era": "2000s-now",
       "category": "Electronic",
-      "rotation": "historical"
-    },
-    "The Grateful Dead": {
-      "albums": [
-        "Live-Dead"
-      ],
-      "album_count": 1,
-      "tagged": true,
-      "era": "1960s-1990s",
-      "category": "Rock",
-      "subcategory": "Jam",
       "rotation": "historical"
     },
     "The Handsome Family": {
@@ -6470,18 +6347,6 @@
       "subcategory": "Underground",
       "rotation": "historical"
     },
-    "The Magnetic Fields": {
-      "albums": [
-        "Get Lost",
-        "The Charm Of The Highway Strip"
-      ],
-      "album_count": 2,
-      "tagged": true,
-      "era": "1990s-now",
-      "category": "Pop",
-      "subcategory": "Indie & Synth-Pop",
-      "rotation": "dormant"
-    },
     "The Mars Volta": {
       "albums": [
         "Noctourniquet",
@@ -6493,17 +6358,6 @@
       "category": "Rock",
       "subcategory": "Progressive",
       "rotation": "dormant"
-    },
-    "The Microphones": {
-      "albums": [
-        "The Glow, pt. 2"
-      ],
-      "album_count": 1,
-      "tagged": true,
-      "era": "2000s",
-      "category": "Rock",
-      "rotation": "historical",
-      "subcategory": "Indie & Alternative"
     },
     "The Neville Brothers": {
       "albums": [
@@ -6614,17 +6468,6 @@
       "category": "Rock",
       "rotation": "historical",
       "subcategory": "Indie & Alternative"
-    },
-    "The Red Hot Chili Peppers": {
-      "albums": [
-        "Freaky Styley"
-      ],
-      "album_count": 1,
-      "tagged": true,
-      "era": "1980s-now",
-      "category": "Rock",
-      "subcategory": "Indie & Alternative",
-      "rotation": "historical"
     },
     "The Rembrandts": {
       "albums": [
@@ -6775,25 +6618,14 @@
     },
     "The xx": {
       "albums": [
-        "Coexist"
+        "Coexist",
+        "The XX"
       ],
-      "album_count": 1,
+      "album_count": 2,
       "tagged": true,
       "era": "2000s-now",
       "category": "Rock",
       "subcategory": "Indie & Alternative",
-      "rotation": "historical"
-    },
-    "TheBeatles-WhiteAbum-2009StereoRemaster": {
-      "albums": [
-        "Disc 1",
-        "Disc 2"
-      ],
-      "album_count": 2,
-      "tagged": true,
-      "era": "1960s-70s",
-      "category": "Rock",
-      "subcategory": "Classic Rock",
       "rotation": "historical"
     },
     "Them Crooked Vultures": {
@@ -7167,16 +6999,6 @@
       "category": "Jazz",
       "rotation": "dormant"
     },
-    "Vishwa Mohan Bhatt With Bela Fleck and J": {
-      "albums": [
-        "Tabula Rasa"
-      ],
-      "album_count": 1,
-      "tagged": true,
-      "era": "1990s-now",
-      "category": "World",
-      "rotation": "historical"
-    },
     "Vishwa Mohan Bhatt With Bela Fleck and Jie Bing Chen": {
       "albums": [
         "Tabula Rasa"
@@ -7411,17 +7233,6 @@
       "tagged": true,
       "category": "Pop",
       "subcategory": "Art-Pop & New Wave",
-      "rotation": "historical"
-    },
-    "Xx": {
-      "albums": [
-        "The XX"
-      ],
-      "album_count": 1,
-      "era": "2009-now",
-      "tagged": true,
-      "category": "Rock",
-      "subcategory": "Indie & Alternative",
       "rotation": "historical"
     },
     "Xzibit": {
@@ -7736,7 +7547,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Rock",
-      "subcategory": "Indie & Alternative"
+      "subcategory": "Indie & Alternative",
+      "rotation": "historical"
     },
     "BUSDRIVER": {
       "albums": [],
@@ -7745,7 +7557,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Hip-Hop",
-      "subcategory": "Underground"
+      "subcategory": "Underground",
+      "rotation": "current"
     },
     "Bad Bunny": {
       "albums": [],
@@ -7753,7 +7566,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Latin"
+      "category": "Latin",
+      "rotation": "current"
     },
     "Bar Kokhba": {
       "albums": [],
@@ -7761,7 +7575,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Avant-Garde & Experimental"
+      "category": "Avant-Garde & Experimental",
+      "rotation": "historical"
     },
     "Bill Laswell": {
       "albums": [],
@@ -7770,7 +7585,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Avant-Garde & Experimental",
-      "note": "Person node — no owned albums under this name; enters the graph via personnel credits (John Zorn, David Byrne & Brian Eno)"
+      "note": "Person node — no owned albums under this name; enters the graph via personnel credits (John Zorn, David Byrne & Brian Eno)",
+      "rotation": "historical"
     },
     "Blackfield": {
       "albums": [],
@@ -7779,7 +7595,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Rock",
-      "subcategory": "Progressive"
+      "subcategory": "Progressive",
+      "rotation": "dormant"
     },
     "Brad Mehldau": {
       "albums": [],
@@ -7787,7 +7604,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Jazz"
+      "category": "Jazz",
+      "rotation": "current"
     },
     "Childish Gambino": {
       "albums": [],
@@ -7796,7 +7614,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Hip-Hop",
-      "subcategory": "Mainstream"
+      "subcategory": "Mainstream",
+      "rotation": "dormant"
     },
     "David Krakauer": {
       "albums": [],
@@ -7805,7 +7624,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "World",
-      "note": "Person node — no owned albums under this name; enters the graph via personnel credits (John Zorn, John Zorn-Masada Chamber Ensembles, The Klezmatics)"
+      "note": "Person node — no owned albums under this name; enters the graph via personnel credits (John Zorn, John Zorn-Masada Chamber Ensembles, The Klezmatics)",
+      "rotation": "historical"
     },
     "Eyedea & Abilities": {
       "albums": [],
@@ -7814,7 +7634,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Hip-Hop",
-      "subcategory": "Underground"
+      "subcategory": "Underground",
+      "rotation": "historical"
     },
     "GRiZ": {
       "albums": [],
@@ -7822,7 +7643,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Electronic"
+      "category": "Electronic",
+      "rotation": "dormant"
     },
     "Greydon Square": {
       "albums": [],
@@ -7831,7 +7653,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Hip-Hop",
-      "subcategory": "Underground"
+      "subcategory": "Underground",
+      "rotation": "historical"
     },
     "Hail Mary Mallon": {
       "albums": [],
@@ -7840,7 +7663,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Hip-Hop",
-      "subcategory": "Underground"
+      "subcategory": "Underground",
+      "rotation": "current"
     },
     "Hemlock Ernst": {
       "albums": [],
@@ -7849,7 +7673,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Hip-Hop",
-      "subcategory": "Underground"
+      "subcategory": "Underground",
+      "rotation": "current"
     },
     "Hiromi": {
       "albums": [],
@@ -7857,7 +7682,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Jazz"
+      "category": "Jazz",
+      "rotation": "historical"
     },
     "Homeboy Sandman": {
       "albums": [],
@@ -7866,7 +7692,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Hip-Hop",
-      "subcategory": "Underground"
+      "subcategory": "Underground",
+      "rotation": "current"
     },
     "Ishmael Ensemble": {
       "albums": [],
@@ -7874,7 +7701,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Jazz"
+      "category": "Jazz",
+      "rotation": "current"
     },
     "Joey Eppard": {
       "albums": [],
@@ -7883,7 +7711,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Rock",
-      "subcategory": "Progressive"
+      "subcategory": "Progressive",
+      "rotation": "dormant"
     },
     "Jonah Tolchin": {
       "albums": [],
@@ -7891,7 +7720,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Country & Americana"
+      "category": "Country & Americana",
+      "rotation": "current"
     },
     "Justin Townes Earle": {
       "albums": [],
@@ -7899,7 +7729,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Country & Americana"
+      "category": "Country & Americana",
+      "rotation": "historical"
     },
     "Kenny Segal": {
       "albums": [],
@@ -7908,7 +7739,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Hip-Hop",
-      "subcategory": "Turntablism & Beats"
+      "subcategory": "Turntablism & Beats",
+      "rotation": "current"
     },
     "Lice": {
       "albums": [],
@@ -7917,7 +7749,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Hip-Hop",
-      "subcategory": "Underground"
+      "subcategory": "Underground",
+      "rotation": "current"
     },
     "Masada Quintet": {
       "albums": [],
@@ -7925,7 +7758,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Avant-Garde & Experimental"
+      "category": "Avant-Garde & Experimental",
+      "rotation": "historical"
     },
     "Masada String Trio": {
       "albums": [],
@@ -7933,7 +7767,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Avant-Garde & Experimental"
+      "category": "Avant-Garde & Experimental",
+      "rotation": "historical"
     },
     "Murs": {
       "albums": [],
@@ -7942,7 +7777,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Hip-Hop",
-      "subcategory": "Underground"
+      "subcategory": "Underground",
+      "rotation": "historical"
     },
     "OSI": {
       "albums": [],
@@ -7951,7 +7787,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Rock",
-      "subcategory": "Progressive"
+      "subcategory": "Progressive",
+      "rotation": "current"
     },
     "Orgone": {
       "albums": [],
@@ -7959,7 +7796,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Soul, Funk & R&B"
+      "category": "Soul, Funk & R&B",
+      "rotation": "current"
     },
     "Painkiller": {
       "albums": [],
@@ -7967,7 +7805,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Avant-Garde & Experimental"
+      "category": "Avant-Garde & Experimental",
+      "rotation": "historical"
     },
     "Polyphia": {
       "albums": [],
@@ -7976,7 +7815,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Rock",
-      "subcategory": "Progressive"
+      "subcategory": "Progressive",
+      "rotation": "current"
     },
     "Portico Quartet": {
       "albums": [],
@@ -7984,7 +7824,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Jazz"
+      "category": "Jazz",
+      "rotation": "current"
     },
     "Prof": {
       "albums": [],
@@ -7993,7 +7834,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Hip-Hop",
-      "subcategory": "Underground"
+      "subcategory": "Underground",
+      "rotation": "current"
     },
     "Quatuor Molinari": {
       "albums": [],
@@ -8001,7 +7843,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Classical"
+      "category": "Classical",
+      "rotation": "historical"
     },
     "Sage Francis": {
       "albums": [],
@@ -8010,7 +7853,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Hip-Hop",
-      "subcategory": "Underground"
+      "subcategory": "Underground",
+      "rotation": "historical"
     },
     "Say She She": {
       "albums": [],
@@ -8018,7 +7862,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Soul, Funk & R&B"
+      "category": "Soul, Funk & R&B",
+      "rotation": "historical"
     },
     "Sleepytime Gorilla Museum": {
       "albums": [],
@@ -8026,7 +7871,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Avant-Garde & Experimental"
+      "category": "Avant-Garde & Experimental",
+      "rotation": "dormant"
     },
     "St. Paul & The Broken Bones": {
       "albums": [],
@@ -8034,7 +7880,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Soul, Funk & R&B"
+      "category": "Soul, Funk & R&B",
+      "rotation": "dormant"
     },
     "Sturgill Simpson": {
       "albums": [],
@@ -8042,7 +7889,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Country & Americana"
+      "category": "Country & Americana",
+      "rotation": "dormant"
     },
     "The Budos Band": {
       "albums": [],
@@ -8050,7 +7898,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Soul, Funk & R&B"
+      "category": "Soul, Funk & R&B",
+      "rotation": "current"
     },
     "The Filthy Six": {
       "albums": [],
@@ -8058,7 +7907,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Soul, Funk & R&B"
+      "category": "Soul, Funk & R&B",
+      "rotation": "dormant"
     },
     "The Main Squeeze": {
       "albums": [],
@@ -8066,7 +7916,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Soul, Funk & R&B"
+      "category": "Soul, Funk & R&B",
+      "rotation": "dormant"
     },
     "The Motet": {
       "albums": [],
@@ -8074,7 +7925,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Soul, Funk & R&B"
+      "category": "Soul, Funk & R&B",
+      "rotation": "dormant"
     },
     "Tingvall Trio": {
       "albums": [],
@@ -8082,7 +7934,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Jazz"
+      "category": "Jazz",
+      "rotation": "current"
     },
     "Twelve Foot Ninja": {
       "albums": [],
@@ -8091,7 +7944,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Rock",
-      "subcategory": "Progressive"
+      "subcategory": "Progressive",
+      "rotation": "dormant"
     },
     "Type O Negative": {
       "albums": [],
@@ -8100,7 +7954,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Rock",
-      "subcategory": "Metal"
+      "subcategory": "Metal",
+      "rotation": "historical"
     },
     "Vince Staples": {
       "albums": [],
@@ -8109,7 +7964,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Hip-Hop",
-      "subcategory": "Mainstream"
+      "subcategory": "Mainstream",
+      "rotation": "historical"
     },
     "Wobbler": {
       "albums": [],
@@ -8118,7 +7974,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Rock",
-      "subcategory": "Progressive"
+      "subcategory": "Progressive",
+      "rotation": "historical"
     },
     "Zach Bryan": {
       "albums": [],
@@ -8126,7 +7983,8 @@
       "tagged": true,
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
-      "category": "Country & Americana"
+      "category": "Country & Americana",
+      "rotation": "historical"
     },
     "Zion I": {
       "albums": [],
@@ -8135,7 +7993,8 @@
       "source": "spotify-follow",
       "followed_at": "2026-07-23T00:00:00Z",
       "category": "Hip-Hop",
-      "subcategory": "Underground"
+      "subcategory": "Underground",
+      "rotation": "historical"
     }
   },
   "compilations": {

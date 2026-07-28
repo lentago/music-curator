@@ -14,7 +14,5 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
-**Session ties:** [[Sigur Ros]]
-
 ## Albums (1)
 - Go
