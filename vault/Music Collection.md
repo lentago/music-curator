@@ -10,9 +10,9 @@ A taste map of the collection. Open the **graph view** (Ctrl/Cmd-G): every artis
 ## By the numbers
 
 - **590** artists
-- **13** top-level categories · **24** subcategories
+- **13** top-level categories · **25** subcategories
 - **47** collaboration edges · **463** session-tie edges (shared personnel)
-- **48** in the untagged [[Reservoir]]
+- **0** in the untagged [[Reservoir]]
 - **37** current · **74** dormant · **431** historical in [[Rotation]]
 - **916** recordings in seeded full discographies ([[Aesop Rock]], [[John Zorn]], [[Talking Heads]], [[Tom Waits]])
 
@@ -24,40 +24,41 @@ A taste map of the collection. Open the **graph view** (Ctrl/Cmd-G): every artis
 
 ## Categories
 
-- [[Rock]] (126)
-    - [[Classic Rock]] (18)
+- [[Rock]] (134)
+    - [[Classic Rock]] (16)
     - [[Indie & Alternative]] (51)
     - [[Jam]] (20)
-    - [[Metal]] (18)
+    - [[Metal]] (19)
     - [[Post-Rock]] (5)
-    - [[Punk & Hardcore]] (14)
-- [[Hip-Hop]] (90)
+    - [[Progressive]] (10)
+    - [[Punk & Hardcore]] (13)
+- [[Hip-Hop]] (104)
     - [[Golden Age]] (9)
-    - [[Mainstream]] (5)
-    - [[Turntablism & Beats]] (24)
-    - [[Underground]] (51)
-- [[Country & Americana]] (72)
+    - [[Mainstream]] (7)
+    - [[Turntablism & Beats]] (25)
+    - [[Underground]] (62)
+- [[Country & Americana]] (76)
     - [[Bluegrass]] (9)
     - [[Gothic Americana]] (6)
     - [[Newgrass]] (31)
-- [[Electronic]] (47)
+- [[Electronic]] (48)
     - [[Industrial & EBM]] (6)
     - [[Trip-Hop & Downtempo]] (23)
-- [[Jazz]] (42)
+- [[Jazz]] (47)
     - [[Fusion]] (4)
     - [[Gypsy Jazz]] (4)
     - [[New Orleans & Brass]] (3)
     - [[Standards & Vocal]] (9)
+- [[Soul, Funk & R&B]] (41)
+    - [[Gospel]] (2)
+    - [[New Orleans Funk]] (4)
 - [[Pop]] (36)
     - [[Art-Pop & New Wave]] (22)
     - [[Indie & Synth-Pop]] (12)
-- [[Soul, Funk & R&B]] (34)
-    - [[Gospel]] (2)
-    - [[New Orleans Funk]] (4)
 - [[Folk & Singer-Songwriter]] (33)
-- [[Avant-Garde & Experimental]] (17)
-- [[World]] (15)
+- [[Avant-Garde & Experimental]] (23)
+- [[World]] (16)
     - [[Reggae & Dub]] (1)
-- [[Latin]] (13)
+- [[Latin]] (14)
 - [[Blues]] (12)
-- [[Classical]] (5)
+- [[Classical]] (6)

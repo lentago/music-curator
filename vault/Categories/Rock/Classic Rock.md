@@ -1,19 +1,18 @@
 ---
 type: "subcategory"
 category: "Rock"
-member_count: 18
+member_count: 16
 tags: ["subcategory", "rock"]
 ---
 
 # Classic Rock
 
-*Subcategory of [[Rock]] — 18 artists.*
+*Subcategory of [[Rock]] — 16 artists.*
 
 ## Artists
 - [[AC-DC]]
 - [[Creedence Clearwater Revival]]
 - [[Dire Straits & Mark Knopfler]]
-- [[Genesis]]
 - [[Guns N' Roses]]
 - [[Jeff Beck]]
 - [[Jimi Hendrix]]
@@ -21,7 +20,6 @@ tags: ["subcategory", "rock"]
 - [[Little Feat]]
 - [[Pink Floyd]]
 - [[Robert Plant]]
-- [[Rush]]
 - [[Santana]]
 - [[Steely Dan]]
 - [[The Beatles]]

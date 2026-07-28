@@ -1,12 +1,12 @@
 ---
 type: "category"
-member_count: 34
+member_count: 41
 tags: ["category", "soul-funk-r-b"]
 ---
 
 # Soul, Funk & R&B
 
-*Category — 34 artists in the collection.*
+*Category — 41 artists in the collection.*
 
 ## Subcategories
 - [[Gospel]] (2)
@@ -33,11 +33,18 @@ tags: ["category", "soul-funk-r-b"]
 - [[Joe Cocker]]
 - [[Mary J. Blige]]
 - [[Merry Clayton]]
+- [[Orgone]]
 - [[Otis Redding]]
 - [[Ray Charles]]
 - [[Sam Cooke]]
+- [[Say She She]]
 - [[Seal]]
 - [[Sharon Jones & The Dap-Kings]]
+- [[St. Paul & The Broken Bones]]
 - [[Stevie Wonder]]
+- [[The Budos Band]]
 - [[The Commodores]]
+- [[The Filthy Six]]
+- [[The Main Squeeze]]
+- [[The Motet]]
 - [[Van Morrison]]

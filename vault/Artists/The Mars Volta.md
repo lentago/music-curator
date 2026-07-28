@@ -1,7 +1,7 @@
 ---
 type: "artist"
 category: "Rock"
-subcategory: "Punk & Hardcore"
+subcategory: "Progressive"
 era: "2000s-now"
 rotation: "dormant"
 plays: 18
@@ -12,7 +12,7 @@ tags: ["artist", "rock", "rotation-dormant"]
 
 # The Mars Volta
 
-**Category:** Rock › [[Punk & Hardcore]]
+**Category:** Rock › [[Progressive]]
 
 **Rotation:** dormant — played, but not lately. 2 plays in the trailing 18 months (18 lifetime, 1 h), last on 2026-03-10.
 

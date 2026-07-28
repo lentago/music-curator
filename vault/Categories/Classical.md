@@ -1,16 +1,17 @@
 ---
 type: "category"
-member_count: 5
+member_count: 6
 tags: ["category", "classical"]
 ---
 
 # Classical
 
-*Category — 5 artists in the collection.*
+*Category — 6 artists in the collection.*
 
 ## Artists
 - [[Arcadi Volodos]]
 - [[Claude Bolling]]
 - [[Kremerata Baltica_Gidon Kremer]]
+- [[Quatuor Molinari]]
 - [[Sharon Isbin]]
 - [[Yo-Yo Ma]]

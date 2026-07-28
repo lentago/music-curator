@@ -1,13 +1,13 @@
 ---
 type: "subcategory"
 category: "Rock"
-member_count: 18
+member_count: 19
 tags: ["subcategory", "rock"]
 ---
 
 # Metal
 
-*Subcategory of [[Rock]] — 18 artists.*
+*Subcategory of [[Rock]] — 19 artists.*
 
 ## Artists
 - [[A Perfect Circle]]
@@ -26,5 +26,6 @@ tags: ["subcategory", "rock"]
 - [[Them Crooked Vultures]]
 - [[Tomahawk]]
 - [[Tool]]
+- [[Type O Negative]]
 - [[Volbeat]]
 - [[White Zombie]]

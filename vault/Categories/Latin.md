@@ -1,14 +1,15 @@
 ---
 type: "category"
-member_count: 13
+member_count: 14
 tags: ["category", "latin"]
 ---
 
 # Latin
 
-*Category — 13 artists in the collection.*
+*Category — 14 artists in the collection.*
 
 ## Artists
+- [[Bad Bunny]]
 - [[Carlos Vives]]
 - [[Francisco Cespedes]]
 - [[Gotan Project]]

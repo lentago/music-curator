@@ -4,8 +4,8 @@
     "total_albums": 1342,
     "compilation_albums": 81,
     "unknown_artist_albums": 27,
-    "tagged_artists": 547,
-    "untagged_artists": 181,
+    "tagged_artists": 595,
+    "untagged_artists": 133,
     "cruft_removed": [
       {
         "folder": "Ringtone Heaven",
@@ -2565,7 +2565,7 @@
       "tagged": true,
       "era": "1970s-80s",
       "category": "Rock",
-      "subcategory": "Classic Rock",
+      "subcategory": "Progressive",
       "rotation": "historical"
     },
     "George Benson": {
@@ -4207,7 +4207,7 @@
       "tagged": true,
       "era": "2000s-now",
       "category": "Rock",
-      "subcategory": "Indie & Alternative",
+      "subcategory": "Progressive",
       "rotation": "historical"
     },
     "Michael Brooks-13 Things That Don't Make Sense": {
@@ -5385,7 +5385,7 @@
       "tagged": true,
       "era": "1970s-now",
       "category": "Rock",
-      "subcategory": "Classic Rock",
+      "subcategory": "Progressive",
       "rotation": "dormant"
     },
     "Russ Barenberg": {
@@ -6491,7 +6491,7 @@
       "tagged": true,
       "era": "2000s-now",
       "category": "Rock",
-      "subcategory": "Punk & Hardcore",
+      "subcategory": "Progressive",
       "rotation": "dormant"
     },
     "The Microphones": {
@@ -7732,338 +7732,410 @@
     "All Them Witches": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Rock",
+      "subcategory": "Indie & Alternative"
     },
     "BUSDRIVER": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Hip-Hop",
+      "subcategory": "Underground"
     },
     "Bad Bunny": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Latin"
     },
     "Bar Kokhba": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Avant-Garde & Experimental"
     },
     "Bill Laswell": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Avant-Garde & Experimental",
+      "note": "Person node — no owned albums under this name; enters the graph via personnel credits (John Zorn, David Byrne & Brian Eno)"
     },
     "Blackfield": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Rock",
+      "subcategory": "Progressive"
     },
     "Brad Mehldau": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Jazz"
     },
     "Childish Gambino": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Hip-Hop",
+      "subcategory": "Mainstream"
     },
     "David Krakauer": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "World",
+      "note": "Person node — no owned albums under this name; enters the graph via personnel credits (John Zorn, John Zorn-Masada Chamber Ensembles, The Klezmatics)"
     },
     "Eyedea & Abilities": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Hip-Hop",
+      "subcategory": "Underground"
     },
     "GRiZ": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Electronic"
     },
     "Greydon Square": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Hip-Hop",
+      "subcategory": "Underground"
     },
     "Hail Mary Mallon": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Hip-Hop",
+      "subcategory": "Underground"
     },
     "Hemlock Ernst": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Hip-Hop",
+      "subcategory": "Underground"
     },
     "Hiromi": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Jazz"
     },
     "Homeboy Sandman": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Hip-Hop",
+      "subcategory": "Underground"
     },
     "Ishmael Ensemble": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Jazz"
     },
     "Joey Eppard": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Rock",
+      "subcategory": "Progressive"
     },
     "Jonah Tolchin": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Country & Americana"
     },
     "Justin Townes Earle": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Country & Americana"
     },
     "Kenny Segal": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Hip-Hop",
+      "subcategory": "Turntablism & Beats"
     },
     "Lice": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Hip-Hop",
+      "subcategory": "Underground"
     },
     "Masada Quintet": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Avant-Garde & Experimental"
     },
     "Masada String Trio": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Avant-Garde & Experimental"
     },
     "Murs": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Hip-Hop",
+      "subcategory": "Underground"
     },
     "OSI": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Rock",
+      "subcategory": "Progressive"
     },
     "Orgone": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Soul, Funk & R&B"
     },
     "Painkiller": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Avant-Garde & Experimental"
     },
     "Polyphia": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Rock",
+      "subcategory": "Progressive"
     },
     "Portico Quartet": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Jazz"
     },
     "Prof": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Hip-Hop",
+      "subcategory": "Underground"
     },
     "Quatuor Molinari": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Classical"
     },
     "Sage Francis": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Hip-Hop",
+      "subcategory": "Underground"
     },
     "Say She She": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Soul, Funk & R&B"
     },
     "Sleepytime Gorilla Museum": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Avant-Garde & Experimental"
     },
     "St. Paul & The Broken Bones": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Soul, Funk & R&B"
     },
     "Sturgill Simpson": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Country & Americana"
     },
     "The Budos Band": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Soul, Funk & R&B"
     },
     "The Filthy Six": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Soul, Funk & R&B"
     },
     "The Main Squeeze": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Soul, Funk & R&B"
     },
     "The Motet": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Soul, Funk & R&B"
     },
     "Tingvall Trio": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Jazz"
     },
     "Twelve Foot Ninja": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Rock",
+      "subcategory": "Progressive"
     },
     "Type O Negative": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Rock",
+      "subcategory": "Metal"
     },
     "Vince Staples": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Hip-Hop",
+      "subcategory": "Mainstream"
     },
     "Wobbler": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Rock",
+      "subcategory": "Progressive"
     },
     "Zach Bryan": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Country & Americana"
     },
     "Zion I": {
       "albums": [],
       "album_count": 0,
-      "tagged": false,
+      "tagged": true,
       "source": "spotify-follow",
-      "followed_at": "2026-07-23T00:00:00Z"
+      "followed_at": "2026-07-23T00:00:00Z",
+      "category": "Hip-Hop",
+      "subcategory": "Underground"
     }
   },
   "compilations": {

@@ -1,13 +1,13 @@
 ---
 type: "subcategory"
 category: "Hip-Hop"
-member_count: 24
+member_count: 25
 tags: ["subcategory", "hip-hop"]
 ---
 
 # Turntablism & Beats
 
-*Subcategory of [[Hip-Hop]] — 24 artists.*
+*Subcategory of [[Hip-Hop]] — 25 artists.*
 
 ## Artists
 - [[Beat Junkies]]
@@ -25,6 +25,7 @@ tags: ["subcategory", "hip-hop"]
 - [[DJ Spooky]]
 - [[DJ Z-Trip & Radar]]
 - [[Invisible Skratch Piklz]]
+- [[Kenny Segal]]
 - [[Lootpack]]
 - [[Madlib]]
 - [[Odd Nosdam]]

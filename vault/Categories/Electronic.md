@@ -1,12 +1,12 @@
 ---
 type: "category"
-member_count: 47
+member_count: 48
 tags: ["category", "electronic"]
 ---
 
 # Electronic
 
-*Category — 47 artists in the collection.*
+*Category — 48 artists in the collection.*
 
 ## Subcategories
 - [[Industrial & EBM]] (6)
@@ -22,6 +22,7 @@ tags: ["category", "electronic"]
 - [[Fischerspooner]]
 - [[Fort Knox Five]]
 - [[Fujiya & Miyagi]]
+- [[GRiZ]]
 - [[John Digweed]]
 - [[Kraftwerk]]
 - [[Múm]]

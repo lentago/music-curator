@@ -1,13 +1,13 @@
 ---
 type: "subcategory"
 category: "Rock"
-member_count: 14
+member_count: 13
 tags: ["subcategory", "rock"]
 ---
 
 # Punk & Hardcore
 
-*Subcategory of [[Rock]] — 14 artists.*
+*Subcategory of [[Rock]] — 13 artists.*
 
 ## Artists
 - [[At The Drive-In]]
@@ -21,6 +21,5 @@ tags: ["subcategory", "rock"]
 - [[NOFX]]
 - [[Reverend Horton Heat]]
 - [[The Clash]]
-- [[The Mars Volta]]
 - [[The Pogues]]
 - [[Wrecking Crew]]

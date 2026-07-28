@@ -1,18 +1,19 @@
 ---
 type: "category"
-member_count: 15
+member_count: 16
 tags: ["category", "world"]
 ---
 
 # World
 
-*Category — 15 artists in the collection.*
+*Category — 16 artists in the collection.*
 
 ## Subcategories
 - [[Reggae & Dub]] (1)
 
 ## Artists (no subcategory)
 - [[Daniel Kahn & the Painted Bird]]
+- [[David Krakauer]]
 - [[Gipsy Kings]]
 - [[Habib Koité and Bamada]]
 - [[Karsh Kale]]

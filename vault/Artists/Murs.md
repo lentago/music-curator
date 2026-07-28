@@ -1,14 +1,16 @@
 ---
 type: "artist"
+category: "Hip-Hop"
+subcategory: "Underground"
 followed_at: "2026-07-23"
 source: "spotify-follow"
 album_count: 0
-tags: ["artist", "reservoir", "source-follow"]
+tags: ["artist", "hip-hop", "source-follow"]
 ---
 
 # Murs
 
-**Filed under:** [[Reservoir]]
+**Category:** Hip-Hop › [[Underground]]
 
 **Session ties:** [[Aesop Rock]]
 

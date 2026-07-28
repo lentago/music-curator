@@ -1,18 +1,18 @@
 ---
 type: "category"
-member_count: 90
+member_count: 104
 tags: ["category", "hip-hop"]
 ---
 
 # Hip-Hop
 
-*Category — 90 artists in the collection.*
+*Category — 104 artists in the collection.*
 
 ## Subcategories
 - [[Golden Age]] (9)
-- [[Mainstream]] (5)
-- [[Turntablism & Beats]] (24)
-- [[Underground]] (51)
+- [[Mainstream]] (7)
+- [[Turntablism & Beats]] (25)
+- [[Underground]] (62)
 
 ## Artists (no subcategory)
 - [[The Disposable Heroes of Hiphoprisy]]
