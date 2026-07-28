@@ -1,15 +1,16 @@
 ---
 type: "artist"
-category: "Folk & Singer-Songwriter"
+category: "Rock"
+subcategory: "Indie & Alternative"
 era: "2000s"
 rotation: "historical"
 album_count: 1
-tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
+tags: ["artist", "rock", "rotation-historical"]
 ---
 
 # The Microphones
 
-**Category:** [[Folk & Singer-Songwriter]]
+**Category:** Rock › [[Indie & Alternative]]
 
 **Rotation:** historical — never streamed.
 

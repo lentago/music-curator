@@ -1,13 +1,13 @@
 ---
 type: "subcategory"
 category: "Rock"
-member_count: 19
+member_count: 20
 tags: ["subcategory", "rock"]
 ---
 
 # Jam
 
-*Subcategory of [[Rock]] — 19 artists.*
+*Subcategory of [[Rock]] — 20 artists.*
 
 ## Artists
 - [[Dave Matthews Band]]
@@ -25,6 +25,7 @@ tags: ["subcategory", "rock"]
 - [[The Derek Trucks Band]]
 - [[The Grateful Dead]]
 - [[The Other Ones]]
+- [[The String Cheese Incident]]
 - [[Trey Anastasio]]
 - [[Trey Anastasio Band]]
 - [[Umphrey's McGee]]

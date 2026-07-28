@@ -1,6 +1,7 @@
 ---
 type: "artist"
 category: "Jazz"
+subcategory: "Fusion"
 era: "1970s-80s"
 rotation: "current"
 plays: 46
@@ -11,7 +12,7 @@ tags: ["artist", "jazz", "rotation-current"]
 
 # Jaco Pastorius
 
-**Category:** [[Jazz]]
+**Category:** Jazz › [[Fusion]]
 
 **Rotation:** current — still in play. 42 plays in the trailing 18 months (46 lifetime, 2 h), last on 2026-05-23.
 

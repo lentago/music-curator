@@ -1,6 +1,7 @@
 ---
 type: "artist"
 category: "Hip-Hop"
+subcategory: "Mainstream"
 era: "1990s-now"
 rotation: "historical"
 plays: 8
@@ -11,7 +12,7 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 # OutKast
 
-**Category:** [[Hip-Hop]]
+**Category:** Hip-Hop › [[Mainstream]]
 
 **Rotation:** historical — effectively absent from the stream. 1 play in the trailing 18 months (8 lifetime), last on 2025-06-01.
 

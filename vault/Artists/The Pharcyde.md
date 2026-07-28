@@ -1,7 +1,7 @@
 ---
 type: "artist"
 category: "Hip-Hop"
-subcategory: "Underground"
+subcategory: "Golden Age"
 era: "1990s"
 rotation: "dormant"
 plays: 33
@@ -12,7 +12,7 @@ tags: ["artist", "hip-hop", "rotation-dormant"]
 
 # The Pharcyde
 
-**Category:** Hip-Hop › [[Underground]]
+**Category:** Hip-Hop › [[Golden Age]]
 
 **Rotation:** dormant — played, but not lately. 2 plays in the trailing 18 months (33 lifetime, 2 h), last on 2025-12-10.
 

@@ -1,17 +1,18 @@
 ---
 type: "artist"
-category: "Jazz"
+category: "Rock"
+subcategory: "Classic Rock"
 era: "1970s-now"
 rotation: "dormant"
 plays: 11
 last_played: "2025-10-14"
 album_count: 1
-tags: ["artist", "jazz", "rotation-dormant"]
+tags: ["artist", "rock", "rotation-dormant"]
 ---
 
 # Steely Dan
 
-**Category:** [[Jazz]]
+**Category:** Rock › [[Classic Rock]]
 
 **Rotation:** dormant — played, but not lately. 1 play in the trailing 18 months (11 lifetime, 1 h), last on 2025-10-14.
 

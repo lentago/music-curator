@@ -1,7 +1,7 @@
 ---
 type: "artist"
 category: "Hip-Hop"
-subcategory: "Underground"
+subcategory: "Golden Age"
 rotation: "historical"
 plays: 3
 last_played: "2026-02-03"
@@ -11,7 +11,7 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 # Fu-Schnickens
 
-**Category:** Hip-Hop › [[Underground]]
+**Category:** Hip-Hop › [[Golden Age]]
 
 **Rotation:** historical — effectively absent from the stream. 3 plays in the trailing 18 months (3 lifetime), last on 2026-02-03.
 

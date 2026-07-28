@@ -1,16 +1,16 @@
 ---
 type: "category"
-member_count: 44
+member_count: 47
 tags: ["category", "electronic"]
 ---
 
 # Electronic
 
-*Category — 44 artists in the collection.*
+*Category — 47 artists in the collection.*
 
 ## Subcategories
-- [[Industrial & EBM]] (7)
-- [[Trip-Hop & Downtempo]] (22)
+- [[Industrial & EBM]] (6)
+- [[Trip-Hop & Downtempo]] (23)
 
 ## Artists (no subcategory)
 - [[Baths]]
@@ -18,12 +18,15 @@ tags: ["category", "electronic"]
 - [[Daft Punk]]
 - [[Deuter]]
 - [[Dub Kweli - produced by Max Tannone]]
+- [[Eskmo]]
 - [[Fischerspooner]]
 - [[Fort Knox Five]]
 - [[Fujiya & Miyagi]]
 - [[John Digweed]]
 - [[Kraftwerk]]
+- [[Múm]]
 - [[Plaid]]
+- [[Ratatat]]
 - [[The Chemical Brothers]]
 - [[The Egg]]
 - [[The Glitch Mob]]

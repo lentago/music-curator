@@ -1,16 +1,15 @@
 ---
 type: "artist"
-category: "Pop"
-subcategory: "Art-Pop & New Wave"
+category: "Avant-Garde & Experimental"
 era: "1960s-1990s"
 rotation: "historical"
 album_count: 2
-tags: ["artist", "pop", "rotation-historical"]
+tags: ["artist", "avant-garde-experimental", "rotation-historical"]
 ---
 
 # William S. Burroughs
 
-**Category:** Pop › [[Art-Pop & New Wave]]
+**Category:** [[Avant-Garde & Experimental]]
 
 **Rotation:** historical — never streamed.
 

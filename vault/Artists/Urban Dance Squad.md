@@ -1,17 +1,18 @@
 ---
 type: "artist"
-category: "Hip-Hop"
+category: "Rock"
+subcategory: "Indie & Alternative"
 era: "1990s"
 rotation: "historical"
 plays: 7
 last_played: "2025-06-21"
 album_count: 4
-tags: ["artist", "hip-hop", "rotation-historical"]
+tags: ["artist", "rock", "rotation-historical"]
 ---
 
 # Urban Dance Squad
 
-**Category:** [[Hip-Hop]]
+**Category:** Rock › [[Indie & Alternative]]
 
 **Rotation:** historical — effectively absent from the stream. 4 plays in the trailing 18 months (7 lifetime), last on 2025-06-21.
 

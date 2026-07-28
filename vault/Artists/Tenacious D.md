@@ -1,7 +1,7 @@
 ---
 type: "artist"
 category: "Rock"
-subcategory: "Classic Rock"
+subcategory: "Indie & Alternative"
 era: "2000s-now"
 rotation: "historical"
 plays: 1
@@ -12,7 +12,7 @@ tags: ["artist", "rock", "rotation-historical"]
 
 # Tenacious D
 
-**Category:** Rock › [[Classic Rock]]
+**Category:** Rock › [[Indie & Alternative]]
 
 **Rotation:** historical — effectively absent from the stream. 1 lifetime play, none recent, last on 2023-03-15.
 

@@ -1,18 +1,18 @@
 ---
 type: "artist"
-category: "Jazz"
+category: "Soul, Funk & R&B"
 era: "1992-now"
 rotation: "current"
 plays: 188
 last_played: "2026-06-13"
 followed_at: "2026-07-23"
 album_count: 1
-tags: ["artist", "jazz", "rotation-current", "source-follow"]
+tags: ["artist", "soul-funk-r-b", "rotation-current", "source-follow"]
 ---
 
 # Jamiroquai
 
-**Category:** [[Jazz]]
+**Category:** [[Soul, Funk & R&B]]
 
 **Rotation:** current — still in play. 22 plays in the trailing 18 months (188 lifetime, 11 h), last on 2026-06-13.
 

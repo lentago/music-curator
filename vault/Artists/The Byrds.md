@@ -1,15 +1,16 @@
 ---
 type: "artist"
-category: "Country & Americana"
+category: "Rock"
+subcategory: "Classic Rock"
 era: "1960s-70s"
 rotation: "historical"
 album_count: 2
-tags: ["artist", "country-americana", "rotation-historical"]
+tags: ["artist", "rock", "rotation-historical"]
 ---
 
 # The Byrds
 
-**Category:** [[Country & Americana]]
+**Category:** Rock › [[Classic Rock]]
 
 **Rotation:** historical — never streamed.
 

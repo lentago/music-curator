@@ -1,7 +1,7 @@
 ---
 type: "artist"
 category: "Hip-Hop"
-subcategory: "Underground"
+subcategory: "Golden Age"
 era: "1980s"
 rotation: "historical"
 plays: 2
@@ -12,7 +12,7 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 # Run-D.M.C
 
-**Category:** Hip-Hop › [[Underground]]
+**Category:** Hip-Hop › [[Golden Age]]
 
 **Rotation:** historical — effectively absent from the stream. 2 lifetime plays, none recent, last on 2022-03-20.
 

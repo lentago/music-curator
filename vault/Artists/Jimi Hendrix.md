@@ -1,17 +1,18 @@
 ---
 type: "artist"
-category: "Blues"
+category: "Rock"
+subcategory: "Classic Rock"
 era: "1960s-70s"
 rotation: "dormant"
 plays: 69
 last_played: "2025-11-29"
 album_count: 4
-tags: ["artist", "blues", "rotation-dormant"]
+tags: ["artist", "rock", "rotation-dormant"]
 ---
 
 # Jimi Hendrix
 
-**Category:** [[Blues]]
+**Category:** Rock › [[Classic Rock]]
 
 **Rotation:** dormant — played, but not lately. 6 plays in the trailing 18 months (69 lifetime, 4 h), last on 2025-11-29.
 

@@ -1,15 +1,20 @@
 ---
 type: "category"
-member_count: 32
+member_count: 34
 tags: ["category", "soul-funk-r-b"]
 ---
 
 # Soul, Funk & R&B
 
-*Category — 32 artists in the collection.*
+*Category — 34 artists in the collection.*
 
-## Artists
+## Subcategories
+- [[Gospel]] (2)
+- [[New Orleans Funk]] (4)
+
+## Artists (no subcategory)
 - [[Al Green]]
+- [[Al Jarreau & Lou Rawls]]
 - [[Alabama Shakes]]
 - [[Amy Winehouse]]
 - [[Annie Lennox]]
@@ -24,20 +29,15 @@ tags: ["category", "soul-funk-r-b"]
 - [[Gnarls Barkley]]
 - [[Ivory Joe Hunter]]
 - [[James Brown]]
-- [[JJ Grey & Mofro]]
+- [[Jamiroquai]]
 - [[Joe Cocker]]
 - [[Mary J. Blige]]
 - [[Merry Clayton]]
-- [[Mofro]]
 - [[Otis Redding]]
 - [[Ray Charles]]
 - [[Sam Cooke]]
-- [[Sam Cooke & the Soul Stirrers]]
 - [[Seal]]
 - [[Sharon Jones & The Dap-Kings]]
 - [[Stevie Wonder]]
 - [[The Commodores]]
-- [[The Hoodoo Kings]]
-- [[The Neville Brothers]]
-- [[The Soul Stirrers]]
 - [[Van Morrison]]

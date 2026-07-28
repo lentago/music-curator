@@ -1,6 +1,7 @@
 ---
 type: "artist"
 category: "Jazz"
+subcategory: "Gypsy Jazz"
 era: "1990s-now"
 rotation: "historical"
 album_count: 1
@@ -9,7 +10,7 @@ tags: ["artist", "jazz", "rotation-historical"]
 
 # Hot Club of San Francisco
 
-**Category:** [[Jazz]]
+**Category:** Jazz › [[Gypsy Jazz]]
 
 **Rotation:** historical — never streamed.
 

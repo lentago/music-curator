@@ -1,15 +1,14 @@
 ---
 type: "artist"
-category: "Country & Americana"
-subcategory: "Bluegrass"
+category: "Folk & Singer-Songwriter"
 rotation: "historical"
 album_count: 1
-tags: ["artist", "country-americana", "rotation-historical"]
+tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 ---
 
 # Leo Kottke & Mike Gordon
 
-**Category:** Country & Americana › [[Bluegrass]]
+**Category:** [[Folk & Singer-Songwriter]]
 
 **Rotation:** historical — never streamed.
 

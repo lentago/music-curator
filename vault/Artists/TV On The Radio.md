@@ -1,18 +1,18 @@
 ---
 type: "artist"
-category: "Pop"
-subcategory: "Art-Pop & New Wave"
+category: "Rock"
+subcategory: "Indie & Alternative"
 era: "2000s-now"
 rotation: "historical"
 plays: 2
 last_played: "2020-08-07"
 album_count: 2
-tags: ["artist", "pop", "rotation-historical"]
+tags: ["artist", "rock", "rotation-historical"]
 ---
 
 # TV On The Radio
 
-**Category:** Pop › [[Art-Pop & New Wave]]
+**Category:** Rock › [[Indie & Alternative]]
 
 **Rotation:** historical — effectively absent from the stream. 2 lifetime plays, none recent, last on 2020-08-07.
 

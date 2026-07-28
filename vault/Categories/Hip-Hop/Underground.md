@@ -1,16 +1,15 @@
 ---
 type: "subcategory"
 category: "Hip-Hop"
-member_count: 55
+member_count: 51
 tags: ["subcategory", "hip-hop"]
 ---
 
 # Underground
 
-*Subcategory of [[Hip-Hop]] — 55 artists.*
+*Subcategory of [[Hip-Hop]] — 51 artists.*
 
 ## Artists
-- [[A Tribe Called Quest]]
 - [[Aceyalone]]
 - [[Aesop Rock]]
 - [[Anticon]]
@@ -23,21 +22,17 @@ tags: ["subcategory", "hip-hop"]
 - [[Canibus]]
 - [[Cannibal Ox]]
 - [[cLOUDDEAD]]
-- [[Common]]
 - [[Company Flow]]
-- [[De La Soul]]
+- [[dangerdoom]]
 - [[Deep Puddle Dynamics_Anticon]]
 - [[Deltron 3030]]
 - [[Dilated Peoples]]
 - [[Diverse]]
-- [[DJ Spooky]]
 - [[Dr. Octagon]]
 - [[Dälek]]
 - [[El-P]]
 - [[El-P & Cannibal Ox]]
-- [[Eric B & Rakim]]
 - [[Faust vs. Dälek]]
-- [[Fu-Schnickens]]
 - [[Goats]]
 - [[Handsome Boy Modeling School]]
 - [[Hieroglyphics]]
@@ -45,13 +40,14 @@ tags: ["subcategory", "hip-hop"]
 - [[Jedi Mind Tricks]]
 - [[Jurassic 5]]
 - [[LMNO]]
+- [[Madvillain]]
 - [[MF DOOM]]
 - [[Mos Def]]
 - [[Mos Def & Talib Kweli]]
 - [[Mr. Lif]]
 - [[Prince Paul]]
+- [[Quasimoto]]
 - [[Rjd2]]
-- [[Run-D.M.C]]
 - [[Soul Position]]
 - [[Swollen Members]]
 - [[Talib Kweli]]
@@ -60,7 +56,7 @@ tags: ["subcategory", "hip-hop"]
 - [[The A-Team]]
 - [[The Last Emperor]]
 - [[The Lushlife Project]]
-- [[The Pharcyde]]
+- [[The Streets]]
 - [[Vast Aire]]
 - [[Visionaries]]
 - [[WEATHERMEN]]

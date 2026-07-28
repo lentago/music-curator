@@ -1,13 +1,13 @@
 ---
 type: "subcategory"
 category: "Country & Americana"
-member_count: 27
+member_count: 31
 tags: ["subcategory", "country-americana"]
 ---
 
 # Newgrass
 
-*Subcategory of [[Country & Americana]] — 27 artists.*
+*Subcategory of [[Country & Americana]] — 31 artists.*
 
 ## Artists
 - [[Anger_Marshall Band]]
@@ -29,11 +29,15 @@ tags: ["subcategory", "country-americana"]
 - [[Joshua Bell_Edgar Meyer_Sam Bush_Mike Ma]]
 - [[Leftover Salmon]]
 - [[Mike Marshall]]
+- [[New Grass Revival]]
 - [[NewGrange]]
 - [[Old & In the Way]]
 - [[Old & in the Way-Jerry Garcia-David Grisman]]
+- [[Peter Rowan & Jerry Douglas]]
+- [[Russ Barenberg]]
 - [[Sam Bush]]
 - [[Strength in Numbers]]
 - [[Stuart Duncan]]
 - [[Tim O'Brien]]
 - [[Tony Rice Unit]]
+- [[Yo-Yo Ma-Edgar Meyer-Mark O'Connor]]

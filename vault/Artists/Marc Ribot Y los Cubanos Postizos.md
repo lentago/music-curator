@@ -1,15 +1,15 @@
 ---
 type: "artist"
-category: "Avant-Garde & Experimental"
+category: "Latin"
 era: "1990s-now"
 rotation: "historical"
 album_count: 1
-tags: ["artist", "avant-garde-experimental", "rotation-historical"]
+tags: ["artist", "latin", "rotation-historical"]
 ---
 
 # Marc Ribot Y los Cubanos Postizos
 
-**Category:** [[Avant-Garde & Experimental]]
+**Category:** [[Latin]]
 
 **Rotation:** historical — never streamed.
 

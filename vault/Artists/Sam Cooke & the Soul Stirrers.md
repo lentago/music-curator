@@ -1,6 +1,7 @@
 ---
 type: "artist"
 category: "Soul, Funk & R&B"
+subcategory: "Gospel"
 era: "1950s-60s"
 rotation: "historical"
 album_count: 1
@@ -10,7 +11,7 @@ tags: ["artist", "soul-funk-r-b", "rotation-historical"]
 
 # Sam Cooke & the Soul Stirrers
 
-**Category:** [[Soul, Funk & R&B]]
+**Category:** Soul, Funk & R&B › [[Gospel]]
 
 **Rotation:** historical — never streamed.
 

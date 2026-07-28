@@ -1,6 +1,7 @@
 ---
 type: "artist"
 category: "Jazz"
+subcategory: "Fusion"
 era: "1960s-now"
 rotation: "current"
 plays: 54
@@ -11,7 +12,7 @@ tags: ["artist", "jazz", "rotation-current"]
 
 # Herbie Hancock
 
-**Category:** [[Jazz]]
+**Category:** Jazz › [[Fusion]]
 
 **Rotation:** current — still in play. 13 plays in the trailing 18 months (54 lifetime, 6 h), last on 2026-07-01.
 

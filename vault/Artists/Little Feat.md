@@ -1,17 +1,18 @@
 ---
 type: "artist"
-category: "Country & Americana"
+category: "Rock"
+subcategory: "Classic Rock"
 era: "1970s"
 rotation: "historical"
 plays: 2
 last_played: "2026-01-10"
 album_count: 2
-tags: ["artist", "country-americana", "rotation-historical"]
+tags: ["artist", "rock", "rotation-historical"]
 ---
 
 # Little Feat
 
-**Category:** [[Country & Americana]]
+**Category:** Rock › [[Classic Rock]]
 
 **Rotation:** historical — effectively absent from the stream. 1 play in the trailing 18 months (2 lifetime), last on 2026-01-10.
 

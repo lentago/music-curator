@@ -1,6 +1,7 @@
 ---
 type: "artist"
 category: "Jazz"
+subcategory: "Gypsy Jazz"
 era: "1990s"
 rotation: "historical"
 album_count: 2
@@ -9,7 +10,7 @@ tags: ["artist", "jazz", "rotation-historical"]
 
 # Quartet Coco Briaval
 
-**Category:** [[Jazz]]
+**Category:** Jazz › [[Gypsy Jazz]]
 
 **Rotation:** historical — never streamed.
 

@@ -1,15 +1,16 @@
 ---
 type: "artist"
-category: "Latin"
+category: "Rock"
+subcategory: "Classic Rock"
 era: "1970s-now"
 rotation: "historical"
 album_count: 2
-tags: ["artist", "latin", "rotation-historical"]
+tags: ["artist", "rock", "rotation-historical"]
 ---
 
 # Santana
 
-**Category:** [[Latin]]
+**Category:** Rock › [[Classic Rock]]
 
 **Rotation:** historical — never streamed.
 

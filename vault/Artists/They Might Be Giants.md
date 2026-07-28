@@ -1,7 +1,7 @@
 ---
 type: "artist"
 category: "Rock"
-subcategory: "Classic Rock"
+subcategory: "Indie & Alternative"
 rotation: "historical"
 plays: 2
 last_played: "2025-02-02"
@@ -11,7 +11,7 @@ tags: ["artist", "rock", "rotation-historical"]
 
 # They Might Be Giants
 
-**Category:** Rock › [[Classic Rock]]
+**Category:** Rock › [[Indie & Alternative]]
 
 **Rotation:** historical — effectively absent from the stream. 1 play in the trailing 18 months (2 lifetime), last on 2025-02-02.
 

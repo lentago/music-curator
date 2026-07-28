@@ -1,15 +1,15 @@
 ---
 type: "artist"
-category: "Jazz"
+category: "Soul, Funk & R&B"
 era: "1990s"
 rotation: "historical"
 album_count: 1
-tags: ["artist", "jazz", "rotation-historical"]
+tags: ["artist", "soul-funk-r-b", "rotation-historical"]
 ---
 
 # Al Jarreau & Lou Rawls
 
-**Category:** [[Jazz]]
+**Category:** [[Soul, Funk & R&B]]
 
 **Rotation:** historical — never streamed.
 

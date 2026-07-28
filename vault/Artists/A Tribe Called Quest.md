@@ -1,7 +1,7 @@
 ---
 type: "artist"
 category: "Hip-Hop"
-subcategory: "Underground"
+subcategory: "Golden Age"
 era: "1990s"
 rotation: "current"
 plays: 55
@@ -12,7 +12,7 @@ tags: ["artist", "hip-hop", "rotation-current"]
 
 # A Tribe Called Quest
 
-**Category:** Hip-Hop › [[Underground]]
+**Category:** Hip-Hop › [[Golden Age]]
 
 **Rotation:** current — still in play. 15 plays in the trailing 18 months (55 lifetime, 3 h), last on 2026-07-01.
 

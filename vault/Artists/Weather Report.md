@@ -1,6 +1,7 @@
 ---
 type: "artist"
 category: "Jazz"
+subcategory: "Fusion"
 era: "1970s-80s"
 rotation: "historical"
 plays: 7
@@ -11,7 +12,7 @@ tags: ["artist", "jazz", "rotation-historical"]
 
 # Weather Report
 
-**Category:** [[Jazz]]
+**Category:** Jazz › [[Fusion]]
 
 **Rotation:** historical — effectively absent from the stream. 7 lifetime plays, none recent, last on 2021-05-20.
 

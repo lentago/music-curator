@@ -1,16 +1,16 @@
 ---
 type: "artist"
-category: "Country & Americana"
+category: "Folk & Singer-Songwriter"
 era: "1990s-2000s"
 rotation: "historical"
 album_count: 2
 collaborators: ["Billy Bragg"]
-tags: ["artist", "country-americana", "rotation-historical"]
+tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 ---
 
 # Billy Bragg & Wilco - Mermaid avenue (Vol 1 & 2)
 
-**Category:** [[Country & Americana]]
+**Category:** [[Folk & Singer-Songwriter]]
 
 **Rotation:** historical — never streamed.
 

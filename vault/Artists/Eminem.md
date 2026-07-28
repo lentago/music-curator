@@ -1,6 +1,7 @@
 ---
 type: "artist"
 category: "Hip-Hop"
+subcategory: "Mainstream"
 era: "1990s-now"
 rotation: "historical"
 plays: 2
@@ -11,7 +12,7 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 # Eminem
 
-**Category:** [[Hip-Hop]]
+**Category:** Hip-Hop › [[Mainstream]]
 
 **Rotation:** historical — effectively absent from the stream. 2 lifetime plays, none recent, last on 2023-12-28.
 

@@ -1,30 +1,28 @@
 ---
 type: "category"
-member_count: 19
+member_count: 17
 tags: ["category", "avant-garde-experimental"]
 ---
 
 # Avant-Garde & Experimental
 
-*Category — 19 artists in the collection.*
+*Category — 17 artists in the collection.*
 
 ## Artists
 - [[Bar Kokhba Sextet]]
 - [[Cracow Klezmer Band]]
-- [[Daniel Kahn & the Painted Bird]]
 - [[Electric Masada]]
 - [[Eszter Balint]]
 - [[John Zorn]]
 - [[John Zorn-Electric Masada]]
 - [[John Zorn-Masada Chamber Ensembles]]
 - [[Marc Ribot]]
-- [[Marc Ribot Y los Cubanos Postizos]]
 - [[Marvin Pontiac]]
 - [[Masada]]
 - [[Masada Quintet Featuring Joe Lovano]]
-- [[Medeski, Martin & Wood]]
 - [[Mike Patton]]
+- [[Mr. Bungle]]
 - [[Naked City]]
-- [[The Klezmatics]]
 - [[The Lounge Lizards]]
 - [[Trevor Dunn]]
+- [[William S. Burroughs]]

@@ -1,16 +1,16 @@
 ---
 type: "artist"
-category: "Blues"
+category: "Country & Americana"
 era: "2006"
 rotation: "historical"
 album_count: 1
 collaborators: ["Mark Knopfler", "Emmylou Harris"]
-tags: ["artist", "blues", "rotation-historical"]
+tags: ["artist", "country-americana", "rotation-historical"]
 ---
 
 # Mark Knopfler And Emmylou Harris
 
-**Category:** [[Blues]]
+**Category:** [[Country & Americana]]
 
 **Rotation:** historical — never streamed.
 

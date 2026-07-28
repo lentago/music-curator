@@ -1,17 +1,18 @@
 ---
 type: "artist"
-category: "Jazz"
+category: "Rock"
+subcategory: "Classic Rock"
 era: "1960s-now"
 rotation: "historical"
 plays: 3
 last_played: "2022-05-22"
 album_count: 2
-tags: ["artist", "jazz", "rotation-historical"]
+tags: ["artist", "rock", "rotation-historical"]
 ---
 
 # Jeff Beck
 
-**Category:** [[Jazz]]
+**Category:** Rock › [[Classic Rock]]
 
 **Rotation:** historical — effectively absent from the stream. 3 lifetime plays, none recent, last on 2022-05-22.
 

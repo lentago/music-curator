@@ -1,13 +1,13 @@
 ---
 type: "subcategory"
 category: "Electronic"
-member_count: 7
+member_count: 6
 tags: ["subcategory", "electronic"]
 ---
 
 # Industrial & EBM
 
-*Subcategory of [[Electronic]] — 7 artists.*
+*Subcategory of [[Electronic]] — 6 artists.*
 
 ## Artists
 - [[cEvin Key_Ken Marshall]]
@@ -16,4 +16,3 @@ tags: ["subcategory", "electronic"]
 - [[Nine Inch Nails]]
 - [[Pop Will Eat Itself]]
 - [[Skinny Puppy]]
-- [[White Zombie]]

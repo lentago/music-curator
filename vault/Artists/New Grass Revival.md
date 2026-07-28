@@ -1,7 +1,7 @@
 ---
 type: "artist"
 category: "Country & Americana"
-subcategory: "Bluegrass"
+subcategory: "Newgrass"
 rotation: "historical"
 plays: 3
 last_played: "2022-05-01"
@@ -11,7 +11,7 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 # New Grass Revival
 
-**Category:** Country & Americana › [[Bluegrass]]
+**Category:** Country & Americana › [[Newgrass]]
 
 **Rotation:** historical — effectively absent from the stream. 3 lifetime plays, none recent, last on 2022-05-01.
 

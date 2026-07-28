@@ -1,7 +1,6 @@
 ---
 type: "artist"
 category: "Country & Americana"
-subcategory: "Bluegrass"
 era: "1990s-now"
 rotation: "historical"
 plays: 1
@@ -12,7 +11,7 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 # Gillian Welch
 
-**Category:** Country & Americana › [[Bluegrass]]
+**Category:** [[Country & Americana]]
 
 **Rotation:** historical — effectively absent from the stream. 1 lifetime play, none recent, last on 2019-12-27.
 

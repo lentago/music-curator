@@ -1,7 +1,7 @@
 ---
 type: "artist"
 category: "Rock"
-subcategory: "Classic Rock"
+subcategory: "Indie & Alternative"
 era: "2000s-now"
 rotation: "historical"
 plays: 1
@@ -12,7 +12,7 @@ tags: ["artist", "rock", "rotation-historical"]
 
 # My Morning Jacket
 
-**Category:** Rock › [[Classic Rock]]
+**Category:** Rock › [[Indie & Alternative]]
 
 **Rotation:** historical — effectively absent from the stream. 1 play in the trailing 18 months (1 lifetime), last on 2026-06-24.
 

@@ -1,16 +1,16 @@
 ---
 type: "artist"
-category: "Electronic"
-subcategory: "Industrial & EBM"
+category: "Rock"
+subcategory: "Metal"
 era: "1985-1996"
 rotation: "historical"
 album_count: 1
-tags: ["artist", "electronic", "rotation-historical"]
+tags: ["artist", "rock", "rotation-historical"]
 ---
 
 # White Zombie
 
-**Category:** Electronic › [[Industrial & EBM]]
+**Category:** Rock › [[Metal]]
 
 **Rotation:** historical — never streamed.
 

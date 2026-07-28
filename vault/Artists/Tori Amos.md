@@ -1,15 +1,14 @@
 ---
 type: "artist"
-category: "Rock"
-subcategory: "Classic Rock"
+category: "Folk & Singer-Songwriter"
 rotation: "historical"
 album_count: 1
-tags: ["artist", "rock", "rotation-historical"]
+tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 ---
 
 # Tori Amos
 
-**Category:** Rock › [[Classic Rock]]
+**Category:** [[Folk & Singer-Songwriter]]
 
 **Rotation:** historical — never streamed.
 

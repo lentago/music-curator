@@ -1,18 +1,18 @@
 ---
 type: "artist"
-category: "Electronic"
-subcategory: "Trip-Hop & Downtempo"
+category: "Hip-Hop"
+subcategory: "Turntablism & Beats"
 era: "2000s"
 rotation: "dormant"
 plays: 15
 last_played: "2024-06-12"
 album_count: 3
-tags: ["artist", "electronic", "rotation-dormant"]
+tags: ["artist", "hip-hop", "rotation-dormant"]
 ---
 
 # Odd Nosdam
 
-**Category:** Electronic › [[Trip-Hop & Downtempo]]
+**Category:** Hip-Hop › [[Turntablism & Beats]]
 
 **Rotation:** dormant — played, but not lately. 15 lifetime plays, none recent, last on 2024-06-12.
 

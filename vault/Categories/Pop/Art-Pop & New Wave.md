@@ -1,13 +1,13 @@
 ---
 type: "subcategory"
 category: "Pop"
-member_count: 26
+member_count: 22
 tags: ["subcategory", "pop"]
 ---
 
 # Art-Pop & New Wave
 
-*Subcategory of [[Pop]] — 26 artists.*
+*Subcategory of [[Pop]] — 22 artists.*
 
 ## Artists
 - [[Brazilian Girls]]
@@ -20,10 +20,8 @@ tags: ["subcategory", "pop"]
 - [[Imogen Heap]]
 - [[Kate Bush]]
 - [[Lorde]]
-- [[Nick Cave & the Bad Seeds]]
 - [[Peter Gabriel]]
 - [[Public Image Ltd]]
-- [[Radiohead]]
 - [[Roxy Music]]
 - [[Stereolab]]
 - [[Sting]]
@@ -32,7 +30,5 @@ tags: ["subcategory", "pop"]
 - [[The Flaming Lips]]
 - [[The Fools]]
 - [[The The]]
-- [[TV On The Radio]]
 - [[Ween]]
-- [[William S. Burroughs]]
 - [[XTC]]
