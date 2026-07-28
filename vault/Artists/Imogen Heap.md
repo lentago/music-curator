@@ -6,7 +6,7 @@ era: "1998-now"
 rotation: "dormant"
 plays: 100
 last_played: "2018-06-10"
-album_count: 11
+album_count: 10
 tags: ["artist", "pop", "rotation-dormant"]
 ---
 
@@ -20,15 +20,14 @@ tags: ["artist", "pop", "rotation-dormant"]
 
 **Session ties:** [[IAMX]] · [[Jeff Beck]]
 
-## Albums (11)
+## Albums (10)
 - Getting Scared (Single)
 - Goodnight And Go (Single)
 - Goodnight and Go [UK]
-- i-Megaphone
 - Other Songs
 - Shine (Single)
 - Soundtrack - Just Like Heaven
 - Soundtrack - The Chronicles of Narnia
 - Speak For Yourself
-- Unknown Album
-- Various Artists - New Dawn (Class of 94}
+- Various Artists - New Dawn (Class of 94)
+- i-Megaphone

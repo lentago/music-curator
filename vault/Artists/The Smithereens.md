@@ -15,7 +15,7 @@ tags: ["artist", "rock", "rotation-historical"]
 **Rotation:** historical — never streamed.
 
 ## Albums (4)
-- Anthology From Jersey It Came
-- From Jersey It Came! The Smithereens Ant
+- Anthology: From Jersey It Came
+- From Jersey It Came! The Smithereens Anthology
 - Green Thoughts
 - The Best Of The Smithereens

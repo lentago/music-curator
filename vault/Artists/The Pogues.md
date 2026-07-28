@@ -21,5 +21,5 @@ tags: ["artist", "rock", "rotation-current"]
 **Session ties:** [[Dropkick Murphys]] · [[Nick Cave & the Bad Seeds]]
 
 ## Albums (2)
-- If I Should Fall From Grace With God [Ex
+- If I Should Fall From Grace With God [Expanded]
 - Rum Sodomy & the Lash

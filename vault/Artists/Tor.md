@@ -17,6 +17,6 @@ tags: ["artist", "electronic", "rotation-historical"]
 **Rotation:** historical — effectively absent from the stream. 1 play in the trailing 18 months (1 lifetime), last on 2026-02-21.
 
 ## Albums (3)
-- cn tower mp3
+- CN Tower
 - Illinoize
 - Illinoize (instrumentals)

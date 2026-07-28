@@ -21,4 +21,4 @@ tags: ["artist", "soul-funk-r-b", "rotation-current", "source-follow"]
 **Followed:** on Spotify — backfilled, observed as of 2026-07-23 (original follow date and trigger song unknown).
 
 ## Albums (1)
-- High Times Singles 1992-2006
+- High Times: Singles 1992-2006

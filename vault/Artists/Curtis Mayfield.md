@@ -5,7 +5,7 @@ era: "1960s-70s"
 rotation: "dormant"
 plays: 45
 last_played: "2026-01-25"
-album_count: 4
+album_count: 3
 tags: ["artist", "soul-funk-r-b", "rotation-dormant"]
 ---
 
@@ -17,8 +17,7 @@ tags: ["artist", "soul-funk-r-b", "rotation-dormant"]
 
 **By year:** 2017 █22 · 2018 ▁1 · 2019 ▆17 · 2020 ▂2 · 2021 ▁1 · 2022 ▁1 · 2026 ▁1
 
-## Albums (4)
-- Curtis!
+## Albums (3)
 - Curtis Live!
+- Curtis!
 - Superfly
-- Unknown Album

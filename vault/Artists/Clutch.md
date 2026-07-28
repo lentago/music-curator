@@ -26,7 +26,7 @@ tags: ["artist", "rock", "rotation-current", "source-follow"]
 ## Albums (14)
 - Blast Tyrant
 - Blast Tyrant (Deluxe Edition)
-- clutch
+- Clutch
 - Clutch - Live in Flint Michigan 320kbps
 - Earth Rocker
 - From Beale Street To Oblivion

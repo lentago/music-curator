@@ -18,6 +18,75 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 INVENTORY = os.path.join(HERE, 'data', 'music-inventory.json')
 DEFAULT_OUT = '/mnt/lentago/web/music-categories/index.html'
 
+TITLE_DECISIONS = [
+    ('S1', 'Drop placeholder and non-album entries',
+     '20 entries removed: twelve titled "Unknown Album" (four with a rip '
+     'timestamp appended), two "Torrent downloaded from Demonoid.com.txt", a '
+     'tracklist .txt, and one "Amazon MP3". None was a record.'),
+    ('S2', 'Drop truncated copies whose full title is already present',
+     '25 albums appeared twice under one artist — once complete, once cut at '
+     'exactly 40 characters. The same duplication the merge pass fixed at '
+     'artist level, one tier down. Billy Bragg had three rips of one album, '
+     'two truncated.'),
+    ('S3', 'Restore title case, preserving known stylizations',
+     '23 filename-style titles repaired: hail_to_the_thief became "Hail to '
+     'the Thief". Deliberate stylizations were preserved by an explicit '
+     'table — eMOTIVe, cLOUDDEAD, Ritual de lo Habitual, The Dark Side of '
+     'the Moon (SACD).'),
+    ('S4', 'Restore punctuation only where unambiguous',
+     '17 titles regained a colon the ripper stripped. The rule requires '
+     'exactly one underscore, followed by a space and not preceded by one — '
+     'so "L_A_ Forum (Live_ 1975)" (which wants periods) and clause '
+     'separators like " _ " were left alone, along with 25 other ambiguous '
+     'underscores.'),
+    ('S5', 'Rename in credits.json in the same pass',
+     'Album titles are the join key for the personnel layer. 100 credits '
+     'keys were renamed or dropped alongside the inventory. Verified '
+     'afterwards: the repair introduced zero new mismatches, and the vault '
+     'still resolves 447 personnel edges.'),
+    ('R', '15 one-off reconstructions applied',
+     'Truncations with no surviving full-title sibling, repaired from '
+     'outside knowledge — Explosions in the Sky, Mew, The Pogues, The '
+     'Smithereens, John Zorn, Cracow Klezmer Band and others. Three rows '
+     'were deliberately left alone: two false positives that are genuinely '
+     '40 characters, and one unrecoverable title.'),
+]
+
+TITLE_OPEN = [
+    ('David Grisman Quintet', 'Album titled "1"',
+     'The artist\'s only album. Almost certainly a damaged folder name — the '
+     'debut is "The David Grisman Quintet" and there is also a "DGQ-20" — but '
+     'nothing in the data can recover it. Needs a look at the actual files.'),
+    ('Dub Kweli - produced by Max Tannone', 'Zero albums',
+     'Its only entry was a tracklist .txt, so dropping it left the artist '
+     'with nothing. The record was kept rather than deleted, since removing '
+     'an artist is destructive and the project is real — the library just '
+     'has no audio inventoried for it.'),
+    ('The Smithereens', 'Two titles for one compilation',
+     'Now holds both "From Jersey It Came! The Smithereens Anthology" and '
+     '"Anthology: From Jersey It Came" — the same release with the title '
+     'reversed. Word-order variants are invisible to prefix matching.'),
+    ('25 titles with ambiguous underscores', 'Left as-is',
+     'Where the substituted character is not clearly a colon — "Robot '
+     'Hive_Exodus", "I Love You Because_My Cherie", "[Fat Boy_Tomato]" — the '
+     'rule declines to guess. Most want a slash or a period.'),
+    ('Titles using "- " where a colon belongs', 'Left as-is',
+     'Some rips substituted a dash rather than an underscore, so "The '
+     'Bluegrass Sessions- Tales from the Acoustic Planet" keeps its dash '
+     'while the underscore equivalents gained colons. A dash is legitimate '
+     'in too many real titles to convert safely.'),
+]
+
+TITLE_SCOPE = [
+    ('The 492 credits keys with no matching owned album',
+     'Not damage. These are the discographies layer — John Zorn, Aesop Rock, '
+     'Talking Heads and Tom Waits are the four discography-seeded artists, '
+     'and personnel research legitimately covers records the collection does '
+     'not own. Confirmed unchanged by this pass.'),
+    ('Album ordering', 'Repaired artists have their album lists rebuilt as a '
+     'sorted set, the same side effect the merge pass introduced.'),
+]
+
 DEDUP_DECISIONS = [
     ('D1', 'Canonical spelling follows the artist\'s official styling',
      'Grateful Dead loses its article, The Magnetic Fields keeps its, Sigur '
@@ -253,11 +322,21 @@ def main():
     ap.add_argument('--ref', default='HEAD')
     ap.add_argument('--out', default=DEFAULT_OUT)
     ap.add_argument('--pass', dest='pass_', default='revision',
-                    choices=['revision', 'reservoir', 'dedup'],
+                    choices=['revision', 'reservoir', 'dedup', 'titles'],
                     help='which pass this page records')
     args = ap.parse_args()
 
-    if args.pass_ == 'dedup':
+    if args.pass_ == 'titles':
+        decisions, open_items, scope = (
+            TITLE_DECISIONS, TITLE_OPEN, TITLE_SCOPE)
+        heading = 'Music collection — album title repair'
+        intro = ('The library was ripped by tooling that truncated titles at '
+                 'exactly 40 characters, replaced characters Windows forbids '
+                 'in filenames, and sometimes wrote a folder name where a '
+                 'title belongs. 101 of 1115 live album titles carried some '
+                 'form of that damage. Album titles are the join key for '
+                 'credits.json, so every repair was mirrored there.')
+    elif args.pass_ == 'dedup':
         decisions, open_items, scope = (
             DEDUP_DECISIONS, DEDUP_OPEN, DEDUP_SCOPE)
         heading = 'Music collection — duplicate merge'
@@ -305,8 +384,8 @@ def main():
             return 'untagged'
         return c + (f' › {s}' if s and s != '—' else '')
 
-    if args.pass_ == 'dedup':
-        # A merge pass barely moves categories; what changed is which keys
+    if args.pass_ in ('dedup', 'titles'):
+        # A merge or title pass barely moves categories; what changed is which keys
         # survive and how many albums they carry.
         retired = sorted(set(old) - set(new))
         added = sorted(set(new) - set(old))
@@ -394,7 +473,14 @@ def main():
     def stat(v, label):
         return f'<div class="stat"><b>{v}</b><span>{label}</span></div>'
 
-    if args.pass_ == 'dedup':
+    if args.pass_ == 'titles':
+        oa = sum(len(r.get('albums') or []) for r in old.values())
+        na = sum(len(r.get('albums') or []) for r in new.values())
+        stats_html = (stat(101, 'titles repaired')
+                      + stat(oa - na, 'entries dropped')
+                      + stat(na, 'albums remaining')
+                      + stat(0, 'new credits mismatches'))
+    elif args.pass_ == 'dedup':
         stats_html = (stat(len(set(old) - set(new)), 'keys retired')
                       + stat(len(new), 'artists remaining')
                       + stat(sum(len(r.get('albums') or [])

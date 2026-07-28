@@ -17,4 +17,4 @@ tags: ["artist", "rock", "rotation-historical"]
 ## Albums (3)
 - A Triumph For Man
 - Frengers
-- No More Stories Are Told Today I'm Sorry
+- No More Stories Are Told Today, I'm Sorry They Washed Away // No More Stories, The World Is Grey, I'm Tired, Let's Wash Away

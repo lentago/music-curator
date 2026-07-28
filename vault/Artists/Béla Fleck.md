@@ -6,7 +6,7 @@ era: "1980s-now"
 rotation: "dormant"
 plays: 46
 last_played: "2023-03-18"
-album_count: 7
+album_count: 6
 tags: ["artist", "country-americana", "rotation-dormant"]
 ---
 
@@ -20,11 +20,10 @@ tags: ["artist", "country-americana", "rotation-dormant"]
 
 **Session ties:** [[Alison Brown]] · [[Béla Fleck & the Flecktones]] · [[David Grisman]] · [[Edgar Meyer]] · [[Edgar Meyer_Béla Fleck_Mike Marshall]] · [[Jerry Douglas]] · [[Joshua Bell-Edgar Meyer-Sam Bush-Mike Marshall]] · [[Leftover Salmon]] · [[Mike Marshall]] · [[Phish]] · [[Russ Barenberg]] · [[Sam Bush]] · [[Strength in Numbers]] · [[Stuart Duncan]] · [[Tony Rice Unit]] · [[Vishwa Mohan Bhatt With Bela Fleck and Jie Bing Chen]] · [[Yo-Yo Ma-Edgar Meyer-Mark O'Connor]]
 
-## Albums (7)
+## Albums (6)
 - Drive
 - Natural Bridge
 - Perpetual Motion
 - Places
 - Tales From the Acoustic Planet
-- The Bluegrass Sessions Tales from the A
 - The Bluegrass Sessions- Tales from the Acoustic Planet, Vol. 2

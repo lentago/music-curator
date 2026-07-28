@@ -1,7 +1,7 @@
 {
   "meta": {
     "total_unique_artists": 711,
-    "total_albums": 1289,
+    "total_albums": 1239,
     "compilation_albums": 81,
     "unknown_artist_albums": 27,
     "tagged_artists": 578,
@@ -120,9 +120,9 @@
     },
     "A Perfect Circle": {
       "albums": [
-        "emotive",
         "Mer de Noms",
-        "Thirteenth Step"
+        "Thirteenth Step",
+        "eMOTIVe"
       ],
       "album_count": 3,
       "tagged": true,
@@ -428,7 +428,7 @@
     },
     "Anticon": {
       "albums": [
-        "we_ain't_fessin'_(double_quotes)"
+        "We Ain't Fessin' (Double Quotes)"
       ],
       "album_count": 1,
       "era": "1998-2010s",
@@ -440,7 +440,7 @@
     "Antipop Consortium": {
       "albums": [
         "Antipop vs. Matthew Shipp",
-        "arrhythmia"
+        "Arrhythmia"
       ],
       "album_count": 2,
       "tagged": true,
@@ -523,10 +523,9 @@
     "Atmosphere": {
       "albums": [
         "God Loves Ugly",
-        "When Life Gives You Lemons, You Paint Th",
         "When Life Gives You Lemons, You Paint That Shit Gold"
       ],
-      "album_count": 3,
+      "album_count": 2,
       "era": "1997-now",
       "tagged": true,
       "category": "Hip-Hop",
@@ -676,7 +675,7 @@
         "Conceived - EP",
         "Daybreaker",
         "Heart of Soul - Single",
-        "Pass in Time - The Definitive Collection",
+        "Pass in Time: The Definitive Collection",
         "The Other Side of Daybreak",
         "Trailer Park"
       ],
@@ -699,10 +698,9 @@
     },
     "Bill Frisell": {
       "albums": [
-        "Amazon MP3",
         "Nashville"
       ],
-      "album_count": 2,
+      "album_count": 1,
       "tagged": true,
       "era": "1980s-now",
       "category": "Jazz",
@@ -720,10 +718,9 @@
     },
     "Bill Withers": {
       "albums": [
-        "Lean on Me_ The Best of Bill",
-        "Lean on Me_ The Best of Bill Withers"
+        "Lean on Me: The Best of Bill Withers"
       ],
-      "album_count": 2,
+      "album_count": 1,
       "tagged": true,
       "era": "1970s",
       "category": "Soul, Funk & R&B",
@@ -733,13 +730,10 @@
       "albums": [
         "Back to Basics",
         "Mr. Love & Justice",
-        "Must I Paint You a Picture_ - The Essent",
-        "Must I Paint You a Picture_ The Essentia",
-        "Must I Paint You a Picture_ - The Essential Billy Bragg",
-        "Unknown Album",
+        "Must I Paint You a Picture? The Essential Billy Bragg",
         "Workers Playtime"
       ],
-      "album_count": 7,
+      "album_count": 4,
       "tagged": true,
       "era": "1980s-now",
       "category": "Folk & Singer-Songwriter",
@@ -1028,10 +1022,9 @@
         "Perpetual Motion",
         "Places",
         "Tales From the Acoustic Planet",
-        "The Bluegrass Sessions_ Tales from the A",
         "The Bluegrass Sessions- Tales from the Acoustic Planet, Vol. 2"
       ],
-      "album_count": 7,
+      "album_count": 6,
       "tagged": true,
       "era": "1980s-now",
       "category": "Country & Americana",
@@ -1219,7 +1212,7 @@
       "albums": [
         "Blast Tyrant",
         "Blast Tyrant (Deluxe Edition)",
-        "clutch",
+        "Clutch",
         "Clutch - Live in Flint Michigan 320kbps",
         "Earth Rocker",
         "From Beale Street To Oblivion",
@@ -1265,11 +1258,10 @@
         "A Rush Of Blood To The Head",
         "Parachutes",
         "Violet Hill - Single",
-        "Viva La Vida Or Death And All His Friend",
         "Viva La Vida Or Death And All His Friends",
         "X&Y"
       ],
-      "album_count": 6,
+      "album_count": 5,
       "tagged": true,
       "era": "2000s-now",
       "category": "Rock",
@@ -1310,7 +1302,7 @@
     },
     "Cracow Klezmer Band": {
       "albums": [
-        "Masada Book II - The Book Of Angels - Vo"
+        "Masada Book II - The Book Of Angels - Vol. 5: Balan"
       ],
       "album_count": 1,
       "tagged": true,
@@ -1320,7 +1312,7 @@
     },
     "Creedence Clearwater Revival": {
       "albums": [
-        "Chronicle_ 20 Greatest Hits"
+        "Chronicle: 20 Greatest Hits"
       ],
       "album_count": 1,
       "tagged": true,
@@ -1343,12 +1335,11 @@
     },
     "Curtis Mayfield": {
       "albums": [
-        "Curtis!",
         "Curtis Live!",
-        "Superfly",
-        "Unknown Album"
+        "Curtis!",
+        "Superfly"
       ],
-      "album_count": 4,
+      "album_count": 3,
       "tagged": true,
       "era": "1960s-70s",
       "category": "Soul, Funk & R&B",
@@ -1472,10 +1463,9 @@
     },
     "DJ Ravin": {
       "albums": [
-        "Huvafen Fushi Maldives_ Mixed by Ravin [",
         "Huvafen Fushi Maldives- Mixed by Ravin [Bonus DVD] Disc 1"
       ],
-      "album_count": 2,
+      "album_count": 1,
       "era": "2000s",
       "tagged": true,
       "category": "Electronic",
@@ -1486,10 +1476,9 @@
       "albums": [
         "Endtroducing",
         "The Outsider",
-        "The Private Press [Special Package] Disc",
         "The Private Press [Special Package] Disc 1"
       ],
-      "album_count": 4,
+      "album_count": 3,
       "era": "1996-now",
       "tagged": true,
       "category": "Hip-Hop",
@@ -1510,10 +1499,9 @@
     },
     "DJ Z-Trip & Radar": {
       "albums": [
-        "Live at the Future Primitive Soundsessio",
         "Live at the Future Primitive Soundsession, Vol. 2"
       ],
-      "album_count": 2,
+      "album_count": 1,
       "era": "2000s",
       "tagged": true,
       "category": "Hip-Hop",
@@ -1734,12 +1722,11 @@
     },
     "DeVotchKa": {
       "albums": [
-        "[2008] A Mad & Faithful Telling",
         "Curse Your Little Heart EP",
         "How It Ends",
-        "Unknown Album"
+        "[2008] A Mad & Faithful Telling"
       ],
-      "album_count": 4,
+      "album_count": 3,
       "tagged": true,
       "era": "2000s-now",
       "category": "Folk & Singer-Songwriter",
@@ -1765,10 +1752,9 @@
         "Romance Bloody Romance - Remixes & B-Sides",
         "Romantic Rights",
         "The Physical World [+digital booklet]",
-        "Torrent downloaded from Demonoid.com.txt",
         "You're A Woman, I'm A Machine"
       ],
-      "album_count": 6,
+      "album_count": 5,
       "tagged": true,
       "era": "2000s-now",
       "category": "Rock",
@@ -1973,10 +1959,8 @@
       "rotation": "historical"
     },
     "Dub Kweli - produced by Max Tannone": {
-      "albums": [
-        "Dub Kweli - tracklist and information.txt"
-      ],
-      "album_count": 1,
+      "albums": [],
+      "album_count": 0,
       "era": "2010s",
       "tagged": true,
       "category": "Electronic",
@@ -2101,16 +2085,14 @@
     "Ella Fitzgerald": {
       "albums": [
         "Ella in Rome- The Birthday Concert",
-        "Oh, Lady, Be Good! Best of the Gershwin",
         "Oh, Lady, Be Good! Best of the Gershwin Songbook",
         "Quiet Now- Ella's Moods",
-        "Sings the Jerome Kern Song Book [Origina",
         "Sings the Jerome Kern Song Book [Original CD]",
         "Something to Live For Disc 1",
         "Something to Live For Disc 2",
         "The Best of the Songbooks- The Ballads"
       ],
-      "album_count": 9,
+      "album_count": 7,
       "era": "1934-1996",
       "tagged": true,
       "category": "Jazz",
@@ -2289,7 +2271,7 @@
     },
     "Explosions In The Sky": {
       "albums": [
-        "Those Who Tell the Truth Shall Die, Thos"
+        "Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever"
       ],
       "album_count": 1,
       "tagged": true,
@@ -2467,7 +2449,7 @@
     },
     "Franz Ferdinand": {
       "albums": [
-        "franz_ferdinand"
+        "Franz Ferdinand"
       ],
       "album_count": 1,
       "era": "2002-now",
@@ -2563,10 +2545,9 @@
     },
     "Genesis": {
       "albums": [
-        "Genesis Live_ The Way We Walk, Vol. 1 (T",
         "Genesis Live- The Way We Walk, Vol. 1 (The Shorts)"
       ],
-      "album_count": 2,
+      "album_count": 1,
       "tagged": true,
       "era": "1970s-80s",
       "category": "Rock",
@@ -2575,10 +2556,9 @@
     },
     "George Benson": {
       "albums": [
-        "The Best of George Benson [Warner Brothe",
         "The Best of George Benson [Warner Brothers]"
       ],
-      "album_count": 2,
+      "album_count": 1,
       "tagged": true,
       "era": "1970s-now",
       "category": "Jazz",
@@ -2746,10 +2726,9 @@
     },
     "Groovegrass": {
       "albums": [
-        "Groovegrass 101 Featuring Groovegrass Bo",
         "Groovegrass 101 Featuring Groovegrass Boyz"
       ],
-      "album_count": 2,
+      "album_count": 1,
       "tagged": true,
       "era": "1990s",
       "category": "Country & Americana",
@@ -2910,16 +2889,15 @@
         "Getting Scared (Single)",
         "Goodnight And Go (Single)",
         "Goodnight and Go [UK]",
-        "i-Megaphone",
         "Other Songs",
         "Shine (Single)",
         "Soundtrack - Just Like Heaven",
         "Soundtrack - The Chronicles of Narnia",
         "Speak For Yourself",
-        "Unknown Album",
-        "Various Artists - New Dawn (Class of 94}"
+        "Various Artists - New Dawn (Class of 94)",
+        "i-Megaphone"
       ],
-      "album_count": 11,
+      "album_count": 10,
       "era": "1998-now",
       "tagged": true,
       "category": "Pop",
@@ -3127,7 +3105,7 @@
     },
     "James Brown": {
       "albums": [
-        "The CD Of JB (Sex Machine & Other Soul C"
+        "The CD Of JB (Sex Machine & Other Soul Classics)"
       ],
       "album_count": 1,
       "tagged": true,
@@ -3147,7 +3125,7 @@
     },
     "Jamiroquai": {
       "albums": [
-        "High Times_ Singles 1992-2006"
+        "High Times: Singles 1992-2006"
       ],
       "album_count": 1,
       "tagged": true,
@@ -3157,8 +3135,8 @@
     },
     "Jane's Addiction": {
       "albums": [
-        "nothing's_shocking",
-        "ritual_de_lo_habitual",
+        "Nothing's Shocking",
+        "Ritual de lo Habitual",
         "Unknown Bootleg"
       ],
       "album_count": 3,
@@ -3193,10 +3171,9 @@
     },
     "Jeff Beck": {
       "albums": [
-        "Blow by Blow",
-        "Unknown Album"
+        "Blow by Blow"
       ],
-      "album_count": 2,
+      "album_count": 1,
       "tagged": true,
       "era": "1960s-now",
       "category": "Rock",
@@ -3284,11 +3261,9 @@
     "Jimi Hendrix": {
       "albums": [
         "Band Of Gypsys (Live)",
-        "Experience Hendrix_ The Best of Jimi Hen",
-        "Experience Hendrix- The Best of Jimi Hendrix",
-        "Unknown Album (8_20_2007 4_05_03 PM)"
+        "Experience Hendrix- The Best of Jimi Hendrix"
       ],
-      "album_count": 4,
+      "album_count": 2,
       "tagged": true,
       "era": "1960s-70s",
       "category": "Rock",
@@ -3370,19 +3345,16 @@
     },
     "John Zorn": {
       "albums": [
-        "Astaroth_ Book Of Angels Volume One - Ja",
-        "Cobra_ John Zorn's Game Pieces, Vol. 2 [",
+        "Astaroth: Book Of Angels Volume One - Jamie Saft Trio",
         "Cobra- John Zorn's Game Pieces, Vol. 2 [Tzadik]",
         "Elegy",
         "Godard-Spillane",
         "I.A.O",
         "Locus Solus",
-        "Lucifer_ The Book Of Angels Volume 10",
+        "Lucifer: The Book Of Angels Volume 10",
         "Masada Guitars",
         "Music Romance, Vol. 2- Taboo & Exile",
-        "Spy Vs. Spy_ The Music of Ornette Colema",
         "Spy Vs. Spy- The Music of Ornette Coleman",
-        "The Big Gundown_ John Zorn Plays the Mus",
         "The Big Gundown- John Zorn Plays the Music of Ennio Morricone",
         "The Circle Maker Disc 1",
         "The Circle Maker Disc 2",
@@ -3391,7 +3363,7 @@
         "Voices in the Wilderness Disc 1",
         "Voices in the Wilderness Disc 2"
       ],
-      "album_count": 20,
+      "album_count": 17,
       "era": "1980s-now",
       "tagged": true,
       "anchor": true,
@@ -3423,11 +3395,11 @@
     },
     "Johnny Cash": {
       "albums": [
-        "American III_ Solitary Man",
-        "American IV_ The Man Comes Around",
+        "American III: Solitary Man",
+        "American IV: The Man Comes Around",
         "American Recordings",
-        "American V_ A Hundred Highways",
-        "American VI_ Ain't No Grave",
+        "American V: A Hundred Highways",
+        "American VI: Ain't No Grave",
         "At Folsom Prison & San Quentin",
         "Murder",
         "Unchained"
@@ -3648,7 +3620,7 @@
     },
     "Lamb": {
       "albums": [
-        "between_darkness_and_wonder",
+        "Between Darkness and Wonder",
         "Lamb",
         "What Sound Disc 1"
       ],
@@ -3764,10 +3736,9 @@
     "Liz Phair": {
       "albums": [
         "Exile in Guyville",
-        "Unknown Album",
         "Whitechocolatespaceegg"
       ],
-      "album_count": 3,
+      "album_count": 2,
       "tagged": true,
       "era": "1990s-now",
       "category": "Rock",
@@ -3819,10 +3790,9 @@
     },
     "Los Amigos Invisibles": {
       "albums": [
-        "Arepa 3000_ A Venezuelan Journey Into Sp",
         "Arepa 3000- A Venezuelan Journey Into Space"
       ],
-      "album_count": 2,
+      "album_count": 1,
       "tagged": true,
       "era": "2000s",
       "category": "Latin",
@@ -3862,7 +3832,7 @@
     },
     "Louis Prima": {
       "albums": [
-        "Jump, Jive an' Wail_ The Essential Louis Prima"
+        "Jump, Jive an' Wail: The Essential Louis Prima"
       ],
       "album_count": 1,
       "tagged": true,
@@ -4087,10 +4057,9 @@
         "Masada- Live at Tonic, 2001 Disc 1",
         "Masada- Live at Tonic, 2001 Disc 2",
         "Masada- Live in Jerusalem Disc 1",
-        "Masada- Live in Jerusalem Disc 2",
-        "Unknown Album (8_20_2007 2_05_50 PM)"
+        "Masada- Live in Jerusalem Disc 2"
       ],
-      "album_count": 6,
+      "album_count": 5,
       "era": "1990s-now",
       "tagged": true,
       "category": "Avant-Garde & Experimental",
@@ -4098,7 +4067,7 @@
     },
     "Masada Quintet Featuring Joe Lovano": {
       "albums": [
-        "Stolas_ The Book Of Angels Volume 12"
+        "Stolas: The Book Of Angels Volume 12"
       ],
       "album_count": 1,
       "tagged": true,
@@ -4150,11 +4119,10 @@
     },
     "Medeski, Martin & Wood": {
       "albums": [
-        "Last Chance to Dance Trance (perhaps)_ B",
         "Last Chance to Dance Trance (perhaps)- Best Of (1991-1996)",
-        "Zaebos_ The Book Of Angels Volume 11"
+        "Zaebos: The Book Of Angels Volume 11"
       ],
-      "album_count": 3,
+      "album_count": 2,
       "tagged": true,
       "era": "1990s-now",
       "category": "Jazz",
@@ -4173,7 +4141,7 @@
     "Metric": {
       "albums": [
         "Fantasies",
-        "Old World Underground, Where Are You Now"
+        "Old World Underground, Where Are You Now?"
       ],
       "album_count": 2,
       "tagged": true,
@@ -4186,7 +4154,7 @@
       "albums": [
         "A Triumph For Man",
         "Frengers",
-        "No More Stories Are Told Today I'm Sorry"
+        "No More Stories Are Told Today, I'm Sorry They Washed Away // No More Stories, The World Is Grey, I'm Tired, Let's Wash Away"
       ],
       "album_count": 3,
       "tagged": true,
@@ -4224,10 +4192,9 @@
     },
     "The Microphones": {
       "albums": [
-        "The Glow, pt. 2",
-        "Unknown Album"
+        "The Glow, pt. 2"
       ],
-      "album_count": 2,
+      "album_count": 1,
       "tagged": true,
       "era": "2000s",
       "category": "Rock",
@@ -4296,11 +4263,10 @@
         "Good News For People Who Love Bad News",
         "Lonsesome Crowded West",
         "The Lonesome Crowded West",
-        "This Is A Long Drive For Someone With No",
         "This Is A Long Drive For Someone With Nothing To Think About",
         "We Were Dead Before The Ship Even Sank"
       ],
-      "album_count": 6,
+      "album_count": 5,
       "tagged": true,
       "era": "1990s-now",
       "category": "Rock",
@@ -4334,7 +4300,7 @@
       "albums": [
         "Cure for Pain",
         "Like Swimming",
-        "The Best of Morphine_ 1992-1995",
+        "The Best of Morphine: 1992-1995",
         "The Night"
       ],
       "album_count": 4,
@@ -4369,7 +4335,7 @@
     },
     "Mr. Bungle": {
       "albums": [
-        "california",
+        "California",
         "Disco Volante",
         "Mr. Bungle"
       ],
@@ -4451,10 +4417,9 @@
         "At Dawn",
         "At Dawn (Disc 1)",
         "The Tennessee Fire",
-        "To the moon LP",
-        "Unknown Album"
+        "To the moon LP"
       ],
-      "album_count": 5,
+      "album_count": 4,
       "tagged": true,
       "era": "2000s-now",
       "category": "Rock",
@@ -4506,10 +4471,9 @@
     },
     "Naked City": {
       "albums": [
-        "Naked City Live, Vol. 1_ Knitting Factor",
         "Naked City Live, Vol. 1- Knitting Factory 1989"
       ],
-      "album_count": 2,
+      "album_count": 1,
       "tagged": true,
       "era": "1990s",
       "category": "Avant-Garde & Experimental",
@@ -4573,10 +4537,9 @@
       "albums": [
         "Happy Birthday to You - Disc 4",
         "In The Aeroplane Over The Sea",
-        "Live in San Francisco 4_12_98",
-        "Unknown Album"
+        "Live in San Francisco 4_12_98"
       ],
-      "album_count": 4,
+      "album_count": 3,
       "tagged": true,
       "era": "1990s",
       "category": "Rock",
@@ -4934,8 +4897,8 @@
     },
     "Pink Floyd": {
       "albums": [
+        "The Dark Side of the Moon (SACD)",
         "The Dark Side of the Moon [Gold Disc]",
-        "the_dark_side_of_the_moon_(sacd)",
         "The Final Cut"
       ],
       "album_count": 3,
@@ -4959,7 +4922,7 @@
     },
     "Pop Will Eat Itself": {
       "albums": [
-        "dos_dedos_mis_amigos"
+        "Dos Dedos Mis Amigos"
       ],
       "album_count": 1,
       "tagged": true,
@@ -4993,9 +4956,9 @@
     },
     "Primus": {
       "albums": [
+        "Frizzle Fry (Remaster)",
         "Frizzle Fry [Bonus Track]",
-        "frizzle_fry_(remaster)",
-        "miscellaneous_debris",
+        "Miscellaneous Debris",
         "Sailing the Seas of Cheese [Plus Two]",
         "Suck on This"
       ],
@@ -5061,7 +5024,7 @@
     "Pulp": {
       "albums": [
         "Different Class",
-        "Pulp_ The Peel Sessions (Disc 2)",
+        "Pulp: The Peel Sessions (Disc 2)",
         "The Peel Sessions [CD 1]"
       ],
       "album_count": 3,
@@ -5108,10 +5071,10 @@
     },
     "Radiohead": {
       "albums": [
-        "hail_to_the_thief",
-        "i_might_be_wrong_-_live_recordings",
+        "Hail to the Thief",
+        "I Might Be Wrong - Live Recordings",
         "In Rainbows",
-        "kid_a",
+        "Kid A",
         "OK Computer",
         "Pablo Honey",
         "Radiohead - Pablo Honey",
@@ -5158,21 +5121,20 @@
     },
     "Ray Charles": {
       "albums": [
-        "Genius Loves Company",
         "Genius - The Ultimate Ray Charles Collection",
+        "Genius Loves Company",
         "His Greatest Hits, Vol. 1 [DCC]",
         "His Greatest Hits, Vol. 2 [DCC]",
-        "Modern Sounds in Country and Western Mus",
-        "Modern SoundsIn Country And Western Music, Vols 1 & 2",
+        "Modern Sounds in Country and Western Music, Vols 1 & 2",
         "More Music from Ray Disc 1",
-        "Ray Charles & Friends [Stardust]",
         "Ray - Original Motion Picture Soundtrack",
+        "Ray Charles & Friends [Stardust]",
         "Ray [Original Soundtrack]",
         "Shared Music",
         "The Early Years [Fat Boy_Tomato]",
         "The Genius Hits the Road"
       ],
-      "album_count": 13,
+      "album_count": 12,
       "era": "1949-2004",
       "tagged": true,
       "category": "Soul, Funk & R&B",
@@ -5380,17 +5342,15 @@
       "albums": [
         "Greatest Hits",
         "One Night Stand - Sam Cooke Live At The",
-        "Portrait of a Legend",
         "Portrait of a Legend 1951-1964",
         "Sam Cooke",
         "Sam Cooke At the Copa",
         "Shared",
         "The Best of Sam Cooke",
         "The Man And His Music",
-        "Unknown Album",
         "WINMX SOUNDS"
       ],
-      "album_count": 11,
+      "album_count": 9,
       "era": "1951-1964",
       "tagged": true,
       "category": "Soul, Funk & R&B",
@@ -5790,8 +5750,8 @@
     },
     "Stevie Wonder": {
       "albums": [
-        "Song Review_ A Greatest Hits Collection",
-        "Song Review- A Greatest Hits Collection Disc 2"
+        "Song Review- A Greatest Hits Collection Disc 2",
+        "Song Review: A Greatest Hits Collection"
       ],
       "album_count": 2,
       "tagged": true,
@@ -5806,10 +5766,9 @@
         "Mercury Falling",
         "Nothing Like the Sun",
         "The Dream Of The Blue Turtles",
-        "Unknown Album",
         "You Still Touch Me [#2]"
       ],
-      "album_count": 7,
+      "album_count": 6,
       "tagged": true,
       "era": "1980s-now",
       "category": "Pop",
@@ -5829,11 +5788,10 @@
     "Sufjan Stevens": {
       "albums": [
         "Come On Feel The Illinoise!",
-        "Greetings From Michigan_ The Great Lakes",
-        "Greetings From Michigan_ The Great Lakes State",
+        "Greetings From Michigan: The Great Lakes State",
         "Happy Birthday to You - Disc 4"
       ],
-      "album_count": 4,
+      "album_count": 3,
       "tagged": true,
       "era": "2000s-now",
       "category": "Folk & Singer-Songwriter",
@@ -6050,10 +6008,9 @@
     },
     "The Byrds": {
       "albums": [
-        "Sweetheart of the Rodeo",
-        "Unknown Album (8_20_2007 3_55_37 PM)"
+        "Sweetheart of the Rodeo"
       ],
-      "album_count": 2,
+      "album_count": 1,
       "tagged": true,
       "era": "1960s-70s",
       "category": "Rock",
@@ -6100,7 +6057,7 @@
     },
     "The Commodores": {
       "albums": [
-        "the_best_of_the_commodores"
+        "The Best of the Commodores"
       ],
       "album_count": 1,
       "tagged": true,
@@ -6255,10 +6212,9 @@
     },
     "The Hold Steady": {
       "albums": [
-        "Stay Positive",
-        "Unknown Album"
+        "Stay Positive"
       ],
-      "album_count": 2,
+      "album_count": 1,
       "tagged": true,
       "era": "2000s-now",
       "category": "Rock",
@@ -6361,7 +6317,7 @@
     },
     "The Neville Brothers": {
       "albums": [
-        "Uptown Rulin'_ The Best of the Neville B"
+        "Uptown Rulin': The Best of the Neville Brothers"
       ],
       "album_count": 1,
       "tagged": true,
@@ -6419,7 +6375,7 @@
     },
     "The Pogues": {
       "albums": [
-        "If I Should Fall From Grace With God [Ex",
+        "If I Should Fall From Grace With God [Expanded]",
         "Rum Sodomy & the Lash"
       ],
       "album_count": 2,
@@ -6511,8 +6467,8 @@
     },
     "The Smithereens": {
       "albums": [
-        "Anthology_ From Jersey It Came",
-        "From Jersey It Came! The Smithereens Ant",
+        "Anthology: From Jersey It Came",
+        "From Jersey It Came! The Smithereens Anthology",
         "Green Thoughts",
         "The Best Of The Smithereens"
       ],
@@ -6657,7 +6613,6 @@
         "Culture of Fear",
         "Radio Retaliation",
         "Radio Retaliation Extras",
-        "Sounds from the Thievery Hi-Fi [Bonus Tr",
         "Sounds from the Thievery Hi-Fi [Bonus Tracks]",
         "The Cosmic Game",
         "The Mirror Conspiracy",
@@ -6665,7 +6620,7 @@
         "The Richest Man in Babylon",
         "Versions"
       ],
-      "album_count": 12,
+      "album_count": 11,
       "era": "1995-now",
       "tagged": true,
       "category": "Electronic",
@@ -6703,7 +6658,7 @@
     },
     "Tom Waits": {
       "albums": [
-        "alice",
+        "Alice",
         "Bad As Me",
         "Big Time",
         "Blood money",
@@ -6747,11 +6702,9 @@
     "Tony Bennett": {
       "albums": [
         "For Once In My Life",
-        "The Essential Tony Bennett [Columbia_Leg",
-        "The Essential Tony Bennett [Columbia-Legacy] Disc 1",
-        "Unknown Album (8_21_2007 9_25_05 PM)"
+        "The Essential Tony Bennett [Columbia-Legacy] Disc 1"
       ],
-      "album_count": 4,
+      "album_count": 2,
       "tagged": true,
       "era": "1950s-now",
       "category": "Jazz",
@@ -6788,7 +6741,7 @@
     },
     "Tor": {
       "albums": [
-        "cn_tower_mp3",
+        "CN Tower",
         "Illinoize",
         "Illinoize (instrumentals)"
       ],
@@ -6908,10 +6861,9 @@
     "Umphrey's McGee": {
       "albums": [
         "2004-06-11 Bonnaroo",
-        "2005-03-12 Langerado Festival - Sunrise,",
         "2005-03-12 Langerado Festival - Sunrise, FL"
       ],
-      "album_count": 3,
+      "album_count": 2,
       "tagged": true,
       "era": "2000s-now",
       "category": "Rock",
@@ -6938,12 +6890,11 @@
     },
     "Urban Dance Squad": {
       "albums": [
-        "Life 'n Perspective of a Genuine Crossov",
         "Life 'n Perspective of a Genuine Crossover Disc 1",
         "Mental Floss for the Globe [Bonus Disc]",
         "Mental Floss for the Globe [Bonus Disc] Disc 1"
       ],
-      "album_count": 4,
+      "album_count": 3,
       "tagged": true,
       "era": "1990s",
       "category": "Rock",
@@ -7043,10 +6994,9 @@
     },
     "WEATHERMEN": {
       "albums": [
-        "Torrent downloaded from Demonoid.com.txt",
         "Weathermen-The_Conspiracy-(Retail)-2003-CMS"
       ],
-      "album_count": 2,
+      "album_count": 1,
       "tagged": true,
       "era": "2000s",
       "category": "Hip-Hop",
@@ -7055,8 +7005,8 @@
     },
     "Warren Zevon - I'll Sleep When I'm Dead (An Anthology)": {
       "albums": [
-        "Disc 1",
-        "Disc 2",
+        "I'll Sleep When I'm Dead (An Anthology) Disc 1",
+        "I'll Sleep When I'm Dead (An Anthology) Disc 2",
         "Warren Zevon - I'll Sleep When I'm Dead Scans"
       ],
       "album_count": 3,
@@ -7156,10 +7106,9 @@
     },
     "William S. Burroughs": {
       "albums": [
-        "spare_ass_annie",
         "Spare Ass Annie and Other Tales"
       ],
-      "album_count": 2,
+      "album_count": 1,
       "era": "1960s-1990s",
       "tagged": true,
       "category": "Avant-Garde & Experimental",
@@ -7357,8 +7306,8 @@
     },
     "cLOUDDEAD": {
       "albums": [
-        "clouddead",
-        "ten"
+        "Ten",
+        "cLOUDDEAD"
       ],
       "album_count": 2,
       "era": "2001-2004",
@@ -7369,7 +7318,7 @@
     },
     "dangerdoom": {
       "albums": [
-        "the_mouse_and_the_mask"
+        "The Mouse and the Mask"
       ],
       "album_count": 1,
       "tagged": true,

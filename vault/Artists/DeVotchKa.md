@@ -3,7 +3,7 @@ type: "artist"
 category: "Folk & Singer-Songwriter"
 era: "2000s-now"
 rotation: "historical"
-album_count: 4
+album_count: 3
 tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 ---
 
@@ -13,8 +13,7 @@ tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
-## Albums (4)
-- [2008] A Mad & Faithful Telling
+## Albums (3)
 - Curse Your Little Heart EP
 - How It Ends
-- Unknown Album
+- [2008] A Mad & Faithful Telling

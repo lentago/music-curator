@@ -4,7 +4,7 @@ category: "Electronic"
 subcategory: "Trip-Hop & Downtempo"
 era: "2000s"
 rotation: "historical"
-album_count: 2
+album_count: 1
 tags: ["artist", "electronic", "rotation-historical"]
 ---
 
@@ -14,6 +14,5 @@ tags: ["artist", "electronic", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
-## Albums (2)
-- Huvafen Fushi Maldives Mixed by Ravin [
+## Albums (1)
 - Huvafen Fushi Maldives- Mixed by Ravin [Bonus DVD] Disc 1

@@ -15,4 +15,4 @@ tags: ["artist", "rock", "rotation-historical"]
 **Rotation:** historical — never streamed.
 
 ## Albums (1)
-- franz ferdinand
+- Franz Ferdinand

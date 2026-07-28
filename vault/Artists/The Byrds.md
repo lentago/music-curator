@@ -4,7 +4,7 @@ category: "Rock"
 subcategory: "Classic Rock"
 era: "1960s-70s"
 rotation: "historical"
-album_count: 2
+album_count: 1
 tags: ["artist", "rock", "rotation-historical"]
 ---
 
@@ -16,6 +16,5 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Gram Parsons]]
 
-## Albums (2)
+## Albums (1)
 - Sweetheart of the Rodeo
-- Unknown Album (8 20 2007 3 55 37 PM)

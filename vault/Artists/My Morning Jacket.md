@@ -6,7 +6,7 @@ era: "2000s-now"
 rotation: "historical"
 plays: 1
 last_played: "2026-06-24"
-album_count: 5
+album_count: 4
 tags: ["artist", "rock", "rotation-historical"]
 ---
 
@@ -18,9 +18,8 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Monsters Of Folk]]
 
-## Albums (5)
+## Albums (4)
 - At Dawn
 - At Dawn (Disc 1)
 - The Tennessee Fire
 - To the moon LP
-- Unknown Album

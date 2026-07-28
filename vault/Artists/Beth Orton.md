@@ -21,6 +21,6 @@ tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 - Conceived - EP
 - Daybreaker
 - Heart of Soul - Single
-- Pass in Time - The Definitive Collection
+- Pass in Time: The Definitive Collection
 - The Other Side of Daybreak
 - Trailer Park

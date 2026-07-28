@@ -18,4 +18,4 @@ tags: ["artist", "electronic", "rotation-historical"]
 > fits industrial lane
 
 ## Albums (1)
-- dos dedos mis amigos
+- Dos Dedos Mis Amigos

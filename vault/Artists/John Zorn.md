@@ -6,7 +6,7 @@ rotation: "current"
 plays: 275
 last_played: "2025-12-20"
 followed_at: "2026-07-23"
-album_count: 20
+album_count: 17
 tags: ["artist", "avant-garde-experimental", "rotation-current", "source-follow"]
 ---
 
@@ -22,20 +22,17 @@ tags: ["artist", "avant-garde-experimental", "rotation-current", "source-follow"
 
 **Followed:** on Spotify — backfilled, observed as of 2026-07-23 (original follow date and trigger song unknown).
 
-## Albums (20)
-- Astaroth Book Of Angels Volume One - Ja
-- Cobra John Zorn's Game Pieces, Vol. 2 [
+## Albums (17)
+- Astaroth: Book Of Angels Volume One - Jamie Saft Trio
 - Cobra- John Zorn's Game Pieces, Vol. 2 [Tzadik]
 - Elegy
 - Godard-Spillane
 - I.A.O
 - Locus Solus
-- Lucifer The Book Of Angels Volume 10
+- Lucifer: The Book Of Angels Volume 10
 - Masada Guitars
 - Music Romance, Vol. 2- Taboo & Exile
-- Spy Vs. Spy The Music of Ornette Colema
 - Spy Vs. Spy- The Music of Ornette Coleman
-- The Big Gundown John Zorn Plays the Mus
 - The Big Gundown- John Zorn Plays the Music of Ennio Morricone
 - The Circle Maker Disc 1
 - The Circle Maker Disc 2

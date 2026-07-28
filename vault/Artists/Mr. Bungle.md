@@ -20,6 +20,6 @@ tags: ["artist", "avant-garde-experimental", "rotation-dormant"]
 **Session ties:** [[John Zorn]] · [[Mike Patton]] · [[Trevor Dunn]]
 
 ## Albums (3)
-- california
+- California
 - Disco Volante
 - Mr. Bungle

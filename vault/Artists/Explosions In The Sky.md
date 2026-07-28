@@ -15,4 +15,4 @@ tags: ["artist", "rock", "rotation-historical"]
 **Rotation:** historical — never streamed.
 
 ## Albums (1)
-- Those Who Tell the Truth Shall Die, Thos
+- Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever

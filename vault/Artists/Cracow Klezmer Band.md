@@ -16,4 +16,4 @@ tags: ["artist", "avant-garde-experimental", "rotation-historical"]
 **Session ties:** [[John Zorn]]
 
 ## Albums (1)
-- Masada Book II - The Book Of Angels - Vo
+- Masada Book II - The Book Of Angels - Vol. 5: Balan

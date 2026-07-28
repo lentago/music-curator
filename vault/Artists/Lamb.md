@@ -17,6 +17,6 @@ tags: ["artist", "electronic", "rotation-historical"]
 **Session ties:** [[Kruder & Dorfmeister]]
 
 ## Albums (3)
-- between darkness and wonder
+- Between Darkness and Wonder
 - Lamb
 - What Sound Disc 1

@@ -6,7 +6,7 @@ era: "1960s-now"
 rotation: "historical"
 plays: 3
 last_played: "2022-05-22"
-album_count: 2
+album_count: 1
 tags: ["artist", "rock", "rotation-historical"]
 ---
 
@@ -18,6 +18,5 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Imogen Heap]] · [[Seal]] · [[Stevie Wonder]]
 
-## Albums (2)
+## Albums (1)
 - Blow by Blow
-- Unknown Album

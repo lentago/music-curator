@@ -5,7 +5,7 @@ era: "1949-2004"
 rotation: "dormant"
 plays: 58
 last_played: "2025-12-11"
-album_count: 13
+album_count: 12
 tags: ["artist", "soul-funk-r-b", "rotation-dormant"]
 ---
 
@@ -19,16 +19,15 @@ tags: ["artist", "soul-funk-r-b", "rotation-dormant"]
 
 **Session ties:** [[Diana Krall]] · [[Norah Jones]] · [[Van Morrison]] · [[Willie Nelson]]
 
-## Albums (13)
-- Genius Loves Company
+## Albums (12)
 - Genius - The Ultimate Ray Charles Collection
+- Genius Loves Company
 - His Greatest Hits, Vol. 1 [DCC]
 - His Greatest Hits, Vol. 2 [DCC]
-- Modern Sounds in Country and Western Mus
-- Modern SoundsIn Country And Western Music, Vols 1 & 2
+- Modern Sounds in Country and Western Music, Vols 1 & 2
 - More Music from Ray Disc 1
-- Ray Charles & Friends [Stardust]
 - Ray - Original Motion Picture Soundtrack
+- Ray Charles & Friends [Stardust]
 - Ray [Original Soundtrack]
 - Shared Music
 - The Early Years [Fat Boy Tomato]

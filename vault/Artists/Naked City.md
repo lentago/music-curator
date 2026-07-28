@@ -3,7 +3,7 @@ type: "artist"
 category: "Avant-Garde & Experimental"
 era: "1990s"
 rotation: "historical"
-album_count: 2
+album_count: 1
 tags: ["artist", "avant-garde-experimental", "rotation-historical"]
 ---
 
@@ -15,6 +15,5 @@ tags: ["artist", "avant-garde-experimental", "rotation-historical"]
 
 **Session ties:** [[Bill Frisell]] · [[Joey Baron]] · [[John Zorn]] · [[Mike Patton]]
 
-## Albums (2)
-- Naked City Live, Vol. 1 Knitting Factor
+## Albums (1)
 - Naked City Live, Vol. 1- Knitting Factory 1989

@@ -16,5 +16,5 @@ tags: ["artist", "rock", "rotation-historical"]
 
 ## Albums (3)
 - Different Class
-- Pulp The Peel Sessions (Disc 2)
+- Pulp: The Peel Sessions (Disc 2)
 - The Peel Sessions [CD 1]

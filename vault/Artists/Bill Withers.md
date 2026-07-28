@@ -5,7 +5,7 @@ era: "1970s"
 rotation: "dormant"
 plays: 25
 last_played: "2026-06-06"
-album_count: 2
+album_count: 1
 tags: ["artist", "soul-funk-r-b", "rotation-dormant"]
 ---
 
@@ -17,6 +17,5 @@ tags: ["artist", "soul-funk-r-b", "rotation-dormant"]
 
 **By year:** 2017 ▆4 · 2018 ▅3 · 2019 ▅3 · 2020 █6 · 2022 ▃2 · 2024 ▃2 · 2025 ▅3 · 2026 ▃2
 
-## Albums (2)
-- Lean on Me The Best of Bill
-- Lean on Me The Best of Bill Withers
+## Albums (1)
+- Lean on Me: The Best of Bill Withers

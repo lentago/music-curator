@@ -3,7 +3,7 @@ type: "artist"
 category: "Avant-Garde & Experimental"
 era: "1960s-1990s"
 rotation: "historical"
-album_count: 2
+album_count: 1
 tags: ["artist", "avant-garde-experimental", "rotation-historical"]
 ---
 
@@ -15,6 +15,5 @@ tags: ["artist", "avant-garde-experimental", "rotation-historical"]
 
 **Session ties:** [[Charlie Hunter Quartet]] · [[The Disposable Heroes of Hiphoprisy]] · [[Tom Waits]]
 
-## Albums (2)
-- spare ass annie
+## Albums (1)
 - Spare Ass Annie and Other Tales

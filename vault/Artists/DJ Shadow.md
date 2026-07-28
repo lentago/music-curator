@@ -6,7 +6,7 @@ era: "1996-now"
 rotation: "historical"
 plays: 8
 last_played: "2026-07-07"
-album_count: 4
+album_count: 3
 tags: ["artist", "hip-hop", "rotation-historical"]
 ---
 
@@ -18,8 +18,7 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Blackalicious]] · [[Dan the Automator]] · [[DJ Krush]] · [[Dr. Octagon]] · [[Handsome Boy Modeling School]]
 
-## Albums (4)
+## Albums (3)
 - Endtroducing
 - The Outsider
-- The Private Press [Special Package] Disc
 - The Private Press [Special Package] Disc 1

@@ -19,4 +19,4 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 **Session ties:** [[Boom Bip]] · [[DJ Krush]] · [[Odd Nosdam]]
 
 ## Albums (1)
-- we ain't fessin' (double quotes)
+- We Ain't Fessin' (Double Quotes)

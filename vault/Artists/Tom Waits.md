@@ -20,7 +20,7 @@ tags: ["artist", "country-americana", "rotation-current"]
 **Session ties:** [[Greg Cohen]] · [[Kenny Wollesen]] · [[Los Lobos]] · [[Marc Ribot]] · [[Primus]] · [[Red Hot Chili Peppers]] · [[The Rolling Stones]] · [[William S. Burroughs]]
 
 ## Albums (20)
-- alice
+- Alice
 - Bad As Me
 - Big Time
 - Blood money

@@ -7,7 +7,7 @@ rotation: "historical"
 plays: 8
 last_played: "2026-02-11"
 followed_at: "2026-07-23"
-album_count: 3
+album_count: 2
 tags: ["artist", "hip-hop", "rotation-historical", "source-follow"]
 ---
 
@@ -21,7 +21,6 @@ tags: ["artist", "hip-hop", "rotation-historical", "source-follow"]
 
 **Followed:** on Spotify — backfilled, observed as of 2026-07-23 (original follow date and trigger song unknown).
 
-## Albums (3)
+## Albums (2)
 - God Loves Ugly
-- When Life Gives You Lemons, You Paint Th
 - When Life Gives You Lemons, You Paint That Shit Gold
