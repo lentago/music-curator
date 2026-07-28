@@ -6,7 +6,7 @@ era: "1980s-now"
 rotation: "current"
 plays: 24
 last_played: "2026-04-26"
-album_count: 1
+album_count: 2
 tags: ["artist", "rock", "rotation-current"]
 ---
 
@@ -18,7 +18,8 @@ tags: ["artist", "rock", "rotation-current"]
 
 **By year:** 2022 ▇7 · 2023 ▄3 · 2025 ▆6 · 2026 █8
 
-**Session ties:** [[The Mars Volta]] · [[Tom Waits]]
+**Session ties:** [[Johnny Cash]] · [[The Mars Volta]] · [[Tom Waits]]
 
-## Albums (1)
+## Albums (2)
+- Freaky Styley
 - Mother's Milk

@@ -16,7 +16,7 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Rotation:** historical — effectively absent from the stream. 1 lifetime play, none recent, last on 2022-12-12.
 
-**Session ties:** [[Beat Junkies]] · [[Madlib]] · [[Madvillain]]
+**Session ties:** [[Madlib]] · [[Madvillain]] · [[The Beat Junkies]]
 
 ## Albums (1)
 - The Unseen [Deluxe Edition] Disc 1

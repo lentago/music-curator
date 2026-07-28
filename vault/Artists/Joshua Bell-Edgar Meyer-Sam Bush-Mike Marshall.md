@@ -2,6 +2,7 @@
 type: "artist"
 category: "Country & Americana"
 subcategory: "Newgrass"
+era: "1990s-now"
 rotation: "historical"
 album_count: 1
 collaborators: ["Edgar Meyer", "Sam Bush", "Mike Marshall"]
@@ -16,7 +17,7 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **With:** [[Edgar Meyer]] · [[Sam Bush]] · [[Mike Marshall]]
 
-**Session ties:** [[Béla Fleck]] · [[Jerry Douglas_Russ Barenberg_Edgar Meyer]] · [[Joshua Bell_Edgar Meyer_Sam Bush_Mike Ma]]
+**Session ties:** [[Béla Fleck]] · [[Jerry Douglas_Russ Barenberg_Edgar Meyer]]
 
 ## Albums (1)
 - Short Trip Home

@@ -1,20 +1,19 @@
 ---
 type: "subcategory"
 category: "Pop"
-member_count: 22
+member_count: 21
 tags: ["subcategory", "pop"]
 ---
 
 # Art-Pop & New Wave
 
-*Subcategory of [[Pop]] — 22 artists.*
+*Subcategory of [[Pop]] — 21 artists.*
 
 ## Artists
 - [[Brazilian Girls]]
 - [[David Byrne]]
 - [[David Byrne & Brian Eno]]
 - [[dirty projectors]]
-- [[Dresden Dolls]]
 - [[Goldfrapp]]
 - [[Hanne Hukkelberg]]
 - [[Imogen Heap]]

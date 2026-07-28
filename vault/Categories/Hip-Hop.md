@@ -1,17 +1,17 @@
 ---
 type: "category"
-member_count: 104
+member_count: 103
 tags: ["category", "hip-hop"]
 ---
 
 # Hip-Hop
 
-*Category — 104 artists in the collection.*
+*Category — 103 artists in the collection.*
 
 ## Subcategories
 - [[Golden Age]] (9)
 - [[Mainstream]] (7)
-- [[Turntablism & Beats]] (25)
+- [[Turntablism & Beats]] (24)
 - [[Underground]] (62)
 
 ## Artists (no subcategory)

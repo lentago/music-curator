@@ -14,7 +14,9 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
+**Session ties:** [[LMNO]] · [[Quasimoto]]
+
 ## Albums (3)
-- The World Famous Beat Junkies, Vol. 2 Di
 - The World Famous Beat Junkies, Vol. 2 Disc 1
 - The World Famous Beat Junkies, Vol. 2 Disc 2
+- The World Famous Beat Junkies, Vol. 3

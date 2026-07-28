@@ -1,13 +1,13 @@
 ---
 type: "subcategory"
 category: "Rock"
-member_count: 16
+member_count: 15
 tags: ["subcategory", "rock"]
 ---
 
 # Classic Rock
 
-*Subcategory of [[Rock]] — 16 artists.*
+*Subcategory of [[Rock]] — 15 artists.*
 
 ## Artists
 - [[AC-DC]]
@@ -25,4 +25,3 @@ tags: ["subcategory", "rock"]
 - [[The Beatles]]
 - [[The Byrds]]
 - [[The Rolling Stones]]
-- [[TheBeatles-WhiteAbum-2009StereoRemaster]]

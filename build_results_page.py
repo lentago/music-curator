@@ -18,6 +18,73 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 INVENTORY = os.path.join(HERE, 'data', 'music-inventory.json')
 DEFAULT_OUT = '/mnt/lentago/web/music-categories/index.html'
 
+DEDUP_DECISIONS = [
+    ('D1', 'Canonical spelling follows the artist\'s official styling',
+     'Grateful Dead loses its article, The Magnetic Fields keeps its, Sigur '
+     'Rós keeps its accent. Twelve collection_match references in '
+     'credits.json pointed at a spelling that was retired and were remapped. '
+     'One canonical name is a third spelling belonging to neither record: '
+     '"Sonny Terry with Johnny Winter & Willie Dixon" restores a missing '
+     'space that both keys were missing.'),
+    ('D2', 'Leave the validator warnings in place',
+     'No allowlist added. This turned out better than the question assumed: '
+     'the near-dup report went from 13 pairs plus a hard normalization '
+     'collision down to a single warning — Charlie Hunter Quartet vs '
+     'Quintet. The other known-distinct pairs sit below the similarity '
+     'threshold and never warned. One standing warning is signal, not noise.'),
+    ('D3', 'Re-run streaming_merge.py to re-derive rotation',
+     'Rather than picking the more active of the two stamps, rotation was '
+     're-derived from the raw GDPR export against the merged roster, which '
+     'also rewrote the sidecar\'s inventory_key joins. 573 artists '
+     're-stamped.'),
+    ('A1', 'Two Wovenhand albums dropped from 16 Horsepower',
+     'blush_music and consider_the_birds already existed correctly under '
+     'Wovenhand. This was the three-family spread issue #42 describes: the '
+     'credits layer saw David Eugene Edwards across three artist families '
+     'when there are two. The 16 Horsepower note now carries a single clean '
+     'session tie to Wovenhand.'),
+    ('A2', 'All three Low Estate editions kept',
+     'Standard, Nouvelle and Tour Promo are distinct physical releases.'),
+    ('A3', 'Unresolvable Beat Junkies truncation dropped',
+     '"Vol. 2 Di" could have been either Disc 1 or Disc 2 — both present in '
+     'full — so it carried no information. The merge tool flags rather than '
+     'guesses on ambiguous truncations.'),
+    ('A4', '69 Love Songs box entry dropped, three volumes kept',
+     'The volumes are what is actually on disc.'),
+    ('A5', 'Combined Hvarf/Heim entry dropped, two disc entries kept',
+     'Consistent with how other multi-disc sets are listed.'),
+    ('A6', 'Both White Album rips repaired into one clean pair',
+     'Bare "Disc 1"/"Disc 2" and truncated "The Beatles Disc 1 (2009 Stere" '
+     'all became "The Beatles [White Album] Disc N".'),
+]
+
+DEDUP_OPEN = [
+    ('Charlie Hunter Quartet / Quintet', 'Both kept',
+     'The single remaining near-dup warning. They are genuinely different '
+     'ensembles, like the Masada family settled during the reservoir pass. '
+     'Kept as a standing warning per D2.'),
+    ('Abbey Road (2009 Stereo Remast', 'The Beatles',
+     'Still truncated. No decision covered it because it is not a duplicate '
+     '— but it is the same class of rip damage the White Album titles had, '
+     'and there are likely more across the collection.'),
+    ('Album lists are now alphabetically sorted',
+     'All merged records',
+     'The merge rebuilds album lists as a sorted set, so merged artists lost '
+     'their original rip ordering. Deterministic and diff-friendly, but it is '
+     'a real change to records that were otherwise untouched.'),
+]
+
+DEDUP_SCOPE = [
+    ('Truncated album titles across the rest of the collection',
+     'The White Album repair fixed four titles, but "Abbey Road (2009 Stereo '
+     'Remast" and others like it remain. A separate sweep, since it is rip '
+     'damage rather than duplication.'),
+    ('Nine discarded artists that still show streaming activity',
+     'Reported by streaming_merge.py — Beck, Frank Sinatra, The Lumineers '
+     'and others have plays above the floor despite being discarded. '
+     'Pre-existing, and the merge tool never auto-resurrects.'),
+]
+
 RESERVOIR_DECISIONS = [
     ('R1', 'Add Rock › Progressive, and re-file the existing members',
      'Six follows were progressive rock or prog-metal with no shelf that fit '
@@ -186,11 +253,21 @@ def main():
     ap.add_argument('--ref', default='HEAD')
     ap.add_argument('--out', default=DEFAULT_OUT)
     ap.add_argument('--pass', dest='pass_', default='revision',
-                    choices=['revision', 'reservoir'],
+                    choices=['revision', 'reservoir', 'dedup'],
                     help='which pass this page records')
     args = ap.parse_args()
 
-    if args.pass_ == 'reservoir':
+    if args.pass_ == 'dedup':
+        decisions, open_items, scope = (
+            DEDUP_DECISIONS, DEDUP_OPEN, DEDUP_SCOPE)
+        heading = 'Music collection — duplicate merge'
+        intro = ('Issue #42. Seventeen artists were carried under two '
+                 'spellings, fragmenting their albums, graph edges and '
+                 'rotation stamps across two nodes. Each merge retires one '
+                 'key and carries every sidecar that joins on it. The '
+                 'near-dup report went from 13 pairs plus a hard '
+                 'normalization collision down to one warning.')
+    elif args.pass_ == 'reservoir':
         decisions, open_items, scope = (
             RESERVOIR_DECISIONS, RESERVOIR_OPEN, RESERVOIR_SCOPE)
         heading = 'Music collection — reservoir intake'
@@ -228,11 +305,39 @@ def main():
             return 'untagged'
         return c + (f' › {s}' if s and s != '—' else '')
 
-    # --- change log, grouped by destination category ---
-    by_dest = collections.defaultdict(list)
-    for n in changed:
-        by_dest[new[n]['category']].append(n)
-    log_html = []
+    if args.pass_ == 'dedup':
+        # A merge pass barely moves categories; what changed is which keys
+        # survive and how many albums they carry.
+        retired = sorted(set(old) - set(new))
+        added = sorted(set(new) - set(old))
+        rows = ''.join(
+            f'<tr><td><strong>{esc(n)}</strong></td>'
+            f'<td class="from">retired</td><td class="to">merged away</td></tr>'
+            for n in retired)
+        rows += ''.join(
+            f'<tr><td><strong>{esc(n)}</strong></td>'
+            f'<td class="from">new key</td>'
+            f'<td class="to">{len(new[n].get("albums") or [])} albums</td></tr>'
+            for n in added)
+        alb = [(n, len(old[n].get('albums') or []),
+                len(new[n].get('albums') or []))
+               for n in new if n in old
+               and len(old[n].get('albums') or []) != len(new[n].get('albums') or [])]
+        rows += ''.join(
+            f'<tr><td><strong>{esc(n)}</strong></td>'
+            f'<td class="from">{o} albums</td>'
+            f'<td class="to">{p} albums</td></tr>'
+            for n, o, p in sorted(alb))
+        log_html = [f'<div class="table-wrap"><table><thead><tr>'
+                    f'<th>Artist</th><th>Was</th><th>Now</th></tr></thead>'
+                    f'<tbody>{rows}</tbody></table></div>']
+        by_dest = {}
+    else:
+        by_dest = collections.defaultdict(list)
+        for n in changed:
+            by_dest[new[n]['category']].append(n)
+    if by_dest:
+        log_html = []
     for cat in sorted(by_dest, key=lambda c: -len(by_dest[c])):
         rows = ''.join(
             f'<tr><td><strong>{esc(n)}</strong></td>'
@@ -286,7 +391,23 @@ def main():
     n_new_subs = sum(1 for (c, s) in ns if s != '—' and (c, s) not in os_)
     n_gone_subs = sum(1 for (c, s) in os_ if s != '—' and (c, s) not in ns)
 
+    def stat(v, label):
+        return f'<div class="stat"><b>{v}</b><span>{label}</span></div>'
+
+    if args.pass_ == 'dedup':
+        stats_html = (stat(len(set(old) - set(new)), 'keys retired')
+                      + stat(len(new), 'artists remaining')
+                      + stat(sum(len(r.get('albums') or [])
+                                 for r in new.values()), 'albums')
+                      + stat(1, 'near-dup warnings left'))
+    else:
+        stats_html = (stat(len(changed), 'records changed')
+                      + stat(n_new_subs, 'subcategories added')
+                      + stat(n_gone_subs, 'retired')
+                      + stat(sum(nc.values()), 'artists in scope'))
+
     page = TEMPLATE.format(
+        stats=stats_html,
         n_changed=len(changed),
         n_scope=sum(nc.values()),
         n_new_subs=n_new_subs,
@@ -405,12 +526,7 @@ TEMPLATE = r'''<!DOCTYPE html>
 <h1>{heading}</h1>
 <p class="sub">{intro}</p>
 
-<div class="stats">
-  <div class="stat"><b>{n_changed}</b><span>records changed</span></div>
-  <div class="stat"><b>{n_new_subs}</b><span>subcategories added</span></div>
-  <div class="stat"><b>{n_gone_subs}</b><span>retired</span></div>
-  <div class="stat"><b>{n_scope}</b><span>artists in scope</span></div>
-</div>
+<div class="stats">{stats}</div>
 
 <h2>Taxonomy decisions</h2>
 <p class="lead">Settled first, because each one changed the answers available

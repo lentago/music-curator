@@ -16,8 +16,8 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Rotation:** historical — effectively absent from the stream. 3 lifetime plays, none recent, last on 2024-01-27.
 
-**Session ties:** [[David Grisman]] · [[Jerry Garcia]] · [[Peter Rowan & Jerry Douglas]]
+**Session ties:** [[David Grisman]] · [[David Grisman Quintet]] · [[Jerry Garcia]] · [[Jerry Garcia & David Grisman]] · [[Jerry Garcia-David Grisman-Tony Rice]] · [[Peter Rowan & Jerry Douglas]]
 
 ## Albums (2)
-- Breakdown Live Recordings 1973
+- Breakdown- Live Recordings 1973
 - Old & In the Way

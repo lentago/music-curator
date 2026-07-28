@@ -1,16 +1,16 @@
 ---
 type: "category"
-member_count: 36
+member_count: 34
 tags: ["category", "pop"]
 ---
 
 # Pop
 
-*Category — 36 artists in the collection.*
+*Category — 34 artists in the collection.*
 
 ## Subcategories
-- [[Art-Pop & New Wave]] (22)
-- [[Indie & Synth-Pop]] (12)
+- [[Art-Pop & New Wave]] (21)
+- [[Indie & Synth-Pop]] (11)
 
 ## Artists (no subcategory)
 - [[Michael Jackson]]

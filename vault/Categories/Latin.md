@@ -1,12 +1,12 @@
 ---
 type: "category"
-member_count: 14
+member_count: 13
 tags: ["category", "latin"]
 ---
 
 # Latin
 
-*Category — 14 artists in the collection.*
+*Category — 13 artists in the collection.*
 
 ## Artists
 - [[Bad Bunny]]
@@ -15,7 +15,6 @@ tags: ["category", "latin"]
 - [[Gotan Project]]
 - [[Ilan Chester]]
 - [[Juan Luis Guerra 440]]
-- [[Juan Luis Guerra y 440]]
 - [[Los Amigos Invisibles]]
 - [[Los Lobos]]
 - [[Marc Ribot Y los Cubanos Postizos]]

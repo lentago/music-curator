@@ -4,7 +4,7 @@ category: "Rock"
 subcategory: "Indie & Alternative"
 era: "2000s"
 rotation: "historical"
-album_count: 1
+album_count: 2
 tags: ["artist", "rock", "rotation-historical"]
 ---
 
@@ -14,5 +14,6 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
-## Albums (1)
+## Albums (2)
 - The Glow, pt. 2
+- Unknown Album

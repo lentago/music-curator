@@ -15,11 +15,11 @@ Open the **graph view** with the `rotation` preset to see these colors laid over
 
 ## By the numbers
 
-- **37** current — still in play
-- **74** dormant — played, but not lately
-- **431** historical — effectively absent from the stream
+- **54** current — still in play
+- **85** dormant — played, but not lately
+- **434** historical — effectively absent from the stream
 
-## Current (37)
+## Current (54)
 
 Artists the collection has roots in that are still in play.
 
@@ -27,7 +27,10 @@ Artists the collection has roots in that are still in play.
 - [[AC-DC]]
 - [[Aesop Rock]]
 - [[Andrew Bird]]
+- [[Bad Bunny]]
 - [[Blockhead]]
+- [[Brad Mehldau]]
+- [[BUSDRIVER]]
 - [[Clutch]]
 - [[Daft Punk]]
 - [[De La Soul]]
@@ -35,33 +38,47 @@ Artists the collection has roots in that are still in play.
 - [[Ella Fitzgerald]]
 - [[Fishbone]]
 - [[Grateful Dead]]
+- [[Hail Mary Mallon]]
+- [[Hemlock Ernst]]
 - [[Herbie Hancock]]
+- [[Homeboy Sandman]]
 - [[Iron & Wine]]
+- [[Ishmael Ensemble]]
 - [[Jaco Pastorius]]
 - [[Jamiroquai]]
 - [[John Coltrane]]
 - [[John Zorn]]
+- [[Jonah Tolchin]]
+- [[Kenny Segal]]
 - [[Led Zeppelin]]
+- [[Lice]]
 - [[Medeski, Martin & Wood]]
 - [[Miles Davis]]
 - [[Modest Mouse]]
 - [[Nat King Cole]]
 - [[Nightmares on Wax]]
+- [[Orgone]]
+- [[OSI]]
 - [[Pink Floyd]]
+- [[Polyphia]]
+- [[Portico Quartet]]
 - [[Primus]]
+- [[Prof]]
 - [[Red Hot Chili Peppers]]
 - [[Rjd2]]
 - [[Stevie Wonder]]
 - [[The Beatles]]
+- [[The Budos Band]]
 - [[The Pogues]]
 - [[Thievery Corporation]]
+- [[Tingvall Trio]]
 - [[Tom Waits]]
 - [[Tony Bennett]]
 - [[Tool]]
 - [[Willie Nelson]]
 - [[Zero 7]]
 
-## Dormant (74)
+## Dormant (85)
 
 Streamed, but not lately — the re-entry candidates.
 
@@ -72,11 +89,13 @@ Streamed, but not lately — the re-entry candidates.
 - [[Bill Withers]]
 - [[Billy Preston]]
 - [[Blackalicious]]
+- [[Blackfield]]
 - [[Boards Of Canada]]
 - [[Boom Bip]]
 - [[Brooklyn Funk Essentials]]
 - [[Béla Fleck]]
 - [[Cake]]
+- [[Childish Gambino]]
 - [[Chris Stapleton]]
 - [[Creedence Clearwater Revival]]
 - [[Curtis Mayfield]]
@@ -87,6 +106,7 @@ Streamed, but not lately — the re-entry candidates.
 - [[Eric B & Rakim]]
 - [[Fischerspooner]]
 - [[Godspeed You! Black Emperor]]
+- [[GRiZ]]
 - [[Grizzly Bear]]
 - [[Guns N' Roses]]
 - [[Handsome Boy Modeling School]]
@@ -95,6 +115,7 @@ Streamed, but not lately — the re-entry candidates.
 - [[Jackie McLean]]
 - [[James Brown]]
 - [[Jimi Hendrix]]
+- [[Joey Eppard]]
 - [[Johnny Cash]]
 - [[Louis Armstrong]]
 - [[Marc Ribot]]
@@ -121,16 +142,22 @@ Streamed, but not lately — the re-entry candidates.
 - [[Sharon Jones & The Dap-Kings]]
 - [[Sia]]
 - [[Simon & Garfunkel]]
+- [[Sleepytime Gorilla Museum]]
+- [[St. Paul & The Broken Bones]]
 - [[Steely Dan]]
 - [[Stereolab]]
 - [[Steve Earle]]
+- [[Sturgill Simpson]]
 - [[Talking Heads]]
 - [[Tarbox Ramblers]]
 - [[The Band]]
 - [[The Egg]]
+- [[The Filthy Six]]
 - [[The Handsome Family]]
 - [[The Magnetic Fields]]
+- [[The Main Squeeze]]
 - [[The Mars Volta]]
+- [[The Motet]]
 - [[The Pharcyde]]
 - [[The Rolling Stones]]
 - [[The Seldom Scene]]
@@ -138,34 +165,30 @@ Streamed, but not lately — the re-entry candidates.
 - [[The Sword]]
 - [[Tim O'Brien]]
 - [[Trombone Shorty]]
+- [[Twelve Foot Ninja]]
 - [[Vince Guaraldi]]
 
-## Historical (431)
+## Historical (434)
 
 Owned but effectively unstreamed — too many to list; browse them with the `rotation` graph preset or the `#rotation-historical` tag.
 
-## In rotation, no collection roots (335)
+## In rotation, no collection roots (318)
 
 Artists above the current-rotation bar that the collection has **no** albums by — the exploration worklist, and the sharpest signal the streaming layer produces. Not wikilinked: they are not in the collection, so they are not nodes.
 
 - **314** recent plays — Puppy Songs
 - **221** recent plays — Frédéric Chopin
-- **208** recent plays — Lice
 - **190** recent plays — Deca
-- **182** recent plays — Homeboy Sandman
 - **173** recent plays — billy woods
 - **161** recent plays — Johann Sebastian Bach
 - **156** recent plays — Claude Debussy
-- **156** recent plays — Brad Mehldau
 - **117** recent plays — Ludovico Einaudi
-- **115** recent plays — Tingvall Trio
 - **98** recent plays — Johannes Brahms
 - **97** recent plays — Camille Saint-Saëns
 - **94** recent plays — Stephan Moccio
 - **94** recent plays — Dark Time Sunshine
 - **92** recent plays — Charlie Parker
 - **82** recent plays — Dusty Douglas
-- **79** recent plays — Hail Mary Mallon
 - **76** recent plays — Armand Hammer
 - **75** recent plays — Max Richter
 - **73** recent plays — Shad
@@ -175,7 +198,6 @@ Artists above the current-rotation bar that the collection has **no** albums by 
 - **65** recent plays — Malibu Ken
 - **64** recent plays — Danger Mouse
 - **63** recent plays — Jules Massenet
-- **62** recent plays — BUSDRIVER
 - **60** recent plays — Kidz Bop Kids
 - **60** recent plays — Wolfgang Amadeus Mozart
 - **59** recent plays — Glass Trio
@@ -188,9 +210,15 @@ Artists above the current-rotation bar that the collection has **no** albums by 
 - **50** recent plays — Dire Straits
 - **50** recent plays — Twi Shorts
 - **48** recent plays — Gustav Mahler
-- *…and 295 more below the top 40.*
+- **47** recent plays — Franz Liszt
+- **47** recent plays — Rob Sonic
+- **44** recent plays — clipping.
+- **43** recent plays — Jean-Philippe Rameau
+- **43** recent plays — Bruno Mars
+- **43** recent plays — Arnold Schoenberg
+- *…and 278 more below the top 40.*
 
-## Anchors off the rotation (49)
+## Anchors off the rotation (48)
 
 Deep shelf presence, absent from current play — the other half of the gap. Sorted by shelf weight.
 
@@ -201,25 +229,24 @@ Deep shelf presence, absent from current play — the other half of the gap. Sor
 | [[Ray Charles]] | 13 | dormant | 2025-12-11 |
 | [[Imogen Heap]] | 11 | dormant | 2018-06-10 |
 | [[Sam Cooke]] | 11 | dormant | 2024-06-08 |
-| [[Sigur Rós]] | 10 | historical | 2024-12-15 |
 | [[Illogic]] | 9 | historical | never |
+| [[16 Horsepower]] | 8 | historical | never |
 | [[Beth Orton]] | 8 | historical | never |
 | [[DJ Krush]] | 8 | dormant | 2026-01-04 |
 | [[Johnny Cash]] | 8 | dormant | 2024-05-27 |
 | [[Radiohead]] | 8 | dormant | 2026-01-25 |
-| [[Sixteen Horsepower]] | 8 | historical | never |
+| [[Sigur Rós]] | 8 | historical | 2024-12-15 |
 | [[Billy Bragg]] | 7 | historical | never |
 | [[Béla Fleck]] | 7 | dormant | 2023-03-18 |
-| [[Magnetic Fields]] | 7 | historical | never |
 | [[Sting]] | 7 | historical | 2023-06-25 |
 | [[Van Morrison]] | 7 | historical | 2024-07-11 |
-| [[16 Horsepower]] | 6 | historical | never |
 | [[Coldplay]] | 6 | historical | 2026-02-13 |
 | [[Deftones]] | 6 | historical | 2025-11-07 |
 | [[Jeff Buckley]] | 6 | historical | never |
 | [[Masada]] | 6 | historical | 2021-12-27 |
 | [[Phil & Phriends]] | 6 | historical | never |
 | [[Steve Earle]] | 6 | dormant | 2026-04-08 |
+| [[The Magnetic Fields]] | 6 | dormant | 2021-07-25 |
 | [[Built to Spill]] | 5 | historical | 2024-11-24 |
 | [[Béla Fleck & the Flecktones]] | 5 | historical | never |
 | [[Cat Power]] | 5 | historical | never |

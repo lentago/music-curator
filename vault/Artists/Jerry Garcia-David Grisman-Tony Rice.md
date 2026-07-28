@@ -16,7 +16,7 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **With:** [[Jerry Garcia]] · [[David Grisman]]
 
-**Session ties:** [[Old & in the Way-Jerry Garcia-David Grisman]] · [[Tony Rice Unit]]
+**Session ties:** [[Old & In the Way]] · [[Tony Rice Unit]]
 
 ## Albums (1)
 - The Pizza Tapes

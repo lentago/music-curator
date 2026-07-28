@@ -13,7 +13,7 @@ tags: ["artist", "blues", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
-**Session ties:** [[Jerry Douglas]] · [[Mary J. Blige]] · [[Santana]] · [[Sting]] · [[The Beatles]] · [[TheBeatles-WhiteAbum-2009StereoRemaster]]
+**Session ties:** [[Jerry Douglas]] · [[Mary J. Blige]] · [[Santana]] · [[Sting]] · [[The Beatles]]
 
 > confirmed authentic by Chris — blues-rock guitar appreciation
 

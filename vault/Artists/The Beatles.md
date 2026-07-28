@@ -18,10 +18,10 @@ tags: ["artist", "rock", "rotation-current"]
 
 **By year:** 2019 ▁3 · 2020 █51 · 2021 ▇42 · 2022 █50 · 2024 ▁2 · 2025 ▂4 · 2026 ▃17
 
-**Session ties:** [[Billy Preston]] · [[Eric Clapton And Steve Winwood]] · [[TheBeatles-WhiteAbum-2009StereoRemaster]]
+**Session ties:** [[Billy Preston]] · [[Eric Clapton And Steve Winwood]]
 
 ## Albums (4)
 - Abbey Road (2009 Stereo Remast
 - Help! [UK]
-- The Beatles Disc 1 (2009 Stere
-- The Beatles Disc 2 (2009 Stere
+- The Beatles [White Album] Disc 1
+- The Beatles [White Album] Disc 2

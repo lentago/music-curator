@@ -14,7 +14,7 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
-**Session ties:** [[Beat Junkies]] · [[The Herbaliser]] · [[Visionaries]]
+**Session ties:** [[The Beat Junkies]] · [[The Herbaliser]] · [[Visionaries]]
 
 ## Albums (1)
 - Leave My Name Out

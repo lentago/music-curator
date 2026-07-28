@@ -17,7 +17,7 @@ tags: ["artist", "country-americana", "rotation-dormant"]
 
 **By year:** 2017 ▅13 · 2020 ▂2 · 2022 █25 · 2023 ▇20 · 2024 ▂2
 
-**Session ties:** [[Billy Preston]] · [[Bob Dylan]] · [[Johnny Cash & Willie Nelson]] · [[Nick Cave & the Bad Seeds]] · [[The Red Hot Chili Peppers]]
+**Session ties:** [[Billy Preston]] · [[Bob Dylan]] · [[Johnny Cash & Willie Nelson]] · [[Nick Cave & the Bad Seeds]] · [[Red Hot Chili Peppers]]
 
 ## Albums (8)
 - American III Solitary Man

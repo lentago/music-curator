@@ -1,12 +1,12 @@
 ---
 type: "category"
-member_count: 16
+member_count: 15
 tags: ["category", "world"]
 ---
 
 # World
 
-*Category — 16 artists in the collection.*
+*Category — 15 artists in the collection.*
 
 ## Subcategories
 - [[Reggae & Dub]] (1)
@@ -23,7 +23,6 @@ tags: ["category", "world"]
 - [[Outback]]
 - [[The Klezmatics]]
 - [[The Tribe]]
-- [[Vishwa Mohan Bhatt With Bela Fleck and J]]
 - [[Vishwa Mohan Bhatt With Bela Fleck and Jie Bing Chen]]
 - [[Vishwa Mohan Bhatt-Jerry Douglas]]
 - [[Zap Mama]]

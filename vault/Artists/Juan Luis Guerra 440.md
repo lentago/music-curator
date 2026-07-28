@@ -3,7 +3,7 @@ type: "artist"
 category: "Latin"
 era: "1990s-now"
 rotation: "historical"
-album_count: 1
+album_count: 3
 tags: ["artist", "latin", "rotation-historical"]
 ---
 
@@ -13,5 +13,7 @@ tags: ["artist", "latin", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
-## Albums (1)
+## Albums (3)
 - Bachata Rosa
+- Ni Es Lo Mismo Ni Es Igual
+- Ojalá Que Llueva Café

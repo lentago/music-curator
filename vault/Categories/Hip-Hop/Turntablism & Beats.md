@@ -1,16 +1,15 @@
 ---
 type: "subcategory"
 category: "Hip-Hop"
-member_count: 25
+member_count: 24
 tags: ["subcategory", "hip-hop"]
 ---
 
 # Turntablism & Beats
 
-*Subcategory of [[Hip-Hop]] — 25 artists.*
+*Subcategory of [[Hip-Hop]] — 24 artists.*
 
 ## Artists
-- [[Beat Junkies]]
 - [[Blockhead]]
 - [[Boom Bip]]
 - [[Coldcut_DJ Food Fight_DJ Krush]]

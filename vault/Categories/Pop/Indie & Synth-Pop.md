@@ -1,18 +1,17 @@
 ---
 type: "subcategory"
 category: "Pop"
-member_count: 12
+member_count: 11
 tags: ["subcategory", "pop"]
 ---
 
 # Indie & Synth-Pop
 
-*Subcategory of [[Pop]] — 12 artists.*
+*Subcategory of [[Pop]] — 11 artists.*
 
 ## Artists
 - [[Danger Mouse & Daniele Luppi]]
 - [[Feist]]
-- [[Magnetic Fields]]
 - [[MGMT]]
 - [[Odds]]
 - [[Sondre Lerche]]

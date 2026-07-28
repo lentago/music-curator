@@ -13,7 +13,7 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
-**Session ties:** [[M_ Ward]] · [[Neko Case & Her Boyfriends]] · [[Neko Case And Her Boyfriends]] · [[The Band]]
+**Session ties:** [[M_ Ward]] · [[Neko Case & Her Boyfriends]] · [[The Band]]
 
 ## Albums (1)
 - Middle Cyclone
