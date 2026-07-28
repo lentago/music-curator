@@ -18,6 +18,61 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 INVENTORY = os.path.join(HERE, 'data', 'music-inventory.json')
 DEFAULT_OUT = '/mnt/lentago/web/music-categories/index.html'
 
+RESERVOIR_DECISIONS = [
+    ('R1', 'Add Rock › Progressive, and re-file the existing members',
+     'Six follows were progressive rock or prog-metal with no shelf that fit '
+     '— Wobbler, OSI, Blackfield, Joey Eppard, Polyphia, Twelve Foot Ninja. '
+     'The gap predated the reservoir, so the existing members came across '
+     'too: Rush and Genesis from Classic Rock, The Mars Volta from Punk & '
+     'Hardcore, Mew from Indie & Alternative. Progressive opens with 10 '
+     'artists; Classic Rock drops to 16.'),
+    ('R2', 'Recorded as a conflict, not resolved',
+     'The taxonomy answer was "scene wins — file them under Rock › Jam", but '
+     'all three artist rows were overridden to Soul, Funk & R&B. The '
+     'row-level calls were applied because they are per-artist, unanimous and '
+     'required deliberate overrides — but the taxonomy answer says the '
+     'opposite, and it also encodes a lasting rule about whether Jam means a '
+     'scene or a genre. Listed as open below.'),
+    ('R3', 'Tag unambiguous genres even without streaming evidence',
+     'Twenty follows had no trigger track, no seed ties and no plays above '
+     'the export floor. A follow is a deliberate act and genre is a fact '
+     'about the artist rather than about listening, so all twenty were '
+     'tagged. The reservoir is now empty for the first time.'),
+]
+
+RESERVOIR_OPEN = [
+    ('The Motet, The Main Squeeze, The Filthy Six',
+     'Soul, Funk & R&B',
+     'The R2 contradiction. All three are filed by genre, which conflicts '
+     'with the "scene wins" taxonomy answer that would have put The Motet '
+     '(578 plays, the most-streamed follow in the reservoir) and The Main '
+     'Squeeze in Rock › Jam. One word flips them either way.'),
+    ('Tool, A Perfect Circle',
+     'Rock › Metal',
+     'Named in the R1 discussion as evidence of the prog gap but not in the '
+     'option that was chosen, so they were left in Metal. Both are plausible '
+     'Progressive members now that the shelf exists.'),
+    ('David Krakauer', 'World',
+     'Filed by the T5 intent rule — his own catalog is klezmer clarinet — '
+     'even though every one of his credits ties is to Zorn material. The '
+     'evidence genuinely points both ways.'),
+    ('The Disposable Heroes of Hiphoprisy', 'Hip-Hop (bare)',
+     'Still the only artist with no Hip-Hop subcategory, unchanged by this '
+     'pass. Political/alternative rap that reads as Underground on content '
+     'but sits oddly on any of the four shelves.'),
+]
+
+RESERVOIR_SCOPE = [
+    ('~15 name-variant duplicate pairs',
+     'Unchanged by this pass and still the largest open item. validate.py '
+     'reports 13 pairs plus one normalization collision.'),
+    ('Follow provenance for future intakes',
+     'All 48 of these were bulk backfills with no trigger track or seed '
+     'ties. Follows captured going forward by the 15-minute watcher carry '
+     'both, so the next intake will have real evidence rather than genre '
+     'knowledge alone.'),
+]
+
 DECISIONS = [
     ('T1', 'Add "Golden Age" as a sibling of Underground',
      'Underground held 55 artists including the foundational canon. Nine acts '
@@ -130,7 +185,27 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--ref', default='HEAD')
     ap.add_argument('--out', default=DEFAULT_OUT)
+    ap.add_argument('--pass', dest='pass_', default='revision',
+                    choices=['revision', 'reservoir'],
+                    help='which pass this page records')
     args = ap.parse_args()
+
+    if args.pass_ == 'reservoir':
+        decisions, open_items, scope = (
+            RESERVOIR_DECISIONS, RESERVOIR_OPEN, RESERVOIR_SCOPE)
+        heading = 'Music collection — reservoir intake'
+        intro = ('First categorization for the 48 untagged Spotify follows. '
+                 'These own no albums, so the evidence was streaming history, '
+                 'credits ties into owned albums, and the follow itself. All '
+                 '48 were tagged; the reservoir is empty for the first time.')
+    else:
+        decisions, open_items, scope = DECISIONS, OPEN, NOT_IN_SCOPE
+        heading = 'Music collection — categorization pass'
+        intro = ('Full revision pass over the categorized artists in '
+                 '<code>music-curator</code>. All seven taxonomy questions '
+                 'were decided and every artist proposal accepted. This page '
+                 'records what landed and what is still open — it replaces '
+                 'the review worksheet that lived at this URL.')
 
     old = json.loads(subprocess.run(
         ['git', 'show', f'{args.ref}:data/music-inventory.json'],
@@ -148,6 +223,9 @@ def main():
     nc, ns = dist(new)
 
     def label(c, s):
+        # c is None for reservoir artists that had no category before the pass
+        if not c:
+            return 'untagged'
         return c + (f' › {s}' if s and s != '—' else '')
 
     # --- change log, grouped by destination category ---
@@ -193,17 +271,17 @@ def main():
     dec_html = ''.join(
         f'<article class="card"><div class="card-head"><span class="tag">{d}</span>'
         f'<h3>{esc(t)}</h3></div><p class="card-body">{esc(b)}</p></article>'
-        for d, t, b in DECISIONS)
+        for d, t, b in decisions)
 
     open_html = ''.join(
         f'<tr><td><strong>{esc(who)}</strong></td>'
         f'<td class="cur">{esc(where)}</td>'
         f'<td class="why-cell">{esc(why)}</td></tr>'
-        for who, where, why in OPEN)
+        for who, where, why in open_items)
 
     scope_html = ''.join(
         f'<li><strong>{esc(t)}</strong> — {esc(b)}</li>'
-        for t, b in NOT_IN_SCOPE)
+        for t, b in scope)
 
     n_new_subs = sum(1 for (c, s) in ns if s != '—' and (c, s) not in os_)
     n_gone_subs = sum(1 for (c, s) in os_ if s != '—' and (c, s) not in ns)
@@ -218,6 +296,8 @@ def main():
         log=''.join(log_html),
         open_rows=open_html,
         scope=scope_html,
+        heading=heading,
+        intro=intro,
     )
 
     os.makedirs(os.path.dirname(args.out), exist_ok=True)
@@ -233,7 +313,7 @@ TEMPLATE = r'''<!DOCTYPE html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Music collection — categorization pass, applied</title>
+<title>{heading} — applied</title>
 <style>
   :root {{
     --bg:#faf9f7; --panel:#fff; --ink:#1a1a1a; --muted:#6b6b6b;
@@ -322,11 +402,8 @@ TEMPLATE = r'''<!DOCTYPE html>
 <button class="theme" id="theme" title="Toggle light/dark">◐</button>
 <div class="wrap">
 <span class="done">applied</span>
-<h1>Music collection — categorization pass</h1>
-<p class="sub">Full revision pass over the categorized artists in
-<code>music-curator</code>. All seven taxonomy questions were decided and every
-artist proposal accepted. This page records what landed and what is still
-open — it replaces the review worksheet that lived at this URL.</p>
+<h1>{heading}</h1>
+<p class="sub">{intro}</p>
 
 <div class="stats">
   <div class="stat"><b>{n_changed}</b><span>records changed</span></div>

@@ -1,13 +1,14 @@
 ---
 type: "artist"
+category: "Jazz"
 followed_at: "2026-07-23"
 source: "spotify-follow"
 album_count: 0
-tags: ["artist", "reservoir", "source-follow"]
+tags: ["artist", "jazz", "source-follow"]
 ---
 
 # Portico Quartet
 
-**Filed under:** [[Reservoir]]
+**Category:** [[Jazz]]
 
 **Followed:** on Spotify — backfilled, observed as of 2026-07-23 (original follow date and trigger song unknown).

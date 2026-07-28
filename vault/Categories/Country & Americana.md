@@ -1,12 +1,12 @@
 ---
 type: "category"
-member_count: 72
+member_count: 76
 tags: ["category", "country-americana"]
 ---
 
 # Country & Americana
 
-*Category — 72 artists in the collection.*
+*Category — 76 artists in the collection.*
 
 ## Subcategories
 - [[Bluegrass]] (9)
@@ -24,6 +24,8 @@ tags: ["category", "country-americana"]
 - [[Iris DeMent]]
 - [[Johnny Cash]]
 - [[Johnny Cash & Willie Nelson]]
+- [[Jonah Tolchin]]
+- [[Justin Townes Earle]]
 - [[Lucinda Williams]]
 - [[Mark Knopfler]]
 - [[Mark Knopfler And Emmylou Harris]]
@@ -35,8 +37,10 @@ tags: ["category", "country-americana"]
 - [[Steve Earle]]
 - [[Steve Earle & The Dukes]]
 - [[Steve Earle & The Dukes (& Duchesses)]]
+- [[Sturgill Simpson]]
 - [[The Band]]
 - [[Tom Waits]]
 - [[Waylon Jennings]]
 - [[Willie Nelson]]
 - [[Willie Nelson-Waylon Jennings]]
+- [[Zach Bryan]]

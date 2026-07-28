@@ -1,13 +1,13 @@
 ---
 type: "subcategory"
 category: "Hip-Hop"
-member_count: 51
+member_count: 62
 tags: ["subcategory", "hip-hop"]
 ---
 
 # Underground
 
-*Subcategory of [[Hip-Hop]] — 51 artists.*
+*Subcategory of [[Hip-Hop]] — 62 artists.*
 
 ## Artists
 - [[Aceyalone]]
@@ -19,6 +19,7 @@ tags: ["subcategory", "hip-hop"]
 - [[Basehead]]
 - [[Binary Star]]
 - [[Blackalicious]]
+- [[BUSDRIVER]]
 - [[Canibus]]
 - [[Cannibal Ox]]
 - [[cLOUDDEAD]]
@@ -32,22 +33,31 @@ tags: ["subcategory", "hip-hop"]
 - [[Dälek]]
 - [[El-P]]
 - [[El-P & Cannibal Ox]]
+- [[Eyedea & Abilities]]
 - [[Faust vs. Dälek]]
 - [[Goats]]
+- [[Greydon Square]]
+- [[Hail Mary Mallon]]
 - [[Handsome Boy Modeling School]]
+- [[Hemlock Ernst]]
 - [[Hieroglyphics]]
+- [[Homeboy Sandman]]
 - [[Illogic]]
 - [[Jedi Mind Tricks]]
 - [[Jurassic 5]]
+- [[Lice]]
 - [[LMNO]]
 - [[Madvillain]]
 - [[MF DOOM]]
 - [[Mos Def]]
 - [[Mos Def & Talib Kweli]]
 - [[Mr. Lif]]
+- [[Murs]]
 - [[Prince Paul]]
+- [[Prof]]
 - [[Quasimoto]]
 - [[Rjd2]]
+- [[Sage Francis]]
 - [[Soul Position]]
 - [[Swollen Members]]
 - [[Talib Kweli]]
@@ -61,3 +71,4 @@ tags: ["subcategory", "hip-hop"]
 - [[Visionaries]]
 - [[WEATHERMEN]]
 - [[Xzibit]]
+- [[Zion I]]

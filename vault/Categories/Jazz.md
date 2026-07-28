@@ -1,12 +1,12 @@
 ---
 type: "category"
-member_count: 42
+member_count: 47
 tags: ["category", "jazz"]
 ---
 
 # Jazz
 
-*Category — 42 artists in the collection.*
+*Category — 47 artists in the collection.*
 
 ## Subcategories
 - [[Fusion]] (4)
@@ -18,6 +18,7 @@ tags: ["category", "jazz"]
 - [[Aaron Goldberg]]
 - [[Aisha Duo]]
 - [[Bill Frisell]]
+- [[Brad Mehldau]]
 - [[Brooklyn Funk Essentials]]
 - [[Charlie Hunter Quartet]]
 - [[Charlie Hunter Quintet]]
@@ -25,6 +26,8 @@ tags: ["category", "jazz"]
 - [[Esbjörn Svensson Trio]]
 - [[George Benson]]
 - [[Greg Cohen]]
+- [[Hiromi]]
+- [[Ishmael Ensemble]]
 - [[Jackie McLean]]
 - [[Joey Baron]]
 - [[John Coltrane]]
@@ -35,5 +38,7 @@ tags: ["category", "jazz"]
 - [[Nellie McKay]]
 - [[Norah Jones]]
 - [[Pat Metheny]]
+- [[Portico Quartet]]
 - [[Sidney Bechet]]
+- [[Tingvall Trio]]
 - [[Vince Guaraldi]]

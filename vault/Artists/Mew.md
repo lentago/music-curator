@@ -1,7 +1,7 @@
 ---
 type: "artist"
 category: "Rock"
-subcategory: "Indie & Alternative"
+subcategory: "Progressive"
 era: "2000s-now"
 rotation: "historical"
 album_count: 3
@@ -10,7 +10,7 @@ tags: ["artist", "rock", "rotation-historical"]
 
 # Mew
 
-**Category:** Rock › [[Indie & Alternative]]
+**Category:** Rock › [[Progressive]]
 
 **Rotation:** historical — never streamed.
 

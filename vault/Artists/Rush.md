@@ -1,7 +1,7 @@
 ---
 type: "artist"
 category: "Rock"
-subcategory: "Classic Rock"
+subcategory: "Progressive"
 era: "1970s-now"
 rotation: "dormant"
 plays: 64
@@ -12,7 +12,7 @@ tags: ["artist", "rock", "rotation-dormant"]
 
 # Rush
 
-**Category:** Rock › [[Classic Rock]]
+**Category:** Rock › [[Progressive]]
 
 **Rotation:** dormant — played, but not lately. 8 plays in the trailing 18 months (64 lifetime, 5 h), last on 2026-03-09.
 

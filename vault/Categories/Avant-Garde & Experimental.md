@@ -1,15 +1,17 @@
 ---
 type: "category"
-member_count: 17
+member_count: 23
 tags: ["category", "avant-garde-experimental"]
 ---
 
 # Avant-Garde & Experimental
 
-*Category — 17 artists in the collection.*
+*Category — 23 artists in the collection.*
 
 ## Artists
+- [[Bar Kokhba]]
 - [[Bar Kokhba Sextet]]
+- [[Bill Laswell]]
 - [[Cracow Klezmer Band]]
 - [[Electric Masada]]
 - [[Eszter Balint]]
@@ -19,10 +21,14 @@ tags: ["category", "avant-garde-experimental"]
 - [[Marc Ribot]]
 - [[Marvin Pontiac]]
 - [[Masada]]
+- [[Masada Quintet]]
 - [[Masada Quintet Featuring Joe Lovano]]
+- [[Masada String Trio]]
 - [[Mike Patton]]
 - [[Mr. Bungle]]
 - [[Naked City]]
+- [[Painkiller]]
+- [[Sleepytime Gorilla Museum]]
 - [[The Lounge Lizards]]
 - [[Trevor Dunn]]
 - [[William S. Burroughs]]

@@ -1,13 +1,15 @@
 ---
 type: "artist"
+category: "Hip-Hop"
+subcategory: "Underground"
 followed_at: "2026-07-23"
 source: "spotify-follow"
 album_count: 0
-tags: ["artist", "reservoir", "source-follow"]
+tags: ["artist", "hip-hop", "source-follow"]
 ---
 
 # Hail Mary Mallon
 
-**Filed under:** [[Reservoir]]
+**Category:** Hip-Hop › [[Underground]]
 
 **Followed:** on Spotify — backfilled, observed as of 2026-07-23 (original follow date and trigger song unknown).
