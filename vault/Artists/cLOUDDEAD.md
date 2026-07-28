@@ -17,5 +17,5 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 **Session ties:** [[Illogic]] · [[Odd Nosdam]] · [[Peeping Tom]]
 
 ## Albums (2)
-- clouddead
-- ten
+- Ten
+- cLOUDDEAD

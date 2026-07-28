@@ -6,7 +6,7 @@ era: "1934-1996"
 rotation: "current"
 plays: 36
 last_played: "2026-02-13"
-album_count: 9
+album_count: 7
 tags: ["artist", "jazz", "rotation-current"]
 ---
 
@@ -20,12 +20,10 @@ tags: ["artist", "jazz", "rotation-current"]
 
 **Session ties:** [[Ella Fitzgerald_Louis Armstrong]]
 
-## Albums (9)
+## Albums (7)
 - Ella in Rome- The Birthday Concert
-- Oh, Lady, Be Good! Best of the Gershwin
 - Oh, Lady, Be Good! Best of the Gershwin Songbook
 - Quiet Now- Ella's Moods
-- Sings the Jerome Kern Song Book [Origina
 - Sings the Jerome Kern Song Book [Original CD]
 - Something to Live For Disc 1
 - Something to Live For Disc 2

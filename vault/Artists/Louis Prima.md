@@ -17,4 +17,4 @@ tags: ["artist", "jazz", "rotation-historical"]
 **Rotation:** historical — effectively absent from the stream. 1 lifetime play, none recent, last on 2023-12-31.
 
 ## Albums (1)
-- Jump, Jive an' Wail The Essential Louis Prima
+- Jump, Jive an' Wail: The Essential Louis Prima

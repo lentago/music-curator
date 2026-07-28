@@ -19,4 +19,4 @@ tags: ["artist", "rock", "rotation-dormant"]
 **By year:** 2023 ▄3 · 2024 █8 · 2025 ▂1 · 2026 ▂1
 
 ## Albums (1)
-- Chronicle 20 Greatest Hits
+- Chronicle: 20 Greatest Hits

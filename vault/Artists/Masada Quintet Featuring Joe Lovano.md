@@ -19,4 +19,4 @@ tags: ["artist", "avant-garde-experimental", "rotation-historical"]
 **Session ties:** [[Greg Cohen]] · [[Joey Baron]] · [[John Zorn]]
 
 ## Albums (1)
-- Stolas The Book Of Angels Volume 12
+- Stolas: The Book Of Angels Volume 12

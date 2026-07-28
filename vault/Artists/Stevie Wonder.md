@@ -20,5 +20,5 @@ tags: ["artist", "soul-funk-r-b", "rotation-current"]
 **Session ties:** [[Jeff Beck]] · [[Michael Jackson]] · [[Sting]]
 
 ## Albums (2)
-- Song Review A Greatest Hits Collection
 - Song Review- A Greatest Hits Collection Disc 2
+- Song Review: A Greatest Hits Collection

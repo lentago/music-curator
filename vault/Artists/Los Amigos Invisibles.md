@@ -3,7 +3,7 @@ type: "artist"
 category: "Latin"
 era: "2000s"
 rotation: "historical"
-album_count: 2
+album_count: 1
 tags: ["artist", "latin", "rotation-historical"]
 ---
 
@@ -13,6 +13,5 @@ tags: ["artist", "latin", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
-## Albums (2)
-- Arepa 3000 A Venezuelan Journey Into Sp
+## Albums (1)
 - Arepa 3000- A Venezuelan Journey Into Space

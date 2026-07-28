@@ -3,7 +3,7 @@ type: "artist"
 category: "Electronic"
 era: "2010s"
 rotation: "historical"
-album_count: 1
+album_count: 0
 tags: ["artist", "electronic", "rotation-historical"]
 ---
 
@@ -12,6 +12,3 @@ tags: ["artist", "electronic", "rotation-historical"]
 **Category:** [[Electronic]]
 
 **Rotation:** historical — never streamed.
-
-## Albums (1)
-- Dub Kweli - tracklist and information.txt

@@ -6,7 +6,7 @@ era: "1995-now"
 rotation: "current"
 plays: 59
 last_played: "2026-06-23"
-album_count: 12
+album_count: 11
 tags: ["artist", "electronic", "rotation-current"]
 ---
 
@@ -20,13 +20,12 @@ tags: ["artist", "electronic", "rotation-current"]
 
 **Session ties:** [[David Byrne]] · [[Jane's Addiction]] · [[Mr. Lif]] · [[Norah Jones]] · [[Sarah McLachlan]] · [[The Flaming Lips]]
 
-## Albums (12)
+## Albums (11)
 - Abductions and Reconstructions
 - Babylon Rewound
 - Culture of Fear
 - Radio Retaliation
 - Radio Retaliation Extras
-- Sounds from the Thievery Hi-Fi [Bonus Tr
 - Sounds from the Thievery Hi-Fi [Bonus Tracks]
 - The Cosmic Game
 - The Mirror Conspiracy

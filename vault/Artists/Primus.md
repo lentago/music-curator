@@ -21,8 +21,8 @@ tags: ["artist", "rock", "rotation-current"]
 **Session ties:** [[Tom Waits]]
 
 ## Albums (5)
+- Frizzle Fry (Remaster)
 - Frizzle Fry [Bonus Track]
-- frizzle fry (remaster)
-- miscellaneous debris
+- Miscellaneous Debris
 - Sailing the Seas of Cheese [Plus Two]
 - Suck on This

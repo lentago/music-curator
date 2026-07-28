@@ -4,7 +4,7 @@ category: "Rock"
 subcategory: "Indie & Alternative"
 era: "1990s-now"
 rotation: "historical"
-album_count: 3
+album_count: 2
 tags: ["artist", "rock", "rotation-historical"]
 ---
 
@@ -14,7 +14,6 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
-## Albums (3)
+## Albums (2)
 - Exile in Guyville
-- Unknown Album
 - Whitechocolatespaceegg

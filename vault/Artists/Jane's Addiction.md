@@ -17,6 +17,6 @@ tags: ["artist", "rock", "rotation-historical"]
 **Session ties:** [[Thievery Corporation]]
 
 ## Albums (3)
-- nothing's shocking
-- ritual de lo habitual
+- Nothing's Shocking
+- Ritual de lo Habitual
 - Unknown Bootleg

@@ -19,10 +19,10 @@ tags: ["artist", "rock", "rotation-dormant"]
 **By year:** 2019 █14 · 2020 ▁1 · 2021 ▃3 · 2022 ▂2 · 2026 ▁1
 
 ## Albums (8)
-- hail to the thief
-- i might be wrong - live recordings
+- Hail to the Thief
+- I Might Be Wrong - Live Recordings
 - In Rainbows
-- kid a
+- Kid A
 - OK Computer
 - Pablo Honey
 - Radiohead - Pablo Honey

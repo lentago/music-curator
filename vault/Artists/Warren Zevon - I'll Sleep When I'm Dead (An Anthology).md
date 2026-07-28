@@ -14,6 +14,6 @@ tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 **Rotation:** historical — never streamed.
 
 ## Albums (3)
-- Disc 1
-- Disc 2
+- I'll Sleep When I'm Dead (An Anthology) Disc 1
+- I'll Sleep When I'm Dead (An Anthology) Disc 2
 - Warren Zevon - I'll Sleep When I'm Dead Scans

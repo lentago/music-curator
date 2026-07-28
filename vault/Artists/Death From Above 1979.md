@@ -7,7 +7,7 @@ rotation: "current"
 plays: 120
 last_played: "2026-02-01"
 followed_at: "2026-07-23"
-album_count: 6
+album_count: 5
 tags: ["artist", "rock", "rotation-current", "source-follow"]
 ---
 
@@ -21,10 +21,9 @@ tags: ["artist", "rock", "rotation-current", "source-follow"]
 
 **Followed:** on Spotify — backfilled, observed as of 2026-07-23 (original follow date and trigger song unknown).
 
-## Albums (6)
+## Albums (5)
 - Heads Up!
 - Romance Bloody Romance - Remixes & B-Sides
 - Romantic Rights
 - The Physical World [+digital booklet]
-- Torrent downloaded from Demonoid.com.txt
 - You're A Woman, I'm A Machine

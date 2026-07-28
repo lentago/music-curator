@@ -20,4 +20,4 @@ tags: ["artist", "soul-funk-r-b", "rotation-dormant"]
 > sole comp acceptable for canonical figure
 
 ## Albums (1)
-- The CD Of JB (Sex Machine & Other Soul C
+- The CD Of JB (Sex Machine & Other Soul Classics)

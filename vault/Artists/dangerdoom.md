@@ -19,4 +19,4 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 **Session ties:** [[Danger Mouse & Daniele Luppi]] · [[Gnarls Barkley]] · [[Madvillain]] · [[MF DOOM]] · [[Talib Kweli]]
 
 ## Albums (1)
-- the mouse and the mask
+- The Mouse and the Mask

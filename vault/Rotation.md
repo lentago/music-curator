@@ -218,7 +218,7 @@ Artists above the current-rotation bar that the collection has **no** albums by 
 - **43** recent plays — Arnold Schoenberg
 - *…and 278 more below the top 40.*
 
-## Anchors off the rotation (48)
+## Anchors off the rotation (41)
 
 Deep shelf presence, absent from current play — the other half of the gap. Sorted by shelf weight.
 
@@ -226,49 +226,42 @@ Deep shelf presence, absent from current play — the other half of the gap. Sor
 |---|---:|---|---|
 | [[The Clash]] | 18 | historical | 2023-03-25 |
 | [[Phish]] | 15 | dormant | 2026-06-01 |
-| [[Ray Charles]] | 13 | dormant | 2025-12-11 |
-| [[Imogen Heap]] | 11 | dormant | 2018-06-10 |
-| [[Sam Cooke]] | 11 | dormant | 2024-06-08 |
+| [[Ray Charles]] | 12 | dormant | 2025-12-11 |
+| [[Imogen Heap]] | 10 | dormant | 2018-06-10 |
 | [[Illogic]] | 9 | historical | never |
+| [[Sam Cooke]] | 9 | dormant | 2024-06-08 |
 | [[16 Horsepower]] | 8 | historical | never |
 | [[Beth Orton]] | 8 | historical | never |
 | [[DJ Krush]] | 8 | dormant | 2026-01-04 |
 | [[Johnny Cash]] | 8 | dormant | 2024-05-27 |
 | [[Radiohead]] | 8 | dormant | 2026-01-25 |
 | [[Sigur Rós]] | 8 | historical | 2024-12-15 |
-| [[Billy Bragg]] | 7 | historical | never |
-| [[Béla Fleck]] | 7 | dormant | 2023-03-18 |
-| [[Sting]] | 7 | historical | 2023-06-25 |
 | [[Van Morrison]] | 7 | historical | 2024-07-11 |
-| [[Coldplay]] | 6 | historical | 2026-02-13 |
+| [[Béla Fleck]] | 6 | dormant | 2023-03-18 |
 | [[Deftones]] | 6 | historical | 2025-11-07 |
 | [[Jeff Buckley]] | 6 | historical | never |
-| [[Masada]] | 6 | historical | 2021-12-27 |
 | [[Phil & Phriends]] | 6 | historical | never |
 | [[Steve Earle]] | 6 | dormant | 2026-04-08 |
+| [[Sting]] | 6 | historical | 2023-06-25 |
 | [[The Magnetic Fields]] | 6 | dormant | 2021-07-25 |
 | [[Built to Spill]] | 5 | historical | 2024-11-24 |
 | [[Béla Fleck & the Flecktones]] | 5 | historical | never |
 | [[Cat Power]] | 5 | historical | never |
-| [[My Morning Jacket]] | 5 | historical | 2026-06-24 |
+| [[Coldplay]] | 5 | historical | 2026-02-13 |
+| [[Masada]] | 5 | historical | 2021-12-27 |
 | [[Talking Heads]] | 5 | dormant | 2025-11-10 |
 | [[Wovenhand]] | 5 | historical | never |
 | [[Aceyalone]] | 4 | historical | 2022-10-08 |
 | [[Bar Kokhba Sextet]] | 4 | historical | never |
-| [[Curtis Mayfield]] | 4 | dormant | 2026-01-25 |
+| [[Billy Bragg]] | 4 | historical | never |
 | [[David Gray]] | 4 | historical | never |
 | [[Death Cab for Cutie]] | 4 | historical | 2020-08-07 |
-| [[DeVotchKa]] | 4 | historical | never |
-| [[DJ Shadow]] | 4 | historical | 2026-07-07 |
 | [[Feist]] | 4 | historical | 2021-09-06 |
 | [[Jackie McLean]] | 4 | dormant | 2024-11-20 |
-| [[Jimi Hendrix]] | 4 | dormant | 2025-11-29 |
 | [[Morphine]] | 4 | historical | 2019-03-24 |
-| [[Neutral Milk Hotel]] | 4 | historical | 2025-11-19 |
-| [[Sufjan Stevens]] | 4 | historical | 2020-09-15 |
+| [[My Morning Jacket]] | 4 | historical | 2026-06-24 |
 | [[The Company Band]] | 4 | historical | 2025-10-07 |
 | [[The Flaming Lips]] | 4 | historical | never |
 | [[The Smithereens]] | 4 | historical | never |
-| [[Urban Dance Squad]] | 4 | historical | 2025-06-21 |
 | [[Wilco]] | 4 | historical | 2019-12-27 |
 | [[David Byrne & Brian Eno]] | 2 | historical | never |

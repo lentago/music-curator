@@ -22,4 +22,4 @@ tags: ["artist", "hip-hop", "rotation-dormant"]
 
 ## Albums (2)
 - Antipop vs. Matthew Shipp
-- arrhythmia
+- Arrhythmia

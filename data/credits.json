@@ -124,7 +124,7 @@
       }
     },
     "A Perfect Circle": {
-      "emotive": {
+      "eMOTIVe": {
         "status": "verified",
         "personnel": [
           {
@@ -3055,7 +3055,7 @@
       }
     },
     "Anticon": {
-      "we_ain't_fessin'_(double_quotes)": {
+      "We Ain't Fessin' (Double Quotes)": {
         "status": "verified",
         "personnel": [
           {
@@ -3166,7 +3166,7 @@
           }
         ]
       },
-      "arrhythmia": {
+      "Arrhythmia": {
         "status": "verified",
         "personnel": [
           {
@@ -3411,25 +3411,6 @@
     },
     "Atmosphere": {
       "God Loves Ugly": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Slug (Sean Daley)",
-            "role": "MC, vocals",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Ant (Anthony Davis)",
-            "role": "producer, beats",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          }
-        ]
-      },
-      "When Life Gives You Lemons, You Paint Th": {
         "status": "verified",
         "personnel": [
           {
@@ -4023,7 +4004,7 @@
         "status": "skipped",
         "personnel": []
       },
-      "Pass in Time - The Definitive Collection": {
+      "Pass in Time: The Definitive Collection": {
         "status": "skipped",
         "personnel": []
       },
@@ -4134,10 +4115,6 @@
       }
     },
     "Bill Frisell": {
-      "Amazon MP3": {
-        "status": "skipped",
-        "personnel": []
-      },
       "Nashville": {
         "status": "verified",
         "personnel": [
@@ -4198,11 +4175,7 @@
       }
     },
     "Bill Withers": {
-      "Lean on Me_ The Best of Bill": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "Lean on Me_ The Best of Bill Withers": {
+      "Lean on Me: The Best of Bill Withers": {
         "status": "skipped",
         "personnel": []
       }
@@ -4248,19 +4221,7 @@
           }
         ]
       },
-      "Must I Paint You a Picture_ - The Essent": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "Must I Paint You a Picture_ The Essentia": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "Must I Paint You a Picture_ - The Essential Billy Bragg": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "Unknown Album": {
+      "Must I Paint You a Picture? The Essential Billy Bragg": {
         "status": "skipped",
         "personnel": []
       },
@@ -5710,72 +5671,6 @@
           }
         ]
       },
-      "The Bluegrass Sessions_ Tales from the A": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Béla Fleck",
-            "role": "banjo",
-            "confidence": "high",
-            "source": "allmusic",
-            "in_collection": true,
-            "collection_match": "Béla Fleck"
-          },
-          {
-            "name": "Sam Bush",
-            "role": "mandolin",
-            "confidence": "high",
-            "source": "allmusic",
-            "in_collection": true,
-            "collection_match": "Sam Bush"
-          },
-          {
-            "name": "Jerry Douglas",
-            "role": "dobro",
-            "confidence": "high",
-            "source": "allmusic",
-            "in_collection": true,
-            "collection_match": "Jerry Douglas"
-          },
-          {
-            "name": "Stuart Duncan",
-            "role": "fiddle",
-            "confidence": "high",
-            "source": "allmusic",
-            "in_collection": true,
-            "collection_match": "Stuart Duncan"
-          },
-          {
-            "name": "Tony Rice",
-            "role": "guitar",
-            "confidence": "high",
-            "source": "allmusic",
-            "in_collection": true,
-            "collection_match": "Tony Rice Unit"
-          },
-          {
-            "name": "Mark Schatz",
-            "role": "bass",
-            "confidence": "high",
-            "source": "allmusic",
-            "in_collection": false
-          },
-          {
-            "name": "Earl Scruggs",
-            "role": "banjo (guest)",
-            "confidence": "high",
-            "source": "allmusic",
-            "in_collection": false
-          },
-          {
-            "name": "John Hartford",
-            "role": "banjo, fiddle (guest)",
-            "confidence": "medium",
-            "source": "allmusic",
-            "in_collection": false
-          }
-        ]
-      },
       "The Bluegrass Sessions- Tales from the Acoustic Planet, Vol. 2": {
         "status": "verified",
         "personnel": [
@@ -6859,7 +6754,7 @@
           }
         ]
       },
-      "clutch": {
+      "Clutch": {
         "status": "verified",
         "personnel": [
           {
@@ -7412,54 +7307,6 @@
         "status": "skipped",
         "personnel": []
       },
-      "Viva La Vida Or Death And All His Friend": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Chris Martin",
-            "role": "vocals, piano, guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Jonny Buckland",
-            "role": "lead guitar",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Guy Berryman",
-            "role": "bass",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Will Champion",
-            "role": "drums",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Brian Eno",
-            "role": "producer, additional instruments",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "David Byrne & Brian Eno"
-          },
-          {
-            "name": "Markus Dravs",
-            "role": "producer",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          }
-        ]
-      },
       "Viva La Vida Or Death And All His Friends": {
         "status": "verified",
         "personnel": [
@@ -7755,7 +7602,7 @@
       }
     },
     "Cracow Klezmer Band": {
-      "Masada Book II - The Book Of Angels - Vo": {
+      "Masada Book II - The Book Of Angels - Vol. 5: Balan": {
         "status": "verified",
         "personnel": [
           {
@@ -7931,7 +7778,7 @@
       }
     },
     "Creedence Clearwater Revival": {
-      "Chronicle_ 20 Greatest Hits": {
+      "Chronicle: 20 Greatest Hits": {
         "status": "skipped",
         "personnel": []
       }
@@ -8159,10 +8006,6 @@
             "in_collection": false
           }
         ]
-      },
-      "Unknown Album": {
-        "status": "unverified",
-        "personnel": []
       }
     },
     "Curtis Mayfield & The Impressions": {
@@ -8756,10 +8599,6 @@
       }
     },
     "DJ Ravin": {
-      "Huvafen Fushi Maldives_ Mixed by Ravin [": {
-        "status": "skipped",
-        "personnel": []
-      },
       "Huvafen Fushi Maldives- Mixed by Ravin [Bonus DVD] Disc 1": {
         "status": "skipped",
         "personnel": []
@@ -8849,26 +8688,6 @@
           }
         ]
       },
-      "The Private Press [Special Package] Disc": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "DJ Shadow",
-            "role": "producer, all instrumentation/samples, turntables",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": true,
-            "collection_match": "DJ Shadow"
-          },
-          {
-            "name": "Lateef the Truth Speaker",
-            "role": "guest vocals (Mashin' on the Motorway)",
-            "confidence": "high",
-            "source": "wikipedia",
-            "in_collection": false
-          }
-        ]
-      },
       "The Private Press [Special Package] Disc 1": {
         "status": "verified",
         "personnel": [
@@ -8951,10 +8770,6 @@
       }
     },
     "DJ Z-Trip & Radar": {
-      "Live at the Future Primitive Soundsessio": {
-        "status": "unverified",
-        "personnel": []
-      },
       "Live at the Future Primitive Soundsession, Vol. 2": {
         "status": "verified",
         "personnel": [
@@ -9913,10 +9728,6 @@
             "in_collection": false
           }
         ]
-      },
-      "Unknown Album": {
-        "status": "skipped",
-        "personnel": []
       }
     },
     "Death Cab for Cutie": {
@@ -10107,10 +9918,6 @@
             "in_collection": false
           }
         ]
-      },
-      "Torrent downloaded from Demonoid.com.txt": {
-        "status": "skipped",
-        "personnel": []
       },
       "You're A Woman, I'm A Machine": {
         "status": "verified",
@@ -11127,12 +10934,7 @@
         ]
       }
     },
-    "Dub Kweli - produced by Max Tannone": {
-      "Dub Kweli - tracklist and information.txt": {
-        "status": "skipped",
-        "personnel": []
-      }
-    },
+    "Dub Kweli - produced by Max Tannone": {},
     "Dzihan & Kamien Orchestra": {
       "Live in Vienna": {
         "status": "unverified",
@@ -11675,10 +11477,6 @@
           }
         ]
       },
-      "Oh, Lady, Be Good! Best of the Gershwin": {
-        "status": "skipped",
-        "personnel": []
-      },
       "Oh, Lady, Be Good! Best of the Gershwin Songbook": {
         "status": "verified",
         "personnel": [
@@ -11708,32 +11506,6 @@
       "Quiet Now- Ella's Moods": {
         "status": "skipped",
         "personnel": []
-      },
-      "Sings the Jerome Kern Song Book [Origina": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Ella Fitzgerald",
-            "role": "vocals",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Nelson Riddle",
-            "role": "arranger, conductor",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Norman Granz",
-            "role": "producer",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          }
-        ]
       },
       "Sings the Jerome Kern Song Book [Original CD]": {
         "status": "verified",
@@ -12313,7 +12085,7 @@
       }
     },
     "Explosions In The Sky": {
-      "Those Who Tell the Truth Shall Die, Thos": {
+      "Those Who Tell the Truth Shall Die, Those Who Tell the Truth Shall Live Forever": {
         "status": "verified",
         "personnel": [
           {
@@ -12967,7 +12739,7 @@
       }
     },
     "Franz Ferdinand": {
-      "franz_ferdinand": {
+      "Franz Ferdinand": {
         "status": "verified",
         "personnel": [
           {
@@ -13269,20 +13041,12 @@
       }
     },
     "Genesis": {
-      "Genesis Live_ The Way We Walk, Vol. 1 (T": {
-        "status": "skipped",
-        "personnel": []
-      },
       "Genesis Live- The Way We Walk, Vol. 1 (The Shorts)": {
         "status": "skipped",
         "personnel": []
       }
     },
     "George Benson": {
-      "The Best of George Benson [Warner Brothe": {
-        "status": "skipped",
-        "personnel": []
-      },
       "The Best of George Benson [Warner Brothers]": {
         "status": "skipped",
         "personnel": []
@@ -13806,69 +13570,6 @@
       }
     },
     "Groovegrass": {
-      "Groovegrass 101 Featuring Groovegrass Bo": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Scott Rouse",
-            "role": "producer, arranger, mixer, slide guitar",
-            "confidence": "high",
-            "source": "workflow:wf_8c69d685-f67",
-            "in_collection": false
-          },
-          {
-            "name": "Bootsy Collins",
-            "role": "bass",
-            "confidence": "high",
-            "source": "workflow:wf_8c69d685-f67",
-            "in_collection": false
-          },
-          {
-            "name": "Doc Watson",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "workflow:wf_8c69d685-f67",
-            "in_collection": false
-          },
-          {
-            "name": "Del McCoury",
-            "role": "vocals, guitar",
-            "confidence": "high",
-            "source": "workflow:wf_8c69d685-f67",
-            "in_collection": true,
-            "collection_match": "Del McCoury"
-          },
-          {
-            "name": "Jerry Douglas",
-            "role": "dobro / resonator guitar",
-            "confidence": "high",
-            "source": "workflow:wf_8c69d685-f67",
-            "in_collection": true,
-            "collection_match": "Jerry Douglas"
-          },
-          {
-            "name": "Mac Wiseman",
-            "role": "vocals",
-            "confidence": "high",
-            "source": "workflow:wf_8c69d685-f67",
-            "in_collection": false
-          },
-          {
-            "name": "Ronnie McCoury",
-            "role": "vocals, mandolin (Del McCoury Band)",
-            "confidence": "high",
-            "source": "workflow:wf_8c69d685-f67",
-            "in_collection": false
-          },
-          {
-            "name": "Rob McCoury",
-            "role": "banjo (Del McCoury Band)",
-            "confidence": "high",
-            "source": "workflow:wf_8c69d685-f67",
-            "in_collection": false
-          }
-        ]
-      },
       "Groovegrass 101 Featuring Groovegrass Boyz": {
         "status": "verified",
         "personnel": [
@@ -14791,11 +14492,7 @@
           }
         ]
       },
-      "Unknown Album": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "Various Artists - New Dawn (Class of 94}": {
+      "Various Artists - New Dawn (Class of 94)": {
         "status": "skipped",
         "personnel": []
       }
@@ -15909,13 +15606,13 @@
       }
     },
     "James Brown": {
-      "The CD Of JB (Sex Machine & Other Soul C": {
+      "The CD Of JB (Sex Machine & Other Soul Classics)": {
         "status": "skipped",
         "personnel": []
       }
     },
     "Jamiroquai": {
-      "High Times_ Singles 1992-2006": {
+      "High Times: Singles 1992-2006": {
         "status": "verified",
         "personnel": [
           {
@@ -15929,7 +15626,7 @@
       }
     },
     "Jane's Addiction": {
-      "nothing's_shocking": {
+      "Nothing's Shocking": {
         "status": "verified",
         "personnel": [
           {
@@ -15969,7 +15666,7 @@
           }
         ]
       },
-      "ritual_de_lo_habitual": {
+      "Ritual de lo Habitual": {
         "status": "verified",
         "personnel": [
           {
@@ -16211,10 +15908,6 @@
             "collection_match": "Stevie Wonder"
           }
         ]
-      },
-      "Unknown Album": {
-        "status": "unverified",
-        "personnel": []
       }
     },
     "Jeff Buckley": {
@@ -16681,15 +16374,7 @@
           }
         ]
       },
-      "Experience Hendrix_ The Best of Jimi Hen": {
-        "status": "skipped",
-        "personnel": []
-      },
       "Experience Hendrix- The Best of Jimi Hendrix": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "Unknown Album (8_20_2007 4_05_03 PM)": {
         "status": "skipped",
         "personnel": []
       }
@@ -16892,7 +16577,7 @@
       }
     },
     "John Zorn": {
-      "Astaroth_ Book Of Angels Volume One - Ja": {
+      "Astaroth: Book Of Angels Volume One - Jamie Saft Trio": {
         "status": "verified",
         "personnel": [
           {
@@ -16923,69 +16608,6 @@
             "role": "drums",
             "confidence": "high",
             "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      },
-      "Cobra_ John Zorn's Game Pieces, Vol. 2 [": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "John Zorn",
-            "role": "prompter / composer",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "John Zorn"
-          },
-          {
-            "name": "Mark Feldman",
-            "role": "violin",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Erik Friedlander",
-            "role": "cello",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Sylvie Courvoisier",
-            "role": "piano",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Jamie Saft",
-            "role": "keyboards",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Derek Bailey",
-            "role": "guitar",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": false
-          },
-          {
-            "name": "Trevor Dunn",
-            "role": "bass",
-            "confidence": "high",
-            "source": "musicbrainz",
-            "in_collection": true,
-            "collection_match": "Trevor Dunn"
-          },
-          {
-            "name": "Ikue Mori",
-            "role": "laptop",
-            "confidence": "high",
-            "source": "musicbrainz",
             "in_collection": false
           }
         ]
@@ -17287,7 +16909,7 @@
           }
         ]
       },
-      "Lucifer_ The Book Of Angels Volume 10": {
+      "Lucifer: The Book Of Angels Volume 10": {
         "status": "verified",
         "personnel": [
           {
@@ -17448,48 +17070,6 @@
           }
         ]
       },
-      "Spy Vs. Spy_ The Music of Ornette Colema": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "John Zorn",
-            "role": "alto saxophone",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "John Zorn"
-          },
-          {
-            "name": "Tim Berne",
-            "role": "alto saxophone",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Mark Dresser",
-            "role": "bass",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Joey Baron",
-            "role": "drums",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "Joey Baron"
-          },
-          {
-            "name": "Michael Vatcher",
-            "role": "drums",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      },
       "Spy Vs. Spy- The Music of Ornette Coleman": {
         "status": "verified",
         "personnel": [
@@ -17529,72 +17109,6 @@
             "confidence": "high",
             "source": "discogs",
             "in_collection": false
-          }
-        ]
-      },
-      "The Big Gundown_ John Zorn Plays the Mus": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "John Zorn",
-            "role": "composer / arranger / saxophone",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "John Zorn"
-          },
-          {
-            "name": "Bill Frisell",
-            "role": "guitar",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "Bill Frisell"
-          },
-          {
-            "name": "Fred Frith",
-            "role": "guitar",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "Naked City"
-          },
-          {
-            "name": "Marc Ribot",
-            "role": "guitar",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "Marc Ribot"
-          },
-          {
-            "name": "Wayne Horvitz",
-            "role": "keyboards",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Bobby Previte",
-            "role": "drums, percussion",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Toots Thielemans",
-            "role": "harmonica",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Cyro Baptista",
-            "role": "percussion",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "Cyro Baptista"
           }
         ]
       },
@@ -39619,7 +39133,7 @@
       }
     },
     "Johnny Cash": {
-      "American III_ Solitary Man": {
+      "American III: Solitary Man": {
         "status": "verified",
         "personnel": [
           {
@@ -39680,7 +39194,7 @@
           }
         ]
       },
-      "American IV_ The Man Comes Around": {
+      "American IV: The Man Comes Around": {
         "status": "verified",
         "personnel": [
           {
@@ -39755,7 +39269,7 @@
           }
         ]
       },
-      "American V_ A Hundred Highways": {
+      "American V: A Hundred Highways": {
         "status": "verified",
         "personnel": [
           {
@@ -39816,7 +39330,7 @@
           }
         ]
       },
-      "American VI_ Ain't No Grave": {
+      "American VI: Ain't No Grave": {
         "status": "verified",
         "personnel": [
           {
@@ -40490,7 +40004,7 @@
       }
     },
     "Lamb": {
-      "between_darkness_and_wonder": {
+      "Between Darkness and Wonder": {
         "status": "verified",
         "personnel": [
           {
@@ -41365,10 +40879,6 @@
           }
         ]
       },
-      "Unknown Album": {
-        "status": "skipped",
-        "personnel": []
-      },
       "Whitechocolatespaceegg": {
         "status": "verified",
         "personnel": [
@@ -41570,60 +41080,6 @@
       }
     },
     "Los Amigos Invisibles": {
-      "Arepa 3000_ A Venezuelan Journey Into Sp": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Julio Briceño",
-            "role": "lead vocals",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "José Luis Pardo",
-            "role": "guitar",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Armando Figueredo",
-            "role": "keyboards, backing vocals",
-            "confidence": "medium",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "José Rafael Torres",
-            "role": "bass",
-            "confidence": "medium",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Juan Manuel Roura",
-            "role": "drums",
-            "confidence": "medium",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Mauricio Arcas",
-            "role": "percussion, lead vocals (select tracks)",
-            "confidence": "medium",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Philip Steir",
-            "role": "producer",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      },
       "Arepa 3000- A Venezuelan Journey Into Space": {
         "status": "verified",
         "personnel": [
@@ -41790,7 +41246,7 @@
       }
     },
     "Louis Prima": {
-      "Jump, Jive an' Wail_ The Essential Louis Prima": {
+      "Jump, Jive an' Wail: The Essential Louis Prima": {
         "status": "verified",
         "personnel": [
           {
@@ -42857,10 +42313,6 @@
           }
         ]
       },
-      "Unknown Album (8_20_2007 2_05_50 PM)": {
-        "status": "skipped",
-        "personnel": []
-      },
       "Alef": {
         "status": "verified",
         "personnel": [
@@ -43507,7 +42959,7 @@
       }
     },
     "Masada Quintet Featuring Joe Lovano": {
-      "Stolas_ The Book Of Angels Volume 12": {
+      "Stolas: The Book Of Angels Volume 12": {
         "status": "verified",
         "personnel": [
           {
@@ -43770,15 +43222,11 @@
       }
     },
     "Medeski, Martin & Wood": {
-      "Last Chance to Dance Trance (perhaps)_ B": {
-        "status": "skipped",
-        "personnel": []
-      },
       "Last Chance to Dance Trance (perhaps)- Best Of (1991-1996)": {
         "status": "skipped",
         "personnel": []
       },
-      "Zaebos_ The Book Of Angels Volume 11": {
+      "Zaebos: The Book Of Angels Volume 11": {
         "status": "verified",
         "personnel": [
           {
@@ -43912,7 +43360,7 @@
           }
         ]
       },
-      "Old World Underground, Where Are You Now": {
+      "Old World Underground, Where Are You Now?": {
         "status": "verified",
         "personnel": [
           {
@@ -44042,7 +43490,7 @@
           }
         ]
       },
-      "No More Stories Are Told Today I'm Sorry": {
+      "No More Stories Are Told Today, I'm Sorry They Washed Away // No More Stories, The World Is Grey, I'm Tired, Let's Wash Away": {
         "status": "verified",
         "personnel": [
           {
@@ -44741,53 +44189,6 @@
           }
         ]
       },
-      "This Is A Long Drive For Someone With No": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Isaac Brock",
-            "role": "guitar, vocals, drums (tr.9)",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Jeremiah Green",
-            "role": "drums, bass (tr.9)",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Eric Judy",
-            "role": "bass, guitar (tr.9)",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Steve Wold (Seasick Steve)",
-            "role": "producer, slide guitar, mandolin, backing vocals",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Brent Arnold",
-            "role": "cello",
-            "confidence": "medium",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Nicole Johnson",
-            "role": "vocals (guest, select tracks)",
-            "confidence": "medium",
-            "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      },
       "This Is A Long Drive For Someone With Nothing To Think About": {
         "status": "verified",
         "personnel": [
@@ -45147,7 +44548,7 @@
           }
         ]
       },
-      "The Best of Morphine_ 1992-1995": {
+      "The Best of Morphine: 1992-1995": {
         "status": "skipped",
         "personnel": []
       },
@@ -45365,7 +44766,7 @@
       }
     },
     "Mr. Bungle": {
-      "california": {
+      "California": {
         "status": "verified",
         "personnel": [
           {
@@ -45988,10 +45389,6 @@
       "To the moon LP": {
         "status": "skipped",
         "personnel": []
-      },
-      "Unknown Album": {
-        "status": "skipped",
-        "personnel": []
       }
     },
     "Mystic": {
@@ -46249,49 +45646,6 @@
       }
     },
     "Naked City": {
-      "Naked City Live, Vol. 1_ Knitting Factor": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "John Zorn",
-            "role": "alto saxophone",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "John Zorn"
-          },
-          {
-            "name": "Bill Frisell",
-            "role": "guitar",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "Bill Frisell"
-          },
-          {
-            "name": "Wayne Horvitz",
-            "role": "keyboards",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Fred Frith",
-            "role": "bass",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Joey Baron",
-            "role": "drums",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": true,
-            "collection_match": "Joey Baron"
-          }
-        ]
-      },
       "Naked City Live, Vol. 1- Knitting Factory 1989": {
         "status": "verified",
         "personnel": [
@@ -47004,10 +46358,6 @@
         ]
       },
       "Live in San Francisco 4_12_98": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "Unknown Album": {
         "status": "skipped",
         "personnel": []
       }
@@ -48970,7 +48320,7 @@
           }
         ]
       },
-      "the_dark_side_of_the_moon_(sacd)": {
+      "The Dark Side of the Moon (SACD)": {
         "status": "verified",
         "personnel": [
           {
@@ -49144,7 +48494,7 @@
       }
     },
     "Pop Will Eat Itself": {
-      "dos_dedos_mis_amigos": {
+      "Dos Dedos Mis Amigos": {
         "status": "verified",
         "personnel": [
           {
@@ -49352,7 +48702,7 @@
           }
         ]
       },
-      "frizzle_fry_(remaster)": {
+      "Frizzle Fry (Remaster)": {
         "status": "verified",
         "personnel": [
           {
@@ -49392,7 +48742,7 @@
           }
         ]
       },
-      "miscellaneous_debris": {
+      "Miscellaneous Debris": {
         "status": "verified",
         "personnel": [
           {
@@ -49823,7 +49173,7 @@
           }
         ]
       },
-      "Pulp_ The Peel Sessions (Disc 2)": {
+      "Pulp: The Peel Sessions (Disc 2)": {
         "status": "skipped",
         "personnel": []
       },
@@ -49992,7 +49342,7 @@
       }
     },
     "Radiohead": {
-      "hail_to_the_thief": {
+      "Hail to the Thief": {
         "status": "verified",
         "personnel": [
           {
@@ -50039,7 +49389,7 @@
           }
         ]
       },
-      "i_might_be_wrong_-_live_recordings": {
+      "I Might Be Wrong - Live Recordings": {
         "status": "skipped",
         "personnel": []
       },
@@ -50090,7 +49440,7 @@
           }
         ]
       },
-      "kid_a": {
+      "Kid A": {
         "status": "verified",
         "personnel": [
           {
@@ -50491,11 +49841,7 @@
         "status": "skipped",
         "personnel": []
       },
-      "Modern Sounds in Country and Western Mus": {
-        "status": "unverified",
-        "personnel": []
-      },
-      "Modern SoundsIn Country And Western Music, Vols 1 & 2": {
+      "Modern Sounds in Country and Western Music, Vols 1 & 2": {
         "status": "unverified",
         "personnel": []
       },
@@ -51426,10 +50772,6 @@
           }
         ]
       },
-      "Portrait of a Legend": {
-        "status": "skipped",
-        "personnel": []
-      },
       "Portrait of a Legend 1951-1964": {
         "status": "skipped",
         "personnel": []
@@ -51509,10 +50851,6 @@
         "personnel": []
       },
       "The Man And His Music": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "Unknown Album": {
         "status": "skipped",
         "personnel": []
       },
@@ -52991,7 +52329,7 @@
       }
     },
     "Stevie Wonder": {
-      "Song Review_ A Greatest Hits Collection": {
+      "Song Review: A Greatest Hits Collection": {
         "status": "skipped",
         "personnel": []
       },
@@ -53204,10 +52542,6 @@
           }
         ]
       },
-      "Unknown Album": {
-        "status": "skipped",
-        "personnel": []
-      },
       "You Still Touch Me [#2]": {
         "status": "skipped",
         "personnel": []
@@ -53280,19 +52614,7 @@
           }
         ]
       },
-      "Greetings From Michigan_ The Great Lakes": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "Sufjan Stevens",
-            "role": "vocals, banjo, guitar, piano, all instruments, producer",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          }
-        ]
-      },
-      "Greetings From Michigan_ The Great Lakes State": {
+      "Greetings From Michigan: The Great Lakes State": {
         "status": "verified",
         "personnel": [
           {
@@ -55184,10 +54506,6 @@
             "in_collection": false
           }
         ]
-      },
-      "Unknown Album (8_20_2007 3_55_37 PM)": {
-        "status": "unverified",
-        "personnel": []
       }
     },
     "The Chemical Brothers": {
@@ -55668,7 +54986,7 @@
       }
     },
     "The Commodores": {
-      "the_best_of_the_commodores": {
+      "The Best of the Commodores": {
         "status": "skipped",
         "personnel": []
       }
@@ -56596,10 +55914,6 @@
             "in_collection": false
           }
         ]
-      },
-      "Unknown Album": {
-        "status": "skipped",
-        "personnel": []
       }
     },
     "The Hoodoo Kings": {
@@ -56936,7 +56250,7 @@
       }
     },
     "The Neville Brothers": {
-      "Uptown Rulin'_ The Best of the Neville B": {
+      "Uptown Rulin': The Best of the Neville Brothers": {
         "status": "skipped",
         "personnel": []
       }
@@ -57285,7 +56599,7 @@
       }
     },
     "The Pogues": {
-      "If I Should Fall From Grace With God [Ex": {
+      "If I Should Fall From Grace With God [Expanded]": {
         "status": "verified",
         "personnel": [
           {
@@ -57623,11 +56937,11 @@
       }
     },
     "The Smithereens": {
-      "Anthology_ From Jersey It Came": {
+      "Anthology: From Jersey It Came": {
         "status": "skipped",
         "personnel": []
       },
-      "From Jersey It Came! The Smithereens Ant": {
+      "From Jersey It Came! The Smithereens Anthology": {
         "status": "skipped",
         "personnel": []
       },
@@ -58708,7 +58022,7 @@
       }
     },
     "Tom Waits": {
-      "alice": {
+      "Alice": {
         "status": "verified",
         "personnel": [
           {
@@ -60579,15 +59893,7 @@
           }
         ]
       },
-      "The Essential Tony Bennett [Columbia_Leg": {
-        "status": "skipped",
-        "personnel": []
-      },
       "The Essential Tony Bennett [Columbia-Legacy] Disc 1": {
-        "status": "skipped",
-        "personnel": []
-      },
-      "Unknown Album (8_21_2007 9_25_05 PM)": {
         "status": "skipped",
         "personnel": []
       }
@@ -60907,7 +60213,7 @@
       }
     },
     "Tor": {
-      "cn_tower_mp3": {
+      "CN Tower": {
         "status": "unverified",
         "personnel": []
       },
@@ -61412,63 +60718,12 @@
         "status": "skipped",
         "personnel": []
       },
-      "2005-03-12 Langerado Festival - Sunrise,": {
-        "status": "skipped",
-        "personnel": []
-      },
       "2005-03-12 Langerado Festival - Sunrise, FL": {
         "status": "skipped",
         "personnel": []
       }
     },
     "Urban Dance Squad": {
-      "Life 'n Perspective of a Genuine Crossov": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "DJ Oum",
-            "role": "producer / engineer / mixer",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Rudeboy",
-            "role": "lead vocals",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "DNA",
-            "role": "turntables / special effects",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Silly Sil",
-            "role": "bass",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "Magic Stick",
-            "role": "drums / percussion / mixer",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          },
-          {
-            "name": "Tres Manos",
-            "role": "guitar / mixer",
-            "confidence": "high",
-            "source": "discogs",
-            "in_collection": false
-          }
-        ]
-      },
       "Life 'n Perspective of a Genuine Crossover Disc 1": {
         "status": "verified",
         "personnel": [
@@ -62293,10 +61548,6 @@
       }
     },
     "WEATHERMEN": {
-      "Torrent downloaded from Demonoid.com.txt": {
-        "status": "skipped",
-        "personnel": []
-      },
       "Weathermen-The_Conspiracy-(Retail)-2003-CMS": {
         "status": "verified",
         "personnel": [
@@ -62356,11 +61607,11 @@
       }
     },
     "Warren Zevon - I'll Sleep When I'm Dead (An Anthology)": {
-      "Disc 1": {
+      "I'll Sleep When I'm Dead (An Anthology) Disc 1": {
         "status": "skipped",
         "personnel": []
       },
-      "Disc 2": {
+      "I'll Sleep When I'm Dead (An Anthology) Disc 2": {
         "status": "skipped",
         "personnel": []
       },
@@ -62761,56 +62012,6 @@
       }
     },
     "William S. Burroughs": {
-      "spare_ass_annie": {
-        "status": "verified",
-        "personnel": [
-          {
-            "name": "William S. Burroughs",
-            "role": "spoken word",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": false
-          },
-          {
-            "name": "The Disposable Heroes of Hiphoprisy",
-            "role": "musical accompaniment",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": true,
-            "collection_match": "The Disposable Heroes of Hiphoprisy"
-          },
-          {
-            "name": "Michael Franti",
-            "role": "vocals, production, instruments",
-            "confidence": "high",
-            "source": "knowledge",
-            "in_collection": true,
-            "collection_match": "The Disposable Heroes of Hiphoprisy"
-          },
-          {
-            "name": "Rono Tse",
-            "role": "drums, percussion, programming",
-            "confidence": "high",
-            "source": "workflow:wf_8c69d685-f67",
-            "in_collection": false
-          },
-          {
-            "name": "Charlie Hunter",
-            "role": "guitar (recording debut with the group)",
-            "confidence": "high",
-            "source": "workflow:wf_8c69d685-f67",
-            "in_collection": true,
-            "collection_match": "Charlie Hunter Quartet"
-          },
-          {
-            "name": "Hal Willner",
-            "role": "producer",
-            "confidence": "high",
-            "source": "workflow:wf_8c69d685-f67",
-            "in_collection": false
-          }
-        ]
-      },
       "Spare Ass Annie and Other Tales": {
         "status": "verified",
         "personnel": [
@@ -63912,7 +63113,7 @@
       }
     },
     "cLOUDDEAD": {
-      "clouddead": {
+      "cLOUDDEAD": {
         "status": "verified",
         "personnel": [
           {
@@ -63968,7 +63169,7 @@
           }
         ]
       },
-      "ten": {
+      "Ten": {
         "status": "verified",
         "personnel": [
           {
@@ -63997,7 +63198,7 @@
       }
     },
     "dangerdoom": {
-      "the_mouse_and_the_mask": {
+      "The Mouse and the Mask": {
         "status": "verified",
         "personnel": [
           {
@@ -65325,10 +64526,6 @@
             "in_collection": false
           }
         ]
-      },
-      "Unknown Album": {
-        "status": "skipped",
-        "personnel": []
       }
     },
     "Red Hot Chili Peppers": {

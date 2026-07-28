@@ -19,5 +19,5 @@ tags: ["artist", "rock", "rotation-historical"]
 ## Albums (4)
 - Cure for Pain
 - Like Swimming
-- The Best of Morphine 1992-1995
+- The Best of Morphine: 1992-1995
 - The Night

@@ -21,6 +21,6 @@ tags: ["artist", "rock", "rotation-dormant"]
 **Session ties:** [[Maynard James Keenan]]
 
 ## Albums (3)
-- emotive
 - Mer de Noms
 - Thirteenth Step
+- eMOTIVe

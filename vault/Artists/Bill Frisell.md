@@ -5,7 +5,7 @@ era: "1980s-now"
 rotation: "historical"
 plays: 1
 last_played: "2017-12-21"
-album_count: 2
+album_count: 1
 tags: ["artist", "jazz", "rotation-historical"]
 ---
 
@@ -17,6 +17,5 @@ tags: ["artist", "jazz", "rotation-historical"]
 
 **Session ties:** [[Jerry Douglas]] · [[John Zorn]] · [[Naked City]] · [[Norah Jones]]
 
-## Albums (2)
-- Amazon MP3
+## Albums (1)
 - Nashville

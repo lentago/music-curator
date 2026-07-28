@@ -14,4 +14,4 @@ tags: ["artist", "soul-funk-r-b", "rotation-historical"]
 **Rotation:** historical — never streamed.
 
 ## Albums (1)
-- the best of the commodores
+- The Best of the Commodores

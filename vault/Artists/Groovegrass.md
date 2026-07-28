@@ -4,7 +4,7 @@ category: "Country & Americana"
 subcategory: "Newgrass"
 era: "1990s"
 rotation: "historical"
-album_count: 2
+album_count: 1
 tags: ["artist", "country-americana", "rotation-historical"]
 ---
 
@@ -16,6 +16,5 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Session ties:** [[Del McCoury]] · [[Jerry Douglas]]
 
-## Albums (2)
-- Groovegrass 101 Featuring Groovegrass Bo
+## Albums (1)
 - Groovegrass 101 Featuring Groovegrass Boyz

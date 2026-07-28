@@ -6,7 +6,7 @@ era: "1950s-now"
 rotation: "current"
 plays: 107
 last_played: "2026-07-04"
-album_count: 4
+album_count: 2
 tags: ["artist", "jazz", "rotation-current"]
 ---
 
@@ -18,8 +18,6 @@ tags: ["artist", "jazz", "rotation-current"]
 
 **By year:** 2020 ▃7 · 2021 ▂4 · 2022 ▄13 · 2023 ▇26 · 2024 ▅14 · 2025 ▅15 · 2026 █28
 
-## Albums (4)
+## Albums (2)
 - For Once In My Life
-- The Essential Tony Bennett [Columbia Leg
 - The Essential Tony Bennett [Columbia-Legacy] Disc 1
-- Unknown Album (8 21 2007 9 25 05 PM)

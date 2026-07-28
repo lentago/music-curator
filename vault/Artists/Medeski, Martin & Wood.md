@@ -5,7 +5,7 @@ era: "1990s-now"
 rotation: "current"
 plays: 39
 last_played: "2026-06-24"
-album_count: 3
+album_count: 2
 tags: ["artist", "jazz", "rotation-current"]
 ---
 
@@ -19,7 +19,6 @@ tags: ["artist", "jazz", "rotation-current"]
 
 **Session ties:** [[DJ Logic]] · [[John Zorn]] · [[John Zorn-Masada Chamber Ensembles]]
 
-## Albums (3)
-- Last Chance to Dance Trance (perhaps) B
+## Albums (2)
 - Last Chance to Dance Trance (perhaps)- Best Of (1991-1996)
-- Zaebos The Book Of Angels Volume 11
+- Zaebos: The Book Of Angels Volume 11

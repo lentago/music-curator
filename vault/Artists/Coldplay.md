@@ -6,7 +6,7 @@ era: "2000s-now"
 rotation: "historical"
 plays: 1
 last_played: "2026-02-13"
-album_count: 6
+album_count: 5
 tags: ["artist", "rock", "rotation-historical"]
 ---
 
@@ -18,10 +18,9 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[David Byrne & Brian Eno]]
 
-## Albums (6)
+## Albums (5)
 - A Rush Of Blood To The Head
 - Parachutes
 - Violet Hill - Single
-- Viva La Vida Or Death And All His Friend
 - Viva La Vida Or Death And All His Friends
 - X&Y

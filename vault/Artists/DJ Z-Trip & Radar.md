@@ -4,7 +4,7 @@ category: "Hip-Hop"
 subcategory: "Turntablism & Beats"
 era: "2000s"
 rotation: "historical"
-album_count: 2
+album_count: 1
 tags: ["artist", "hip-hop", "rotation-historical"]
 ---
 
@@ -14,6 +14,5 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Rotation:** historical — never streamed.
 
-## Albums (2)
-- Live at the Future Primitive Soundsessio
+## Albums (1)
 - Live at the Future Primitive Soundsession, Vol. 2
