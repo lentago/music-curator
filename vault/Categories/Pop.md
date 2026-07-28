@@ -1,18 +1,17 @@
 ---
 type: "category"
-member_count: 45
+member_count: 36
 tags: ["category", "pop"]
 ---
 
 # Pop
 
-*Category — 45 artists in the collection.*
+*Category — 36 artists in the collection.*
 
 ## Subcategories
-- [[Art-Pop & New Wave]] (26)
-- [[Indie & Synth-Pop]] (13)
-- [[Standards & Vocal]] (4)
+- [[Art-Pop & New Wave]] (22)
+- [[Indie & Synth-Pop]] (12)
 
 ## Artists (no subcategory)
 - [[Michael Jackson]]
-- [[Wrecking Crew]]
+- [[Sarah McLachlan]]

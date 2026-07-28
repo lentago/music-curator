@@ -1,16 +1,16 @@
 ---
 type: "artist"
-category: "Pop"
-subcategory: "Indie & Synth-Pop"
+category: "Rock"
+subcategory: "Indie & Alternative"
 era: "1980s-90s"
 rotation: "historical"
 album_count: 4
-tags: ["artist", "pop", "rotation-historical"]
+tags: ["artist", "rock", "rotation-historical"]
 ---
 
 # The Smithereens
 
-**Category:** Pop › [[Indie & Synth-Pop]]
+**Category:** Rock › [[Indie & Alternative]]
 
 **Rotation:** historical — never streamed.
 

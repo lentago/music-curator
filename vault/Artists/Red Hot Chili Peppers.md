@@ -1,7 +1,7 @@
 ---
 type: "artist"
 category: "Rock"
-subcategory: "Classic Rock"
+subcategory: "Indie & Alternative"
 era: "1980s-now"
 rotation: "current"
 plays: 24
@@ -12,7 +12,7 @@ tags: ["artist", "rock", "rotation-current"]
 
 # Red Hot Chili Peppers
 
-**Category:** Rock › [[Classic Rock]]
+**Category:** Rock › [[Indie & Alternative]]
 
 **Rotation:** current — still in play. 14 plays in the trailing 18 months (24 lifetime, 1 h), last on 2026-04-26.
 

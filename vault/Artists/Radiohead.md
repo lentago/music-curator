@@ -1,18 +1,18 @@
 ---
 type: "artist"
-category: "Pop"
-subcategory: "Art-Pop & New Wave"
+category: "Rock"
+subcategory: "Indie & Alternative"
 era: "1993-now"
 rotation: "dormant"
 plays: 21
 last_played: "2026-01-25"
 album_count: 8
-tags: ["artist", "pop", "rotation-dormant"]
+tags: ["artist", "rock", "rotation-dormant"]
 ---
 
 # Radiohead
 
-**Category:** Pop › [[Art-Pop & New Wave]]
+**Category:** Rock › [[Indie & Alternative]]
 
 **Rotation:** dormant — played, but not lately. 1 play in the trailing 18 months (21 lifetime, 1 h), last on 2026-01-25.
 

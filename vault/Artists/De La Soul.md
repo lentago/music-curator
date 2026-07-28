@@ -1,7 +1,7 @@
 ---
 type: "artist"
 category: "Hip-Hop"
-subcategory: "Underground"
+subcategory: "Golden Age"
 era: "1989-now"
 rotation: "current"
 plays: 70
@@ -12,7 +12,7 @@ tags: ["artist", "hip-hop", "rotation-current"]
 
 # De La Soul
 
-**Category:** Hip-Hop › [[Underground]]
+**Category:** Hip-Hop › [[Golden Age]]
 
 **Rotation:** current — still in play. 45 plays in the trailing 18 months (70 lifetime, 3 h), last on 2026-06-04.
 

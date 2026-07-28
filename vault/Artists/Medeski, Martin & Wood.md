@@ -1,17 +1,17 @@
 ---
 type: "artist"
-category: "Avant-Garde & Experimental"
+category: "Jazz"
 era: "1990s-now"
 rotation: "current"
 plays: 39
 last_played: "2026-06-24"
 album_count: 3
-tags: ["artist", "avant-garde-experimental", "rotation-current"]
+tags: ["artist", "jazz", "rotation-current"]
 ---
 
 # Medeski, Martin & Wood
 
-**Category:** [[Avant-Garde & Experimental]]
+**Category:** [[Jazz]]
 
 **Rotation:** current — still in play. 12 plays in the trailing 18 months (39 lifetime, 3 h), last on 2026-06-24.
 

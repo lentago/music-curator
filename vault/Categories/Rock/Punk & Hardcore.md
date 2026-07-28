@@ -1,13 +1,13 @@
 ---
 type: "subcategory"
 category: "Rock"
-member_count: 13
+member_count: 14
 tags: ["subcategory", "rock"]
 ---
 
 # Punk & Hardcore
 
-*Subcategory of [[Rock]] — 13 artists.*
+*Subcategory of [[Rock]] — 14 artists.*
 
 ## Artists
 - [[At The Drive-In]]
@@ -23,3 +23,4 @@ tags: ["subcategory", "rock"]
 - [[The Clash]]
 - [[The Mars Volta]]
 - [[The Pogues]]
+- [[Wrecking Crew]]

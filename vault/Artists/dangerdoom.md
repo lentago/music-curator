@@ -1,7 +1,7 @@
 ---
 type: "artist"
 category: "Hip-Hop"
-subcategory: "Turntablism & Beats"
+subcategory: "Underground"
 era: "2000s"
 rotation: "historical"
 plays: 9
@@ -12,7 +12,7 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 # dangerdoom
 
-**Category:** Hip-Hop › [[Turntablism & Beats]]
+**Category:** Hip-Hop › [[Underground]]
 
 **Rotation:** historical — effectively absent from the stream. 9 lifetime plays, none recent, last on 2024-12-12.
 

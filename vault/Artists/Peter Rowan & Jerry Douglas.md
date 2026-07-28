@@ -1,7 +1,7 @@
 ---
 type: "artist"
 category: "Country & Americana"
-subcategory: "Bluegrass"
+subcategory: "Newgrass"
 rotation: "historical"
 album_count: 1
 collaborators: ["Jerry Douglas"]
@@ -10,7 +10,7 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 # Peter Rowan & Jerry Douglas
 
-**Category:** Country & Americana › [[Bluegrass]]
+**Category:** Country & Americana › [[Newgrass]]
 
 **Rotation:** historical — never streamed.
 

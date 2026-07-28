@@ -1,13 +1,13 @@
 ---
 type: "subcategory"
 category: "Rock"
-member_count: 34
+member_count: 51
 tags: ["subcategory", "rock"]
 ---
 
 # Indie & Alternative
 
-*Subcategory of [[Rock]] — 34 artists.*
+*Subcategory of [[Rock]] — 51 artists.*
 
 ## Artists
 - [[10,000 Maniacs]]
@@ -26,21 +26,38 @@ tags: ["subcategory", "rock"]
 - [[Fungo Mungo]]
 - [[Grizzly Bear]]
 - [[Interpol]]
+- [[Jack White]]
 - [[Jane's Addiction]]
+- [[Kings Of Leon]]
 - [[Liz Phair]]
 - [[Metric]]
 - [[Mew]]
+- [[Microphones]]
 - [[Mindfunk]]
 - [[Minus the Bear]]
 - [[Modest Mouse]]
 - [[Morphine]]
+- [[Muse]]
 - [[MuteMath]]
+- [[My Morning Jacket]]
+- [[Neutral Milk Hotel]]
 - [[Psychefunkapus]]
 - [[Pulp]]
 - [[R.E.M]]
+- [[Radiohead]]
+- [[Red Hot Chili Peppers]]
 - [[Soundgarden]]
+- [[Tenacious D]]
 - [[The Beta Band]]
 - [[The Hold Steady]]
+- [[The Microphones]]
+- [[The Raconteurs]]
+- [[The Red Hot Chili Peppers]]
+- [[The Smithereens]]
 - [[The xx]]
+- [[They Might Be Giants]]
+- [[TV On The Radio]]
+- [[Urban Dance Squad]]
+- [[Wilco]]
 - [[Xx]]
 - [[Young The Giant]]

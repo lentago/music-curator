@@ -1,12 +1,12 @@
 ---
 type: "category"
-member_count: 35
+member_count: 33
 tags: ["category", "folk-singer-songwriter"]
 ---
 
 # Folk & Singer-Songwriter
 
-*Category — 35 artists in the collection.*
+*Category — 33 artists in the collection.*
 
 ## Artists
 - [[Andrew Bird]]
@@ -14,6 +14,7 @@ tags: ["category", "folk-singer-songwriter"]
 - [[Beirut]]
 - [[Beth Orton]]
 - [[Billy Bragg]]
+- [[Billy Bragg & Wilco - Mermaid avenue (Vol 1 & 2)]]
 - [[Blue Merle]]
 - [[Bob Dylan]]
 - [[Cat Power]]
@@ -21,25 +22,22 @@ tags: ["category", "folk-singer-songwriter"]
 - [[David Gray]]
 - [[DeVotchKa]]
 - [[Edie Brickell & New Bohemians]]
-- [[Feist]]
 - [[Iron & Wine]]
 - [[Jeff Buckley]]
 - [[Kings Of Convenience]]
+- [[Leo Kottke & Mike Gordon]]
 - [[Lisa Hannigan]]
 - [[M_ Ward]]
-- [[Microphones]]
 - [[Monsters Of Folk]]
 - [[Mumford & Sons]]
 - [[Neil Young]]
-- [[Neutral Milk Hotel]]
 - [[Paul Simon]]
 - [[Ray LaMontagne]]
 - [[Ray LaMontagne & The Pariah Dogs]]
 - [[Regina Spektor]]
-- [[Sarah McLachlan]]
 - [[Simon & Garfunkel]]
 - [[Sufjan Stevens]]
-- [[The Microphones]]
+- [[Tori Amos]]
 - [[Tracy Chapman]]
 - [[Warren Zevon - I'll Sleep When I'm Dead (An Anthology)]]
 - [[Willy Porter]]

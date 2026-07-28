@@ -1,18 +1,18 @@
 ---
 type: "artist"
-category: "Pop"
-subcategory: "Art-Pop & New Wave"
+category: "Country & Americana"
+subcategory: "Gothic Americana"
 era: "1980s-now"
 rotation: "dormant"
 plays: 13
 last_played: "2019-12-11"
 album_count: 2
-tags: ["artist", "pop", "rotation-dormant"]
+tags: ["artist", "country-americana", "rotation-dormant"]
 ---
 
 # Nick Cave & the Bad Seeds
 
-**Category:** Pop › [[Art-Pop & New Wave]]
+**Category:** Country & Americana › [[Gothic Americana]]
 
 **Rotation:** dormant — played, but not lately. 13 lifetime plays, none recent, last on 2019-12-11.
 

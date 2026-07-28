@@ -1,6 +1,7 @@
 ---
 type: "artist"
 category: "Jazz"
+subcategory: "Standards & Vocal"
 era: "1940s-1960s"
 rotation: "current"
 plays: 28
@@ -11,7 +12,7 @@ tags: ["artist", "jazz", "rotation-current"]
 
 # Nat King Cole
 
-**Category:** [[Jazz]]
+**Category:** Jazz › [[Standards & Vocal]]
 
 **Rotation:** current — still in play. 12 plays in the trailing 18 months (28 lifetime, 1 h), last on 2026-03-18.
 

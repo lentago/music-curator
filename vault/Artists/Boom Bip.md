@@ -1,18 +1,18 @@
 ---
 type: "artist"
-category: "Electronic"
-subcategory: "Trip-Hop & Downtempo"
+category: "Hip-Hop"
+subcategory: "Turntablism & Beats"
 era: "2000s"
 rotation: "dormant"
 plays: 65
 last_played: "2022-01-01"
 album_count: 1
-tags: ["artist", "electronic", "rotation-dormant"]
+tags: ["artist", "hip-hop", "rotation-dormant"]
 ---
 
 # Boom Bip
 
-**Category:** Electronic › [[Trip-Hop & Downtempo]]
+**Category:** Hip-Hop › [[Turntablism & Beats]]
 
 **Rotation:** dormant — played, but not lately. 65 lifetime plays, none recent, last on 2022-01-01.
 

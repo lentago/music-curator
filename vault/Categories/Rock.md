@@ -1,17 +1,17 @@
 ---
 type: "category"
-member_count: 109
+member_count: 126
 tags: ["category", "rock"]
 ---
 
 # Rock
 
-*Category — 109 artists in the collection.*
+*Category — 126 artists in the collection.*
 
 ## Subcategories
-- [[Classic Rock]] (19)
-- [[Indie & Alternative]] (34)
-- [[Jam]] (19)
+- [[Classic Rock]] (18)
+- [[Indie & Alternative]] (51)
+- [[Jam]] (20)
 - [[Metal]] (18)
-- [[Post-Rock]] (6)
-- [[Punk & Hardcore]] (13)
+- [[Post-Rock]] (5)
+- [[Punk & Hardcore]] (14)

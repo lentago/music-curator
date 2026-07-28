@@ -1,33 +1,32 @@
 ---
 type: "category"
-member_count: 78
+member_count: 72
 tags: ["category", "country-americana"]
 ---
 
 # Country & Americana
 
-*Category — 78 artists in the collection.*
+*Category — 72 artists in the collection.*
 
 ## Subcategories
-- [[Bluegrass]] (17)
-- [[Gothic Americana]] (5)
-- [[Newgrass]] (27)
+- [[Bluegrass]] (9)
+- [[Gothic Americana]] (6)
+- [[Newgrass]] (31)
 
 ## Artists (no subcategory)
-- [[Billy Bragg & Wilco - Mermaid avenue (Vol 1 & 2)]]
+- [[Bruce Springsteen]]
 - [[Bruce Springsteen with the Sessions Band]]
 - [[Bucky Covington & Shooter Jenn]]
 - [[Chris Stapleton]]
-- [[Creedence Clearwater Revival]]
-- [[Dire Straits & Mark Knopfler]]
 - [[Emmylou Harris]]
+- [[Gillian Welch]]
 - [[Gram Parsons]]
 - [[Iris DeMent]]
 - [[Johnny Cash]]
 - [[Johnny Cash & Willie Nelson]]
-- [[Little Feat]]
 - [[Lucinda Williams]]
 - [[Mark Knopfler]]
+- [[Mark Knopfler And Emmylou Harris]]
 - [[Neko Case]]
 - [[Neko Case & Her Boyfriends]]
 - [[Neko Case And Her Boyfriends]]
@@ -37,9 +36,7 @@ tags: ["category", "country-americana"]
 - [[Steve Earle & The Dukes]]
 - [[Steve Earle & The Dukes (& Duchesses)]]
 - [[The Band]]
-- [[The Byrds]]
 - [[Tom Waits]]
 - [[Waylon Jennings]]
-- [[Wilco]]
 - [[Willie Nelson]]
 - [[Willie Nelson-Waylon Jennings]]

@@ -1,6 +1,7 @@
 ---
 type: "artist"
 category: "Jazz"
+subcategory: "Standards & Vocal"
 era: "1990s-now"
 rotation: "historical"
 plays: 2
@@ -11,7 +12,7 @@ tags: ["artist", "jazz", "rotation-historical"]
 
 # Diana Krall
 
-**Category:** [[Jazz]]
+**Category:** Jazz › [[Standards & Vocal]]
 
 **Rotation:** historical — effectively absent from the stream. 2 plays in the trailing 18 months (2 lifetime), last on 2025-12-11.
 

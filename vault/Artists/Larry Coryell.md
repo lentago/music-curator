@@ -1,6 +1,7 @@
 ---
 type: "artist"
 category: "Jazz"
+subcategory: "Fusion"
 era: "1970s-now"
 rotation: "historical"
 plays: 5
@@ -11,7 +12,7 @@ tags: ["artist", "jazz", "rotation-historical"]
 
 # Larry Coryell
 
-**Category:** [[Jazz]]
+**Category:** Jazz › [[Fusion]]
 
 **Rotation:** historical — effectively absent from the stream. 5 lifetime plays, none recent, last on 2021-03-21.
 

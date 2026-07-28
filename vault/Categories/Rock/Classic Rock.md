@@ -1,31 +1,30 @@
 ---
 type: "subcategory"
 category: "Rock"
-member_count: 19
+member_count: 18
 tags: ["subcategory", "rock"]
 ---
 
 # Classic Rock
 
-*Subcategory of [[Rock]] — 19 artists.*
+*Subcategory of [[Rock]] — 18 artists.*
 
 ## Artists
 - [[AC-DC]]
-- [[Bruce Springsteen]]
+- [[Creedence Clearwater Revival]]
+- [[Dire Straits & Mark Knopfler]]
 - [[Genesis]]
 - [[Guns N' Roses]]
-- [[Kings Of Leon]]
+- [[Jeff Beck]]
+- [[Jimi Hendrix]]
 - [[Led Zeppelin]]
-- [[Muse]]
-- [[My Morning Jacket]]
+- [[Little Feat]]
 - [[Pink Floyd]]
-- [[Red Hot Chili Peppers]]
 - [[Robert Plant]]
 - [[Rush]]
-- [[Tenacious D]]
+- [[Santana]]
+- [[Steely Dan]]
 - [[The Beatles]]
-- [[The Red Hot Chili Peppers]]
+- [[The Byrds]]
 - [[The Rolling Stones]]
 - [[TheBeatles-WhiteAbum-2009StereoRemaster]]
-- [[They Might Be Giants]]
-- [[Tori Amos]]

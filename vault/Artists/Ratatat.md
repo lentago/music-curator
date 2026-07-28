@@ -1,18 +1,17 @@
 ---
 type: "artist"
-category: "Pop"
-subcategory: "Indie & Synth-Pop"
+category: "Electronic"
 era: "2000s-now"
 rotation: "dormant"
 plays: 24
 last_played: "2026-04-25"
 album_count: 3
-tags: ["artist", "pop", "rotation-dormant"]
+tags: ["artist", "electronic", "rotation-dormant"]
 ---
 
 # Ratatat
 
-**Category:** Pop › [[Indie & Synth-Pop]]
+**Category:** [[Electronic]]
 
 **Rotation:** dormant — played, but not lately. 4 plays in the trailing 18 months (24 lifetime, 1 h), last on 2026-04-25.
 

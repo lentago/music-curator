@@ -1,6 +1,7 @@
 ---
 type: "artist"
 category: "Jazz"
+subcategory: "Gypsy Jazz"
 era: "1980s-now"
 rotation: "historical"
 plays: 1
@@ -11,7 +12,7 @@ tags: ["artist", "jazz", "rotation-historical"]
 
 # Biréli Lagrène
 
-**Category:** [[Jazz]]
+**Category:** Jazz › [[Gypsy Jazz]]
 
 **Rotation:** historical — effectively absent from the stream. 1 lifetime play, none recent, last on 2020-03-01.
 

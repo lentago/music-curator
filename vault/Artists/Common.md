@@ -1,7 +1,7 @@
 ---
 type: "artist"
 category: "Hip-Hop"
-subcategory: "Underground"
+subcategory: "Golden Age"
 era: "1990s-now"
 rotation: "historical"
 plays: 1
@@ -12,7 +12,7 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 # Common
 
-**Category:** Hip-Hop › [[Underground]]
+**Category:** Hip-Hop › [[Golden Age]]
 
 **Rotation:** historical — effectively absent from the stream. 1 lifetime play, none recent, last on 2021-11-25.
 

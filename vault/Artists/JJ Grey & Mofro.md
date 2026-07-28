@@ -1,6 +1,7 @@
 ---
 type: "artist"
 category: "Soul, Funk & R&B"
+subcategory: "New Orleans Funk"
 era: "2000s-now"
 rotation: "historical"
 album_count: 2
@@ -10,7 +11,7 @@ tags: ["artist", "soul-funk-r-b", "rotation-historical"]
 
 # JJ Grey & Mofro
 
-**Category:** [[Soul, Funk & R&B]]
+**Category:** Soul, Funk & R&B › [[New Orleans Funk]]
 
 **Rotation:** historical — never streamed.
 

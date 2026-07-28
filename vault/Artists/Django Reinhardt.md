@@ -1,6 +1,7 @@
 ---
 type: "artist"
 category: "Jazz"
+subcategory: "Gypsy Jazz"
 era: "1930s-50s"
 rotation: "dormant"
 plays: 11
@@ -11,7 +12,7 @@ tags: ["artist", "jazz", "rotation-dormant"]
 
 # Django Reinhardt
 
-**Category:** [[Jazz]]
+**Category:** Jazz › [[Gypsy Jazz]]
 
 **Rotation:** dormant — played, but not lately. 11 lifetime plays, none recent, last on 2024-01-07.
 

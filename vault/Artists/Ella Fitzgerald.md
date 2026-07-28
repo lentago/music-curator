@@ -1,6 +1,7 @@
 ---
 type: "artist"
 category: "Jazz"
+subcategory: "Standards & Vocal"
 era: "1934-1996"
 rotation: "current"
 plays: 36
@@ -11,7 +12,7 @@ tags: ["artist", "jazz", "rotation-current"]
 
 # Ella Fitzgerald
 
-**Category:** [[Jazz]]
+**Category:** Jazz › [[Standards & Vocal]]
 
 **Rotation:** current — still in play. 11 plays in the trailing 18 months (36 lifetime, 2 h), last on 2026-02-13.
 

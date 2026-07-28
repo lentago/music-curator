@@ -1,15 +1,15 @@
 ---
 type: "artist"
-category: "Jazz"
+category: "Blues"
 era: "1970s"
 rotation: "historical"
 album_count: 1
-tags: ["artist", "jazz", "rotation-historical"]
+tags: ["artist", "blues", "rotation-historical"]
 ---
 
 # Muddy Waters_Dizzy Gillespie
 
-**Category:** [[Jazz]]
+**Category:** [[Blues]]
 
 **Rotation:** historical — never streamed.
 

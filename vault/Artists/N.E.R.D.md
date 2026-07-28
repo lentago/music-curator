@@ -1,6 +1,7 @@
 ---
 type: "artist"
 category: "Hip-Hop"
+subcategory: "Mainstream"
 rotation: "dormant"
 plays: 57
 last_played: "2026-04-22"
@@ -10,7 +11,7 @@ tags: ["artist", "hip-hop", "rotation-dormant"]
 
 # N.E.R.D
 
-**Category:** [[Hip-Hop]]
+**Category:** Hip-Hop › [[Mainstream]]
 
 **Rotation:** dormant — played, but not lately. 9 plays in the trailing 18 months (57 lifetime, 3 h), last on 2026-04-22.
 

@@ -1,17 +1,18 @@
 ---
 type: "artist"
-category: "Country & Americana"
+category: "Rock"
+subcategory: "Indie & Alternative"
 era: "1990s-now"
 rotation: "historical"
 plays: 7
 last_played: "2019-12-27"
 album_count: 4
-tags: ["artist", "country-americana", "rotation-historical"]
+tags: ["artist", "rock", "rotation-historical"]
 ---
 
 # Wilco
 
-**Category:** [[Country & Americana]]
+**Category:** Rock › [[Indie & Alternative]]
 
 **Rotation:** historical — effectively absent from the stream. 7 lifetime plays, none recent, last on 2019-12-27.
 

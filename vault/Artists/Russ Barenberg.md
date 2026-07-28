@@ -1,7 +1,7 @@
 ---
 type: "artist"
 category: "Country & Americana"
-subcategory: "Bluegrass"
+subcategory: "Newgrass"
 rotation: "historical"
 album_count: 1
 tags: ["artist", "country-americana", "rotation-historical"]
@@ -9,7 +9,7 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 # Russ Barenberg
 
-**Category:** Country & Americana › [[Bluegrass]]
+**Category:** Country & Americana › [[Newgrass]]
 
 **Rotation:** historical — never streamed.
 

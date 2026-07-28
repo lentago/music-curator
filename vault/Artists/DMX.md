@@ -1,6 +1,7 @@
 ---
 type: "artist"
 category: "Hip-Hop"
+subcategory: "Mainstream"
 era: "1990s-now"
 rotation: "dormant"
 plays: 89
@@ -11,7 +12,7 @@ tags: ["artist", "hip-hop", "rotation-dormant"]
 
 # DMX
 
-**Category:** [[Hip-Hop]]
+**Category:** Hip-Hop › [[Mainstream]]
 
 **Rotation:** dormant — played, but not lately. 1 play in the trailing 18 months (89 lifetime, 4 h), last on 2025-02-02.
 

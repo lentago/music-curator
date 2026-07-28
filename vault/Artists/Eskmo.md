@@ -1,16 +1,15 @@
 ---
 type: "artist"
-category: "Hip-Hop"
-subcategory: "Turntablism & Beats"
+category: "Electronic"
 era: "2000s-now"
 rotation: "historical"
 album_count: 1
-tags: ["artist", "hip-hop", "rotation-historical"]
+tags: ["artist", "electronic", "rotation-historical"]
 ---
 
 # Eskmo
 
-**Category:** Hip-Hop › [[Turntablism & Beats]]
+**Category:** [[Electronic]]
 
 **Rotation:** historical — never streamed.
 

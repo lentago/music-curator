@@ -1,15 +1,15 @@
 ---
 type: "artist"
-category: "Folk & Singer-Songwriter"
+category: "Pop"
 era: "1990s-now"
 rotation: "historical"
 album_count: 3
-tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
+tags: ["artist", "pop", "rotation-historical"]
 ---
 
 # Sarah McLachlan
 
-**Category:** [[Folk & Singer-Songwriter]]
+**Category:** [[Pop]]
 
 **Rotation:** historical — never streamed.
 

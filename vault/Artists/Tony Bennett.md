@@ -1,18 +1,18 @@
 ---
 type: "artist"
-category: "Pop"
+category: "Jazz"
 subcategory: "Standards & Vocal"
 era: "1950s-now"
 rotation: "current"
 plays: 107
 last_played: "2026-07-04"
 album_count: 4
-tags: ["artist", "pop", "rotation-current"]
+tags: ["artist", "jazz", "rotation-current"]
 ---
 
 # Tony Bennett
 
-**Category:** Pop › [[Standards & Vocal]]
+**Category:** Jazz › [[Standards & Vocal]]
 
 **Rotation:** current — still in play. 43 plays in the trailing 18 months (107 lifetime, 5 h), last on 2026-07-04.
 

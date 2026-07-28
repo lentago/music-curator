@@ -1,22 +1,26 @@
 ---
 type: "category"
-member_count: 13
+member_count: 15
 tags: ["category", "world"]
 ---
 
 # World
 
-*Category — 13 artists in the collection.*
+*Category — 15 artists in the collection.*
 
-## Artists
+## Subcategories
+- [[Reggae & Dub]] (1)
+
+## Artists (no subcategory)
+- [[Daniel Kahn & the Painted Bird]]
 - [[Gipsy Kings]]
 - [[Habib Koité and Bamada]]
-- [[Jimmy Cliff]]
 - [[Karsh Kale]]
 - [[Loreena McKennitt]]
 - [[Luciana Souza_Romero Lubambo]]
 - [[Nitin Sawhney]]
 - [[Outback]]
+- [[The Klezmatics]]
 - [[The Tribe]]
 - [[Vishwa Mohan Bhatt With Bela Fleck and J]]
 - [[Vishwa Mohan Bhatt With Bela Fleck and Jie Bing Chen]]

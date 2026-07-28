@@ -1,7 +1,7 @@
 ---
 type: "artist"
 category: "Hip-Hop"
-subcategory: "Underground"
+subcategory: "Golden Age"
 era: "1980s"
 rotation: "dormant"
 plays: 49
@@ -12,7 +12,7 @@ tags: ["artist", "hip-hop", "rotation-dormant"]
 
 # Eric B & Rakim
 
-**Category:** Hip-Hop › [[Underground]]
+**Category:** Hip-Hop › [[Golden Age]]
 
 **Rotation:** dormant — played, but not lately. 5 plays in the trailing 18 months (49 lifetime, 2 h), last on 2026-06-04.
 

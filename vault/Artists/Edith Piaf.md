@@ -1,16 +1,16 @@
 ---
 type: "artist"
-category: "Pop"
+category: "Jazz"
 subcategory: "Standards & Vocal"
 era: "1940s-50s"
 rotation: "historical"
 album_count: 1
-tags: ["artist", "pop", "rotation-historical"]
+tags: ["artist", "jazz", "rotation-historical"]
 ---
 
 # Edith Piaf
 
-**Category:** Pop › [[Standards & Vocal]]
+**Category:** Jazz › [[Standards & Vocal]]
 
 **Rotation:** historical — never streamed.
 

@@ -1,18 +1,17 @@
 ---
 type: "artist"
-category: "Rock"
-subcategory: "Metal"
+category: "Avant-Garde & Experimental"
 era: "1990s-2000s"
 rotation: "dormant"
 plays: 12
 last_played: "2026-03-09"
 album_count: 3
-tags: ["artist", "rock", "rotation-dormant"]
+tags: ["artist", "avant-garde-experimental", "rotation-dormant"]
 ---
 
 # Mr. Bungle
 
-**Category:** Rock › [[Metal]]
+**Category:** [[Avant-Garde & Experimental]]
 
 **Rotation:** dormant — played, but not lately. 1 play in the trailing 18 months (12 lifetime, 1 h), last on 2026-03-09.
 

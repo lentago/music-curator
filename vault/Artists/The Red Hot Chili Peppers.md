@@ -1,7 +1,7 @@
 ---
 type: "artist"
 category: "Rock"
-subcategory: "Classic Rock"
+subcategory: "Indie & Alternative"
 era: "1980s-now"
 rotation: "historical"
 album_count: 1
@@ -10,7 +10,7 @@ tags: ["artist", "rock", "rotation-historical"]
 
 # The Red Hot Chili Peppers
 
-**Category:** Rock › [[Classic Rock]]
+**Category:** Rock › [[Indie & Alternative]]
 
 **Rotation:** historical — never streamed.
 

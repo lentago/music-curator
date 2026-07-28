@@ -1,19 +1,20 @@
 ---
 type: "subcategory"
 category: "Electronic"
-member_count: 22
+member_count: 23
 tags: ["subcategory", "electronic"]
 ---
 
 # Trip-Hop & Downtempo
 
-*Subcategory of [[Electronic]] — 22 artists.*
+*Subcategory of [[Electronic]] — 23 artists.*
 
 ## Artists
 - [[Air]]
-- [[Boom Bip]]
+- [[Bonobo]]
 - [[DJ Ravin]]
 - [[Dzihan & Kamien Orchestra]]
+- [[Emancipator]]
 - [[Enigma]]
 - [[Gare Du Nord]]
 - [[Gaudi + Nusrat Fateh Ali Khan]]
@@ -23,7 +24,6 @@ tags: ["subcategory", "electronic"]
 - [[Lovage]]
 - [[Massive Attack]]
 - [[Nightmares on Wax]]
-- [[Odd Nosdam]]
 - [[Peeping Tom]]
 - [[Portishead]]
 - [[Saru]]
@@ -31,4 +31,5 @@ tags: ["subcategory", "electronic"]
 - [[The Dining Rooms]]
 - [[The Nextmen]]
 - [[Thievery Corporation]]
+- [[Tor]]
 - [[Zero 7]]
