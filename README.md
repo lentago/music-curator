@@ -87,7 +87,7 @@ nodes surface from the connectivity itself, since Obsidian sizes nodes by degree
 python obsidian_driver.py            # → vault/
 ```
 
-What comes out (from the collection's 543 active artists):
+What comes out (from the collection's 556 active artists — `meta.triage_summary.active_artists` in `data/music-inventory.json` is the authoritative count, which the vault renders alongside credit-derived person nodes):
 
 - **Artist notes** each link into exactly one branch of the category tree —
   subcategory hub where one exists, top-level hub otherwise — and every node in
