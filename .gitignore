@@ -3,6 +3,12 @@
 # its own .gitignore, so scope this to the repo root only (leading slash).
 /.obsidian/
 
+# Live graph-view state of the committed vault — Obsidian rewrites it on
+# every graph interaction, which made it a constant source of dirty-tree
+# pull failures. The curated views are versioned as swappable snapshots in
+# vault/.obsidian/graph-presets/ instead.
+vault/.obsidian/graph.json
+
 # Python
 __pycache__/
 *.pyc
