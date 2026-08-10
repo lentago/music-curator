@@ -1,4 +1,4 @@
-# Obsidian runtime state — keep the generated graph config, ignore the rest.
+# Obsidian runtime state — keep the preset library, ignore the rest
+# (including graph.json, the live graph state Obsidian churns).
 .obsidian/*
-!.obsidian/graph.json
 !.obsidian/graph-presets

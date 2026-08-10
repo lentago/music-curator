@@ -1050,15 +1050,18 @@ def write_graph_config(out_dir, categories, graph="default"):
 
 
 def write_gitignore(out_dir):
-    """Keep the generated graph config tracked; ignore Obsidian's runtime state.
+    """Keep the preset library tracked; ignore Obsidian's runtime state.
 
     Opening the vault in Obsidian writes workspace.json, core-plugins.json, etc.
-    into .obsidian/. This keeps those out of git while preserving graph.json.
+    into .obsidian/ — and rewrites graph.json on every graph interaction, so
+    tracking it meant a permanently dirty tree (pull failures across machines).
+    The curated views are versioned in .obsidian/graph-presets/; graph.json is
+    just the live install target the driver (or Obsidian) regenerates.
     """
     body = (
-        "# Obsidian runtime state — keep the generated graph config, ignore the rest.\n"
+        "# Obsidian runtime state — keep the preset library, ignore the rest\n"
+        "# (including graph.json, the live graph state Obsidian churns).\n"
         ".obsidian/*\n"
-        "!.obsidian/graph.json\n"
         "!.obsidian/graph-presets\n"
     )
     with open(os.path.join(out_dir, ".gitignore"), "w", encoding="utf-8") as fh:
