@@ -8,44 +8,79 @@
 
 # Music Curator
 
-Music Curator turns a messy personal music collection — a directory tree, a Spotify export, a plain list of artists — into a queryable **Obsidian vault**: a Python toolchain (`curator_lib.py`, `obsidian_driver.py`, `validate.py`) dedups and merges directory-tree rips, Spotify follows, discography pulls, and per-album credit research into a single inventory, then renders it into an artist graph with credit-derived person nodes and session-tie edges. A 15-minute Spotify follow watcher and a daily fold GitHub Action keep the follow layer current automatically. The conceptual core — the five-phase triage that turns a raw collection dump into the cleaned, tagged inventory everything else builds on — lives in [`music-curation-methodology.md`](music-curation-methodology.md) and still drives the initial pass on any new collection.
+Music Curator turns a messy personal music collection into a queryable **taste profile for an LLM**: a Python toolchain deduplicates and merges directory-tree rips, Spotify follows, discography research, and per-album credits into a single inventory, then renders it into an Obsidian vault — a visual artist graph with collaboration edges, credit-derived session-tie edges, and streaming-rotation data. The five-phase triage that converts a raw collection dump into the cleaned, tagged inventory lives in [`music-curation-methodology.md`](music-curation-methodology.md). The rest of the repo keeps that inventory growing and queryable over time.
 
 **Authorship:** The methodology, tooling, and documentation in this repo are co-written with [Claude](https://claude.ai) (Anthropic). I direct the work and review the output; Claude writes the code and prose. I'm an infrastructure operator, not a software engineer — please don't read this repo as a portfolio of coding ability.
 
-## The Problem
+## 📚 Ask this codebase (DeepWiki)
 
-Streaming services already build algorithmic taste profiles, but they only see your *current* rotation and infer the rest. The richer signal — the one built up over decades — is usually trapped in an owned or curated collection that's too messy to use directly:
+<a href="https://deepwiki.com/lentago/music-curator"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki" height="32"></a>
 
-- **Duplicates from formatting drift** — `16_horsepower` and `16 Horsepower`, `Wovenhand` and `Woven Hand`, the same album under two artist spellings.
-- **Torrent and download cruft** — tracker-only folders, date-stamped `Unknown Album` noise, lowercase-underscore naming, loose `.mp3` files filed at artist depth.
-- **Compilation fragmentation** — one comp ripped with each track filed under its own artist folder, masquerading as a dozen artists nobody actually collects.
-- **Other people's files mixed in** — a partner's pop, a friend's bachelor-party lounge comps, hype-cycle singletons grabbed once and never revisited.
+[DeepWiki](https://deepwiki.com/lentago/music-curator) maintains an AI-generated wiki over this repository — architecture pages, diagrams, and a Q&A box grounded in the actual code. Every public Lentago Labs repo is indexed ([deepwiki.com/lentago](https://deepwiki.com/lentago)); it is the fastest way to orient before reading source. It is AI-generated: trust it to orient you, verify against the code before you act on it.
 
-Feed that raw mess to a recommender and you get noise-driven guesses. The initial triage cleans it into a structured data source first; the toolchain then keeps that data source alive and grows it, so discovery grounds in *the listener's actual taste* rather than algorithmic inference.
+**Good first questions:**
+- How does the `integrity.yml` workflow decide whether `vault/` is out of sync with `data/`, and what does it do when it finds drift?
+- What is the difference between a Spotify follow that auto-merges via `follow-fold.yml` and one that gets held for human review?
+- How does `obsidian_driver.py` build session-tie edges and person nodes from `data/credits.json`?
 
-## How the initial triage works
+## 🧭 What this repo demonstrates
 
-Turning a raw dump into the cleaned inventory is a five-phase workflow, run conversationally with the listener in the loop. It's the conceptual core of the whole system — everything else in this repo (the merge layers, the graph, the automation) operates on the inventory this workflow produces:
+A personal music project running on production-grade CI/CD conventions — the ops patterns are the real exhibit.
+
+| Pattern | How it shows up here |
+|---|---|
+| **Unconditional required check (no path filters)** | [`integrity.yml`](.github/workflows/integrity.yml) runs on every PR, regardless of which files changed — a required check that only triggers on matching paths gets stuck "Expected" forever on non-matching PRs, silently deadlocking merges. Documented in [lentago/.github#27](https://github.com/lentago/issues/27) and traced back to [issue #9](https://github.com/lentago/music-curator/issues/9). |
+| **Generated-artifact drift enforcement** | `integrity.yml` runs `obsidian_driver.py` and asserts `vault/` matches the output exactly (`git diff --quiet -- vault/`). Same failure shape as a hand-edited live dashboard reverting on next apply — CI proves the convention (regenerate, don't hand-edit) instead of trusting the honor system. Introduced in [PR #65](https://github.com/lentago/music-curator/pull/65). |
+| **Tiered auto-merge with human-in-the-loop escape hatch** | [`follow-fold.yml`](.github/workflows/follow-fold.yml) auto-merges only safe reservoir seeds; a follow of a discarded artist or any unfollow posts an explanatory bot comment and holds the PR for a human. Automation isn't all-or-nothing — scope the trust. |
+| **Thin-wrapper reuse of org-shared CI workflows** | [`docs-check.yml`](.github/workflows/docs-check.yml) and [`claude.yml`](.github/workflows/claude.yml) both call `lentago/shared-workflows/.github/workflows/*.yml@main`. CI logic lives once, consumed across the fleet — avoids copy-pasted YAML drift. |
+| **Branch protection via repo ruleset, not classic settings** | `main` enforces two required status checks (`integrity` and `docs-check / docs-check`) and squash-only merges via a GitHub ruleset — queryable, auditable config rather than opaque UI toggles. |
+| **Deliberate disable-in-place instead of deletion** | [`claude-code-review.yml`](.github/workflows/claude-code-review.yml) has its trigger changed to `workflow_dispatch` with a dated `>>> DISABLED 2026-06-25` comment. The tuned prompt and repo-specific configuration are preserved for future re-enable — no config loss, no guessing why it was turned off. |
+| **Secrets and PII hygiene enforced structurally** | The Spotify GDPR streaming export — which carries per-play IP addresses — is gitignored by convention. The disabled review workflow's prompt explicitly checks for this as rule #3. Policy documented in code, not just in a wiki page. |
+
+## 🛠️ Make a change yourself
+
+This is a lab — the systems are real, the stakes are not. Pick a vector:
+
+**Prove the generated wiki can't silently drift from the data**
+
+Edit any field in `data/music-inventory.json` (try changing an artist's `category`) and open a PR without regenerating `vault/`. `integrity.yml` will run unconditionally, render the vault from scratch, compare it to the committed copy with `git diff --quiet -- vault/`, and fail the required check — blocking merge. Then run `python obsidian_driver.py`, commit the regenerated vault alongside the data change, and watch the check pass.
+
+This is change management where the required check *is* the drift detector: every merged PR guarantees the committed vault exactly matches the data that generated it. No honor system, no post-merge reconciliation job.
+
+**Proof this works:**
+- [PR #65 — ci: replace the path-filtered validator with an unconditional integrity check](https://github.com/lentago/music-curator/pull/65) — ships `integrity.yml`, documents the drift risk (7 files change per recategorization), and proves 3 test scenarios in the PR body.
+- [PR #69 — Revise artist categorization across the collection](https://github.com/lentago/music-curator/pull/69) — a real data-edit PR that would trip the drift check if `vault/` weren't regenerated alongside `data/`.
+
+**Tiered auto-merge for automated data ingestion**
+
+An external n8n follow watcher (running on LXC 113, not in this repo's CI) opens a PR appending raw follow events to `data/harvests/follow-events.jsonl`. `follow-fold.yml` fires on that path, runs `harvest_merge.py` and `validate.py`, regenerates `vault/`, and commits the fold onto the same PR — then auto-merges if and only if every event is a safe reservoir seed or provenance stamp. A follow of a discarded artist, or any unfollow, posts an explanatory bot comment and holds the PR open for a human.
+
+Note: `follow-fold.yml`'s auto-merge path works because `main` currently has no required status checks that block a `GITHUB_TOKEN` push. The workflow's own header comment documents the sequencing constraint: making `integrity` a required check would break the auto-merge path unless the fold commit is pushed with a PAT that re-triggers CI. Worth reading before adding required checks to a repo with automation like this.
+
+**Proof this works:**
+- [PR #60 — Follow ingestion automation — daily drain + fold Action](https://github.com/lentago/music-curator/pull/60) — ships `follow-fold.yml` itself.
+- [PR #59 — harvest\_merge.py — fold Spotify follows into the inventory](https://github.com/lentago/music-curator/pull/59) — the merge tool the Action calls.
+- [PR #61 — Backfill 48 followed-but-unowned artists into the reservoir](https://github.com/lentago/music-curator/pull/61) — the reservoir-seed auto-merge path in practice.
+
+## What this repo does
+
+The conceptual core is a **five-phase triage** that turns a raw collection dump (a directory tree, a Spotify export, a plain list) into a cleaned, tagged inventory a model can mine:
 
 | Phase | What happens |
 |---|---|
-| **1. Intake & parse** | Convert whatever the user can produce (tree dump, Spotify export, prose) into a structured artist → album hierarchy. |
-| **2. Mechanical sweep** | Before any taste judgment: merge duplicate folders, drop tracker cruft, detect compilation fragmentation, delete empty/ringtone/podcast noise. |
-| **3. Confident tagging** | Tag only the artists whose scene / era / genre you genuinely know. Leave the rest in an untagged reservoir — a 15%-tagged-but-correct inventory beats a 100%-tagged-with-errors one. |
-| **4. Iterative discard triage** | Run rounds of 8–12 discard candidates *with the user*, grouped into thematic clumps, each ending in an honest confidence ladder (*money on the table / strong / pushable*). The user adjudicates; their **keeps** teach more than their kills. |
-| **5. Pivot to exploration** | Once the discard rate plateaus (~15–20%), switch from triage to discovery: adjacent-artist suggestions, anchor-artist catch-up, reservoir mining, cross-referencing new finds against what they already own. |
+| **1. Intake & parse** | Convert whatever the user produces into a structured artist → album hierarchy. |
+| **2. Mechanical sweep** | Before any taste judgment: merge duplicate folders, drop tracker cruft, detect compilation fragmentation. |
+| **3. Confident tagging** | Tag only what you genuinely know. Leave the rest in an untagged reservoir — a 15%-tagged-but-correct inventory beats a 100%-tagged-with-errors one. |
+| **4. Iterative discard triage** | Rounds of 8–12 discard candidates with the user, grouped thematically. Keeps teach more than kills. |
+| **5. Pivot to exploration** | Once discard rate plateaus (~15–20%), switch from triage to discovery: adjacent artists, anchor catch-up, reservoir mining, cross-referencing against what they already own. |
 
-The heuristics that drive Phase 4 — high-confidence discard tells, a **canon-tolerance** exception (sole greatest-hits comps from foundational figures stay), the **lesser-album rule**, genre-orthogonality and compilation-fragmentation tests — are the substance of the method. They live in [`music-curation-methodology.md`](music-curation-methodology.md).
+The toolchain keeps the inventory alive after the initial triage. Each merge layer is a stdlib-only Python tool that folds one data source into a `data/` sidecar, keyed to the roster by the `alnum()` accent-folding dedup key in [`curator_lib.py`](curator_lib.py):
 
-## The Toolchain
-
-Everything past the initial triage is stdlib-only Python, no dependencies beyond `jsonschema` for validation:
-
-- **[`curator_lib.py`](curator_lib.py)** — shared primitives every other tool imports, chiefly `alnum()`, the accent-folding dedup key that lets the merge layers and the driver join to the roster consistently.
-- **[`validate.py`](validate.py)** — validates `data/music-inventory.json` against [`schema/music-inventory.schema.json`](schema/music-inventory.schema.json) plus cross-field integrity checks (count reconciliation, near-duplicate artist-key detection). Runs in CI on every change to the inventory, schema, or validator.
-- **Merge layers** — each is a sibling stdlib tool that folds one research or harvest source into a `data/` sidecar, keyed to the roster by `alnum()`: [`discography_merge.py`](discography_merge.py) (full-catalog research → `discographies.json`), [`streaming_merge.py`](streaming_merge.py) (GDPR streaming export → `streaming-summary.json` + a `rotation` stamp on the inventory), and [`harvest_merge.py`](harvest_merge.py) (live follow events → `follows.json`, with reservoir auto-seeding for new artists).
-- **[`obsidian_driver.py`](obsidian_driver.py)** — renders `data/` into the `vault/` graph: artist notes, category hubs, collaboration edges, and credit-derived session-tie edges (including person nodes for credited players who own no albums themselves — see [below](#obsidian-graph-vault)).
-- **Automation** — a 15-minute n8n follow watcher captures new Spotify follows plus the triggering track, a daily n8n job drains that log into a PR, and the `follow-fold` GitHub Action folds it into the inventory and auto-merges — but only when every event is a safe reservoir seed or provenance stamp; a follow of a discarded artist or an unfollow holds the PR for human review. See [`harvest/`](harvest/) for the full pipeline and [`roadmap/roadmap.md`](roadmap/roadmap.md) for what's shipped versus planned.
+- **[`validate.py`](validate.py)** — validates `data/music-inventory.json` against the JSON schema plus cross-field checks. Runs in CI on every PR via `integrity.yml`.
+- **[`streaming_merge.py`](streaming_merge.py)** — folds the Spotify GDPR streaming export into `streaming-summary.json` and stamps a `rotation` class (current / dormant / historical) onto each artist.
+- **[`harvest_merge.py`](harvest_merge.py)** — folds live Spotify follow events into `follows.json`, with reservoir auto-seeding for new artists.
+- **[`discography_merge.py`](discography_merge.py)** — merges per-artist full-discography harvests into `discographies.json`, matched against owned albums.
+- **[`obsidian_driver.py`](obsidian_driver.py)** — renders `data/` into the `vault/` Obsidian graph: artist notes, category hubs, collaboration edges, and session-tie edges from shared personnel.
 
 ## What's Here
 
@@ -67,79 +102,36 @@ Everything past the initial triage is stdlib-only Python, no dependencies beyond
 
 ## Obsidian graph vault
 
-The cleaned inventory is already a graph: each tagged artist carries a
-**two-tier category** — one of 13 top-level genres aligned with the canonical
-music taxonomies (AllMusic, Discogs, Wikipedia's genre families), plus an
-optional second-order `subcategory` where a genre deserves finer structure
-(`Hip-Hop › Underground`, `Country & Americana › Gothic Americana`). The
-grayish scene buckets live only at the second order; record-label and
-city-scene pseudo-genres were eliminated outright. `obsidian_driver.py`
-renders those relationships into a self-contained
-[Obsidian](https://obsidian.md) vault where each artist note wikilinks to its
-subcategory hub (which links up to its category) or straight to its category —
-those links are the graph edges. Open the folder in Obsidian and the graph
-resolves into 13 color-coded genre trees out of the box, no plugins. It opens **filtered to the
-taste structure** — the meta/navigation notes are hidden — so you see the music,
-not the scaffolding. No artist is pre-weighted as an "anchor"; the important
-nodes surface from the connectivity itself, since Obsidian sizes nodes by degree.
+The cleaned inventory is already a graph: each tagged artist carries a **two-tier category** — one of 13 top-level genres aligned with canonical music taxonomies (AllMusic, Discogs, Wikipedia's genre families), plus an optional second-order `subcategory`. `obsidian_driver.py` renders those relationships into a self-contained [Obsidian](https://obsidian.md) vault where each artist note wikilinks into the category tree — those links are the graph edges. Open the folder in Obsidian and the graph resolves into 13 color-coded genre trees out of the box.
 
 ```bash
 python obsidian_driver.py            # → vault/
 ```
 
-What comes out (from the collection's 556 active artists — `meta.triage_summary.active_artists` in `data/music-inventory.json` is the authoritative count, which the vault renders alongside credit-derived person nodes):
+What comes out (from the collection's 556 active artists — `meta.triage_summary.active_artists` in `data/music-inventory.json` is the authoritative count):
 
-- **Artist notes** each link into exactly one branch of the category tree —
-  subcategory hub where one exists, top-level hub otherwise — and every node in
-  a branch shares its top-level color, so the 13 genre clusters (with their
-  subcategory sub-clusters) read at a glance.
-- **Collaboration edges** link combo acts straight to the members they share —
-  `El-P & Cannibal Ox` → El-P + Cannibal Ox, `Mos Def & Talib Kweli` → both —
-  parsed from the artist keys, drawn only to members that are themselves in the
-  collection. So the graph also shows the social graph, not just category
-  membership.
-- **Session ties** wire artists together through **shared personnel** — a
-  musician who played on both artists' albums (Marc Ribot across Tom Waits *and*
-  John Zorn; Jerry Douglas' dobro across the whole bluegrass/newgrass web). These
-  ~400 edges come from [`data/credits.json`](data/credits.json), a
-  per-album personnel layer researched and cross-referenced against the roster;
-  only roster artists become ties. They cross the category clusters — the
-  collection's hidden wiring.
-- **Person nodes** are artists who own no albums in the collection but earn a
-  note anyway because they're credited on other people's — Mike Patton wiring
-  Faith No More to Mr. Bungle to John Zorn, Edgar Meyer showing up across half
-  the bluegrass web. `build_personnel_edges` re-resolves these against the live
-  roster by `alnum`, so a newly-seeded artist wires in via existing credits
-  without re-running the research.
-- **Untagged reservoir** artists (no category yet) hang off a single `Reservoir`
-  hub, hidden from the default view so the taste map stays legible.
-- **Rotation** is a second, independent axis over the same graph: each artist
-  note carries its `current` / `dormant` / `historical` class from the streaming
-  layer, the evidence behind it, and a by-year play histogram. The `Rotation`
-  note collects the gap in both directions — artists in heavy rotation the
-  collection has no albums by, and deep shelf anchors that have fallen out of
-  play.
+- **Artist notes** each link into exactly one branch of the category tree — subcategory hub where one exists, top-level hub otherwise.
+- **Collaboration edges** link combo acts straight to the members they share — parsed from artist keys, drawn only to members that are themselves in the collection.
+- **Session ties** wire artists together through shared personnel — ~400 edges from [`data/credits.json`](data/credits.json), crossing category clusters to show the collection's hidden wiring. `build_personnel_edges` re-resolves these against the live roster by `alnum`, so a newly-seeded artist wires in via existing credits without re-running the research.
+- **Person nodes** are credited musicians who own no albums in the collection but earn a note anyway — Mike Patton wiring Faith No More to Mr. Bungle to John Zorn, Edgar Meyer showing up across half the bluegrass web.
+- **Rotation** is a second axis over the same graph: each artist note carries its `current` / `dormant` / `historical` class from the streaming layer, with a by-year play histogram.
 
 ### Graph presets
 
-The vault ships a switchable preset library in `.obsidian/graph-presets/`; the
-active one is installed as `graph.json`. Pick with `--graph`:
+The vault ships a switchable preset library in `.obsidian/graph-presets/`; the active one is installed as `graph.json`. Pick with `--graph`:
 
 | Preset | What it shows |
 |---|---|
 | `default` | The full taste map — every artist clustered under its category tree, colored by top-level genre. |
 | `artist-web` | Only the direct artist↔artist edges (collaborations and session ties), with the taxonomy stripped away. |
-| `rotation` | The same map recolored by listening rather than genre — green still in play, amber dormant, slate blue shelf-only. Where a cluster is all blue, the shelf has outlived the listening. |
+| `rotation` | The same map recolored by listening rather than genre — green still in play, amber dormant, slate blue shelf-only. |
 | `source-follow` | Highlights the Spotify follow set over the taste map. Orphans are shown, so freshly seeded follows (no category yet) appear as loose nodes alongside the connected ones. |
 
 ```bash
 python obsidian_driver.py --graph rotation
 ```
 
-The vault ships pre-built at [`vault/`](vault/) so the graph is browsable
-without running anything. It is fully generated —
-regenerate rather than hand-editing. Discarded artists are dropped by default;
-`--include-discarded` keeps them (tagged `#discarded`).
+The vault ships pre-built at [`vault/`](vault/) so the graph is browsable without running anything. It is fully generated — regenerate rather than hand-editing. Discarded artists are dropped by default; `--include-discarded` keeps them (tagged `#discarded`).
 
 ## Origin
 
@@ -148,3 +140,5 @@ Distilled from a single long Claude conversation that started as "can Claude con
 ---
 
 *Part of the [Lentago Labs](https://github.com/lentago) portfolio — a sibling to [reference-checker](https://github.com/lentago/reference-checker).*
+
+🌱 **Lentago Labs** is a team learning lab — real systems, non-critical stakes, modern operations patterns demonstrated in the open. Start at the [org profile](https://github.com/lentago), and read this repo on [DeepWiki](https://deepwiki.com/lentago/music-curator).
