@@ -1,6 +1,6 @@
 # ADR-0004: Confident tagging over completeness; the privacy line
 
-**Status:** Accepted (2026-07-08; reconstructed 2026-08-13)
+**Status:** Accepted (tagging rule 2026-06-14, methodology initial commit; privacy line 2026-07-13, PR #35; reconstructed 2026-08-13)
 
 ## Context
 
@@ -14,7 +14,7 @@ The worked example (the original triage run in `examples/`) is a separate consid
 
 **On tagging:**
 - Phase 3 rule: "A 15%-tagged-but-correct inventory beats a 100%-tagged-with-errors one." Leaving an artist in the untagged reservoir is the correct state when the right category is uncertain. Mistagging pollutes analysis; a gap is honest.
-- Discard pitches are predictions, framed honestly, not pronouncements. The methodology explicitly instructs: "Don't guess on tagging."
+- Discard pitches are predictions, framed honestly, not pronouncements. The methodology explicitly instructs: "Do not guess on tagging".
 - The untagged reservoir is a first-class state, not a to-do list. Future sessions should inherit it and treat it as a holding area for artists that have not yet been triaged with sufficient confidence.
 
 **On privacy:**

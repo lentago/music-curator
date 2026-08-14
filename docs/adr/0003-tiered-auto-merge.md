@@ -13,7 +13,7 @@ Automating follow ingestion (PR [#60](https://github.com/lentago/music-curator/p
 
 Applying a single merge policy across all of these would mean either holding trivially safe changes for human review (slow, defeats the purpose of the automation) or auto-applying conflicts without review (silently overrides standing taste decisions that downstream analysis depends on).
 
-A second structural constraint shaped the decision: `main`'s branch protection ruleset currently has **no required status checks**. This is the fleet-unique carve-out documented in issue [#9](https://github.com/lentago/music-curator/issues/9) — required checks were intentionally withheld so that `follow-fold.yml` can arm `gh pr merge --squash` via `GITHUB_TOKEN` without a required check that would never trigger on the fold's own push commit. The tiered approach is therefore also the mechanism by which unsafe PRs are held: there is no CI gate that would block them independently.
+A second structural constraint shaped the decision: at the time (2026-07-23), `main`'s branch protection ruleset had **no required status checks** — the gap tracked in issue [#9](https://github.com/lentago/music-curator/issues/9) (filed 2026-07-07, before follow ingestion existed: the then-current path-filtered `validate` workflow would have deadlocked every non-data PR had it been made required). The tiered approach was therefore, at decision time, also the mechanism by which unsafe PRs were held: no CI gate would have blocked them independently.
 
 ## Decision
 
@@ -28,7 +28,7 @@ Implementation details:
 - The fold is idempotent via an event ledger: a re-trigger from the fold's own push commit is a harmless no-op that finds no new events to process.
 - The distinction between "mechanical" and "taste judgment" maps directly onto the methodology's Phase 2 / Phase 3 split: mechanical sweeps first, taste decisions second, always.
 
-The GITHUB_TOKEN merge path is documented in the workflow header and issue [#9](https://github.com/lentago/music-curator/issues/9) as a load-bearing constraint: making `integrity` a required status check would break the auto-merge path because pushes made with GITHUB_TOKEN do not re-trigger workflow runs, so the required check would never report on the fold commit.
+The no-required-checks gap closed two days later: the unconditional `integrity` check (plus `docs-check / docs-check`) became required on 2026-07-25, when issue [#9](https://github.com/lentago/music-curator/issues/9) was closed via PR [#65](https://github.com/lentago/music-curator/pull/65). The GITHUB_TOKEN sequencing tension documented in the `follow-fold.yml` header and #9 remains the live constraint on the bot-merge path: pushes made with `GITHUB_TOKEN` do not re-trigger workflow runs, so the fold's own push commit needs its required-check runs handled with care rather than assumed.
 
 ## Alternatives
 
