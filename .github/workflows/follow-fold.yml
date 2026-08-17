@@ -57,7 +57,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install -r requirements-validate.txt
+        run: pip install --require-hashes -r requirements-lock.txt
 
       - name: Fold the follow events
         run: python harvest_merge.py --summary /tmp/fold-summary.json

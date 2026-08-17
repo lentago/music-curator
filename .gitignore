@@ -12,6 +12,9 @@ vault/.obsidian/graph.json
 # Python
 __pycache__/
 *.pyc
+*.egg-info/
+/build/
+/dist/
 
 # GDPR account exports carry PII (IP addresses per play) — never commit the
 # raw export; the committed layer is the derived data/streaming-summary.json.

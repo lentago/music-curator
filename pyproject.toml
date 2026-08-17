@@ -1,0 +1,41 @@
+[project]
+name = "music-curator"
+version = "0.1.0"
+description = "Taste-profiling toolchain: dedupe a raw music collection dump into a queryable inventory and render it into an Obsidian vault."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+
+# Every script here is stdlib-only except validate.py's schema check, which
+# does `import jsonschema` inside a try/except and degrades to a warning if
+# it's missing. Pinning it here just makes CI and local installs match; the
+# script itself still runs without it.
+dependencies = [
+    "jsonschema>=4.0",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+# The toolchain is a flat collection of top-level scripts, not a package
+# meant for import elsewhere or publishing to PyPI — list them explicitly
+# so setuptools doesn't try to guess a package layout out of data/, vault/,
+# docs/, etc.
+[tool.setuptools]
+py-modules = [
+    "curator_lib",
+    "dedup_lib",
+    "discography_merge",
+    "harvest_merge",
+    "merge_duplicates",
+    "obsidian_driver",
+    "repair_titles",
+    "streaming_merge",
+    "validate",
+    "build_dedup_sheet",
+    "build_reservoir_sheet",
+    "build_results_page",
+    "build_review_sheet",
+    "build_title_sheet",
+]
