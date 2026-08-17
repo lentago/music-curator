@@ -39,7 +39,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install -r requirements-validate.txt
+        run: pip install --require-hashes -r requirements-lock.txt
 
       - name: Validate the inventory against the schema
         run: python validate.py data/music-inventory.json
