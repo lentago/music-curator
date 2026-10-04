@@ -21,6 +21,9 @@ tags: ["artist", "rock", "rotation-current", "source-follow"]
 
 **Session ties:** [[Maynard James Keenan]]
 
+> [!note]- Session-tie receipts
+> - [[Maynard James Keenan]]: 10,000_days — vocals (musicbrainz, high); Lateralus — vocals (musicbrainz, high); Opiate [UK] — vocals (musicbrainz, high); Undertow — vocals (musicbrainz, high); Ænima — vocals (musicbrainz, high)
+
 **Followed:** on Spotify — backfilled, observed as of 2026-07-23 (original follow date and trigger song unknown).
 
 ## Albums (6)

@@ -18,6 +18,9 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[David Byrne & Brian Eno]]
 
+> [!note]- Session-tie receipts
+> - [[David Byrne & Brian Eno]]: Viva La Vida Or Death And All His Friends — producer, additional instruments (musicbrainz, high)
+
 ## Albums (5)
 - A Rush Of Blood To The Head
 - Parachutes

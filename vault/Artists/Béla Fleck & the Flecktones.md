@@ -19,6 +19,13 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Session ties:** [[Dave Matthews Band]] · [[Edgar Meyer]] · [[Jerry Douglas]] · [[Russ Barenberg]] · [[Sam Bush]]
 
+> [!note]- Session-tie receipts
+> - [[Dave Matthews Band]]: Left of Cool — vocals (guest) (wikipedia, high)
+> - [[Edgar Meyer]]: Outbound — bass (guest) (wikipedia, high)
+> - [[Jerry Douglas]]: Live Art Disc 1 — dobro (guest) (wikipedia, high)
+> - [[Russ Barenberg]]: Moving Pictures — banjo (AllMusic credits / WebSearch, high)
+> - [[Sam Bush]]: Live Art Disc 1 — mandolin, violin (guest) (wikipedia, high)
+
 ## Albums (5)
 - Flight of the Cosmic Hippo
 - Left of Cool

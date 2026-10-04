@@ -15,6 +15,9 @@ tags: ["artist", "pop", "rotation-historical"]
 
 **Session ties:** [[Thievery Corporation]]
 
+> [!note]- Session-tie receipts
+> - [[Thievery Corporation]]: Versions — vocalist (remixed track) (knowledge, high)
+
 ## Albums (3)
 - Bloom- Remix Album
 - Mirrorball

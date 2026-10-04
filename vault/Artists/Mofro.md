@@ -16,6 +16,9 @@ tags: ["artist", "soul-funk-r-b", "rotation-historical"]
 
 **Session ties:** [[JJ Grey & Mofro]]
 
+> [!note]- Session-tie receipts
+> - [[JJ Grey & Mofro]]: Blackwater — vocals, guitar, harmonica (discogs, high); Country Ghetto — vocals, keys, guitars, harmonica, bass (discogs, high); Lochloosa — vocals, guitar, harmonica (discogs, high)
+
 ## Albums (3)
 - Blackwater
 - Country Ghetto

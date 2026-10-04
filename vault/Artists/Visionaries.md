@@ -16,5 +16,8 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[LMNO]]
 
+> [!note]- Session-tie receipts
+> - [[LMNO]]: Galleries — MC (discogs, medium)
+
 ## Albums (1)
 - Galleries

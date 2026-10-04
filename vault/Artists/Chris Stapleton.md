@@ -19,5 +19,8 @@ tags: ["artist", "country-americana", "rotation-dormant"]
 
 **Session ties:** [[The Steeldrivers]]
 
+> [!note]- Session-tie receipts
+> - [[The Steeldrivers]]: Reckless [+Digital Booklet] — guitar, lead vocals (discogs, high)
+
 ## Albums (1)
 - Traveller

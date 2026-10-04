@@ -16,5 +16,10 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[The Beat Junkies]] · [[The Herbaliser]] · [[Visionaries]]
 
+> [!note]- Session-tie receipts
+> - [[The Beat Junkies]]: The World Famous Beat Junkies, Vol. 3 — track artist (discogs, high)
+> - [[The Herbaliser]]: Something Wicked This Way Comes — guest vocalist (discogs, high)
+> - [[Visionaries]]: Galleries — MC (discogs, medium)
+
 ## Albums (1)
 - Leave My Name Out

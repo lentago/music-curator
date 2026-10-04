@@ -21,6 +21,17 @@ tags: ["artist", "hip-hop", "rotation-current", "source-follow"]
 
 **Session ties:** [[Blockhead]] · [[Cannibal Ox]] · [[DJ Krush]] · [[El-P]] · [[Homeboy Sandman]] · [[Illogic]] · [[Mr. Lif]] · [[Murs]] · [[Vast Aire]]
 
+> [!note]- Session-tie receipts
+> - [[Blockhead]]: Appleseed — producer (1,000 Deaths) (wikipedia, high); Bazooka Tooth Disc 1 — producer (three tracks) (discogs, high); Bazooka Tooth Disc 2 — producer (three tracks) (discogs, high); Cat Food — producer (Cat Food) (https://www.musictimes.com/articles/23271/20150106/aesop-rock-releases-two-track-ep-cat-food.htm, high); Daylight — producer (Daylight, Night Light, Forest Crunk, Maintenance) (wikipedia, high); +10 more
+> - [[Cannibal Ox]]: Bazooka Tooth Disc 1 — additional vocals (discogs, medium); Bazooka Tooth Disc 2 — additional vocals (discogs, medium)
+> - [[DJ Krush]]: Jaku — guest rapper ("Kill Switch") (musicbrainz, high)
+> - [[El-P]]: Bazooka Tooth Disc 1 — producer (one track), executive producer, guest vocals (discogs, high); Bazooka Tooth Disc 2 — producer (one track), executive producer, guest vocals (discogs, high); Daylight — producer (Nickel Plated Pockets) (wikipedia, high); Fantastic Damage — guest vocals (wikipedia, high); Fast Cars, Danger, Fire and Knives — featured vocals (Rickety Rackety) (wikipedia, high); +3 more
+> - [[Homeboy Sandman]]: Black Hole Superette — featured vocals (Charlie Horse and others) (wikipedia, high); Garbology — featured vocals, co-writer (All Day Breakfast) (wikipedia, high); Lice — vocals (https://aesoprockhomeboysandman.bandcamp.com/album/lice, high); Lice Two: Still Buggin' — vocals (https://aesoprockhomeboysandman.bandcamp.com/album/lice-two-still-buggin, high); Miami Lice Season Four — vocals (https://rhymesayers.com/blogs/news/lice-aesop-rock-homeboy-sandman-miami-lice-season-four, high); +3 more
+> - [[Illogic]]: Illogic - Celestial Clockwork (2004) — guest vocalist (discogs, high); Labor Days — guest vocals (wikipedia, high)
+> - [[Mr. Lif]]: Bazooka Tooth Disc 1 — guest vocals (discogs, high); Bazooka Tooth Disc 2 — guest vocals (discogs, high)
+> - [[Murs]]: Skelethon — featured vocals (Crows 2) (wikipedia, high)
+> - [[Vast Aire]]: Daylight — featured vocals (Nickel Plated Pockets) (wikipedia, high); Float — guest vocals (discogs, high); Look Mom... No Hands — guest rapper (knowledge, high)
+
 **Followed:** on Spotify — backfilled, observed as of 2026-07-23 (original follow date and trigger song unknown).
 
 ## Albums (5)

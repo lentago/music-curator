@@ -18,5 +18,12 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Danger Mouse & Daniele Luppi]] · [[Gnarls Barkley]] · [[Madvillain]] · [[MF DOOM]] · [[Talib Kweli]]
 
+> [!note]- Session-tie receipts
+> - [[Danger Mouse & Daniele Luppi]]: The Mouse and the Mask — producer (all tracks) (knowledge, high)
+> - [[Gnarls Barkley]]: The Mouse and the Mask — guest vocalist ("Benzi Box") (knowledge, high)
+> - [[Madvillain]]: Madvillainy — guest on 'Fancy Clown' (MF DOOM alter ego) (Wikipedia Madvillainy personnel, high)
+> - [[MF DOOM]]: The Mouse and the Mask — MC / rapper (all tracks) (knowledge, high)
+> - [[Talib Kweli]]: The Mouse and the Mask — guest MC ("Old School") (knowledge, high)
+
 ## Albums (1)
 - The Mouse and the Mask

@@ -15,5 +15,8 @@ tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 
 **Session ties:** [[Lisa Hannigan]]
 
+> [!note]- Session-tie receipts
+> - [[Lisa Hannigan]]: O — backing/duet vocals, piano (discogs, high)
+
 ## Albums (1)
 - O

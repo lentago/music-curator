@@ -20,6 +20,16 @@ tags: ["artist", "jazz", "rotation-current"]
 
 **Session ties:** [[Annie Lennox]] · [[Jaco Pastorius]] · [[John Mayer]] · [[John Zorn]] · [[Madlib]] · [[Paul Simon]] · [[Santana]] · [[Sting]]
 
+> [!note]- Session-tie receipts
+> - [[Annie Lennox]]: Possibilities — guest vocals (discogs, medium)
+> - [[Jaco Pastorius]]: Jaco Pastorius — piano, Fender Rhodes, clavinet (musicbrainz, high)
+> - [[John Mayer]]: Possibilities — guest vocals/guitar (discogs, medium)
+> - [[John Zorn]]: Inamorata — keyboards (discogs, high)
+> - [[Madlib]]: Shades of Blue — source artist (sampled/reworked from Blue Note multi-tracks) (discogs, high)
+> - [[Paul Simon]]: Possibilities — guest vocals/guitar (discogs, medium)
+> - [[Santana]]: Possibilities — guest guitar (discogs, medium)
+> - [[Sting]]: Possibilities — guest vocals (discogs, medium)
+
 ## Albums (2)
 - Head Hunters
 - Possibilities

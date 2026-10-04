@@ -18,6 +18,9 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Clutch]]
 
+> [!note]- Session-tie receipts
+> - [[Clutch]]: Its a Confusing World Not Fragile — vocals (https://en.wikipedia.org/wiki/The_Company_Band, high); Pros & Cons — vocals (https://en.wikipedia.org/wiki/The_Company_Band, high); Sign Here, Here, and Here — vocals (https://en.wikipedia.org/wiki/The_Company_Band, high); The Company Band [Explicit] — vocals (https://en.wikipedia.org/wiki/The_Company_Band, high)
+
 ## Albums (4)
 - Its a Confusing World Not Fragile
 - Pros & Cons

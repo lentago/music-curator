@@ -18,6 +18,12 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Dilated Peoples]] · [[El-P]] · [[Rjd2]] · [[The A-Team]]
 
+> [!note]- Session-tie receipts
+> - [[Dilated Peoples]]: Accepted Eclectic — producer (tracks 1, 4, 10, 12) (discogs, high)
+> - [[El-P]]: Love & Hate — guest MC ("City Of Shit") (discogs, medium)
+> - [[Rjd2]]: Love & Hate — producer (discogs, high); Magnificent City — producer / co-billed artist (discogs, high)
+> - [[The A-Team]]: Who Framed the A-Team- — MC (as Acey the Faceman) (knowledge, high)
+
 ## Albums (4)
 - Accepted Eclectic
 - Hip Hop and the World We Live In

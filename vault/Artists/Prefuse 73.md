@@ -21,6 +21,10 @@ tags: ["artist", "hip-hop", "rotation-dormant", "source-follow"]
 
 **Session ties:** [[Diverse]] · [[Mr. Lif]]
 
+> [!note]- Session-tie receipts
+> - [[Diverse]]: One A.M. [Bonus Track] — producer (discogs, high); One Word Extinguisher — guest MC — track 3 'Plastic' (workflow:wf_8c69d685-f67, high)
+> - [[Mr. Lif]]: One Word Extinguisher — guest MC — track 12 (workflow:wf_8c69d685-f67, high)
+
 **Followed:** on Spotify — backfilled, observed as of 2026-07-23 (original follow date and trigger song unknown).
 
 ## Albums (2)

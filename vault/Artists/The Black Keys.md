@@ -17,6 +17,9 @@ tags: ["artist", "blues", "rotation-historical"]
 
 **Session ties:** [[Danger Mouse & Daniele Luppi]]
 
+> [!note]- Session-tie receipts
+> - [[Danger Mouse & Daniele Luppi]]: Attack & Release — producer, keyboards/synths (discogs, high); El Camino — producer (discogs, high)
+
 ## Albums (3)
 - Attack & Release
 - El Camino

@@ -16,6 +16,9 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Béla Fleck & the Flecktones]]
 
+> [!note]- Session-tie receipts
+> - [[Béla Fleck & the Flecktones]]: Left of Cool — vocals (guest) (wikipedia, high)
+
 ## Albums (2)
 - Remember Two Things
 - Under The Table And Dreaming

@@ -20,5 +20,10 @@ tags: ["artist", "country-americana", "rotation-dormant"]
 
 **Session ties:** [[Jerry Douglas]] · [[Phish]] · [[Yo-Yo Ma-Edgar Meyer-Mark O'Connor]]
 
+> [!note]- Session-tie receipts
+> - [[Jerry Douglas]]: New Favorite — dobro, lap steel guitar (wikipedia, high); Traveler — guest artists ("Frozen Fields") (discogs, high)
+> - [[Phish]]: Hoist — guest vocals/fiddle (knowledge, high)
+> - [[Yo-Yo Ma-Edgar Meyer-Mark O'Connor]]: Appalachian Journey — guest vocals/fiddle on Stephen Foster tracks (knowledge, high)
+
 ## Albums (1)
 - New Favorite

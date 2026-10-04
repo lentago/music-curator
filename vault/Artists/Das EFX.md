@@ -18,5 +18,8 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[EPMD]]
 
+> [!note]- Session-tie receipts
+> - [[EPMD]]: Business Never Personal — guest MCs — Dray and Skoob ("Cummin' at Cha") (Wikipedia (Business Never Personal), high)
+
 ## Albums (1)
 - Dead Serious

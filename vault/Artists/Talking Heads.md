@@ -20,6 +20,10 @@ tags: ["artist", "pop", "rotation-dormant"]
 
 **Session ties:** [[David Byrne]] · [[David Byrne & Brian Eno]]
 
+> [!note]- Session-tie receipts
+> - [[David Byrne]]: Fear of Music — vocals, guitars (wikipedia, high); Little Creatures — vocals, guitars (wikipedia, high); Live at WCOZ 77 — vocals, guitar (discogs, high); Live on Tour '78 — vocals, guitar (knowledge, high); More Songs About Buildings and Food — lead vocals, guitar, synthesized percussion (wikipedia, high); +8 more
+> - [[David Byrne & Brian Eno]]: Fear of Music — producer; electronic treatments, synthesizers, piano, guitars, vocals (wikipedia, high); More Songs About Buildings and Food — producer; synthesizers, piano, guitar, percussion, backing vocals (wikipedia, high); My Life in the Bush of Ghosts — drums (track 3) (discogs, high); Remain In Light — producer, additional instruments, polyrhythmic arrangements (knowledge, high)
+
 ## Albums (5)
 - Once In A Lifetime The Talking Heads Box (US Release)
 - Popular Favorites 1976-1992 Sand In The Vaseline

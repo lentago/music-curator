@@ -16,6 +16,9 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Session ties:** [[16 Horsepower]]
 
+> [!note]- Session-tie receipts
+> - [[16 Horsepower]]: Ten Stones — bass (wikipedia, high)
+
 ## Albums (5)
 - Consider the Birds
 - Mosaic

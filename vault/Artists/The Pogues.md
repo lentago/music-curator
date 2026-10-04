@@ -20,6 +20,10 @@ tags: ["artist", "rock", "rotation-current"]
 
 **Session ties:** [[Dropkick Murphys]] · [[Nick Cave & the Bad Seeds]]
 
+> [!note]- Session-tie receipts
+> - [[Dropkick Murphys]]: The Meanest of Times Limited Edition — guest performer (discogs, high)
+> - [[Nick Cave & the Bad Seeds]]: Murder Ballads — guest vocals on 'Death Is Not the End' (Wikipedia: Murder Ballads, high)
+
 ## Albums (2)
 - If I Should Fall From Grace With God [Expanded]
 - Rum Sodomy & the Lash

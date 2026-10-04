@@ -19,6 +19,11 @@ tags: ["artist", "soul-funk-r-b", "rotation-current"]
 
 **Session ties:** [[Jeff Beck]] · [[Michael Jackson]] · [[Sting]]
 
+> [!note]- Session-tie receipts
+> - [[Jeff Beck]]: Blow by Blow — songwriter ("Cause We've Ended as Lovers", "Thelonius"), uncredited clavinet (knowledge, medium)
+> - [[Michael Jackson]]: Off the Wall — songwriter ("I Can't Help It") (discogs, high)
+> - [[Sting]]: Brand New Day — harmonica on 'Brand New Day' (wikipedia, high)
+
 ## Albums (2)
 - Song Review- A Greatest Hits Collection Disc 2
 - Song Review: A Greatest Hits Collection

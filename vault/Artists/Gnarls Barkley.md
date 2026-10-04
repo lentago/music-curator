@@ -15,6 +15,10 @@ tags: ["artist", "soul-funk-r-b", "rotation-historical"]
 
 **Session ties:** [[Broken Bells]] · [[dangerdoom]]
 
+> [!note]- Session-tie receipts
+> - [[Broken Bells]]: St. Elsewhere — producer, all instrumentation (knowledge, high); The Odd Couple — producer, all instrumentation (knowledge, high)
+> - [[dangerdoom]]: The Mouse and the Mask — guest vocalist ("Benzi Box") (knowledge, high)
+
 ## Albums (2)
 - St. Elsewhere
 - The Odd Couple

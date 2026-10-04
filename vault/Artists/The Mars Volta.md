@@ -20,6 +20,10 @@ tags: ["artist", "rock", "rotation-dormant"]
 
 **Session ties:** [[At The Drive-In]] · [[Red Hot Chili Peppers]]
 
+> [!note]- Session-tie receipts
+> - [[At The Drive-In]]: Relationship Of Command — guitar (knowledge, high) / vocals (knowledge, high)
+> - [[Red Hot Chili Peppers]]: The Bedlam In Goliath — guitar (guest) (discogs, high)
+
 ## Albums (2)
 - Noctourniquet
 - The Bedlam In Goliath

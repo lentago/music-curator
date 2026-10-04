@@ -16,6 +16,10 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Frogwings]] · [[Leftover Salmon]]
 
+> [!note]- Session-tie receipts
+> - [[Frogwings]]: Croakin' at Toad's — guitar (knowledge, high)
+> - [[Leftover Salmon]]: The Nashville Sessions — vocals (guest) (knowledge, medium)
+
 ## Albums (3)
 - Dirty Side Down
 - Jackassolantern

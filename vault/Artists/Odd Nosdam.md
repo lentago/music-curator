@@ -20,6 +20,11 @@ tags: ["artist", "hip-hop", "rotation-dormant"]
 
 **Session ties:** [[Anticon]] · [[cLOUDDEAD]] · [[Peeping Tom]]
 
+> [!note]- Session-tie receipts
+> - [[Anticon]]: We Ain't Fessin' (Double Quotes) — producer (discogs, high)
+> - [[cLOUDDEAD]]: cLOUDDEAD — production (discogs, high); Ten — production (liner-notes, high)
+> - [[Peeping Tom]]: Peeping Tom — performer ("Your Neighborhood Spaceman") (discogs, high)
+
 ## Albums (3)
 - Level Live Wires
 - Pretty Sweet Explode

@@ -17,5 +17,9 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Session ties:** [[Emmylou Harris]] · [[The Byrds]]
 
+> [!note]- Session-tie receipts
+> - [[Emmylou Harris]]: G.P.-Grievous Angel — harmony/duet vocals (discogs, high)
+> - [[The Byrds]]: Sweetheart of the Rodeo — vocals, guitar, piano, organ (discogs, high)
+
 ## Albums (1)
 - G.P.-Grievous Angel

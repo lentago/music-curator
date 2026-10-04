@@ -20,6 +20,12 @@ tags: ["artist", "pop", "rotation-dormant"]
 
 **Session ties:** [[David Byrne & Brian Eno]] · [[Greg Cohen]] · [[Talking Heads]] · [[Thievery Corporation]]
 
+> [!note]- Session-tie receipts
+> - [[David Byrne & Brian Eno]]: Everything That Happens Will Happen Today — vocals, guitar (co-producer) (knowledge, high); My Life in the Bush of Ghosts — guitar, various instruments (co-producer) (discogs, high)
+> - [[Greg Cohen]]: Feelings — acoustic bass (discogs, medium)
+> - [[Talking Heads]]: Fear of Music — vocals, guitars (wikipedia, high); Little Creatures — vocals, guitars (wikipedia, high); Live at WCOZ 77 — vocals, guitar (discogs, high); Live on Tour '78 — vocals, guitar (knowledge, high); More Songs About Buildings and Food — lead vocals, guitar, synthesized percussion (wikipedia, high); +8 more
+> - [[Thievery Corporation]]: The Cosmic Game — vocalist ('The Heart's a Lonely Hunter') (knowledge, high)
+
 ## Albums (2)
 - Feelings
 - Look Into The Eyeball

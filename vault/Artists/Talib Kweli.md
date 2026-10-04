@@ -18,5 +18,12 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[dangerdoom]] · [[Mos Def]] · [[Mos Def & Talib Kweli]] · [[Talib Kweli & Hi Tek]] · [[Zap Mama]]
 
+> [!note]- Session-tie receipts
+> - [[dangerdoom]]: The Mouse and the Mask — guest MC ("Old School") (knowledge, high)
+> - [[Mos Def]]: Black on Both Sides — guest rapper on 'Astronomy (8th Light)' (knowledge, high); Quality — guest vocals on 'Joy' (wikipedia, high)
+> - [[Mos Def & Talib Kweli]]: Black Star — vocals/rap (Black Star) (discogs, high)
+> - [[Talib Kweli & Hi Tek]]: Reflection Eternal — vocals/rap, co-producer on select tracks (Reflection Eternal) (discogs, high)
+> - [[Zap Mama]]: Ancestry in Progress — guest vocals ("Yelling Away") (discogs, medium); Ancestry in Progress bonus CD — guest vocals ("Yelling Away") (discogs, medium)
+
 ## Albums (1)
 - Quality

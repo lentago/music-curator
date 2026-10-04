@@ -15,6 +15,9 @@ tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 
 **Session ties:** [[Billy Bragg & Wilco - Mermaid avenue (Vol 1 & 2)]]
 
+> [!note]- Session-tie receipts
+> - [[Billy Bragg & Wilco - Mermaid avenue (Vol 1 & 2)]]: Bragg, Billy & Wilco - Mermaid avenue — lead vocals, acoustic/electric guitar, bouzouki, banjo (discogs, high); Bragg, Billy & Wilco - Mermaid avenue Vol. 2 — lead vocals, guitar, bouzouki (discogs, high)
+
 ## Albums (4)
 - Back to Basics
 - Mr. Love & Justice

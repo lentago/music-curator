@@ -20,6 +20,10 @@ tags: ["artist", "hip-hop", "rotation-current"]
 
 **Session ties:** [[Aesop Rock]] · [[Illogic]]
 
+> [!note]- Session-tie receipts
+> - [[Aesop Rock]]: Appleseed — producer (1,000 Deaths) (wikipedia, high); Bazooka Tooth Disc 1 — producer (three tracks) (discogs, high); Bazooka Tooth Disc 2 — producer (three tracks) (discogs, high); Cat Food — producer (Cat Food) (https://www.musictimes.com/articles/23271/20150106/aesop-rock-releases-two-track-ep-cat-food.htm, high); Daylight — producer (Daylight, Night Light, Forest Crunk, Maintenance) (wikipedia, high); +10 more
+> - [[Illogic]]: Illogic & Blockhead - Preparing For Capture 1 EP (2012) — producer (Tony Simon) (knowledge, high); Illogic & Blockhead - Preparing For Capture 2 EP (2012) — producer (Tony Simon) (knowledge, high); Illogic and Blockhead - Capture The Sun (2013) — producer (Tony Simon) (discogs, high)
+
 ## Albums (2)
 - Music By Cavelight
 - The Music Scene

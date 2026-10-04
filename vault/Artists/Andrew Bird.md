@@ -19,6 +19,9 @@ tags: ["artist", "folk-singer-songwriter", "rotation-current"]
 
 **Session ties:** [[Andrew Bird's Bowl Of Fire]]
 
+> [!note]- Session-tie receipts
+> - [[Andrew Bird's Bowl Of Fire]]: Oh! The Grandeur — violin, guitar, vocals (knowledge, high); The Swimming Hour — violin, guitar, glockenspiel, vocals, producer (knowledge, high); Weather Systems — violin, guitar, whistling, vocals (knowledge, high)
+
 ## Albums (9)
 - Andrew Bird & the Mysterious Production
 - Andrew Bird & the Mysterious Production of Eggs

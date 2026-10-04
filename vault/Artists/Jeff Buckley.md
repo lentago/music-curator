@@ -15,6 +15,9 @@ tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 
 **Session ties:** [[John Zorn]]
 
+> [!note]- Session-tie receipts
+> - [[John Zorn]]: John Zorn's Cobra: Live at the Knitting Factory — voice (wikipedia, high)
+
 ## Albums (6)
 - Grace
 - Live at Sin-é

@@ -16,5 +16,11 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Session ties:** [[Béla Fleck]] · [[Edgar Meyer]] · [[Mike Marshall]] · [[Russ Barenberg]]
 
+> [!note]- Session-tie receipts
+> - [[Béla Fleck]]: Uncommon Ritual — banjo, mandolin, guitar (wikipedia, high)
+> - [[Edgar Meyer]]: Uncommon Ritual — double bass, piano, producer (wikipedia, high)
+> - [[Mike Marshall]]: Uncommon Ritual — mandolin, mandocello, mandola (wikipedia, high)
+> - [[Russ Barenberg]]: Moving Pictures — banjo (AllMusic credits / WebSearch, high)
+
 ## Albums (1)
 - Uncommon Ritual

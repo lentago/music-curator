@@ -19,5 +19,12 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Session ties:** [[Del McCoury]] · [[Emmylou Harris]] · [[Gillian Welch]] · [[Jerry Douglas]] · [[Sam Bush]]
 
+> [!note]- Session-tie receipts
+> - [[Del McCoury]]: The Mountain — mandolin, vocals, producer (discogs, high) / vocals, guitar (discogs, high)
+> - [[Emmylou Harris]]: The Mountain — guest vocals (discogs, high)
+> - [[Gillian Welch]]: The Mountain — guest vocals (discogs, high)
+> - [[Jerry Douglas]]: The Mountain — guest, dobro (discogs, medium)
+> - [[Sam Bush]]: The Mountain — guest, mandolin/fiddle (discogs, medium)
+
 ## Albums (1)
 - The Mountain

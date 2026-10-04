@@ -19,5 +19,9 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Common]] · [[Talib Kweli & Hi Tek]]
 
+> [!note]- Session-tie receipts
+> - [[Common]]: Black Star — guest vocals on "Respiration" (discogs, high)
+> - [[Talib Kweli & Hi Tek]]: Black Star — producer (multiple tracks incl. "Definition", "Re: Definition", "K.O.S. (Determination)") (discogs, high)
+
 ## Albums (1)
 - Black Star

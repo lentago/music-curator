@@ -20,5 +20,8 @@ tags: ["artist", "hip-hop", "rotation-dormant"]
 
 **Session ties:** [[DJ Shadow]]
 
+> [!note]- Session-tie receipts
+> - [[DJ Shadow]]: Nia — producer (track A7) (discogs, high)
+
 ## Albums (1)
 - Nia

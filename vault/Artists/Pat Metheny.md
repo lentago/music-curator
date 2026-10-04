@@ -17,5 +17,8 @@ tags: ["artist", "jazz", "rotation-historical"]
 
 **Session ties:** [[John Zorn]]
 
+> [!note]- Session-tie receipts
+> - [[John Zorn]]: Tap The Book of Angels Volume 20 — compositions (Book of Angels songbook) (discogs, high)
+
 ## Albums (1)
 - Tap The Book of Angels Volume 20

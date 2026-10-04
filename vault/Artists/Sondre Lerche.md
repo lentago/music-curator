@@ -16,5 +16,8 @@ tags: ["artist", "pop", "rotation-historical"]
 
 **Session ties:** [[Sondre Lerche and the Faces Down]]
 
+> [!note]- Session-tie receipts
+> - [[Sondre Lerche and the Faces Down]]: Phantom Punch — vocals, guitar (knowledge, high)
+
 ## Albums (1)
 - Phantom Punch

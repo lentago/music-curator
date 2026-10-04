@@ -17,5 +17,8 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[A Tribe Called Quest]]
 
+> [!note]- Session-tie receipts
+> - [[A Tribe Called Quest]]: F.U. Don't Take It Personal — producers (tracks 1, 5, 6) (discogs, high)
+
 ## Albums (1)
 - F.U. Don't Take It Personal

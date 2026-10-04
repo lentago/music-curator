@@ -18,5 +18,8 @@ tags: ["artist", "jazz", "rotation-historical"]
 
 **Session ties:** [[Larry Coryell]]
 
+> [!note]- Session-tie receipts
+> - [[Larry Coryell]]: Spaces Revisited — guitar (Discogs release title: 'Larry Coryell Featuring: Billy Cobham, Bireli Lagrene, Richard Bona', high)
+
 ## Albums (1)
 - Gipsy Project & Friends

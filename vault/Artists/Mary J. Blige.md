@@ -15,6 +15,10 @@ tags: ["artist", "soul-funk-r-b", "rotation-historical"]
 
 **Session ties:** [[Aretha Franklin]] · [[Eric Clapton And Steve Winwood]]
 
+> [!note]- Session-tie receipts
+> - [[Aretha Franklin]]: Mary — featured vocals on 'Don't Waste Your Time' (musicbrainz, high)
+> - [[Eric Clapton And Steve Winwood]]: Mary — lead guitar on 'Give Me You' (musicbrainz, high)
+
 ## Albums (2)
 - Growing Pains
 - Mary

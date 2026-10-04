@@ -19,4 +19,7 @@ tags: ["artist", "hip-hop", "rotation-historical", "source-follow"]
 
 **Session ties:** [[Aesop Rock]]
 
+> [!note]- Session-tie receipts
+> - [[Aesop Rock]]: Skelethon — featured vocals (Crows 2) (wikipedia, high)
+
 **Followed:** on Spotify — backfilled, observed as of 2026-07-23 (original follow date and trigger song unknown).

@@ -18,6 +18,16 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Session ties:** [[Béla Fleck]] · [[Del McCoury]] · [[Jerry Douglas]] · [[Lucinda Williams]] · [[Sam Bush]] · [[Taj Mahal & Toumani Diabate]] · [[Waylon Jennings]] · [[Widespread Panic]]
 
+> [!note]- Session-tie receipts
+> - [[Béla Fleck]]: The Nashville Sessions — banjo (guest) (knowledge, high)
+> - [[Del McCoury]]: The Nashville Sessions — vocals, guitar (guest) (knowledge, high)
+> - [[Jerry Douglas]]: The Nashville Sessions — Dobro (guest) (knowledge, high)
+> - [[Lucinda Williams]]: The Nashville Sessions — vocals (guest) (knowledge, high)
+> - [[Sam Bush]]: The Nashville Sessions — mandolin, fiddle (guest) (knowledge, high)
+> - [[Taj Mahal & Toumani Diabate]]: The Nashville Sessions — vocals (guest) (knowledge, high)
+> - [[Waylon Jennings]]: The Nashville Sessions — vocals, guitar (guest) (knowledge, high)
+> - [[Widespread Panic]]: The Nashville Sessions — vocals (guest) (knowledge, medium)
+
 ## Albums (3)
 - Ask the Fish
 - Euphoria

@@ -18,5 +18,10 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Dilated Peoples]] · [[Madlib]] · [[Madvillain]]
 
+> [!note]- Session-tie receipts
+> - [[Dilated Peoples]]: Soundpieces- Da Antidote! — guest vocalists (discogs, high)
+> - [[Madlib]]: Soundpieces- Da Antidote! — MC, production (all beats) (discogs, high)
+> - [[Madvillain]]: Madvillainy — guest MC on 'America's Most Blunted' and 'Shadows of Tomorrow' (Madlib alter ego) (Wikipedia Madvillainy personnel, high) / guest MC on 'Hardcore Hustle' (Wikipedia Madvillainy personnel; Wildchild is a member of Lootpack, high) / producer, beats (Wikipedia / Madvillainy album page, high)
+
 ## Albums (1)
 - Soundpieces- Da Antidote!

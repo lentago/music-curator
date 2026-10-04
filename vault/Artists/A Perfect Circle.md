@@ -20,6 +20,9 @@ tags: ["artist", "rock", "rotation-dormant"]
 
 **Session ties:** [[Maynard James Keenan]]
 
+> [!note]- Session-tie receipts
+> - [[Maynard James Keenan]]: eMOTIVe — vocals (knowledge, high); Mer de Noms — vocals (knowledge, high); Thirteenth Step — vocals (knowledge, high)
+
 ## Albums (3)
 - Mer de Noms
 - Thirteenth Step

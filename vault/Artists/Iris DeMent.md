@@ -15,5 +15,8 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Session ties:** [[Stuart Duncan]]
 
+> [!note]- Session-tie receipts
+> - [[Stuart Duncan]]: My Life — fiddle, mandolin (discogs, medium)
+
 ## Albums (1)
 - My Life

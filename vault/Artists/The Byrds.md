@@ -16,5 +16,8 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Gram Parsons]]
 
+> [!note]- Session-tie receipts
+> - [[Gram Parsons]]: Sweetheart of the Rodeo — vocals, guitar, piano, organ (discogs, high)
+
 ## Albums (1)
 - Sweetheart of the Rodeo

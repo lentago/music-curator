@@ -18,5 +18,10 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Dan the Automator]] · [[DJ Shadow]] · [[Peeping Tom]]
 
+> [!note]- Session-tie receipts
+> - [[Dan the Automator]]: Dr. Octagonecologyst — producer, beats (knowledge, high)
+> - [[DJ Shadow]]: Dr. Octagonecologyst — additional production (knowledge, medium)
+> - [[Peeping Tom]]: Peeping Tom — guest MC ("Getaway") (discogs, high)
+
 ## Albums (1)
 - Dr. Octagonecologyst

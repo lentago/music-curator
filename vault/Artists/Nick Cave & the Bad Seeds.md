@@ -20,6 +20,11 @@ tags: ["artist", "country-americana", "rotation-dormant"]
 
 **Session ties:** [[Cat Power]] · [[Johnny Cash]] · [[The Pogues]]
 
+> [!note]- Session-tie receipts
+> - [[Cat Power]]: You Are Free — violin on "Good Woman" (Dirty Three) (discogs, medium)
+> - [[Johnny Cash]]: American IV: The Man Comes Around — guest vocalist (knowledge, high)
+> - [[The Pogues]]: Murder Ballads — guest vocals on 'Death Is Not the End' (Wikipedia: Murder Ballads, high)
+
 ## Albums (2)
 - Murder Ballads
 - The Best of Nick Cave & the Bad Seeds

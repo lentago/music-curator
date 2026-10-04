@@ -21,6 +21,9 @@ tags: ["artist", "country-americana", "rotation-dormant", "source-follow"]
 
 **Session ties:** [[Chris Stapleton]]
 
+> [!note]- Session-tie receipts
+> - [[Chris Stapleton]]: Reckless [+Digital Booklet] — guitar, lead vocals (discogs, high)
+
 **Followed:** on Spotify — backfilled, observed as of 2026-07-23 (original follow date and trigger song unknown).
 
 ## Albums (2)

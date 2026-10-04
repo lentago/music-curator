@@ -20,6 +20,9 @@ tags: ["artist", "jazz", "rotation-current"]
 
 **Session ties:** [[Ella Fitzgerald_Louis Armstrong]]
 
+> [!note]- Session-tie receipts
+> - [[Ella Fitzgerald_Louis Armstrong]]: The Early Years — vocals (knowledge, high)
+
 ## Albums (7)
 - Ella in Rome- The Birthday Concert
 - Oh, Lady, Be Good! Best of the Gershwin Songbook

@@ -20,6 +20,13 @@ tags: ["artist", "hip-hop", "rotation-current"]
 
 **Session ties:** [[Aceyalone]] · [[Diverse]] · [[Soul Position]] · [[Vast Aire]] · [[WEATHERMEN]]
 
+> [!note]- Session-tie receipts
+> - [[Aceyalone]]: Love & Hate — producer (discogs, high); Magnificent City — producer / co-billed artist (discogs, high)
+> - [[Diverse]]: One A.M. [Bonus Track] — producer (discogs, high)
+> - [[Soul Position]]: 8 Million Stories — producer (discogs, high)
+> - [[Vast Aire]]: Look Mom... No Hands — producer (knowledge, high)
+> - [[WEATHERMEN]]: Weathermen-The_Conspiracy-(Retail)-2003-CMS — producer (tracks) (discogs, high)
+
 ## Albums (5)
 - Dead Ringer
 - Since We Last Spoke

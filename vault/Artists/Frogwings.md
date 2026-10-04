@@ -18,5 +18,10 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[The Allman Brothers Band]] · [[The Derek Trucks Band]] · [[Widespread Panic]]
 
+> [!note]- Session-tie receipts
+> - [[The Allman Brothers Band]]: Croakin' at Toad's — bass (knowledge, high) / drums (knowledge, high) / percussion (knowledge, high)
+> - [[The Derek Trucks Band]]: Croakin' at Toad's — guitar (knowledge, high) / keyboards, flute (knowledge, high)
+> - [[Widespread Panic]]: Croakin' at Toad's — guitar (knowledge, high)
+
 ## Albums (1)
 - Croakin' at Toad's

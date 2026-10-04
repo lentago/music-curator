@@ -18,6 +18,9 @@ tags: ["artist", "pop", "rotation-historical"]
 
 **Session ties:** [[The Flaming Lips]]
 
+> [!note]- Session-tie receipts
+> - [[The Flaming Lips]]: Embryonic — additional vocals and instruments on 'Worm Mountain' (musicbrainz, high)
+
 ## Albums (2)
 - Oracular Spectacular
 - Oracular Spectacular [Explicit]

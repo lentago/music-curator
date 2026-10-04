@@ -19,6 +19,9 @@ tags: ["artist", "jazz", "rotation-dormant"]
 
 **Session ties:** [[Ella Fitzgerald_Louis Armstrong]]
 
+> [!note]- Session-tie receipts
+> - [[Ella Fitzgerald_Louis Armstrong]]: The Early Years — trumpet, vocals (knowledge, high)
+
 ## Albums (3)
 - 01 Louis Armstrong - La Vie En Rose
 - A Kiss To Build A Dream On

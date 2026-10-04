@@ -17,5 +17,8 @@ tags: ["artist", "electronic", "rotation-historical"]
 
 **Session ties:** [[Beth Orton]]
 
+> [!note]- Session-tie receipts
+> - [[Beth Orton]]: Exit Planet Dust — vocals on 'Alive Alone' (wikipedia, high)
+
 ## Albums (1)
 - Exit Planet Dust

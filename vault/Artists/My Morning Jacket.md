@@ -18,6 +18,9 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Monsters Of Folk]]
 
+> [!note]- Session-tie receipts
+> - [[Monsters Of Folk]]: Monsters of Folk — vocals, guitars, keyboards, drums (wikipedia, high)
+
 ## Albums (4)
 - At Dawn
 - At Dawn (Disc 1)

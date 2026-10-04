@@ -18,5 +18,9 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Danger Mouse & Daniele Luppi]] · [[Gnarls Barkley]]
 
+> [!note]- Session-tie receipts
+> - [[Danger Mouse & Daniele Luppi]]: Broken Bells [+Video] — string arrangements (discogs, high)
+> - [[Gnarls Barkley]]: St. Elsewhere — producer, all instrumentation (knowledge, high); The Odd Couple — producer, all instrumentation (knowledge, high)
+
 ## Albums (1)
 - Broken Bells [+Video]

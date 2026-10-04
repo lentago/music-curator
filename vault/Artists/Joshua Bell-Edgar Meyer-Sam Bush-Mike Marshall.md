@@ -19,5 +19,9 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Session ties:** [[Béla Fleck]] · [[Jerry Douglas_Russ Barenberg_Edgar Meyer]]
 
+> [!note]- Session-tie receipts
+> - [[Béla Fleck]]: Perpetual Motion — violin (allmusic, high)
+> - [[Jerry Douglas_Russ Barenberg_Edgar Meyer]]: Skip, Hop & Wobble — guest — mandolin (BluegrassBios.com, high)
+
 ## Albums (1)
 - Short Trip Home

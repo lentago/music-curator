@@ -17,5 +17,9 @@ tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 
 **Session ties:** [[Monsters Of Folk]] · [[Neko Case]]
 
+> [!note]- Session-tie receipts
+> - [[Monsters Of Folk]]: Monsters of Folk — vocals, guitars, bass, keyboards (wikipedia, high)
+> - [[Neko Case]]: Middle Cyclone — guitar on 'Fever' and 'Magpie to the Morning' (Wikipedia Middle Cyclone personnel, high)
+
 ## Albums (1)
 - A Wasteland Companion

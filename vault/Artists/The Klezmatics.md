@@ -17,6 +17,10 @@ tags: ["artist", "world", "rotation-historical", "source-follow"]
 
 **Session ties:** [[David Krakauer]] · [[Marc Ribot]]
 
+> [!note]- Session-tie receipts
+> - [[David Krakauer]]: Jews with Horns — clarinet, bass clarinet (allmusic, high)
+> - [[Marc Ribot]]: Jews with Horns — electric guitar (guest) (allmusic, medium)
+
 **Followed:** on Spotify — backfilled, observed as of 2026-07-23 (original follow date and trigger song unknown).
 
 > lane confirmed by Chris ("Balkan and klezmer")

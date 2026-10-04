@@ -15,6 +15,9 @@ tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 
 **Session ties:** [[Jerry Douglas]]
 
+> [!note]- Session-tie receipts
+> - [[Jerry Douglas]]: Traveler — guest artists ("The Boxer") (discogs, high)
+
 ## Albums (2)
 - Babel
 - Sigh No More

@@ -16,5 +16,8 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Das EFX]]
 
+> [!note]- Session-tie receipts
+> - [[Das EFX]]: Business Never Personal — guest MCs — Dray and Skoob ("Cummin' at Cha") (Wikipedia (Business Never Personal), high)
+
 ## Albums (1)
 - Business Never Personal

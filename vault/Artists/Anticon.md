@@ -18,5 +18,10 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Boom Bip]] · [[DJ Krush]] · [[Odd Nosdam]]
 
+> [!note]- Session-tie receipts
+> - [[Boom Bip]]: Seed To Sun — guest rapper (allmusic, high)
+> - [[DJ Krush]]: The Message at the Depth — guest collective ("Song for John Walker") (wikipedia, medium)
+> - [[Odd Nosdam]]: We Ain't Fessin' (Double Quotes) — producer (discogs, high)
+
 ## Albums (1)
 - We Ain't Fessin' (Double Quotes)

@@ -18,6 +18,9 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Massive Attack]]
 
+> [!note]- Session-tie receipts
+> - [[Massive Attack]]: Heligoland — vocals (on 'Pray for Rain') (https://en.wikipedia.org/wiki/Heligoland_(album), high)
+
 ## Albums (2)
 - Dear Science
 - Return To Cookie Mountain

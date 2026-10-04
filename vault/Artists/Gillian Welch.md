@@ -17,5 +17,8 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Session ties:** [[Steve Earle-The Del McCoury Band]]
 
+> [!note]- Session-tie receipts
+> - [[Steve Earle-The Del McCoury Band]]: The Mountain — guest vocals (discogs, high)
+
 ## Albums (1)
 - Hell Among The Yearlings

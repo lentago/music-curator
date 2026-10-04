@@ -16,5 +16,8 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Faust vs. Dälek]]
 
+> [!note]- Session-tie receipts
+> - [[Faust vs. Dälek]]: Derbe Respect, Alder — Dälek — MC / vocals (as MC Dälek) (Wikipedia (Derbe Respect, Alder) / Dälek Wikipedia, high) / Dälek — production (as Oktopus), producer credit (Wikipedia (Derbe Respect, Alder) / Dälek Wikipedia, high)
+
 ## Albums (1)
 - Negro Necro Nekros

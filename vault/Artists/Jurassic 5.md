@@ -18,5 +18,10 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Cut Chemist]] · [[Cut Chemist & Nu-Mark]] · [[Ozomatli]]
 
+> [!note]- Session-tie receipts
+> - [[Cut Chemist]]: Quality Control — DJ, producer (wikipedia, high)
+> - [[Cut Chemist & Nu-Mark]]: Live at the Variety Arts Center, 1997 — DJ, turntablist (knowledge, high); Quality Control — DJ, producer (wikipedia, high)
+> - [[Ozomatli]]: Ozomatli — MC, vocals (founding member) (knowledge, high)
+
 ## Albums (1)
 - Quality Control

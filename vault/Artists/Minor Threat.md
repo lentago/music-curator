@@ -18,5 +18,8 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Fugazi]]
 
+> [!note]- Session-tie receipts
+> - [[Fugazi]]: 13 Songs — vocals, guitar (knowledge, high)
+
 ## Albums (1)
 - Complete Discography

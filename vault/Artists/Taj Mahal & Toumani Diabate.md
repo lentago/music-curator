@@ -15,5 +15,8 @@ tags: ["artist", "blues", "rotation-historical"]
 
 **Session ties:** [[Leftover Salmon]]
 
+> [!note]- Session-tie receipts
+> - [[Leftover Salmon]]: The Nashville Sessions — vocals (guest) (knowledge, high)
+
 ## Albums (1)
 - Kulanjan

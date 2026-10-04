@@ -18,5 +18,10 @@ tags: ["artist", "avant-garde-experimental", "rotation-historical"]
 
 **Session ties:** [[Greg Cohen]] · [[Joey Baron]] · [[John Zorn]]
 
+> [!note]- Session-tie receipts
+> - [[Greg Cohen]]: Stolas: The Book Of Angels Volume 12 — bass (knowledge, high)
+> - [[Joey Baron]]: Stolas: The Book Of Angels Volume 12 — drums (knowledge, high)
+> - [[John Zorn]]: Stolas: The Book Of Angels Volume 12 — alto saxophone, composer, producer (knowledge, high)
+
 ## Albums (1)
 - Stolas: The Book Of Angels Volume 12

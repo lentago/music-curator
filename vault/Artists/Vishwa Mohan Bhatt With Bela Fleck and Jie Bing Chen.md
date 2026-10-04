@@ -15,5 +15,9 @@ tags: ["artist", "world", "rotation-historical"]
 
 **Session ties:** [[Béla Fleck]] · [[Russ Barenberg]]
 
+> [!note]- Session-tie receipts
+> - [[Béla Fleck]]: Tabula Rasa — banjo (knowledge, high)
+> - [[Russ Barenberg]]: Moving Pictures — banjo (AllMusic credits / WebSearch, high)
+
 ## Albums (1)
 - Tabula Rasa

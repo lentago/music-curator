@@ -16,5 +16,12 @@ tags: ["artist", "pop", "rotation-historical"]
 
 **Session ties:** [[Broken Bells]] · [[dangerdoom]] · [[Jack White]] · [[Norah Jones]] · [[The Black Keys]]
 
+> [!note]- Session-tie receipts
+> - [[Broken Bells]]: Broken Bells [+Video] — string arrangements (discogs, high)
+> - [[dangerdoom]]: The Mouse and the Mask — producer (all tracks) (knowledge, high)
+> - [[Jack White]]: Rome — vocals (wikipedia, high)
+> - [[Norah Jones]]: Rome — vocals (wikipedia, high)
+> - [[The Black Keys]]: Attack & Release — producer, keyboards/synths (discogs, high); El Camino — producer (discogs, high)
+
 ## Albums (1)
 - Rome

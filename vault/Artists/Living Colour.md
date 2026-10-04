@@ -18,6 +18,10 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[John Zorn]] · [[The Rolling Stones]]
 
+> [!note]- Session-tie receipts
+> - [[John Zorn]]: The Big Gundown — electric guitar (wikipedia, high)
+> - [[The Rolling Stones]]: Time's Up — background vocals (discogs, high); Vivid — background vocals ('Glamour Boys'), harmonica ('Which Way To America'), co-producer (tracks 9, 11) (discogs, high)
+
 ## Albums (2)
 - Time's Up
 - Vivid

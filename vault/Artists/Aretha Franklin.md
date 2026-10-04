@@ -17,6 +17,9 @@ tags: ["artist", "soul-funk-r-b", "rotation-historical"]
 
 **Session ties:** [[Mary J. Blige]]
 
+> [!note]- Session-tie receipts
+> - [[Mary J. Blige]]: Mary — featured vocals on 'Don't Waste Your Time' (musicbrainz, high)
+
 > sole comp acceptable for canonical soul figure
 
 ## Albums (1)

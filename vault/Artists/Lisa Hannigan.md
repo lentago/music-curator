@@ -15,5 +15,8 @@ tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 
 **Session ties:** [[Damien Rice]]
 
+> [!note]- Session-tie receipts
+> - [[Damien Rice]]: O — backing/duet vocals, piano (discogs, high)
+
 ## Albums (1)
 - Sea Sew

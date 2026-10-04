@@ -16,6 +16,13 @@ tags: ["artist", "avant-garde-experimental", "rotation-historical", "source-foll
 
 **Session ties:** [[Cyro Baptista]] · [[Greg Cohen]] · [[Joey Baron]] · [[John Zorn]] · [[Marc Ribot]]
 
+> [!note]- Session-tie receipts
+> - [[Cyro Baptista]]: 50th Birthday Celebration, Vol. 11 Disc — percussion (wikipedia, high); 50th Birthday Celebration, Vol. 11 Disc 1 — percussion (wikipedia, high); 50th Birthday Celebration, Vol. 11 Disc 2 — percussion (wikipedia, high); 50th Birthday Celebration, Vol. 11 Disc 3 — percussion (wikipedia, high)
+> - [[Greg Cohen]]: 50th Birthday Celebration, Vol. 11 Disc — bass (wikipedia, high); 50th Birthday Celebration, Vol. 11 Disc 1 — bass (wikipedia, high); 50th Birthday Celebration, Vol. 11 Disc 2 — bass (wikipedia, high); 50th Birthday Celebration, Vol. 11 Disc 3 — bass (wikipedia, high)
+> - [[Joey Baron]]: 50th Birthday Celebration, Vol. 11 Disc — drums (wikipedia, high); 50th Birthday Celebration, Vol. 11 Disc 1 — drums (wikipedia, high); 50th Birthday Celebration, Vol. 11 Disc 2 — drums (wikipedia, high); 50th Birthday Celebration, Vol. 11 Disc 3 — drums (wikipedia, high)
+> - [[John Zorn]]: 50th Birthday Celebration, Vol. 11 Disc — composer, conductor (wikipedia, high); 50th Birthday Celebration, Vol. 11 Disc 1 — composer, conductor (wikipedia, high); 50th Birthday Celebration, Vol. 11 Disc 2 — composer, conductor (wikipedia, high); 50th Birthday Celebration, Vol. 11 Disc 3 — composer, conductor (wikipedia, high)
+> - [[Marc Ribot]]: 50th Birthday Celebration, Vol. 11 Disc — guitar (wikipedia, high); 50th Birthday Celebration, Vol. 11 Disc 1 — guitar (wikipedia, high); 50th Birthday Celebration, Vol. 11 Disc 2 — guitar (wikipedia, high); 50th Birthday Celebration, Vol. 11 Disc 3 — guitar (wikipedia, high)
+
 **Followed:** on Spotify — backfilled, observed as of 2026-07-23 (original follow date and trigger song unknown).
 
 ## Albums (4)

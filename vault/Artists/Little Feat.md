@@ -18,6 +18,9 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[The Rolling Stones]]
 
+> [!note]- Session-tie receipts
+> - [[The Rolling Stones]]: Waiting For Columbus [Live] — lead/slide guitar (guest, "A Apolitical Blues") (discogs, high)
+
 ## Albums (2)
 - Dixie Chicken
 - Waiting For Columbus [Live]

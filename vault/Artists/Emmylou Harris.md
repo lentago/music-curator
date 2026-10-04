@@ -17,6 +17,16 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Session ties:** [[Gram Parsons]] · [[Lucinda Williams]] · [[Mark Knopfler And Emmylou Harris]] · [[Neil Young]] · [[Sam Bush]] · [[Steve Earle]] · [[Steve Earle-The Del McCoury Band]] · [[The Band]]
 
+> [!note]- Session-tie receipts
+> - [[Gram Parsons]]: G.P.-Grievous Angel — harmony/duet vocals (discogs, high)
+> - [[Lucinda Williams]]: Car Wheels on a Gravel Road — backing vocals ("Greenville") (knowledge, high); Wrecking Ball — backing vocals (wikipedia, high)
+> - [[Mark Knopfler And Emmylou Harris]]: All The RoadRunning (US Version) — vocals, acoustic guitar (wikipedia, high)
+> - [[Neil Young]]: Wrecking Ball — harmonica, backing vocals (wikipedia, high)
+> - [[Sam Bush]]: Emmylou Harris and the Nash Ra — fiddle, mandolin, vocals (discogs, high)
+> - [[Steve Earle]]: El Corazón — background vocals (wikipedia, high); Jerusalem — guest vocals (wikipedia, high); Wrecking Ball — guitar (wikipedia, high)
+> - [[Steve Earle-The Del McCoury Band]]: The Mountain — guest vocals (discogs, high)
+> - [[The Band]]: The Last Waltz — guest performer (knowledge, high)
+
 ## Albums (3)
 - Emmylou Harris and the Nash Ra
 - Spyboy

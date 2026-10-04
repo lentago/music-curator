@@ -16,5 +16,9 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Cut Chemist]] · [[Invisible Skratch Piklz]]
 
+> [!note]- Session-tie receipts
+> - [[Cut Chemist]]: Live at Future Primitive Sound Session — DJ, turntables (knowledge, high)
+> - [[Invisible Skratch Piklz]]: Live at Future Primitive Sound Session — DJ, turntables (knowledge, high)
+
 ## Albums (1)
 - Live at Future Primitive Sound Session

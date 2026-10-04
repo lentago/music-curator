@@ -20,6 +20,9 @@ tags: ["artist", "electronic", "rotation-current", "source-follow"]
 
 **Session ties:** [[N.E.R.D]]
 
+> [!note]- Session-tie receipts
+> - [[N.E.R.D]]: Random Access Memories — vocals (knowledge, high)
+
 **Followed:** on Spotify — backfilled, observed as of 2026-07-23 (original follow date and trigger song unknown).
 
 ## Albums (3)

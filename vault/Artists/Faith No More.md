@@ -18,5 +18,8 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Mike Patton]]
 
+> [!note]- Session-tie receipts
+> - [[Mike Patton]]: Angel Dust — vocals (knowledge, high)
+
 ## Albums (1)
 - Angel Dust

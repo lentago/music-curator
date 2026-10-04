@@ -15,5 +15,9 @@ tags: ["artist", "soul-funk-r-b", "rotation-historical"]
 
 **Session ties:** [[Jeff Beck]] · [[Santana]]
 
+> [!note]- Session-tie receipts
+> - [[Jeff Beck]]: Seal [1994] — guest guitar ("Manic Depression") (musicbrainz, high)
+> - [[Santana]]: Shaman — guest vocals ("You Are My Kind") (discogs, high)
+
 ## Albums (1)
 - Seal [1994]

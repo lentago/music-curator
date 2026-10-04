@@ -20,6 +20,14 @@ tags: ["artist", "electronic", "rotation-current"]
 
 **Session ties:** [[David Byrne]] · [[Jane's Addiction]] · [[Mr. Lif]] · [[Norah Jones]] · [[Sarah McLachlan]] · [[The Flaming Lips]]
 
+> [!note]- Session-tie receipts
+> - [[David Byrne]]: The Cosmic Game — vocalist ('The Heart's a Lonely Hunter') (knowledge, high)
+> - [[Jane's Addiction]]: The Cosmic Game — vocalist ('Revolution Solution') (knowledge, high)
+> - [[Mr. Lif]]: Culture of Fear — rapper (title track) (knowledge, high)
+> - [[Norah Jones]]: Versions — vocalist (remixed via Wax Poetic) (knowledge, high)
+> - [[Sarah McLachlan]]: Versions — vocalist (remixed track) (knowledge, high)
+> - [[The Flaming Lips]]: The Cosmic Game — vocalist ('Marching the Hate Machines') (knowledge, high)
+
 ## Albums (11)
 - Abductions and Reconstructions
 - Babylon Rewound

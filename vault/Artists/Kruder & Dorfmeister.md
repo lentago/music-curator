@@ -16,5 +16,8 @@ tags: ["artist", "electronic", "rotation-historical"]
 
 **Session ties:** [[Lamb]]
 
+> [!note]- Session-tie receipts
+> - [[Lamb]]: What Sound Disc 1 — additional producer (Kruder & Dorfmeister) (allmusic, medium)
+
 ## Albums (1)
 - DJ-Kicks

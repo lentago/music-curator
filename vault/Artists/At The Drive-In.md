@@ -16,5 +16,8 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[The Mars Volta]]
 
+> [!note]- Session-tie receipts
+> - [[The Mars Volta]]: Relationship Of Command — guitar (knowledge, high) / vocals (knowledge, high)
+
 ## Albums (1)
 - Relationship Of Command

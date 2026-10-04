@@ -18,5 +18,10 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Session ties:** [[Jerry Douglas_Russ Barenberg_Edgar Meyer]] · [[Old & In the Way]] · [[Russ Barenberg]]
 
+> [!note]- Session-tie receipts
+> - [[Jerry Douglas_Russ Barenberg_Edgar Meyer]]: Skip, Hop & Wobble — Dobro (BluegrassBios.com / search results, high)
+> - [[Old & In the Way]]: Breakdown- Live Recordings 1973 — guitar, vocals (jerrygarcia.com band page / Wikipedia Old & In the Way, high); Old & In the Way — guitar, lead vocals (discogs, high)
+> - [[Russ Barenberg]]: Moving Pictures — Dobro (AllMusic credits / WebSearch, high)
+
 ## Albums (1)
 - Yonder

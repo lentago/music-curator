@@ -17,6 +17,9 @@ tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 
 **Session ties:** [[Ray LaMontagne & The Pariah Dogs]]
 
+> [!note]- Session-tie receipts
+> - [[Ray LaMontagne & The Pariah Dogs]]: God Willin' & The Creek Don't Rise [+Digital Booklet] — vocals, guitar, producer (knowledge, high)
+
 ## Albums (3)
 - Gossip In The Grain
 - Till the Sun Turns Black

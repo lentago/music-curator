@@ -19,6 +19,9 @@ tags: ["artist", "folk-singer-songwriter", "rotation-current"]
 
 **Session ties:** [[Kenny Wollesen]]
 
+> [!note]- Session-tie receipts
+> - [[Kenny Wollesen]]: Ghost On Ghost — drums / percussion (musicbrainz, medium)
+
 ## Albums (8)
 - Around The Well
 - Around the Well (Bonus Track Version)

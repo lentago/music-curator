@@ -20,5 +20,14 @@ tags: ["artist", "electronic", "rotation-dormant"]
 
 **Session ties:** [[cLOUDDEAD]] · [[Dan the Automator]] · [[Dr. Octagon]] · [[Massive Attack]] · [[Mike Patton]] · [[Norah Jones]] · [[Odd Nosdam]]
 
+> [!note]- Session-tie receipts
+> - [[cLOUDDEAD]]: Peeping Tom — guest ("How U Feelin?") (discogs, high)
+> - [[Dan the Automator]]: Peeping Tom — producer, performer ("Mojo") (discogs, high)
+> - [[Dr. Octagon]]: Peeping Tom — guest MC ("Getaway") (discogs, high)
+> - [[Massive Attack]]: Peeping Tom — performer ("Kill the DJ") (discogs, high)
+> - [[Mike Patton]]: Peeping Tom — vocals, producer (discogs, high)
+> - [[Norah Jones]]: Peeping Tom — guest vocals ("Sucker") (discogs, high)
+> - [[Odd Nosdam]]: Peeping Tom — performer ("Your Neighborhood Spaceman") (discogs, high)
+
 ## Albums (1)
 - Peeping Tom

@@ -18,5 +18,10 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Cut Chemist_Shortkut]] · [[Jurassic 5]] · [[Ozomatli]]
 
+> [!note]- Session-tie receipts
+> - [[Cut Chemist_Shortkut]]: Live at Future Primitive Sound Session — DJ, turntables (knowledge, high)
+> - [[Jurassic 5]]: Quality Control — DJ, producer (wikipedia, high)
+> - [[Ozomatli]]: Ozomatli — DJ, turntables (founding member) (knowledge, high)
+
 ## Albums (1)
 - Live at the Variety Arts Center, 1997

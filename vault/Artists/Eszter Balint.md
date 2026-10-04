@@ -15,5 +15,8 @@ tags: ["artist", "avant-garde-experimental", "rotation-historical"]
 
 **Session ties:** [[Marc Ribot]]
 
+> [!note]- Session-tie receipts
+> - [[Marc Ribot]]: Flicker — guitar (tracks 8, 11) (discogs, high)
+
 ## Albums (1)
 - Flicker

@@ -15,5 +15,8 @@ tags: ["artist", "blues", "rotation-historical"]
 
 **Session ties:** [[The Band]]
 
+> [!note]- Session-tie receipts
+> - [[The Band]]: The Last Waltz — guest performer (knowledge, high)
+
 ## Albums (1)
 - King of the Electric Blues

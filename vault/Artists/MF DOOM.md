@@ -17,4 +17,10 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[dangerdoom]] · [[Madvillain]] · [[The Herbaliser]] · [[Vast Aire]]
 
+> [!note]- Session-tie receipts
+> - [[dangerdoom]]: The Mouse and the Mask — MC / rapper (all tracks) (knowledge, high)
+> - [[Madvillain]]: Madvillainy — MC, rapper (Wikipedia / Madvillainy album page, high)
+> - [[The Herbaliser]]: Something Wicked This Way Comes — guest vocalist (discogs, high)
+> - [[Vast Aire]]: Look Mom... No Hands — producer / guest rapper (knowledge, high)
+
 > Person node — no owned albums under this name; enters the graph via personnel credits (Madvillain, The Herbaliser, Vast Aire, dangerdoom)

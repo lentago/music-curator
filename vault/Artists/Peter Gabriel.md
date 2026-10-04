@@ -18,6 +18,9 @@ tags: ["artist", "pop", "rotation-historical"]
 
 **Session ties:** [[Gaudi + Nusrat Fateh Ali Khan]]
 
+> [!note]- Session-tie receipts
+> - [[Gaudi + Nusrat Fateh Ali Khan]]: Passion — Qawwali vocals (https://en.wikipedia.org/wiki/Passion_(Peter_Gabriel_album), high); Up — vocals (on 'Signal to Noise', recorded 1996) (https://en.wikipedia.org/wiki/Up_(Peter_Gabriel_album), high)
+
 ## Albums (3)
 - Passion
 - Shaking the Tree- Sixteen Golden Greats

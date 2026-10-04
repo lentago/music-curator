@@ -16,5 +16,8 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Frogwings]]
 
+> [!note]- Session-tie receipts
+> - [[Frogwings]]: Croakin' at Toad's — bass (knowledge, high) / drums (knowledge, high) / percussion (knowledge, high)
+
 ## Albums (1)
 - The Road Goes On Forever

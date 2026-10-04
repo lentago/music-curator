@@ -16,5 +16,8 @@ tags: ["artist", "electronic", "rotation-historical"]
 
 **Session ties:** [[Skinny Puppy]]
 
+> [!note]- Session-tie receipts
+> - [[Skinny Puppy]]: Too Dark Park — programming, electronics, production (knowledge, high)
+
 ## Albums (1)
 - The Dragon Experience

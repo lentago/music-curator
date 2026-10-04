@@ -17,6 +17,10 @@ tags: ["artist", "soul-funk-r-b", "rotation-historical"]
 
 **Session ties:** [[Ray Charles]] · [[The Band]]
 
+> [!note]- Session-tie receipts
+> - [[Ray Charles]]: Genius Loves Company — featured vocals (Crazy Love) (knowledge, high)
+> - [[The Band]]: The Last Waltz — guest performer (knowledge, high)
+
 ## Albums (7)
 - Astral Weeks
 - His Band and the Street Choir

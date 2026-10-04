@@ -20,6 +20,9 @@ tags: ["artist", "rock", "rotation-current"]
 
 **Session ties:** [[Tom Waits]]
 
+> [!note]- Session-tie receipts
+> - [[Tom Waits]]: Bone Machine — bass (discogs, high); Mule Variations — bass (allmusic, high); Orphans — bass (discogs, medium); Orphans: Brawlers, Bawlers & Bastards — bass (wikipedia, high) / guitar (wikipedia, high); Real Gone — bass (allmusic, high)
+
 ## Albums (5)
 - Frizzle Fry (Remaster)
 - Frizzle Fry [Bonus Track]

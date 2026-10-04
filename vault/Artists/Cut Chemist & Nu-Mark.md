@@ -19,5 +19,8 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Jurassic 5]]
 
+> [!note]- Session-tie receipts
+> - [[Jurassic 5]]: Live at the Variety Arts Center, 1997 — DJ, turntablist (knowledge, high); Quality Control — DJ, producer (wikipedia, high)
+
 ## Albums (1)
 - Live at the Variety Arts Center, 1997

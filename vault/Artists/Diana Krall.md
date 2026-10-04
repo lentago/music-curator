@@ -18,6 +18,9 @@ tags: ["artist", "jazz", "rotation-historical"]
 
 **Session ties:** [[Ray Charles]]
 
+> [!note]- Session-tie receipts
+> - [[Ray Charles]]: Genius Loves Company — featured vocals (You Don't Know Me) (knowledge, high)
+
 ## Albums (2)
 - All for You
 - When I Look in Your Eyes

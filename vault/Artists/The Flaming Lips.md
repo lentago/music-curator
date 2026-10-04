@@ -16,6 +16,10 @@ tags: ["artist", "pop", "rotation-historical"]
 
 **Session ties:** [[MGMT]] · [[Thievery Corporation]]
 
+> [!note]- Session-tie receipts
+> - [[MGMT]]: Embryonic — additional vocals and instruments on 'Worm Mountain' (musicbrainz, high)
+> - [[Thievery Corporation]]: The Cosmic Game — vocalist ('Marching the Hate Machines') (knowledge, high)
+
 ## Albums (4)
 - At War With The Mystics
 - Embryonic

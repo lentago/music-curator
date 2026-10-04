@@ -18,6 +18,10 @@ tags: ["artist", "electronic", "rotation-historical"]
 
 **Session ties:** [[Peeping Tom]] · [[TV On The Radio]]
 
+> [!note]- Session-tie receipts
+> - [[Peeping Tom]]: Peeping Tom — performer ("Kill the DJ") (discogs, high)
+> - [[TV On The Radio]]: Heligoland — vocals (on 'Pray for Rain') (https://en.wikipedia.org/wiki/Heligoland_(album), high)
+
 ## Albums (3)
 - Collected
 - Heligoland

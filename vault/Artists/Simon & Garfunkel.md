@@ -19,6 +19,9 @@ tags: ["artist", "folk-singer-songwriter", "rotation-dormant"]
 
 **Session ties:** [[Paul Simon]]
 
+> [!note]- Session-tie receipts
+> - [[Paul Simon]]: The Concert In Central Park — vocals, guitar (https://en.wikipedia.org/wiki/The_Concert_in_Central_Park, high); The Concert in Central Park-20 Greatest Hits Disc 2 — vocals, guitar (https://en.wikipedia.org/wiki/The_Concert_in_Central_Park, high); The Concert in Central Park_20 Greatest — vocals, guitar (https://en.wikipedia.org/wiki/The_Concert_in_Central_Park, high)
+
 ## Albums (3)
 - The Concert In Central Park
 - The Concert in Central Park 20 Greatest

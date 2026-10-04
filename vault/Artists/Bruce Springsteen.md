@@ -17,5 +17,8 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Session ties:** [[Bruce Springsteen with the Sessions Band]]
 
+> [!note]- Session-tie receipts
+> - [[Bruce Springsteen with the Sessions Band]]: Live In Dublin — vocals, guitar (knowledge, high)
+
 ## Albums (1)
 - We Shall Overcome The Seeger Sessions

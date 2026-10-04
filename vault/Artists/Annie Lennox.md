@@ -15,6 +15,10 @@ tags: ["artist", "soul-funk-r-b", "rotation-historical"]
 
 **Session ties:** [[Herbie Hancock]] · [[Sting]]
 
+> [!note]- Session-tie receipts
+> - [[Herbie Hancock]]: Possibilities — guest vocals (discogs, medium)
+> - [[Sting]]: Nothing Like the Sun — backing vocals (wikipedia, high)
+
 ## Albums (2)
 - Bare
 - Medusa
