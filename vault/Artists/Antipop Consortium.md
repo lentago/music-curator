@@ -20,6 +20,9 @@ tags: ["artist", "hip-hop", "rotation-dormant"]
 
 **Session ties:** [[DJ Krush]]
 
+> [!note]- Session-tie receipts
+> - [[DJ Krush]]: The Message at the Depth — guest artists ("Supreme Team") (wikipedia, high)
+
 ## Albums (2)
 - Antipop vs. Matthew Shipp
 - Arrhythmia

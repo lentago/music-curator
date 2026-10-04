@@ -18,5 +18,8 @@ tags: ["artist", "jazz", "rotation-historical"]
 
 **Session ties:** [[Jaco Pastorius]]
 
+> [!note]- Session-tie receipts
+> - [[Jaco Pastorius]]: 8-30 — fretless electric bass, percussion, drums (on two tracks) (Wikipedia Weather Report / WebSearch 8:30 personnel, high)
+
 ## Albums (1)
 - 8-30

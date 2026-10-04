@@ -20,6 +20,9 @@ tags: ["artist", "hip-hop", "rotation-dormant"]
 
 **Session ties:** [[Ozomatli]]
 
+> [!note]- Session-tie receipts
+> - [[Ozomatli]]: Don't Mess with the Dragon — featured rap vocals (discogs, high)
+
 ## Albums (2)
 - Bizarre Ride II the Pharcyde
 - Labcabincalifornia

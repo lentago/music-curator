@@ -19,6 +19,16 @@ tags: ["artist", "country-americana", "rotation-current"]
 
 **Session ties:** [[Greg Cohen]] · [[Kenny Wollesen]] · [[Los Lobos]] · [[Marc Ribot]] · [[Primus]] · [[Red Hot Chili Peppers]] · [[The Rolling Stones]] · [[William S. Burroughs]]
 
+> [!note]- Session-tie receipts
+> - [[Greg Cohen]]: Big Time — electric bass, alto horn (liner-notes, high); Franks Wild Years — bass, alto horn, horn arrangements (allmusic, high); Heartattack And Vine — bass (allmusic, high); Mule Variations — bass (allmusic, high); One from the Heart — bass (wikipedia, high); +4 more
+> - [[Kenny Wollesen]]: The Black Rider — marimba, percussion (allmusic, medium)
+> - [[Los Lobos]]: Bad As Me — guitar, accordion (discogs, high); Bone Machine — violin, accordion (discogs, high); Franks Wild Years — accordion (allmusic, high)
+> - [[Marc Ribot]]: Bad As Me — guitar (discogs, high); Big Time — lead guitar, banjo, trumpet (liner-notes, high); Franks Wild Years — guitar, banjo (allmusic, high); Mule Variations — guitar (allmusic, high); Orphans: Brawlers, Bawlers & Bastards — guitar (wikipedia, high); +2 more
+> - [[Primus]]: Bone Machine — bass (discogs, high); Mule Variations — bass (allmusic, high); Orphans: Brawlers, Bawlers & Bastards — bass (wikipedia, high) / guitar (wikipedia, high); Real Gone — bass (allmusic, high)
+> - [[Red Hot Chili Peppers]]: Bad As Me — bass (discogs, high)
+> - [[The Rolling Stones]]: Bad As Me — guitar (discogs, high); Bone Machine — guitar, vocals (discogs, high); Rain Dogs — guitar (discogs, high)
+> - [[William S. Burroughs]]: The Black Rider — vocals, lyrics (liner-notes, high)
+
 ## Albums (20)
 - Alice
 - Bad As Me

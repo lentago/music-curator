@@ -20,6 +20,17 @@ tags: ["artist", "hip-hop", "rotation-dormant"]
 
 **Session ties:** [[Aesop Rock]] · [[Anticon]] · [[Antipop Consortium]] · [[Company Flow]] · [[DJ Shadow]] · [[Mos Def]] · [[Mr. Lif]] · [[Toshinori Kondo & DJ Krush]] · [[Zap Mama]]
 
+> [!note]- Session-tie receipts
+> - [[Aesop Rock]]: Jaku — guest rapper ("Kill Switch") (musicbrainz, high)
+> - [[Anticon]]: The Message at the Depth — guest collective ("Song for John Walker") (wikipedia, medium)
+> - [[Antipop Consortium]]: The Message at the Depth — guest artists ("Supreme Team") (wikipedia, high)
+> - [[Company Flow]]: Zen — guest artists ("Vision of Art") (discogs, high)
+> - [[DJ Shadow]]: Meiso — guest artist (track 13) (discogs, high)
+> - [[Mos Def]]: Milight — guest vocals ("Shinjiro") (discogs, high)
+> - [[Mr. Lif]]: Jaku — guest rapper ("Nosferatu") (musicbrainz, high)
+> - [[Toshinori Kondo & DJ Krush]]: Ki-Oku — turntables, production, programming (discogs, high)
+> - [[Zap Mama]]: Zen — guest vocals ("Danger of Love") (discogs, high)
+
 ## Albums (8)
 - Code 4109
 - Jaku

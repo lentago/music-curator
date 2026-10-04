@@ -15,5 +15,8 @@ tags: ["artist", "world", "rotation-historical"]
 
 **Session ties:** [[John Zorn]]
 
+> [!note]- Session-tie receipts
+> - [[John Zorn]]: Inamorata — drums (discogs, medium)
+
 ## Albums (1)
 - Realize

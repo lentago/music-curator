@@ -18,6 +18,12 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Bahamadia]] · [[Canibus]] · [[Company Flow]] · [[Mr. Lif]]
 
+> [!note]- Session-tie receipts
+> - [[Bahamadia]]: Violent by Design — guest MC (discogs, medium)
+> - [[Canibus]]: Rip the Jacker — producer, all beats (discogs, high); Visions of Ghandi — guest MC (discogs, medium)
+> - [[Company Flow]]: Violent by Design — producer / performer (interludes) (knowledge, medium)
+> - [[Mr. Lif]]: Violent by Design — guest MC (discogs, medium)
+
 ## Albums (2)
 - Violent by Design
 - Visions of Ghandi

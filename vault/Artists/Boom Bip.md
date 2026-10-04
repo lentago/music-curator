@@ -20,5 +20,8 @@ tags: ["artist", "hip-hop", "rotation-dormant"]
 
 **Session ties:** [[Anticon]]
 
+> [!note]- Session-tie receipts
+> - [[Anticon]]: Seed To Sun — guest rapper (allmusic, high)
+
 ## Albums (1)
 - Seed To Sun

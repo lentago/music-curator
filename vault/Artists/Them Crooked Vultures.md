@@ -18,5 +18,9 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Led Zeppelin]] · [[Tenacious D]]
 
+> [!note]- Session-tie receipts
+> - [[Led Zeppelin]]: Them Crooked Vultures — bass, keyboards (knowledge, high)
+> - [[Tenacious D]]: Tenacious D — drums (knowledge, high)
+
 ## Albums (1)
 - Them Crooked Vultures

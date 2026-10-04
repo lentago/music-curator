@@ -20,5 +20,12 @@ tags: ["artist", "hip-hop", "rotation-dormant"]
 
 **Session ties:** [[Dan the Automator]] · [[Deltron 3030]] · [[DJ Shadow]] · [[El-P]] · [[Prince Paul]]
 
+> [!note]- Session-tie receipts
+> - [[Dan the Automator]]: So...How's Your Girl_ — producer (discogs, high)
+> - [[Deltron 3030]]: So...How's Your Girl_ — guest vocals (discogs, high)
+> - [[DJ Shadow]]: So...How's Your Girl_ — guest / co-producer ("Holy Calamity") (discogs, high)
+> - [[El-P]]: So...How's Your Girl_ — guest vocals ("Megaton B-Boy 2000") (discogs, high)
+> - [[Prince Paul]]: So...How's Your Girl_ — producer (discogs, high)
+
 ## Albums (1)
 - So...How's Your Girl

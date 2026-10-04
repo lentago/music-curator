@@ -16,6 +16,9 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Aceyalone]]
 
+> [!note]- Session-tie receipts
+> - [[Aceyalone]]: Who Framed the A-Team- — MC (as Acey the Faceman) (knowledge, high)
+
 > Aceyalone & Abstract Rude duo — corrected by Chris
 
 ## Albums (1)

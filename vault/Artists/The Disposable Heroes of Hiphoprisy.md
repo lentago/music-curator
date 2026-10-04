@@ -15,5 +15,8 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[William S. Burroughs]]
 
+> [!note]- Session-tie receipts
+> - [[William S. Burroughs]]: Spare Ass Annie and Other Tales — musical accompaniment (knowledge, high) / vocals, production, instruments (knowledge, high)
+
 ## Albums (1)
 - Hypocrisy Is the Greatest Luxury

@@ -16,6 +16,9 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Emily Haines]]
 
+> [!note]- Session-tie receipts
+> - [[Emily Haines]]: Fantasies — vocals, synthesizers (knowledge, high); Old World Underground, Where Are You Now? — vocals, synthesizers (knowledge, high)
+
 ## Albums (2)
 - Fantasies
 - Old World Underground, Where Are You Now?

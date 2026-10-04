@@ -18,5 +18,10 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[DJ Krush]] · [[El-P]] · [[Jedi Mind Tricks]]
 
+> [!note]- Session-tie receipts
+> - [[DJ Krush]]: Zen — guest artists ("Vision of Art") (discogs, high)
+> - [[El-P]]: Funcrusher Plus — MC, vocals, principal producer (knowledge, high)
+> - [[Jedi Mind Tricks]]: Violent by Design — producer / performer (interludes) (knowledge, medium)
+
 ## Albums (1)
 - Funcrusher Plus

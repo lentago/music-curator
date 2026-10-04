@@ -20,6 +20,10 @@ tags: ["artist", "pop", "rotation-dormant"]
 
 **Session ties:** [[IAMX]] · [[Jeff Beck]]
 
+> [!note]- Session-tie receipts
+> - [[IAMX]]: Kingdom Of Welcome Addiction — vocals (on 'My Secret Friend') (https://en.wikipedia.org/wiki/Kingdom_of_Welcome_Addiction, high)
+> - [[Jeff Beck]]: Speak For Yourself — electric guitar on 'Goodnight and Go' (wikipedia, high)
+
 ## Albums (10)
 - Getting Scared (Single)
 - Goodnight And Go (Single)

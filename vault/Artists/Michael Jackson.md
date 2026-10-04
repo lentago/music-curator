@@ -17,6 +17,9 @@ tags: ["artist", "pop", "rotation-historical"]
 
 **Session ties:** [[Stevie Wonder]]
 
+> [!note]- Session-tie receipts
+> - [[Stevie Wonder]]: Off the Wall — songwriter ("I Can't Help It") (discogs, high)
+
 ## Albums (3)
 - Dangerous
 - Off the Wall

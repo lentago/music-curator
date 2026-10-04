@@ -16,6 +16,14 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Aesop Rock]] · [[Atmosphere]] · [[Blockhead]] · [[cLOUDDEAD]] · [[Soul Position]] · [[Vast Aire]]
 
+> [!note]- Session-tie receipts
+> - [[Aesop Rock]]: Illogic - Celestial Clockwork (2004) — guest vocalist (discogs, high); Labor Days — guest vocals (wikipedia, high)
+> - [[Atmosphere]]: Illogic - Celestial Clockwork (2004) — guest vocalist (discogs, high); Illogic and Blockhead - Capture The Sun (2013) — guest vocalist (discogs, high)
+> - [[Blockhead]]: Illogic & Blockhead - Preparing For Capture 1 EP (2012) — producer (Tony Simon) (knowledge, high); Illogic & Blockhead - Preparing For Capture 2 EP (2012) — producer (Tony Simon) (knowledge, high); Illogic and Blockhead - Capture The Sun (2013) — producer (Tony Simon) (discogs, high)
+> - [[cLOUDDEAD]]: cLOUDDEAD — guest rap vocals (discogs, medium)
+> - [[Soul Position]]: Illogic - Celestial Clockwork (2004) — producer (entire album) (discogs, high); Illogic - Unforeseen Shadows (2000) — producer (discogs, high); Illogic and Blockhead - Capture The Sun (2013) — guest vocalist (discogs, high)
+> - [[Vast Aire]]: Illogic - Celestial Clockwork (2004) — guest vocalist (discogs, high)
+
 ## Albums (9)
 - Illogic and Blockhead - Capture The Sun (2013)
 - Illogic & Blockhead - Preparing For Capture 1 EP (2012)

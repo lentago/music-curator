@@ -113,7 +113,7 @@ What comes out (from the collection's 556 active artists — `meta.triage_summar
 
 - **Artist notes** each link into exactly one branch of the category tree — subcategory hub where one exists, top-level hub otherwise.
 - **Collaboration edges** link combo acts straight to the members they share — parsed from artist keys, drawn only to members that are themselves in the collection.
-- **Session ties** wire artists together through shared personnel — ~400 edges from [`data/credits.json`](data/credits.json), crossing category clusters to show the collection's hidden wiring. `build_personnel_edges` re-resolves these against the live roster by `alnum`, so a newly-seeded artist wires in via existing credits without re-running the research.
+- **Session ties** wire artists together through shared personnel — ~400 edges from [`data/credits.json`](data/credits.json), crossing category clusters to show the collection's hidden wiring. `build_personnel_edges` re-resolves these against the live roster by `alnum`, so a newly-seeded artist wires in via existing credits without re-running the research. Each artist note carries a collapsed **Session-tie receipts** callout beneath its **Session ties:** line — per tied artist, the albums and roles (with source and confidence) that justify the edge, capped at 5 albums with "+N more".
 - **Person nodes** are credited musicians who own no albums in the collection but earn a note anyway — Mike Patton wiring Faith No More to Mr. Bungle to John Zorn, Edgar Meyer showing up across half the bluegrass web.
 - **Rotation** is a second axis over the same graph: each artist note carries its `current` / `dormant` / `historical` class from the streaming layer, with a by-year play histogram.
 

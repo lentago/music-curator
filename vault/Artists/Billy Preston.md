@@ -19,5 +19,10 @@ tags: ["artist", "soul-funk-r-b", "rotation-dormant"]
 
 **Session ties:** [[Johnny Cash]] · [[Merry Clayton]] · [[The Beatles]]
 
+> [!note]- Session-tie receipts
+> - [[Johnny Cash]]: American IV: The Man Comes Around — keyboards (knowledge, high)
+> - [[Merry Clayton]]: Merry Clayton — keyboards (discogs, high)
+> - [[The Beatles]]: Abbey Road (2009 Stereo Remast — Hammond organ (I Want You, Something) (musicbrainz, medium)
+
 ## Albums (1)
 - Ultimate Collection Billy Preston

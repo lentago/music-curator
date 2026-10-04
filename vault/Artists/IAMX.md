@@ -20,6 +20,9 @@ tags: ["artist", "electronic", "rotation-dormant"]
 
 **Session ties:** [[Imogen Heap]]
 
+> [!note]- Session-tie receipts
+> - [[Imogen Heap]]: Kingdom Of Welcome Addiction — vocals (on 'My Secret Friend') (https://en.wikipedia.org/wiki/Kingdom_of_Welcome_Addiction, high)
+
 ## Albums (3)
 - Kingdom Of Welcome Addiction
 - The Alternative

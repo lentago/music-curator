@@ -18,6 +18,9 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Xzibit]]
 
+> [!note]- Session-tie receipts
+> - [[Xzibit]]: Restless — producer, guest vocals (discogs, high)
+
 ## Albums (2)
 - The Eminem Show
 - The Marshall Mathers LP

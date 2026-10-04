@@ -18,5 +18,8 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Them Crooked Vultures]]
 
+> [!note]- Session-tie receipts
+> - [[Them Crooked Vultures]]: Tenacious D — drums (knowledge, high)
+
 ## Albums (1)
 - Tenacious D

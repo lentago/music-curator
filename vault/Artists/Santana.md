@@ -16,6 +16,11 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Eric Clapton And Steve Winwood]] · [[Herbie Hancock]] · [[Seal]]
 
+> [!note]- Session-tie receipts
+> - [[Eric Clapton And Steve Winwood]]: Shaman — guest guitar (discogs, medium)
+> - [[Herbie Hancock]]: Possibilities — guest guitar (discogs, medium)
+> - [[Seal]]: Shaman — guest vocals ("You Are My Kind") (discogs, high)
+
 ## Albums (2)
 - Caravanserai
 - Shaman

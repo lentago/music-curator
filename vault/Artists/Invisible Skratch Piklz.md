@@ -16,5 +16,8 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Cut Chemist_Shortkut]]
 
+> [!note]- Session-tie receipts
+> - [[Cut Chemist_Shortkut]]: Live at Future Primitive Sound Session — DJ, turntables (knowledge, high)
+
 ## Albums (1)
 - The Shiggar Fraggar Show!, Vol. 2

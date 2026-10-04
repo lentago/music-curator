@@ -15,5 +15,8 @@ tags: ["artist", "latin", "rotation-historical"]
 
 **Session ties:** [[Marc Ribot]]
 
+> [!note]- Session-tie receipts
+> - [[Marc Ribot]]: Muy Divertido! — guitar, vocals (allmusic, high)
+
 ## Albums (1)
 - Muy Divertido!

@@ -21,6 +21,9 @@ tags: ["artist", "rock", "rotation-current", "source-follow"]
 
 **Session ties:** [[The Company Band]]
 
+> [!note]- Session-tie receipts
+> - [[The Company Band]]: Its a Confusing World Not Fragile — vocals (https://en.wikipedia.org/wiki/The_Company_Band, high); Pros & Cons — vocals (https://en.wikipedia.org/wiki/The_Company_Band, high); Sign Here, Here, and Here — vocals (https://en.wikipedia.org/wiki/The_Company_Band, high); The Company Band [Explicit] — vocals (https://en.wikipedia.org/wiki/The_Company_Band, high)
+
 **Followed:** on Spotify — backfilled, observed as of 2026-07-23 (original follow date and trigger song unknown).
 
 ## Albums (14)

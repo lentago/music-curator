@@ -18,6 +18,10 @@ tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 
 **Session ties:** [[10,000 Maniacs]] · [[Wilco]]
 
+> [!note]- Session-tie receipts
+> - [[10,000 Maniacs]]: Bragg, Billy & Wilco - Mermaid avenue — vocals (guest, 10,000 Maniacs) (knowledge, medium)
+> - [[Wilco]]: Bragg, Billy & Wilco - Mermaid avenue Vol. 2 — bass (Wilco) (discogs, medium) / guitar, organ, piano, multi-instrumentalist (Wilco) (discogs, high) / lead vocals, guitar (Wilco) (discogs, high)
+
 ## Albums (2)
 - Bragg, Billy & Wilco - Mermaid avenue
 - Bragg, Billy & Wilco - Mermaid avenue Vol. 2

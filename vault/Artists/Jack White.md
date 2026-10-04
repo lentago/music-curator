@@ -18,5 +18,9 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Danger Mouse & Daniele Luppi]] · [[The Raconteurs]]
 
+> [!note]- Session-tie receipts
+> - [[Danger Mouse & Daniele Luppi]]: Rome — vocals (wikipedia, high)
+> - [[The Raconteurs]]: Consolers of the Lonely — vocals, guitar, producer (discogs, high)
+
 ## Albums (1)
 - Blunderbuss

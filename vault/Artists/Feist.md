@@ -18,6 +18,9 @@ tags: ["artist", "pop", "rotation-historical"]
 
 **Session ties:** [[Wilco]]
 
+> [!note]- Session-tie receipts
+> - [[Wilco]]: Wilco (The Album) — guest vocals ("You and I") (discogs, high)
+
 ## Albums (4)
 - Let It Die
 - Metals

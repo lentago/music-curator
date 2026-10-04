@@ -20,6 +20,11 @@ tags: ["artist", "rock", "rotation-current"]
 
 **Session ties:** [[Johnny Cash]] · [[The Mars Volta]] · [[Tom Waits]]
 
+> [!note]- Session-tie receipts
+> - [[Johnny Cash]]: Unchained — bass ('Spiritual') (knowledge, high)
+> - [[The Mars Volta]]: The Bedlam In Goliath — guitar (guest) (discogs, high)
+> - [[Tom Waits]]: Bad As Me — bass (discogs, high)
+
 ## Albums (2)
 - Freaky Styley
 - Mother's Milk

@@ -19,5 +19,8 @@ tags: ["artist", "hip-hop", "rotation-dormant"]
 
 **Session ties:** [[Daft Punk]]
 
+> [!note]- Session-tie receipts
+> - [[Daft Punk]]: Random Access Memories — vocals (knowledge, high)
+
 ## Albums (1)
 - Fly or Die

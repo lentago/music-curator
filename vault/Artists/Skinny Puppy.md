@@ -16,6 +16,9 @@ tags: ["artist", "electronic", "rotation-historical"]
 
 **Session ties:** [[cEvin Key_Ken Marshall]]
 
+> [!note]- Session-tie receipts
+> - [[cEvin Key_Ken Marshall]]: Too Dark Park — programming, electronics, production (knowledge, high)
+
 >  (lane confirmed by Chris)
 
 ## Albums (1)

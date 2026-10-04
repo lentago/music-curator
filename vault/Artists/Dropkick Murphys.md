@@ -18,6 +18,9 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[The Pogues]]
 
+> [!note]- Session-tie receipts
+> - [[The Pogues]]: The Meanest of Times Limited Edition — guest performer (discogs, high)
+
 ## Albums (2)
 - Sing Loud, Sing Proud
 - The Meanest of Times Limited Edition

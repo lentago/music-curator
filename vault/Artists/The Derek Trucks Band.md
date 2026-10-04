@@ -16,5 +16,8 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Frogwings]]
 
+> [!note]- Session-tie receipts
+> - [[Frogwings]]: Croakin' at Toad's — guitar (knowledge, high) / keyboards, flute (knowledge, high)
+
 ## Albums (1)
 - Joyful Noise

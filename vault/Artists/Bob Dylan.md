@@ -17,6 +17,10 @@ tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 
 **Session ties:** [[Johnny Cash]] · [[The Band]]
 
+> [!note]- Session-tie receipts
+> - [[Johnny Cash]]: Nashville Skyline — vocals, guitar (on 'Girl from the North Country') (https://en.wikipedia.org/wiki/Nashville_Skyline, high)
+> - [[The Band]]: The Last Waltz — guest performer (knowledge, high)
+
 ## Albums (3)
 - John Wesley Harding [Remastered]
 - Nashville Skyline

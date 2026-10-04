@@ -176,20 +176,16 @@ def parse_collaborators(name, lookup):
     return found
 
 
-def build_personnel_edges(credits, active_set):
-    """Undirected roster-only personnel edges from the credits research layer.
+def iter_personnel_links(credits, active_set):
+    """Yield (artist, album, person, match) for every personnel credit that
+    links a roster artist to a *different* roster artist.
 
-    For each album, every credited person flagged `in_collection` whose
-    `collection_match` resolves to a roster artist becomes an edge between the
-    album's artist and that person (both roster artists). Self-links are dropped.
-    A `collection_match` that names several roster keys (a person matching more
-    than one collaboration entry) is split and each valid key is linked.
-
-    Returns {artist: set(linked roster artists)}.
+    This is the single source of truth for session ties: the edges and the
+    receipts that justify them both derive from it, so every receipt
+    corresponds to an actual edge.
     """
-    edges = {}
     if not credits:
-        return edges
+        return
 
     # Direct roster match by normalized name. This is self-healing: a personnel
     # name that matches a roster artist wires an edge even if the stored
@@ -220,7 +216,7 @@ def build_personnel_edges(credits, active_set):
     for artist, albums in credits.get("artists", {}).items():
         if artist not in active_set:
             continue
-        for _album, rec in albums.items():
+        for album, rec in albums.items():
             for person in rec.get("personnel", []):
                 targets = set()
                 if person.get("in_collection"):
@@ -228,12 +224,76 @@ def build_personnel_edges(credits, active_set):
                 direct = active_alnum.get(alnum(person.get("name", "")))
                 if direct:
                     targets.add(direct)
-                for match in targets:
+                for match in sorted(targets):
                     if match == artist or match not in active_set:
                         continue
-                    edges.setdefault(artist, set()).add(match)
-                    edges.setdefault(match, set()).add(artist)
+                    yield artist, album, person, match
+
+
+def build_personnel_edges(credits, active_set):
+    """Undirected roster-only personnel edges from the credits research layer.
+
+    For each album, every credited person flagged `in_collection` whose
+    `collection_match` resolves to a roster artist becomes an edge between the
+    album's artist and that person (both roster artists). Self-links are dropped.
+    A `collection_match` that names several roster keys (a person matching more
+    than one collaboration entry) is split and each valid key is linked.
+
+    Returns {artist: set(linked roster artists)}.
+    """
+    edges = {}
+    for artist, _album, _person, match in iter_personnel_links(credits, active_set):
+        edges.setdefault(artist, set()).add(match)
+        edges.setdefault(match, set()).add(artist)
     return edges
+
+
+RECEIPT_ALBUM_CAP = 5
+
+
+def build_personnel_receipts(credits, active_set):
+    """Evidence behind each session tie, from the same links as the edges.
+
+    Returns {artist: {tied_artist: {album: set((role, source, confidence))}}},
+    symmetric: the receipt is recorded on both artists' notes, whichever
+    direction the credit runs (tied artist on this artist's album, or this
+    artist on the tied artist's album).
+    """
+    receipts = {}
+    for artist, album, person, match in iter_personnel_links(credits, active_set):
+        entry = (person.get("role") or "unspecified",
+                 person.get("source") or "unknown",
+                 person.get("confidence") or "unknown")
+        for a, b in ((artist, match), (match, artist)):
+            receipts.setdefault(a, {}).setdefault(b, {}).setdefault(album, set()).add(entry)
+    return receipts
+
+
+def receipt_lines(ties, tie_receipts, artist_base, cap=RECEIPT_ALBUM_CAP):
+    """A collapsed callout: one bullet per tied artist, albums + roles, capped."""
+    bullets = []
+    for tie in ties:
+        albums = tie_receipts.get(tie)
+        if not albums:
+            continue
+        # Drop truncated duplicate keys (a key that is an alnum prefix of a
+        # longer sibling key for the same tie).
+        keys = {alnum(a): a for a in albums}
+        kept = sorted((a for k, a in keys.items()
+                       if not any(o != k and o.startswith(k) for o in keys)),
+                      key=str.lower)
+        shown = []
+        for album in kept[:cap]:
+            entries = sorted(albums[album])
+            detail = " / ".join(f"{role} ({src}, {conf})" for role, src, conf in entries)
+            shown.append(f"{album} — {detail}")
+        text = "; ".join(shown)
+        if len(kept) > cap:
+            text += f"; +{len(kept) - cap} more"
+        bullets.append(f"> - {link(artist_base[tie], tie)}: {text}")
+    if not bullets:
+        return []
+    return ["> [!note]- Session-tie receipts", *bullets, ""]
 
 
 def yaml_scalar(value):
@@ -473,6 +533,7 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None,
 
     # Roster-only personnel edges from the credits research layer.
     personnel_edges = build_personnel_edges(credits, set(active))
+    personnel_receipts = build_personnel_receipts(credits, set(active))
 
     # Streaming aggregates keyed by inventory name, plus the artists in
     # rotation the collection has no roots in.
@@ -601,6 +662,8 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None,
                 "**Session ties:** " + " · ".join(link(artist_base[t], t) for t in ties)
             )
             parts.append("")
+            parts.extend(receipt_lines(ties, personnel_receipts.get(name, {}),
+                                       artist_base))
 
         # Follow provenance + seed ties. Seed ties are the trigger track's
         # co-artists that are nodes and not already linked another way.
@@ -889,7 +952,9 @@ def build_vault(inventory, out_dir, include_discarded=False, credits=None,
         "- **Session ties** link artists who share personnel — a musician who "
         "played on both their albums (Marc Ribot across Tom Waits and John Zorn; "
         "Jerry Douglas across the bluegrass records). Only roster artists become "
-        "ties; see a note's **Session ties:** line. These edges cross category "
+        "ties; see a note's **Session ties:** line, with its collapsed "
+        "**Session-tie receipts** callout listing the albums and roles behind "
+        "each tie. These edges cross category "
         "clusters and are the collection's hidden wiring.",
         "- Some artists carry a seeded **Discography** section — the *complete* "
         "known catalog harvested from a canonical source, not just the owned "

@@ -20,6 +20,10 @@ tags: ["artist", "hip-hop", "rotation-current"]
 
 **Session ties:** [[Prince Paul]] · [[Talib Kweli & Hi Tek]]
 
+> [!note]- Session-tie receipts
+> - [[Prince Paul]]: 3 Feet High and Rising — primary producer (knowledge, high); A Prince Among Thieves — guest MCs (Posdnuos and Trugoy on 'More Than U Know') (Wikipedia / WebSearch confirming De La Soul appearance, high); De La Soul Is Dead — primary producer (knowledge, high)
+> - [[Talib Kweli & Hi Tek]]: Reflection Eternal — guest vocals on "Soul Rebels" (discogs, high)
+
 ## Albums (2)
 - 3 Feet High and Rising
 - De La Soul Is Dead

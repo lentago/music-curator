@@ -16,6 +16,9 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Xzibit]]
 
+> [!note]- Session-tie receipts
+> - [[Xzibit]]: Built From Scratch [Bonus Tracks] — guest vocals ("The X") (discogs, medium)
+
 ## Albums (2)
 - Built From Scratch [Bonus Tracks]
 - Revolutions

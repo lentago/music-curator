@@ -20,6 +20,11 @@ tags: ["artist", "rock", "rotation-current"]
 
 **Session ties:** [[Jerry Garcia]] · [[Phil & Phriends]] · [[The Other Ones]]
 
+> [!note]- Session-tie receipts
+> - [[Jerry Garcia]]: Live-Dead — lead guitar, vocals (Wikipedia Live/Dead, high); Without a Net Disc 1 — guitar, vocals (wikipedia, high); Without a Net Disc 2 — guitar, vocals (wikipedia, high)
+> - [[Phil & Phriends]]: Live-Dead — electric bass, vocals (Wikipedia Live/Dead, high)
+> - [[The Other Ones]]: The Strange Remain Disc 1 — bass, vocals (https://en.wikipedia.org/wiki/The_Strange_Remain, high) / guitar, vocals (https://en.wikipedia.org/wiki/The_Strange_Remain, high) / percussion, RAMU, vocals (https://en.wikipedia.org/wiki/The_Strange_Remain, high); The Strange Remain Disc 2 — bass, vocals (https://en.wikipedia.org/wiki/The_Strange_Remain, high) / guitar, vocals (https://en.wikipedia.org/wiki/The_Strange_Remain, high) / percussion, RAMU, vocals (https://en.wikipedia.org/wiki/The_Strange_Remain, high)
+
 ## Albums (8)
 - Dick's Picks, Vol. 12 Disc 1
 - Dick's Picks, Vol. 12 Disc 2

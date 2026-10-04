@@ -18,5 +18,8 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Minor Threat]]
 
+> [!note]- Session-tie receipts
+> - [[Minor Threat]]: 13 Songs — vocals, guitar (knowledge, high)
+
 ## Albums (1)
 - 13 Songs

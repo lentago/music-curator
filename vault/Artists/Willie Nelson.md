@@ -19,5 +19,10 @@ tags: ["artist", "country-americana", "rotation-current"]
 
 **Session ties:** [[Johnny Cash & Willie Nelson]] · [[Ray Charles]] · [[Willie Nelson-Waylon Jennings]]
 
+> [!note]- Session-tie receipts
+> - [[Johnny Cash & Willie Nelson]]: VH1 Storytellers — vocals, guitar (knowledge, high)
+> - [[Ray Charles]]: Genius Loves Company — featured vocals (It Was A Very Good Year) (knowledge, high)
+> - [[Willie Nelson-Waylon Jennings]]: Original Outlaws — vocals, guitar (knowledge, high)
+
 ## Albums (1)
 - Stardust

@@ -17,6 +17,9 @@ tags: ["artist", "blues", "rotation-historical"]
 
 **Session ties:** [[Herbie Hancock]]
 
+> [!note]- Session-tie receipts
+> - [[Herbie Hancock]]: Possibilities — guest vocals/guitar (discogs, medium)
+
 ## Albums (3)
 - Continuum
 - Heavier Things

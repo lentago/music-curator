@@ -19,5 +19,9 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[El-P]] · [[Vast Aire]]
 
+> [!note]- Session-tie receipts
+> - [[El-P]]: El-P Presents Cannibal Oxtrumentals — producer (all beats) (discogs, high)
+> - [[Vast Aire]]: El-P Presents Cannibal Oxtrumentals — Cannibal Ox MC (source vocals on original album) (discogs, high)
+
 ## Albums (1)
 - El-P Presents Cannibal Oxtrumentals

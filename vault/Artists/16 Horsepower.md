@@ -16,6 +16,9 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Session ties:** [[Wovenhand]]
 
+> [!note]- Session-tie receipts
+> - [[Wovenhand]]: Ten Stones — bass (wikipedia, high)
+
 ## Albums (8)
 - Folklore
 - Hoarse

@@ -19,6 +19,13 @@ tags: ["artist", "country-americana", "rotation-dormant"]
 
 **Session ties:** [[Billy Preston]] · [[Bob Dylan]] · [[Johnny Cash & Willie Nelson]] · [[Nick Cave & the Bad Seeds]] · [[Red Hot Chili Peppers]]
 
+> [!note]- Session-tie receipts
+> - [[Billy Preston]]: American IV: The Man Comes Around — keyboards (knowledge, high)
+> - [[Bob Dylan]]: Nashville Skyline — vocals, guitar (on 'Girl from the North Country') (https://en.wikipedia.org/wiki/Nashville_Skyline, high)
+> - [[Johnny Cash & Willie Nelson]]: VH1 Storytellers — vocals, guitar (knowledge, high)
+> - [[Nick Cave & the Bad Seeds]]: American IV: The Man Comes Around — guest vocalist (knowledge, high)
+> - [[Red Hot Chili Peppers]]: Unchained — bass ('Spiritual') (knowledge, high)
+
 ## Albums (8)
 - American III: Solitary Man
 - American IV: The Man Comes Around

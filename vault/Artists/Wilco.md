@@ -18,6 +18,10 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Billy Bragg & Wilco - Mermaid avenue (Vol 1 & 2)]] · [[Feist]]
 
+> [!note]- Session-tie receipts
+> - [[Billy Bragg & Wilco - Mermaid avenue (Vol 1 & 2)]]: Bragg, Billy & Wilco - Mermaid avenue Vol. 2 — bass (Wilco) (discogs, medium) / guitar, organ, piano, multi-instrumentalist (Wilco) (discogs, high) / lead vocals, guitar (Wilco) (discogs, high)
+> - [[Feist]]: Wilco (The Album) — guest vocals ("You and I") (discogs, high)
+
 ## Albums (4)
 - Summerteeth
 - Wilco-A Ghost Is Born-2004-EMG INT

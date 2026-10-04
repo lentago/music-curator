@@ -18,5 +18,8 @@ tags: ["artist", "jazz", "rotation-historical"]
 
 **Session ties:** [[Biréli Lagrène]]
 
+> [!note]- Session-tie receipts
+> - [[Biréli Lagrène]]: Spaces Revisited — guitar (Discogs release title: 'Larry Coryell Featuring: Billy Cobham, Bireli Lagrene, Richard Bona', high)
+
 ## Albums (1)
 - Spaces Revisited

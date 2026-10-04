@@ -16,6 +16,10 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Billy Bragg & Wilco - Mermaid avenue (Vol 1 & 2)]] · [[R.E.M]]
 
+> [!note]- Session-tie receipts
+> - [[Billy Bragg & Wilco - Mermaid avenue (Vol 1 & 2)]]: Bragg, Billy & Wilco - Mermaid avenue — vocals (guest, 10,000 Maniacs) (knowledge, medium)
+> - [[R.E.M]]: In My Tribe — guest vocals on 'A Campfire Song' (discogs, high)
+
 ## Albums (2)
 - Blind Man's Zoo
 - In My Tribe

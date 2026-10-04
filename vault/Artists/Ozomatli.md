@@ -17,6 +17,11 @@ tags: ["artist", "latin", "rotation-historical"]
 
 **Session ties:** [[Cut Chemist]] · [[Jurassic 5]] · [[The Pharcyde]]
 
+> [!note]- Session-tie receipts
+> - [[Cut Chemist]]: Ozomatli — DJ, turntables (founding member) (knowledge, high)
+> - [[Jurassic 5]]: Ozomatli — MC, vocals (founding member) (knowledge, high)
+> - [[The Pharcyde]]: Don't Mess with the Dragon — featured rap vocals (discogs, high)
+
 ## Albums (3)
 - Don't Mess with the Dragon
 - Live At The Fillmore

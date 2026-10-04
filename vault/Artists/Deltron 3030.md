@@ -18,5 +18,9 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Dan the Automator]] · [[Handsome Boy Modeling School]]
 
+> [!note]- Session-tie receipts
+> - [[Dan the Automator]]: Deltron 3030 — producer (discogs, high)
+> - [[Handsome Boy Modeling School]]: So...How's Your Girl_ — guest vocals (discogs, high)
+
 ## Albums (1)
 - Deltron 3030

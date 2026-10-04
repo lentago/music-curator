@@ -18,6 +18,11 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Aceyalone]] · [[Lootpack]] · [[The Herbaliser]]
 
+> [!note]- Session-tie receipts
+> - [[Aceyalone]]: Accepted Eclectic — producer (tracks 1, 4, 10, 12) (discogs, high)
+> - [[Lootpack]]: Soundpieces- Da Antidote! — guest vocalists (discogs, high)
+> - [[The Herbaliser]]: Something Wicked This Way Comes — guest vocalist (discogs, high)
+
 ## Albums (2)
 - Expansion Team
 - The Platform

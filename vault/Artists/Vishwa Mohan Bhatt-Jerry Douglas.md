@@ -18,5 +18,9 @@ tags: ["artist", "world", "rotation-historical"]
 
 **Session ties:** [[Jerry Douglas_Russ Barenberg_Edgar Meyer]] · [[Russ Barenberg]]
 
+> [!note]- Session-tie receipts
+> - [[Jerry Douglas_Russ Barenberg_Edgar Meyer]]: Skip, Hop & Wobble — Dobro (BluegrassBios.com / search results, high)
+> - [[Russ Barenberg]]: Moving Pictures — Dobro (AllMusic credits / WebSearch, high)
+
 ## Albums (1)
 - Bourbon & Rosewater

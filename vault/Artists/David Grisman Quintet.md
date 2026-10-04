@@ -15,5 +15,11 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Session ties:** [[Darol Anger]] · [[David Grisman]] · [[Old & In the Way]] · [[Tony Rice Unit]]
 
+> [!note]- Session-tie receipts
+> - [[Darol Anger]]: 1 — violin (knowledge, high)
+> - [[David Grisman]]: 1 — mandolin (knowledge, high)
+> - [[Old & In the Way]]: Breakdown- Live Recordings 1973 — mandolin, vocals, producer (jerrygarcia.com band page / Wikipedia Old & In the Way, high)
+> - [[Tony Rice Unit]]: 1 — guitar, vocals (knowledge, high)
+
 ## Albums (1)
 - 1

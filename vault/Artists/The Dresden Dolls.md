@@ -16,5 +16,8 @@ tags: ["artist", "pop", "rotation-historical"]
 
 **Session ties:** [[Nine Inch Nails]]
 
+> [!note]- Session-tie receipts
+> - [[Nine Inch Nails]]: Ghosts I-IV — drums (musicbrainz, high)
+
 ## Albums (1)
 - Dresden Dolls

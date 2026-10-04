@@ -18,5 +18,11 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Aesop Rock]] · [[El-P]] · [[El-P & Cannibal Ox]] · [[Vast Aire]]
 
+> [!note]- Session-tie receipts
+> - [[Aesop Rock]]: Bazooka Tooth Disc 1 — additional vocals (discogs, medium); Bazooka Tooth Disc 2 — additional vocals (discogs, medium)
+> - [[El-P]]: The Cold Vein — producer, mixing, recording, additional performance (https://en.wikipedia.org/wiki/The_Cold_Vein, high)
+> - [[El-P & Cannibal Ox]]: El-P Presents Cannibal Oxtrumentals — Cannibal Ox MC (source vocals on original album) (discogs, high)
+> - [[Vast Aire]]: Look Mom... No Hands — guest rapper (Cannibal Ox partner) (knowledge, high); The Cold Vein — MC, vocals (https://en.wikipedia.org/wiki/The_Cold_Vein, high)
+
 ## Albums (1)
 - The Cold Vein

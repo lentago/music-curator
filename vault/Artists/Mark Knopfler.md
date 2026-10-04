@@ -19,6 +19,11 @@ tags: ["artist", "country-americana", "rotation-dormant"]
 
 **Session ties:** [[Mark Knopfler And Emmylou Harris]] · [[Sting]] · [[Tim O'Brien]]
 
+> [!note]- Session-tie receipts
+> - [[Mark Knopfler And Emmylou Harris]]: All The RoadRunning (US Version) — vocals, guitar, producer (wikipedia, high)
+> - [[Sting]]: Nothing Like the Sun — guitar (wikipedia, high)
+> - [[Tim O'Brien]]: Privateering — mandolin, vocals (Wikipedia: Privateering (album), high)
+
 ## Albums (2)
 - Kill to Get Crimson
 - Privateering

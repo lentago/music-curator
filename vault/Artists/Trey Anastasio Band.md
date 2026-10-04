@@ -16,6 +16,10 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Cyro Baptista]] · [[Trey Anastasio]]
 
+> [!note]- Session-tie receipts
+> - [[Cyro Baptista]]: 5.31.03 The Warfield. San Fran, CA Disc 2 — percussion (knowledge, high)
+> - [[Trey Anastasio]]: 5.31.03 The Warfield. San Fran, CA Disc 2 — guitar, vocals (knowledge, high)
+
 ## Albums (3)
 - 5.31.03 The Warfield. San Fran, CA
 - 5.31.03 The Warfield. San Fran, CA Disc

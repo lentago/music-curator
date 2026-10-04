@@ -16,6 +16,9 @@ tags: ["artist", "electronic", "rotation-historical"]
 
 **Session ties:** [[The Dresden Dolls]]
 
+> [!note]- Session-tie receipts
+> - [[The Dresden Dolls]]: Ghosts I-IV — drums (musicbrainz, high)
+
 ## Albums (2)
 - Ghosts I-IV
 - Pretty Hate Machine

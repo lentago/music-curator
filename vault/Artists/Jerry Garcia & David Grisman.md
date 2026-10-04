@@ -18,5 +18,8 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Session ties:** [[Old & In the Way]]
 
+> [!note]- Session-tie receipts
+> - [[Old & In the Way]]: Breakdown- Live Recordings 1973 — mandolin, vocals, producer (jerrygarcia.com band page / Wikipedia Old & In the Way, high)
+
 ## Albums (1)
 - Shady Grove

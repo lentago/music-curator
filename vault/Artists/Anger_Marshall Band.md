@@ -15,6 +15,10 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Session ties:** [[Darol Anger]] · [[Mike Marshall]]
 
+> [!note]- Session-tie receipts
+> - [[Darol Anger]]: Brand New Can — fiddle (allmusic, high)
+> - [[Mike Marshall]]: Brand New Can — mandolin (allmusic, high)
+
 > Darol Anger + Mike Marshall newgrass collab
 
 ## Albums (1)

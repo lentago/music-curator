@@ -20,6 +20,12 @@ tags: ["artist", "rock", "rotation-dormant"]
 
 **Session ties:** [[Little Feat]] · [[Living Colour]] · [[Merry Clayton]] · [[Tom Waits]]
 
+> [!note]- Session-tie receipts
+> - [[Little Feat]]: Waiting For Columbus [Live] — lead/slide guitar (guest, "A Apolitical Blues") (discogs, high)
+> - [[Living Colour]]: Time's Up — background vocals (discogs, high); Vivid — background vocals ('Glamour Boys'), harmonica ('Which Way To America'), co-producer (tracks 9, 11) (discogs, high)
+> - [[Merry Clayton]]: Let It Bleed — backing vocals, "Gimme Shelter" (guest) (knowledge, high)
+> - [[Tom Waits]]: Bad As Me — guitar (discogs, high); Bone Machine — guitar, vocals (discogs, high); Rain Dogs — guitar (discogs, high)
+
 ## Albums (2)
 - L A Forum (Live 1975)
 - Let It Bleed

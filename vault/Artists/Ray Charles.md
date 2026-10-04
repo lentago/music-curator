@@ -19,6 +19,12 @@ tags: ["artist", "soul-funk-r-b", "rotation-dormant"]
 
 **Session ties:** [[Diana Krall]] · [[Norah Jones]] · [[Van Morrison]] · [[Willie Nelson]]
 
+> [!note]- Session-tie receipts
+> - [[Diana Krall]]: Genius Loves Company — featured vocals (You Don't Know Me) (knowledge, high)
+> - [[Norah Jones]]: Genius Loves Company — featured vocals (Here We Go Again) (knowledge, high)
+> - [[Van Morrison]]: Genius Loves Company — featured vocals (Crazy Love) (knowledge, high)
+> - [[Willie Nelson]]: Genius Loves Company — featured vocals (It Was A Very Good Year) (knowledge, high)
+
 ## Albums (12)
 - Genius - The Ultimate Ray Charles Collection
 - Genius Loves Company

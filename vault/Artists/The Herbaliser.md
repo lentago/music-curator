@@ -18,6 +18,11 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Dilated Peoples]] · [[LMNO]] · [[MF DOOM]]
 
+> [!note]- Session-tie receipts
+> - [[Dilated Peoples]]: Something Wicked This Way Comes — guest vocalist (discogs, high)
+> - [[LMNO]]: Something Wicked This Way Comes — guest vocalist (discogs, high)
+> - [[MF DOOM]]: Something Wicked This Way Comes — guest vocalist (discogs, high)
+
 ## Albums (3)
 - Something Wicked This Way Comes
 - Take London

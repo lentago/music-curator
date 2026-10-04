@@ -19,5 +19,13 @@ tags: ["artist", "country-americana", "rotation-dormant"]
 
 **Session ties:** [[Bob Dylan]] · [[Emmylou Harris]] · [[Muddy Waters]] · [[Neil Young]] · [[Neko Case]] · [[Van Morrison]]
 
+> [!note]- Session-tie receipts
+> - [[Bob Dylan]]: The Last Waltz — guest performer (knowledge, high)
+> - [[Emmylou Harris]]: The Last Waltz — guest performer (knowledge, high)
+> - [[Muddy Waters]]: The Last Waltz — guest performer (knowledge, high)
+> - [[Neil Young]]: The Last Waltz — guest performer (knowledge, high)
+> - [[Neko Case]]: Middle Cyclone — organ, piano (Wikipedia Middle Cyclone personnel, high)
+> - [[Van Morrison]]: The Last Waltz — guest performer (knowledge, high)
+
 ## Albums (1)
 - The Last Waltz

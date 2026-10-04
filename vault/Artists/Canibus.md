@@ -18,5 +18,8 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Jedi Mind Tricks]]
 
+> [!note]- Session-tie receipts
+> - [[Jedi Mind Tricks]]: Rip the Jacker — producer, all beats (discogs, high); Visions of Ghandi — guest MC (discogs, medium)
+
 ## Albums (1)
 - Rip the Jacker

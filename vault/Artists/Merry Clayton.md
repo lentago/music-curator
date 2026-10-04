@@ -17,5 +17,9 @@ tags: ["artist", "soul-funk-r-b", "rotation-historical"]
 
 **Session ties:** [[Billy Preston]] · [[The Rolling Stones]]
 
+> [!note]- Session-tie receipts
+> - [[Billy Preston]]: Merry Clayton — keyboards (discogs, high)
+> - [[The Rolling Stones]]: Let It Bleed — backing vocals, "Gimme Shelter" (guest) (knowledge, high)
+
 ## Albums (1)
 - Merry Clayton

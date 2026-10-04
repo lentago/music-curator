@@ -16,6 +16,9 @@ tags: ["artist", "electronic", "rotation-historical"]
 
 **Session ties:** [[Kruder & Dorfmeister]]
 
+> [!note]- Session-tie receipts
+> - [[Kruder & Dorfmeister]]: What Sound Disc 1 — additional producer (Kruder & Dorfmeister) (allmusic, medium)
+
 ## Albums (3)
 - Between Darkness and Wonder
 - Lamb

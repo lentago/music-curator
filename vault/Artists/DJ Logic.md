@@ -16,5 +16,8 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Medeski, Martin & Wood]]
 
+> [!note]- Session-tie receipts
+> - [[Medeski, Martin & Wood]]: The Anomaly — guest keyboards (discogs, high)
+
 ## Albums (1)
 - The Anomaly

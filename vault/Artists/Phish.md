@@ -20,6 +20,12 @@ tags: ["artist", "rock", "rotation-dormant"]
 
 **Session ties:** [[Alison Krauss & Union Station]] · [[Béla Fleck]] · [[Leo Kottke & Mike Gordon]] · [[Trey Anastasio]]
 
+> [!note]- Session-tie receipts
+> - [[Alison Krauss & Union Station]]: Hoist — guest vocals/fiddle (knowledge, high)
+> - [[Béla Fleck]]: Hoist — guest banjo (knowledge, high)
+> - [[Leo Kottke & Mike Gordon]]: Sixty Six Steps — bass, guitar, vocals (wikipedia, high)
+> - [[Trey Anastasio]]: A Live One Disc 1 — guitar, vocals (discogs, high); A Live One Disc 2 — guitar, vocals (discogs, high); Farmhouse — guitar, vocals, producer (discogs, high); Hampton Comes Alive Disc 1 — guitar, vocals (discogs, high); Hampton Comes Alive Disc 2 — guitar, vocals (discogs, high); +10 more
+
 ## Albums (15)
 - A Live One Disc 1
 - A Live One Disc 2

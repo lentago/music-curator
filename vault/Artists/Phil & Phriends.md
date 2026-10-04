@@ -16,6 +16,9 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Grateful Dead]]
 
+> [!note]- Session-tie receipts
+> - [[Grateful Dead]]: Live-Dead — electric bass, vocals (Wikipedia Live/Dead, high)
+
 ## Albums (6)
 - 1999 04 15 II The Warfield
 - 1999 04 15 I The Warfield

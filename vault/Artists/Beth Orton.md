@@ -15,6 +15,9 @@ tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 
 **Session ties:** [[The Chemical Brothers]]
 
+> [!note]- Session-tie receipts
+> - [[The Chemical Brothers]]: Exit Planet Dust — vocals on 'Alive Alone' (wikipedia, high)
+
 ## Albums (8)
 - Central Reservation
 - Comfort of Strangers

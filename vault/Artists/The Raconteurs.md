@@ -18,5 +18,8 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Jack White]]
 
+> [!note]- Session-tie receipts
+> - [[Jack White]]: Consolers of the Lonely — vocals, guitar, producer (discogs, high)
+
 ## Albums (1)
 - Consolers of the Lonely

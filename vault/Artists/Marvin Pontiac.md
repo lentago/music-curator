@@ -15,5 +15,9 @@ tags: ["artist", "avant-garde-experimental", "rotation-historical"]
 
 **Session ties:** [[Kenny Wollesen]] · [[Marc Ribot]]
 
+> [!note]- Session-tie receipts
+> - [[Kenny Wollesen]]: The Legendary Marvin Pontiac - Greatest Hits — drums (knowledge, medium)
+> - [[Marc Ribot]]: The Legendary Marvin Pontiac - Greatest Hits — guitar (knowledge, high)
+
 ## Albums (1)
 - The Legendary Marvin Pontiac - Greatest Hits

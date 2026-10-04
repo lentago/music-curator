@@ -20,6 +20,14 @@ tags: ["artist", "hip-hop", "rotation-dormant"]
 
 **Session ties:** [[Charlie Hunter Quartet]] · [[DJ Krush]] · [[Madlib]] · [[Mos Def & Talib Kweli]] · [[Talib Kweli]] · [[Talib Kweli & Hi Tek]]
 
+> [!note]- Session-tie receipts
+> - [[Charlie Hunter Quartet]]: Songs from the Analog Playground — guest vocals (knowledge, high)
+> - [[DJ Krush]]: Milight — guest vocals ("Shinjiro") (discogs, high)
+> - [[Madlib]]: The Ecstatic — producer — several tracks including 'Auditorium', 'Wahid' (workflow:wf_8c69d685-f67, high)
+> - [[Mos Def & Talib Kweli]]: Black Star — vocals/rap (Black Star) (discogs, high)
+> - [[Talib Kweli]]: Black on Both Sides — guest rapper on 'Astronomy (8th Light)' (knowledge, high); Quality — guest vocals on 'Joy' (wikipedia, high)
+> - [[Talib Kweli & Hi Tek]]: Reflection Eternal — guest vocals on "This Means You" (discogs, high)
+
 ## Albums (2)
 - Black on Both Sides
 - The Ecstatic

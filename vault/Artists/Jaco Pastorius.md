@@ -20,6 +20,10 @@ tags: ["artist", "jazz", "rotation-current"]
 
 **Session ties:** [[Herbie Hancock]] · [[Weather Report]]
 
+> [!note]- Session-tie receipts
+> - [[Herbie Hancock]]: Jaco Pastorius — piano, Fender Rhodes, clavinet (musicbrainz, high)
+> - [[Weather Report]]: 8-30 — fretless electric bass, percussion, drums (on two tracks) (Wikipedia Weather Report / WebSearch 8:30 personnel, high)
+
 ## Albums (2)
 - Honestly Live
 - Jaco Pastorius

@@ -18,6 +18,9 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Prince Paul]]
 
+> [!note]- Session-tie receipts
+> - [[Prince Paul]]: Music, Magic, Myth [Bonus CD] Disc 1 — producer — 'The Great Pretender / Intro' (workflow:wf_8c69d685-f67, high)
+
 ## Albums (2)
 - Music, Magic, Myth [Bonus CD] Disc 1
 - Music, Magic, Myth [Bonus CD] Disc 2

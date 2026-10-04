@@ -18,5 +18,10 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Imogen Heap]] · [[Seal]] · [[Stevie Wonder]]
 
+> [!note]- Session-tie receipts
+> - [[Imogen Heap]]: Speak For Yourself — electric guitar on 'Goodnight and Go' (wikipedia, high)
+> - [[Seal]]: Seal [1994] — guest guitar ("Manic Depression") (musicbrainz, high)
+> - [[Stevie Wonder]]: Blow by Blow — songwriter ("Cause We've Ended as Lovers", "Thelonius"), uncredited clavinet (knowledge, medium)
+
 ## Albums (1)
 - Blow by Blow

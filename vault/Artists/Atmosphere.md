@@ -19,6 +19,9 @@ tags: ["artist", "hip-hop", "rotation-historical", "source-follow"]
 
 **Session ties:** [[Illogic]]
 
+> [!note]- Session-tie receipts
+> - [[Illogic]]: Illogic - Celestial Clockwork (2004) — guest vocalist (discogs, high); Illogic and Blockhead - Capture The Sun (2013) — guest vocalist (discogs, high)
+
 **Followed:** on Spotify — backfilled, observed as of 2026-07-23 (original follow date and trigger song unknown).
 
 ## Albums (2)

@@ -20,5 +20,8 @@ tags: ["artist", "hip-hop", "rotation-current"]
 
 **Session ties:** [[Fu-Schnickens]]
 
+> [!note]- Session-tie receipts
+> - [[Fu-Schnickens]]: F.U. Don't Take It Personal — producers (tracks 1, 5, 6) (discogs, high)
+
 ## Albums (1)
 - Scenario (CD Single)

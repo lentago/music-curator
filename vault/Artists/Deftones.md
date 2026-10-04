@@ -18,6 +18,9 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Maynard James Keenan]]
 
+> [!note]- Session-tie receipts
+> - [[Maynard James Keenan]]: White Pony [Added Track] — guest vocals, co-writer ("Passenger") (discogs, high)
+
 ## Albums (6)
 - 2010 - Diamond Eyes
 - Around The Fur [Explicit]

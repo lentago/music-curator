@@ -17,5 +17,9 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Session ties:** [[Leftover Salmon]] · [[Willie Nelson-Waylon Jennings]]
 
+> [!note]- Session-tie receipts
+> - [[Leftover Salmon]]: The Nashville Sessions — vocals, guitar (guest) (knowledge, high)
+> - [[Willie Nelson-Waylon Jennings]]: Original Outlaws — vocals, guitar (knowledge, high)
+
 ## Albums (1)
 - Honky Tonk Heroes

@@ -16,5 +16,8 @@ tags: ["artist", "electronic", "rotation-historical"]
 
 **Session ties:** [[Peter Gabriel]]
 
+> [!note]- Session-tie receipts
+> - [[Peter Gabriel]]: Passion — Qawwali vocals (https://en.wikipedia.org/wiki/Passion_(Peter_Gabriel_album), high); Up — vocals (on 'Signal to Noise', recorded 1996) (https://en.wikipedia.org/wiki/Up_(Peter_Gabriel_album), high)
+
 ## Albums (1)
 - Dub Qawwali

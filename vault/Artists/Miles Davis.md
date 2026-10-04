@@ -19,5 +19,8 @@ tags: ["artist", "jazz", "rotation-current"]
 
 **Session ties:** [[John Coltrane]]
 
+> [!note]- Session-tie receipts
+> - [[John Coltrane]]: Kind of Blue — tenor saxophone (knowledge, high)
+
 ## Albums (1)
 - Kind of Blue

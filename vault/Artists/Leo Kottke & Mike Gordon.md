@@ -14,5 +14,9 @@ tags: ["artist", "folk-singer-songwriter", "rotation-historical"]
 
 **Session ties:** [[Phish]] · [[Trey Anastasio]]
 
+> [!note]- Session-tie receipts
+> - [[Phish]]: Sixty Six Steps — bass, guitar, vocals (wikipedia, high)
+> - [[Trey Anastasio]]: Seis de Mayo — bass ("Andre The Giant") (allmusic, medium)
+
 ## Albums (1)
 - Sixty Six Steps

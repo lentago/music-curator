@@ -19,6 +19,12 @@ tags: ["artist", "folk-singer-songwriter", "rotation-dormant"]
 
 **Session ties:** [[Herbie Hancock]] · [[Jerry Douglas]] · [[Los Lobos]] · [[Simon & Garfunkel]]
 
+> [!note]- Session-tie receipts
+> - [[Herbie Hancock]]: Possibilities — guest vocals/guitar (discogs, medium)
+> - [[Jerry Douglas]]: Traveler — guest artist ("The Boxer") (discogs, high)
+> - [[Los Lobos]]: Graceland — band ("All Around the World or the Myth of Fingerprints") (knowledge, high)
+> - [[Simon & Garfunkel]]: The Concert in Central Park-20 Greatest Hits Disc 2 — vocals, guitar (https://en.wikipedia.org/wiki/The_Concert_in_Central_Park, high)
+
 ## Albums (2)
 - Graceland
 - The Rhythm Of The Saints (2011 Remaster)

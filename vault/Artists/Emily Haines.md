@@ -16,5 +16,9 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Emily Haines & The Soft Skeleton]] · [[Metric]]
 
+> [!note]- Session-tie receipts
+> - [[Emily Haines & The Soft Skeleton]]: Knives Don't Have Your Back — producer, vocals, piano, writer (knowledge, high)
+> - [[Metric]]: Fantasies — vocals, synthesizers (knowledge, high); Old World Underground, Where Are You Now? — vocals, synthesizers (knowledge, high)
+
 ## Albums (1)
 - Cut In Half And Also Double

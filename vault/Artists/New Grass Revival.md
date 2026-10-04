@@ -17,5 +17,8 @@ tags: ["artist", "country-americana", "rotation-historical"]
 
 **Session ties:** [[Jerry Douglas_Russ Barenberg_Edgar Meyer]]
 
+> [!note]- Session-tie receipts
+> - [[Jerry Douglas_Russ Barenberg_Edgar Meyer]]: Skip, Hop & Wobble — guest — mandolin (BluegrassBios.com, high)
+
 ## Albums (1)
 - The Best of New Grass Revival

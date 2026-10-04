@@ -19,6 +19,11 @@ tags: ["artist", "avant-garde-experimental", "rotation-dormant"]
 
 **Session ties:** [[John Zorn]] · [[Mike Patton]] · [[Trevor Dunn]]
 
+> [!note]- Session-tie receipts
+> - [[John Zorn]]: Elegy — guitar (discogs, high); Mr. Bungle — producer, alto saxophone cameo (discogs, high)
+> - [[Mike Patton]]: California — vocals, keyboards (co-producer) (discogs, high); Disco Volante — vocals, tape (discogs, high); Mr. Bungle — vocals (discogs, high)
+> - [[Trevor Dunn]]: California — bass guitar (discogs, high); Disco Volante — bass guitar, viola (discogs, high); Mr. Bungle — bass (discogs, high)
+
 ## Albums (3)
 - California
 - Disco Volante

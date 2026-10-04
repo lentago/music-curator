@@ -16,6 +16,9 @@ tags: ["artist", "rock", "rotation-historical"]
 
 **Session ties:** [[Thievery Corporation]]
 
+> [!note]- Session-tie receipts
+> - [[Thievery Corporation]]: The Cosmic Game — vocalist ('Revolution Solution') (knowledge, high)
+
 ## Albums (3)
 - Nothing's Shocking
 - Ritual de lo Habitual

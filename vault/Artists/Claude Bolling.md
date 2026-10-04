@@ -15,5 +15,8 @@ tags: ["artist", "classical", "rotation-historical"]
 
 **Session ties:** [[Yo-Yo Ma]]
 
+> [!note]- Session-tie receipts
+> - [[Yo-Yo Ma]]: Suite for Cello and Jazz Piano Trio — cello (discogs, high)
+
 ## Albums (1)
 - Suite for Cello and Jazz Piano Trio

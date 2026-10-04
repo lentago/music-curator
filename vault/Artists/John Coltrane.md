@@ -19,5 +19,8 @@ tags: ["artist", "jazz", "rotation-current"]
 
 **Session ties:** [[Miles Davis]]
 
+> [!note]- Session-tie receipts
+> - [[Miles Davis]]: Kind of Blue — tenor saxophone (knowledge, high)
+
 ## Albums (1)
 - John Coltrane Plays for Lovers [2003]

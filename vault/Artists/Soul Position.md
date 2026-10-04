@@ -18,5 +18,9 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 **Session ties:** [[Illogic]] · [[Rjd2]]
 
+> [!note]- Session-tie receipts
+> - [[Illogic]]: Illogic - Celestial Clockwork (2004) — producer (entire album) (discogs, high); Illogic - Unforeseen Shadows (2000) — producer (discogs, high); Illogic and Blockhead - Capture The Sun (2013) — guest vocalist (discogs, high)
+> - [[Rjd2]]: 8 Million Stories — producer (discogs, high)
+
 ## Albums (1)
 - 8 Million Stories

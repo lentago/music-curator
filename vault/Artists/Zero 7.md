@@ -20,6 +20,9 @@ tags: ["artist", "electronic", "rotation-current"]
 
 **Session ties:** [[Sia]]
 
+> [!note]- Session-tie receipts
+> - [[Sia]]: Simple Things — guest vocals (tracks 3, 7) (discogs, high); The Garden — guest vocals (tracks 2, 4, 5, 8, 10, 12) (discogs, high); When It Falls — guest vocals ('Somersault', 'Speed Dial No.2') (discogs, high)
+
 ## Albums (4)
 - Simple Things
 - The Garden

@@ -20,6 +20,10 @@ tags: ["artist", "rock", "rotation-current"]
 
 **Session ties:** [[Billy Preston]] · [[Eric Clapton And Steve Winwood]]
 
+> [!note]- Session-tie receipts
+> - [[Billy Preston]]: Abbey Road (2009 Stereo Remast — Hammond organ (I Want You, Something) (musicbrainz, medium)
+> - [[Eric Clapton And Steve Winwood]]: The Beatles [White Album] Disc 1 — guest guitar ("While My Guitar Gently Weeps") (knowledge, high); The Beatles [White Album] Disc 2 — guest guitar ("While My Guitar Gently Weeps") (knowledge, high)
+
 ## Albums (4)
 - Abbey Road (2009 Stereo Remast
 - Help! [UK]
