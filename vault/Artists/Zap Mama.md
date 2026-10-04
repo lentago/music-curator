@@ -16,10 +16,10 @@ tags: ["artist", "world", "rotation-historical"]
 **Session ties:** [[Bahamadia]] · [[Common]] · [[DJ Krush]] · [[Talib Kweli]]
 
 > [!note]- Session-tie receipts
-> - [[Bahamadia]]: Ancestry in Progress bonus CD — guest vocals ("Show Me the Way") (discogs, medium)
-> - [[Common]]: Ancestry in Progress bonus CD — guest vocals ("Yelling Away") (discogs, medium)
+> - [[Bahamadia]]: Ancestry in Progress — guest vocals ("Show Me the Way") (discogs, medium); Ancestry in Progress bonus CD — guest vocals ("Show Me the Way") (discogs, medium)
+> - [[Common]]: Ancestry in Progress — guest vocals ("Yelling Away") (discogs, medium); Ancestry in Progress bonus CD — guest vocals ("Yelling Away") (discogs, medium)
 > - [[DJ Krush]]: Zen — guest vocals ("Danger of Love") (discogs, high)
-> - [[Talib Kweli]]: Ancestry in Progress bonus CD — guest vocals ("Yelling Away") (discogs, medium)
+> - [[Talib Kweli]]: Ancestry in Progress — guest vocals ("Yelling Away") (discogs, medium); Ancestry in Progress bonus CD — guest vocals ("Yelling Away") (discogs, medium)
 
 ## Albums (2)
 - Ancestry in Progress

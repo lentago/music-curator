@@ -20,7 +20,7 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 > [!note]- Session-tie receipts
 > - [[Mos Def & Talib Kweli]]: Black Star — guest vocals on "Respiration" (discogs, high)
-> - [[Zap Mama]]: Ancestry in Progress bonus CD — guest vocals ("Yelling Away") (discogs, medium)
+> - [[Zap Mama]]: Ancestry in Progress — guest vocals ("Yelling Away") (discogs, medium); Ancestry in Progress bonus CD — guest vocals ("Yelling Away") (discogs, medium)
 
 ## Albums (1)
 - Resurrection

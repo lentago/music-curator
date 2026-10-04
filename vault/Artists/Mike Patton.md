@@ -17,7 +17,7 @@ tags: ["artist", "avant-garde-experimental", "rotation-historical"]
 > [!note]- Session-tie receipts
 > - [[Faith No More]]: Angel Dust — vocals (knowledge, high)
 > - [[Fantômas]]: The Director's Cut — vocals (knowledge, high)
-> - [[John Zorn]]: 50th Birthday Celebration Volume 12 — voice (wikipedia, high); 50th Birthday Celebration Volume 6 — voice (wikipedia, high); A Dreamers Christmas — vocals (guest) (wikipedia, high); Astronome — voice (wikipedia, high); Elegy — vocals (discogs, high); +18 more
+> - [[John Zorn]]: 50th Birthday Celebration Volume 12 — voice (wikipedia, high); 50th Birthday Celebration Volume 6 — voice (wikipedia, high); A Dreamers Christmas — vocals (guest) (wikipedia, high); Astronome — voice (wikipedia, high); Elegy — vocals (discogs, high); +19 more
 > - [[Lovage]]: Music to Make Love to Your Old Lady By — vocals (knowledge, high)
 > - [[Mr. Bungle]]: California — vocals, keyboards (co-producer) (discogs, high); Disco Volante — vocals, tape (discogs, high); Mr. Bungle — vocals (discogs, high)
 > - [[Naked City]]: Naked City: The Complete Studio Recordings — vocals (wikipedia, medium)

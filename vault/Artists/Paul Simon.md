@@ -23,7 +23,7 @@ tags: ["artist", "folk-singer-songwriter", "rotation-dormant"]
 > - [[Herbie Hancock]]: Possibilities — guest vocals/guitar (discogs, medium)
 > - [[Jerry Douglas]]: Traveler — guest artist ("The Boxer") (discogs, high)
 > - [[Los Lobos]]: Graceland — band ("All Around the World or the Myth of Fingerprints") (knowledge, high)
-> - [[Simon & Garfunkel]]: The Concert in Central Park-20 Greatest Hits Disc 2 — vocals, guitar (https://en.wikipedia.org/wiki/The_Concert_in_Central_Park, high)
+> - [[Simon & Garfunkel]]: The Concert In Central Park — vocals, guitar (https://en.wikipedia.org/wiki/The_Concert_in_Central_Park, high); The Concert in Central Park-20 Greatest Hits Disc 2 — vocals, guitar (https://en.wikipedia.org/wiki/The_Concert_in_Central_Park, high); The Concert in Central Park_20 Greatest — vocals, guitar (https://en.wikipedia.org/wiki/The_Concert_in_Central_Park, high)
 
 ## Albums (2)
 - Graceland

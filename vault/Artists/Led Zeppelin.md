@@ -21,7 +21,7 @@ tags: ["artist", "rock", "rotation-current"]
 **Session ties:** [[Robert Plant]] · [[Them Crooked Vultures]]
 
 > [!note]- Session-tie receipts
-> - [[Robert Plant]]: II — vocals, harmonica (knowledge, high); Led Zeppelin (Deluxe Edition) — vocals, harmonica (knowledge, high); Led Zeppelin II (Remastered) — vocals, harmonica (knowledge, high); Led Zeppelin III (Deluxe Edition) — vocals, harmonica (knowledge, high); Led Zeppelin IV — vocals, harmonica (knowledge, high); +1 more
+> - [[Robert Plant]]: II — vocals, harmonica (knowledge, high); Led Zeppelin — vocals, harmonica (knowledge, high); Led Zeppelin (Deluxe Edition) — vocals, harmonica (knowledge, high); Led Zeppelin II (Remastered) — vocals, harmonica (knowledge, high); Led Zeppelin III (Deluxe Edition) — vocals, harmonica (knowledge, high); +2 more
 > - [[Them Crooked Vultures]]: Them Crooked Vultures — bass, keyboards (knowledge, high)
 
 ## Albums (7)

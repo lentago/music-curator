@@ -40,6 +40,7 @@ import shutil
 import sys
 
 from curator_lib import alnum
+from dedup_lib import album_key
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DEFAULT_INVENTORY = os.path.join(HERE, "data", "music-inventory.json")
@@ -276,15 +277,20 @@ def receipt_lines(ties, tie_receipts, artist_base, cap=RECEIPT_ALBUM_CAP):
         albums = tie_receipts.get(tie)
         if not albums:
             continue
-        # Drop truncated duplicate keys (a key that is an alnum prefix of a
-        # longer sibling key for the same tie).
-        keys = {alnum(a): a for a in albums}
-        kept = sorted((a for k, a in keys.items()
-                       if not any(o != k and o.startswith(k) for o in keys)),
-                      key=str.lower)
+        # Collapse only titles that normalise to the same album_key, merging
+        # their entries. Prefix folding is deliberately avoided: it hid real,
+        # distinct albums ("Led Zeppelin" behind "Led Zeppelin II").
+        groups = {}
+        for album, entries in albums.items():
+            groups.setdefault(album_key(album), []).append((album, entries))
+        merged = {}
+        for members in groups.values():
+            title = min((a for a, _ in members), key=lambda a: (a.lower(), a))
+            merged[title] = set().union(*(e for _, e in members))
+        kept = sorted(merged, key=str.lower)
         shown = []
         for album in kept[:cap]:
-            entries = sorted(albums[album])
+            entries = sorted(merged[album])
             detail = " / ".join(f"{role} ({src}, {conf})" for role, src, conf in entries)
             shown.append(f"{album} — {detail}")
         text = "; ".join(shown)

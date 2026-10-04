@@ -20,7 +20,7 @@ tags: ["artist", "avant-garde-experimental", "rotation-historical", "source-foll
 
 > [!note]- Session-tie receipts
 > - [[David Byrne & Brian Eno]]: My Life in the Bush of Ghosts — bass (track 1) (discogs, high)
-> - [[John Zorn]]: 50th Birthday Celebration Volume 12 — bass (wikipedia, high); Archery — bass guitar (wikipedia, high); Buck Jam Tonic — bass (wikipedia, high); Buried Secrets — bass (wikipedia, high); Celebrate Ornette — bass (knowledge, high); +26 more
+> - [[John Zorn]]: 50th Birthday Celebration Volume 12 — bass (wikipedia, high); Archery — bass guitar (wikipedia, high); Buck Jam Tonic — bass (wikipedia, high); Buried Secrets — bass (wikipedia, high); Celebrate Ornette — bass (knowledge, high); +27 more
 
 **Followed:** on Spotify — backfilled, observed as of 2026-07-23 (original follow date and trigger song unknown).
 

@@ -22,6 +22,6 @@ tags: ["artist", "hip-hop", "rotation-current", "source-follow"]
 **Session ties:** [[Aesop Rock]]
 
 > [!note]- Session-tie receipts
-> - [[Aesop Rock]]: Black Hole Superette — featured vocals (Charlie Horse and others) (wikipedia, high); Garbology — featured vocals, co-writer (All Day Breakfast) (wikipedia, high); Lice Two: Still Buggin' — vocals (https://aesoprockhomeboysandman.bandcamp.com/album/lice-two-still-buggin, high); Miami Lice Season Four — vocals (https://rhymesayers.com/blogs/news/lice-aesop-rock-homeboy-sandman-miami-lice-season-four, high); Spirit World Field Guide — additional vocals (Boot Soup) (wikipedia, high); +2 more
+> - [[Aesop Rock]]: Black Hole Superette — featured vocals (Charlie Horse and others) (wikipedia, high); Garbology — featured vocals, co-writer (All Day Breakfast) (wikipedia, high); Lice — vocals (https://aesoprockhomeboysandman.bandcamp.com/album/lice, high); Lice Two: Still Buggin' — vocals (https://aesoprockhomeboysandman.bandcamp.com/album/lice-two-still-buggin, high); Miami Lice Season Four — vocals (https://rhymesayers.com/blogs/news/lice-aesop-rock-homeboy-sandman-miami-lice-season-four, high); +3 more
 
 **Followed:** on Spotify — backfilled, observed as of 2026-07-23 (original follow date and trigger song unknown).

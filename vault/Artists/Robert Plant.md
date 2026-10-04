@@ -17,7 +17,7 @@ tags: ["artist", "rock", "rotation-historical"]
 **Session ties:** [[Led Zeppelin]]
 
 > [!note]- Session-tie receipts
-> - [[Led Zeppelin]]: II — vocals, harmonica (knowledge, high); Led Zeppelin (Deluxe Edition) — vocals, harmonica (knowledge, high); Led Zeppelin II (Remastered) — vocals, harmonica (knowledge, high); Led Zeppelin III (Deluxe Edition) — vocals, harmonica (knowledge, high); Led Zeppelin IV — vocals, harmonica (knowledge, high); +1 more
+> - [[Led Zeppelin]]: II — vocals, harmonica (knowledge, high); Led Zeppelin — vocals, harmonica (knowledge, high); Led Zeppelin (Deluxe Edition) — vocals, harmonica (knowledge, high); Led Zeppelin II (Remastered) — vocals, harmonica (knowledge, high); Led Zeppelin III (Deluxe Edition) — vocals, harmonica (knowledge, high); +2 more
 
 ## Albums (2)
 - Now & Zen

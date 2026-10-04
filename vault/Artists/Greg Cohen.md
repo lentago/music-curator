@@ -15,7 +15,7 @@ tags: ["artist", "jazz", "rotation-historical"]
 **Session ties:** [[Bar Kokhba Sextet]] · [[David Byrne]] · [[John Zorn]] · [[John Zorn-Masada Chamber Ensembles]] · [[Masada]] · [[Masada Quintet Featuring Joe Lovano]] · [[Tom Waits]]
 
 > [!note]- Session-tie receipts
-> - [[Bar Kokhba Sextet]]: 50th Birthday Celebration, Vol. 11 Disc 1 — bass (wikipedia, high); 50th Birthday Celebration, Vol. 11 Disc 2 — bass (wikipedia, high); 50th Birthday Celebration, Vol. 11 Disc 3 — bass (wikipedia, high)
+> - [[Bar Kokhba Sextet]]: 50th Birthday Celebration, Vol. 11 Disc — bass (wikipedia, high); 50th Birthday Celebration, Vol. 11 Disc 1 — bass (wikipedia, high); 50th Birthday Celebration, Vol. 11 Disc 2 — bass (wikipedia, high); 50th Birthday Celebration, Vol. 11 Disc 3 — bass (wikipedia, high)
 > - [[David Byrne]]: Feelings — acoustic bass (discogs, medium)
 > - [[John Zorn]]: 50th Birthday Celebration Volume 1 — bass (wikipedia, high); Alhambra Love Songs — bass, electric bass (wikipedia, high); Astaroth: Book of Angels Volume 1 — bass (wikipedia, high); Astaroth: Book Of Angels Volume One - Jamie Saft Trio — bass (discogs, high); Azazel: Book of Angels Volume 2 — bass (wikipedia, high); +25 more
 > - [[John Zorn-Masada Chamber Ensembles]]: Bar Kokhba Disc 1 — bass (discogs, high); Bar Kokhba Disc 2 — bass (discogs, high)

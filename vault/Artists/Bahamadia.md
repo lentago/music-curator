@@ -18,7 +18,7 @@ tags: ["artist", "hip-hop", "rotation-historical"]
 
 > [!note]- Session-tie receipts
 > - [[Jedi Mind Tricks]]: Violent by Design — guest MC (discogs, medium)
-> - [[Zap Mama]]: Ancestry in Progress bonus CD — guest vocals ("Show Me the Way") (discogs, medium)
+> - [[Zap Mama]]: Ancestry in Progress — guest vocals ("Show Me the Way") (discogs, medium); Ancestry in Progress bonus CD — guest vocals ("Show Me the Way") (discogs, medium)
 
 ## Albums (1)
 - BB Queen

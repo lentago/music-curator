@@ -17,7 +17,7 @@ tags: ["artist", "avant-garde-experimental", "rotation-historical"]
 > [!note]- Session-tie receipts
 > - [[Electric Masada]]: 50th Birthday Celebration, Vol. 4 — bass (discogs, high); At the Mountains of Madness — bass (wikipedia, high)
 > - [[Fantômas]]: The Director's Cut — bass (discogs, high)
-> - [[John Zorn]]: A Dreamers Christmas — bass guitar, double bass (wikipedia, high); A Vision in Blakelight — bass (wikipedia, high); Andras: Book of Angels Volume 28 — acoustic bass, electric bass (https://www.trevordunn.net/releases/andras-book-of-angels-vol-28, high); Asmodeus: Book of Angels Volume 7 — bass (wikipedia, high); Astronome — bass (wikipedia, high); +38 more
+> - [[John Zorn]]: A Dreamers Christmas — bass guitar, double bass (wikipedia, high); A Vision in Blakelight — bass (wikipedia, high); Andras: Book of Angels Volume 28 — acoustic bass, electric bass (https://www.trevordunn.net/releases/andras-book-of-angels-vol-28, high); Asmodeus: Book of Angels Volume 7 — bass (wikipedia, high); Astronome — bass (wikipedia, high); +40 more
 > - [[John Zorn-Electric Masada]]: At the Mountains of Madness Disc 1 — bass (discogs, high); At the Mountains of Madness Disc 2 — bass (discogs, high)
 > - [[Mr. Bungle]]: California — bass guitar (discogs, high); Disco Volante — bass guitar, viola (discogs, high); Mr. Bungle — bass (discogs, high)
 
