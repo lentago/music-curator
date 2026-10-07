@@ -2,7 +2,7 @@
      Regenerate there; do not hand-edit the banner or badge URLs. -->
 <a href="https://lentago.dev"><img src="./assets/banner.svg" alt="music-curator — Music wiki · a collection made queryable" width="100%"></a>
 
-[![main](https://img.shields.io/github/check-runs/lentago/music-curator/main?style=flat-square&labelColor=0e2b1a&color=1b4b2e&label=main)](https://github.com/lentago/music-curator/actions) [![License](https://img.shields.io/github/license/lentago/music-curator?style=flat-square&labelColor=0e2b1a&color=1b4b2e)](https://github.com/lentago/music-curator/blob/main/LICENSE) [![Ask DeepWiki](https://img.shields.io/badge/Ask-DeepWiki-1b4b2e?style=flat-square&labelColor=0e2b1a&logo=readthedocs&logoColor=E0A81C)](https://deepwiki.com/lentago/music-curator)
+[![main](https://img.shields.io/github/check-runs/lentago/music-curator/main?style=flat-square&labelColor=0e2b1a&color=1b4b2e&label=main)](https://github.com/lentago/music-curator/actions) [![License](https://img.shields.io/github/license/lentago/music-curator?style=flat-square&labelColor=0e2b1a&color=1b4b2e)](https://github.com/lentago/music-curator/blob/main/LICENSE)
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-1b4b2e?style=flat-square&labelColor=0e2b1a&logo=obsidian&logoColor=E0A81C) ![Spotify](https://img.shields.io/badge/Spotify-1b4b2e?style=flat-square&labelColor=0e2b1a&logo=spotify&logoColor=E0A81C) ![Python](https://img.shields.io/badge/Python-1b4b2e?style=flat-square&labelColor=0e2b1a&logo=python&logoColor=E0A81C)
 
@@ -11,17 +11,6 @@
 Music Curator turns a messy personal music collection into a queryable **taste profile for an LLM**: a Python toolchain deduplicates and merges directory-tree rips, Spotify follows, discography research, and per-album credits into a single inventory, then renders it into an Obsidian vault — a visual artist graph with collaboration edges, credit-derived session-tie edges, and streaming-rotation data. The five-phase triage that converts a raw collection dump into the cleaned, tagged inventory lives in [`music-curation-methodology.md`](music-curation-methodology.md). The rest of the repo keeps that inventory growing and queryable over time.
 
 **Authorship:** The methodology, tooling, and documentation in this repo are co-written with [Claude](https://claude.ai) (Anthropic). I direct the work and review the output; Claude writes the code and prose. I'm an infrastructure operator, not a software engineer — please don't read this repo as a portfolio of coding ability.
-
-## 📚 Ask this codebase (DeepWiki)
-
-<a href="https://deepwiki.com/lentago/music-curator"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki" height="32"></a>
-
-[DeepWiki](https://deepwiki.com/lentago/music-curator) maintains an AI-generated wiki over this repository — architecture pages, diagrams, and a Q&A box grounded in the actual code. Every public Lentago Labs repo is indexed ([deepwiki.com/lentago](https://deepwiki.com/lentago)); it is the fastest way to orient before reading source. It is AI-generated: trust it to orient you, verify against the code before you act on it.
-
-**Good first questions:**
-- How does the `integrity.yml` workflow decide whether `vault/` is out of sync with `data/`, and what does it do when it finds drift?
-- What is the difference between a Spotify follow that auto-merges via `follow-fold.yml` and one that gets held for human review?
-- How does `obsidian_driver.py` build session-tie edges and person nodes from `data/credits.json`?
 
 ## 🧭 What this repo demonstrates
 
@@ -142,4 +131,4 @@ Distilled from a single long Claude conversation that started as "can Claude con
 
 *Part of the [Lentago Labs](https://github.com/lentago) portfolio — a sibling to [reference-checker](https://github.com/lentago/reference-checker).*
 
-> 🌱 **Lentago Labs** is a pro-bono operations practice for organizations that run on volunteers, donations, and one overworked tech person. Everything here is free to take, and we practice what we publish: our own estate runs this way, in the open. Start at the [org profile](https://github.com/lentago), and read this repo on [DeepWiki](https://deepwiki.com/lentago/music-curator).
+> 🌱 **Lentago Labs** is a pro-bono operations practice for organizations that run on volunteers, donations, and one overworked tech person. Everything here is free to take, and we practice what we publish: our own estate runs this way, in the open. Start at the [org profile](https://github.com/lentago).
